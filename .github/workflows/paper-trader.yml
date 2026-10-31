@@ -1,0 +1,31 @@
+name: paper-trader
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: paper-trader
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run paper trader
+        run: python paper_trader.py run --network solana --out paper_data --max-calls 40
+      - name: Commit results
+        run: |
+          git config user.name "paper-trader"
+          git config user.email "paper-trader@users.noreply.github.com"
+          git add paper_data
+          if ! git diff --staged --quiet; then
+            git commit -m "paper trader update"
+            git pull --rebase
+            git push
+          fi
