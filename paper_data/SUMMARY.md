@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-10-31T17:18:20Z. Bankroll cash (research-selected trades): 1000.0. Open positions: 0.
+Updated 2026-10-31T17:43:43Z. Bankroll cash (research-selected trades): 1000.0. Open positions: 0.
 
 | group | closed | win rate | avg return | 95% CI of avg | total P&L $ | failed buys |
 |---|---|---|---|---|---|---|
