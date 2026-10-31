@@ -6,23 +6,30 @@ trades to CSV files. No wallet, no keys, no orders, no money. Every run is
 stateless apart from the files in --out, so it suits a cron job (see
 paper-trader.yml). Needs sniper_v3.py and sniper_backtest_v2.py next to it.
 
-Each run:
-  1. resolves open SELECTED positions (replays minute bars since entry through
-     the stop-loss / take-profit / rug / timeout rules used in the backtests)
-  2. looks at pools aged 5-12 min that it has not judged yet:
-       cheap checks first (liquidity, then +10% momentum vs the first bar),
-       then fetches research features (authorities, holders, dev %, socials)
-  3. records a simulated entry for EVERY pool that passes momentum + liquidity.
+Why a watchlist: the free API 429s after only ~6 requests in 15 seconds, and
+Solana creates pools so fast that the "newest pools" pages never reach pools
+5-12 minutes old. So:
+  1. every run reads the newest pools (2 pages) and adds the young ones (<5 min)
+     to a WATCHLIST, remembering the price it first saw
+  2. pools that are now 5-12 minutes old are judged with ONE direct lookup each:
+       liquidity >= $5k, price up >= 10% since first seen, then research
+       features (authorities, holders, dev %, socials)
+  3. EVERY pool passing liquidity + momentum gets a simulated entry
        filter=1 : also passed the research rules and a bankroll slot was free
-       filter=0 : "shadow" trade, kept so research can be compared against
-                  plain momentum on the same real launches
-  4. resolves shadow positions once their 60 minute window is over
-  5. rewrites SUMMARY.md
+       filter=0 : "shadow" trade, kept to compare research against plain momentum
+  4. open positions are resolved by replaying minute bars through the stop-loss /
+     take-profit / rug / 60-minute-timeout rules used in the backtests
+       filter=1 positions are checked every --check-every minutes
+       filter=0 positions are resolved once, after their 60 minute window
+  5. SUMMARY.md is rewritten
+
+Requests are spaced --sleep seconds apart (default 7) and a run stops early,
+saving its state, if it is still rate limited after one backoff.
 
 Files in --out:
   ledger.csv      ENTRY / EXIT / FAILED rows, one per simulated event
-  candidates.csv  every pool judged, its raw features and why it was taken/skipped
-  state.json      open positions, bankroll, pools already judged
+  candidates.csv  every pool judged (or missed), raw features, and why
+  state.json      watchlist, open positions, bankroll, pools already judged
   SUMMARY.md      results so far (filter=1 vs filter=0 vs all)
 
 Simulated frictions are the v2/v3 ones: constant-product price impact, 1% DEX
@@ -30,15 +37,15 @@ fee, $0.50 tip per transaction, 15% failed buys, 25% sandwiched buys, honeypot
 risk. They are assumptions, not measurements.
 
 KNOWN LIMITS (read before trusting any number):
-  * Untested against the live API; the formats of mint_authority,
-    freeze_authority and holders.distribution_percentage are guesses. Raw values
-    are saved in candidates.csv so you can fix the parsing. Unknown = veto, so a
-    wrong guess means filter=1 stays empty (filter=0 still collects data).
-  * Pools are judged once, the first time they are seen aged 5-12 min. Cron
-    jitter and the free API's call limit mean many launches are never seen.
+  * Momentum is measured from the price when the pool was first SEEN (under 5
+    min old) to judging time, not from the first candle like the backtests.
+  * The formats of mint_authority, freeze_authority and
+    holders.distribution_percentage are guesses. Raw values are saved in
+    candidates.csv so the parsing can be fixed. Unknown = veto, so a wrong guess
+    leaves filter=1 empty (filter=0 still collects data).
+  * Only a sample of launches is seen (the 40 newest pools each run).
   * OHLCV has no historical liquidity: exit liquidity is the pool's reserve at
     resolution time, and rugs are detected from price collapses.
-  * Free tier is ~30 calls/min. --max-calls caps each run.
 
   python paper_trader.py run --network solana --out paper_data
   python paper_trader.py summary --out paper_data
@@ -49,10 +56,10 @@ import json
 import os
 import random
 import statistics
-import sys
 import time
 import urllib.error
 import urllib.request
+from collections import Counter
 from dataclasses import replace
 from datetime import datetime, timezone
 
@@ -64,19 +71,24 @@ HEADERS = {"Accept": "application/json;version=20230302",
 LEDGER_COLS = ["ts", "event", "pool", "name", "filter", "price", "size_usd",
                "reason", "pnl_usd", "ret_pct", "cash_after", "note"]
 CAND_COLS = ["evaluated_at", "pool", "name", "created_at", "age_min", "liq_usd",
-             "price", "momentum_pct", "buy_sell", "mint_raw", "freeze_raw",
-             "mint_revoked", "freeze_revoked", "top10_pct", "dist_raw", "dev_pct",
-             "holders", "socials", "is_honeypot", "gt_score", "score",
+             "first_price", "price", "momentum_pct", "buy_sell", "mint_raw",
+             "freeze_raw", "mint_revoked", "freeze_revoked", "top10_pct", "dist_raw",
+             "dev_pct", "holders", "socials", "is_honeypot", "gt_score", "score",
              "passed_research", "decision", "reason"]
 
 
 class OutOfBudget(Exception):
-    pass
+    """Stop making requests this run (call budget used up)."""
+
+
+class RateLimited(OutOfBudget):
+    """Still HTTP 429 after one backoff: stop this run, keep the state."""
 
 
 class Api:
-    def __init__(self, base, max_calls, sleep):
-        self.base, self.max_calls, self.sleep, self.calls = base.rstrip("/"), max_calls, sleep, 0
+    def __init__(self, base, max_calls, sleep, backoff):
+        self.base, self.max_calls = base.rstrip("/"), max_calls
+        self.sleep, self.backoff, self.calls = sleep, backoff, 0
 
     def get(self, path):
         if self.calls >= self.max_calls:
@@ -90,9 +102,12 @@ class Api:
                 time.sleep(self.sleep)
                 return data
             except urllib.error.HTTPError as e:
-                if e.code == 429 and attempt == 1:
-                    time.sleep(30)
-                    continue
+                if e.code == 429:
+                    if attempt == 1:
+                        print(f"  429 rate limited, waiting {self.backoff:.0f}s")
+                        time.sleep(self.backoff)
+                        continue
+                    raise RateLimited()
                 raise
 
 
@@ -153,7 +168,7 @@ class Trader:
         self.a, self.now = a, now
         self.now_ts = int(now.timestamp())
         self.p = replace(P3(), tp1_frac=1.0, max_entry_age=a.max_age)
-        self.api = Api(a.base, a.max_calls, a.sleep)
+        self.api = Api(a.base, a.max_calls, a.sleep, a.backoff)
         os.makedirs(a.out, exist_ok=True)
         self.ledger = os.path.join(a.out, "ledger.csv")
         self.cands = os.path.join(a.out, "candidates.csv")
@@ -162,26 +177,80 @@ class Trader:
             with open(self.state_path) as f:
                 self.state = json.load(f)
         else:
-            self.state = {"cash": self.p.capital, "decided": {}, "open": {}}
+            self.state = {}
+        self.state.setdefault("cash", self.p.capital)
+        for k in ("decided", "open", "watch"):
+            self.state.setdefault(k, {})
 
     # ---------- bookkeeping ----------
     def save(self):
-        keep = {k: v for k, v in self.state["decided"].items() if self.now_ts - v < 7200}
-        self.state["decided"] = keep
+        self.state["decided"] = {k: v for k, v in self.state["decided"].items()
+                                 if self.now_ts - v < 7200}
         tmp = self.state_path + ".tmp"
         with open(tmp, "w") as f:
             json.dump(self.state, f, indent=1)
         os.replace(tmp, self.state_path)
 
-    def log(self, event, pos_or_pool, **kw):
-        row = {"ts": iso(self.now_ts), "event": event, "cash_after": round(self.state["cash"], 2)}
-        row.update(pos_or_pool)
+    def log(self, event, tag, **kw):
+        row = {"ts": iso(self.now_ts), "event": event,
+               "cash_after": round(self.state["cash"], 2)}
+        row.update(tag)
         row.update(kw)
         append_csv(self.ledger, LEDGER_COLS, row)
 
     def cand(self, **kw):
         kw.setdefault("evaluated_at", iso(self.now_ts))
         append_csv(self.cands, CAND_COLS, kw)
+
+    def pool_attrs(self, addr):
+        return self.api.get(f"/networks/{self.a.network}/pools/{addr}")["data"]["attributes"]
+
+    # ---------- watchlist ----------
+    def expire_watch(self):
+        """Pools never judged in time: record them and stop tracking."""
+        for addr, w in list(self.state["watch"].items()):
+            age = (self.now_ts - w["created"]) / 60
+            if age > self.p.max_entry_age:
+                del self.state["watch"][addr]
+                self.state["decided"][addr] = self.now_ts
+                self.cand(pool=addr, name=w["name"], created_at=iso(w["created"]),
+                          age_min=round(age, 1), liq_usd=w["liq"], first_price=w["price"],
+                          decision="skip", reason="missed_window")
+
+    def refresh_watch(self):
+        added = 0
+        for page in range(1, self.a.pages + 1):
+            try:
+                data = self.api.get(f"/networks/{self.a.network}/new_pools?page={page}")["data"]
+            except OutOfBudget:
+                raise
+            except Exception as e:
+                print("  new_pools page", page, "failed:", e)
+                break
+            for pool in data:
+                at = pool["attributes"]
+                addr = at["address"]
+                if addr in self.state["decided"] or addr in self.state["watch"]:
+                    continue
+                try:
+                    created = parse_ts(at["pool_created_at"]).timestamp()
+                except Exception:
+                    continue
+                age = (self.now_ts - created) / 60
+                price = num(at.get("base_token_price_usd"))
+                if price and price > 0 and -1 <= age < self.p.min_entry_age:
+                    self.state["watch"][addr] = {
+                        "name": at.get("name") or addr[:8], "created": created,
+                        "price": price, "liq": num(at.get("reserve_in_usd"))}
+                    added += 1
+        print(f"  watchlist: +{added}, now {len(self.state['watch'])} pools")
+
+    def due_watch(self):
+        p = self.p
+        out = [(w["created"], addr, w) for addr, w in self.state["watch"].items()
+               if (self.now_ts - w["created"]) / 60 >= p.min_entry_age]
+        out.sort(key=lambda x: x[0])          # oldest first: closest to expiring
+        return out
 
     # ---------- exits ----------
     def replay(self, pos, bars):
@@ -211,12 +280,12 @@ class Trader:
         final = self.now_ts >= pos["end"] + 60
         if reason is None:
             if not final:
+                pos["last_check"] = self.now_ts
                 return False
             reason, spot, ts = "timeout", (last if last else pos["spot"]), pos["end"]
         cur_liq = None
         try:
-            cur_liq = num(self.api.get(f"/networks/{net}/pools/{addr}")
-                          ["data"]["attributes"]["reserve_in_usd"])
+            cur_liq = num(self.pool_attrs(addr).get("reserve_in_usd"))
         except OutOfBudget:
             raise
         except Exception as e:
@@ -259,33 +328,27 @@ class Trader:
                "gt_score": at.get("gt_score")}
         return feats, raw
 
-    def judge(self, pool):
-        p, a = self.p, self.a
-        at = pool["attributes"]
-        addr, name = at["address"], at.get("name") or at["address"][:8]
-        created = parse_ts(at["pool_created_at"])
-        age = (self.now_ts - created.timestamp()) / 60
-        if addr in self.state["decided"] or not (p.min_entry_age <= age <= p.max_entry_age):
-            return
-        liq = num(at.get("reserve_in_usd"))
-        base = {"pool": addr, "name": name, "created_at": at["pool_created_at"],
-                "age_min": round(age, 1), "liq_usd": liq}
+    def judge(self, addr, w):
+        p = self.p
+        at = self.pool_attrs(addr)
+        name = w["name"]
+        age = (self.now_ts - w["created"]) / 60
+        price, liq = num(at.get("base_token_price_usd")), num(at.get("reserve_in_usd"))
+        base = {"pool": addr, "name": name, "created_at": iso(w["created"]),
+                "age_min": round(age, 1), "liq_usd": liq, "price": price,
+                "first_price": w["price"]}
 
         def done(decision, reason, **extra):
+            self.state["watch"].pop(addr, None)
             self.state["decided"][addr] = self.now_ts
             self.cand(**base, decision=decision, reason=reason, **extra)
 
+        if not price or price <= 0:
+            return done("skip", "no_price")
         if liq is None or liq < p.min_liq:
             return done("skip", "low_liquidity")
-        rows = self.api.get(f"/networks/{a.network}/pools/{addr}/ohlcv/minute"
-                            f"?aggregate=1&limit=20")["data"]["attributes"]["ohlcv_list"]
-        bars = sorted([int(r[0]), float(r[1]), float(r[2]), float(r[3]), float(r[4])]
-                      for r in rows)
-        if len(bars) < 2 or bars[0][4] <= 0:
-            return done("skip", "not_enough_bars")
-        price, first = bars[-1][4], bars[0][4]
-        mom = price / first - 1
-        base.update(price=price, momentum_pct=round(100 * mom, 1))
+        mom = price / w["price"] - 1
+        base["momentum_pct"] = round(100 * mom, 1)
         if mom < p.min_mom:
             return done("skip", "no_momentum")
         if p.size > p.max_pool_frac * liq:
@@ -338,9 +401,9 @@ class Trader:
             "name": name, "entry_ts": self.now_ts, "entry": entry, "qty": qty,
             "spot": price, "liq": liq, "selected": selected, "start": start,
             "end": start + p.max_hold * 60, "r_honey": r_honey, "p_honey": p_honey}
-        self.log("ENTRY", tag, price=f"{entry:.12g}", size_usd=p.size,
-                 reason="research_passed" if selected else (
-                     "research_failed" if not ok else "no_free_slot_or_cash"),
+        why = "research_passed" if selected else (
+            "research_failed" if not ok else "no_free_slot_or_cash")
+        self.log("ENTRY", tag, price=f"{entry:.12g}", size_usd=p.size, reason=why,
                  note=f"score={score:.2f} momentum={100 * mom:.0f}%")
         print(f"  ENTRY {name[:24]:24s} filter={int(selected)} score={score:.2f}")
         done("enter" if selected else "shadow_enter",
@@ -349,33 +412,27 @@ class Trader:
 
     # ---------- main loop ----------
     def run(self):
-        p, a = self.p, self.a
+        a = self.a
         try:
+            self.expire_watch()
+            self.refresh_watch()
+            for _, addr, w in self.due_watch():
+                self.guarded(self.judge, addr, w)
             for addr, pos in list(self.state["open"].items()):
-                if pos["selected"]:
+                last = pos.get("last_check", pos["entry_ts"])
+                if pos["selected"] and self.now_ts - last >= a.check_every * 60:
                     self.guarded(self.resolve, addr, pos)
-            pools = []
-            for page in range(1, a.pages + 1):
-                try:
-                    pools += self.api.get(f"/networks/{a.network}/new_pools?page={page}")["data"]
-                except OutOfBudget:
-                    raise
-                except Exception as e:
-                    print("new_pools page", page, "failed:", e)
-                    break
-            pools.sort(key=lambda x: x["attributes"]["pool_created_at"])   # oldest first
-            for pool in pools:
-                self.guarded(self.judge, pool)
             for addr, pos in list(self.state["open"].items()):
                 if not pos["selected"] and self.now_ts >= pos["end"] + 60:
                     self.guarded(self.resolve, addr, pos)
-        except OutOfBudget:
-            print(f"call budget ({a.max_calls}) reached; stopping early")
+        except OutOfBudget as e:
+            print("stopping early:", "still rate limited (429)" if isinstance(e, RateLimited)
+                  else f"call budget ({a.max_calls}) reached")
         finally:
             self.save()
             write_summary(a.out)
-        print(f"done: {self.api.calls} API calls, open={len(self.state['open'])}, "
-              f"cash={self.state['cash']:.2f}")
+        print(f"done: {self.api.calls} API calls, watch={len(self.state['watch'])}, "
+              f"open={len(self.state['open'])}, cash={self.state['cash']:.2f}")
 
     def guarded(self, fn, *args):
         try:
@@ -410,7 +467,8 @@ def write_summary(out):
     fl = [r for r in led if r["event"] == "FAILED"]
     lines = ["# Paper trader summary", "", "SIMULATION ONLY. No real trades.", "",
              f"Updated {iso(time.time())}. Bankroll cash (research-selected trades): "
-             f"{st.get('cash', 'n/a')}. Open positions: {len(st.get('open', {}))}.", "",
+             f"{st.get('cash', 'n/a')}. Open positions: {len(st.get('open', {}))}. "
+             f"Pools on watchlist: {len(st.get('watch', {}))}.", "",
              "| group | closed | win rate | avg return | 95% CI of avg | total P&L $ | failed buys |",
              "|---|---|---|---|---|---|---|",
              group_stats("filter=1 (research-selected)", [r for r in ex if r["filter"] == "1"],
@@ -423,9 +481,8 @@ def write_summary(out):
                                 "above zero before believing anything)." if n1 < 30 else
                                 "check the CI column: only a lower bound above 0 is evidence."))
     if cands:
-        from collections import Counter
         c = Counter(r["reason"] for r in cands)
-        lines += ["", f"Pools judged: {len(cands)}. Reasons:", ""]
+        lines += ["", f"Pools seen: {len(cands)}. Outcomes:", ""]
         lines += [f"- {k}: {v}" for k, v in c.most_common()]
         unk = sum(1 for r in cands if r["passed_research"] != "" and r["mint_revoked"] == "")
         if unk:
@@ -443,9 +500,11 @@ def main(argv=None):
     r.add_argument("--network", default="solana")
     r.add_argument("--out", default="paper_data")
     r.add_argument("--base", default="https://api.geckoterminal.com/api/v2")
-    r.add_argument("--pages", type=int, default=2)
-    r.add_argument("--max-calls", type=int, default=40)
-    r.add_argument("--sleep", type=float, default=2.2)
+    r.add_argument("--pages", type=int, default=2, help="pages of newest pools to read")
+    r.add_argument("--max-calls", type=int, default=35)
+    r.add_argument("--sleep", type=float, default=7.0, help="seconds between requests")
+    r.add_argument("--backoff", type=float, default=65.0, help="wait after a 429")
+    r.add_argument("--check-every", type=float, default=10, help="minutes between exit checks")
     r.add_argument("--max-age", type=int, default=12, help="latest pool age (min) to judge")
     r.add_argument("--now", help="ISO time override, for testing")
     r.add_argument("--null-authority-means", choices=["unknown", "revoked"], default="unknown")
