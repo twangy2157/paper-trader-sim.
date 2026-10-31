@@ -129,6 +129,17 @@ def parse_ts(s):
 
 def append_csv(path, cols, row):
     new = not os.path.exists(path)
+    if not new:                       # old file with fewer columns: rewrite its header
+        with open(path, newline="") as f:
+            first = next(csv.reader(f), [])
+        if first != cols:
+            with open(path, newline="") as f:
+                old = [r for r in csv.reader(f)][1:]
+            with open(path, "w", newline="") as f:
+                w = csv.writer(f)
+                w.writerow(cols)
+                for r in old:
+                    w.writerow(r + [""] * (len(cols) - len(r)))
     with open(path, "a", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
         if new:
