@@ -11,14 +11,14 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Run paper trader
-      run: python paper_trader.py run --network solana --out paper_data --max-calls 60 --pages 10
+        run: python paper_trader.py run --network solana --out paper_data --max-calls 60 --pages 10
       - name: Commit results
         run: |
           git config user.name "paper-trader"
