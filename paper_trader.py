@@ -86,12 +86,13 @@ class RateLimited(OutOfBudget):
 
 
 class Api:
-    def __init__(self, base, max_calls, sleep, backoff):
+    def __init__(self, base, max_calls, sleep, backoff, max_seconds=420):
         self.base, self.max_calls = base.rstrip("/"), max_calls
         self.sleep, self.backoff, self.calls = sleep, backoff, 0
+        self.deadline = time.time() + max_seconds   # stop before the CI timeout
 
     def get(self, path):
-        if self.calls >= self.max_calls:
+        if self.calls >= self.max_calls or time.time() > self.deadline:
             raise OutOfBudget()
         self.calls += 1
         for attempt in (1, 2):
@@ -103,7 +104,7 @@ class Api:
                 return data
             except urllib.error.HTTPError as e:
                 if e.code == 429:
-                    if attempt == 1:
+                    if attempt == 1 and time.time() + self.backoff < self.deadline:
                         print(f"  429 rate limited, waiting {self.backoff:.0f}s")
                         time.sleep(self.backoff)
                         continue
@@ -168,7 +169,7 @@ class Trader:
         self.a, self.now = a, now
         self.now_ts = int(now.timestamp())
         self.p = replace(P3(), tp1_frac=1.0, max_entry_age=a.max_age)
-        self.api = Api(a.base, a.max_calls, a.sleep, a.backoff)
+        self.api = Api(a.base, a.max_calls, a.sleep, a.backoff, a.max_seconds)
         os.makedirs(a.out, exist_ok=True)
         self.ledger = os.path.join(a.out, "ledger.csv")
         self.cands = os.path.join(a.out, "candidates.csv")
@@ -502,6 +503,7 @@ def main(argv=None):
     r.add_argument("--base", default="https://api.geckoterminal.com/api/v2")
     r.add_argument("--pages", type=int, default=2, help="pages of newest pools to read")
     r.add_argument("--max-calls", type=int, default=45)
+    r.add_argument("--max-seconds", type=float, default=420, help="stop and save after this long")
     r.add_argument("--sleep", type=float, default=7.0, help="seconds between requests")
     r.add_argument("--backoff", type=float, default=65.0, help="wait after a 429")
     r.add_argument("--check-every", type=float, default=10, help="minutes between exit checks")
