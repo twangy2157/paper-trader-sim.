@@ -1,5 +1,223 @@
 {
  "cash": 1000.0,
  "decided": {},
- "open": {}
+ "open": {},
+ "watch": {
+  "J9ae7R4aGY54MBeUXiiRPfEaHDTEky5NDn1ngCEuErzs": {
+   "name": "Mischief / SOL",
+   "created": 1793469475.0,
+   "price": 2.1367703604459473e-05,
+   "liq": 40167.0531
+  },
+  "93B6r3M1SFDzFjrt4eHmZ2PXiBAs4ABUmGhPj23dnAHA": {
+   "name": "UPVEMBER / SOL",
+   "created": 1793469474.0,
+   "price": 2.8972763324863476e-06,
+   "liq": 2294.4995
+  },
+  "2HBh9M43pSLa8DuTtY9FMoidmFQW8mCCqX3P7U63NgYv": {
+   "name": "LLM / SOL",
+   "created": 1793469473.0,
+   "price": 1.3990877650005312e-05,
+   "liq": 5787.131
+  },
+  "6WoPjhBYi3HK6uT3PTFkMgpewyCMAQ3uieCLExxYUEgq": {
+   "name": "DOOB / SOL",
+   "created": 1793469468.0,
+   "price": 2.718226531820785e-06,
+   "liq": 2151.9934
+  },
+  "XAJpy56pXE4Z4ShPtMDbSeK6hptVUYfwycsBMKRCNzd": {
+   "name": "pip / PUMP",
+   "created": 1793469464.0,
+   "price": 3.6501675306953213e-06,
+   "liq": 2822.2406
+  },
+  "CQDWyMzt9uyPJtXV2hRZ2LjeCvHHFKbDsMCjtmk1uQbh": {
+   "name": "Ghost Dog / SOL",
+   "created": 1793469461.0,
+   "price": 1.6815548777136483e-05,
+   "liq": 30680.4369
+  },
+  "AyUdLvHUMWgWRqHvRd4sMf7XLvyFqwoTYJnt7TuVgZas": {
+   "name": "PNUT / SOL",
+   "created": 1793469452.0,
+   "price": 3.064955692693607e-06,
+   "liq": 2677.281
+  },
+  "BCZH1xUsULni9kWvXh54p7NvzCGdneF4rv8rFrqML1MX": {
+   "name": "YMMACTOML / SOL",
+   "created": 1793469452.0,
+   "price": 2.72134094794484e-06,
+   "liq": 2158.1603
+  },
+  "3N4GC7YMqVHHDXfYwQY3WYf9QebY2LsthKd78tmkgZhR": {
+   "name": "fomo / SOL",
+   "created": 1793469451.0,
+   "price": 2.775190386003189e-06,
+   "liq": 2200.9921
+  },
+  "F8mUmkn4r3zErAFi38pPTBfgg9mbGxq6iZMqU2r2AGMJ": {
+   "name": "SOL / SOL",
+   "created": 1793469447.0,
+   "price": 5.28558877833748e-06,
+   "liq": 5339.7051
+  },
+  "rmDLZPuge1yi245VXq8KLVFQeaFcPy2NoP67mfFFh8k": {
+   "name": "$FROINK / SOL",
+   "created": 1793469445.0,
+   "price": 1.821425377594972e-07,
+   "liq": 151.228998888826
+  },
+  "FusRfhfbv3nM2B45BARUz2nFhcqkbbqqQr66RFusaemV": {
+   "name": "$SOL / SOL",
+   "created": 1793469443.0,
+   "price": 4.673930384856717e-06,
+   "liq": 2748.9203
+  },
+  "82jGsujHM8pEmKLMD9BixGAa1iL5hrVrq53X1HiAx4F": {
+   "name": "Halloween / SOL",
+   "created": 1793469438.0,
+   "price": 3.303762703920606e-06,
+   "liq": 2609.0796
+  },
+  "3fuMJtuNJ4uv5iDgEHBhjo9bbcCQCriBC9eTQ8dGJMLL": {
+   "name": "PM / SOL",
+   "created": 1793469437.0,
+   "price": 3.4525111401367947e-06,
+   "liq": 4209.6012
+  },
+  "EU4P9Zm9WscbwN3157fUWcjD93bjuYcUHFQuT86kb86o": {
+   "name": "CMDKETTLE / SOL",
+   "created": 1793469436.0,
+   "price": 2.9434318193325028e-06,
+   "liq": 2224.526
+  },
+  "HSGkkD8jBmwsz5njUepy9fzP6SmRXxEpMp9GHbFNrNUY": {
+   "name": "Casino / SOL",
+   "created": 1793469436.0,
+   "price": 3.431640995947585e-06,
+   "liq": 2672.6318
+  },
+  "ECVzTzsWmLhddvNt2e341dD7BHdBkskRmDwbzDjfrp9e": {
+   "name": "PUMP / SOL",
+   "created": 1793469435.0,
+   "price": 6.478694246020599e-07,
+   "liq": 515.874
+  },
+  "AqxfxKAxv7zxqDDPHR8vGtf657q5YwrgHZUUy8bZhoSE": {
+   "name": "Casino / PUMP",
+   "created": 1793469435.0,
+   "price": 3.079798016754509e-06,
+   "liq": 2442.5754
+  },
+  "E5AygZdeT4d7ELMH8mii2NH8uxXudcyJsKYf576dDwex": {
+   "name": "LUNAR / SOL",
+   "created": 1793469434.0,
+   "price": 2.924082062338723e-06,
+   "liq": 2782.2404
+  },
+  "2gXP2EC5NiVzZetd8EDvdqQ53oD6vhujpU8unmVDJCqJ": {
+   "name": "PUGKIN / SOL",
+   "created": 1793469417.0,
+   "price": 2.905941662795207e-06,
+   "liq": 2159.9469
+  },
+  "4yi8js9buo4U4mBt5amzTaYTA2rW9yT2WchnbposRdvZ": {
+   "name": "ROYALE / SOL",
+   "created": 1793469499.0,
+   "price": 3.4152446247825836e-05,
+   "liq": 27417.5805
+  },
+  "D7fTqu4Dyd2SCPRsoHBufMKwyfHYFEKrMYmPAuDxfQ6y": {
+   "name": "LaMisery / SOL",
+   "created": 1793469498.0,
+   "price": 4.4741720354115265e-06,
+   "liq": 3538.3232
+  },
+  "9K6QPHqAaH2Sx1vugJfyEjTpRJx6VvzhSiivMkQHuJF": {
+   "name": "ROYALE / SOL",
+   "created": 1793469497.0,
+   "price": 2.870842282433254e-05,
+   "liq": 1815.8743
+  },
+  "A2xSrzpA6eagHMAg67t4FgXMuxxKJZoLPxUmT3vRbwEA": {
+   "name": "Hard / SOL",
+   "created": 1793469495.0,
+   "price": 2.762903334578063e-06,
+   "liq": 2192.3569
+  },
+  "AUb1iGJ8tWKNtyE3MLfCgyiMWEeUGYX5nqgt2pPQNsDZ": {
+   "name": "fomo / SOL",
+   "created": 1793469495.0,
+   "price": 4.77507868965975e-12,
+   "liq": 0.0
+  },
+  "De5XTWvg5CKMF16cuuHRGsENSLpkfTEG5cLpNvh2V1nm": {
+   "name": "fomo / SOL",
+   "created": 1793469495.0,
+   "price": 0.00042501430757846815,
+   "liq": 0.0192
+  },
+  "JD5nfHQsYpG3FdAuyEd6sPSgPwwgXc9RdLztw7QRWgWW": {
+   "name": "XYZ / SOL",
+   "created": 1793469493.0,
+   "price": 2.872376150877417e-06,
+   "liq": 2274.5788
+  },
+  "ADyEQLjzcGFRv6YoAyXZcNbR13XprGTy1EtzMfHLPzFM": {
+   "name": "Hallowinu / SOL",
+   "created": 1793469490.0,
+   "price": 2.68379805654465e-06,
+   "liq": 2129.0566
+  },
+  "9w3E9F8JxYS6G9B1pFRgKnTP8odL7pVZ4PbiTFekwgU4": {
+   "name": "SP / MU",
+   "created": 1793469488.0,
+   "price": 3.092869088570299e-06,
+   "liq": 2452.4296
+  },
+  "Bs4yPV3sUgdVod8NuTZhaJ5QRLiU8GVrvZZuy41Mg7qy": {
+   "name": "YouTube / SOL",
+   "created": 1793469485.0,
+   "price": 0.00011938400110010775,
+   "liq": 26531.3434
+  },
+  "33QvTf3iFqM3PudmthjaBaM7ksU8UdzTjPT6yt2C9BNd": {
+   "name": "YouTube / SOL",
+   "created": 1793469485.0,
+   "price": 4.476308089155111e-06,
+   "liq": 0.0
+  },
+  "6zj2U9EWe1LTXiDbG7wMwmS2sm9YRWkv4E1c3qDc9WS1": {
+   "name": "LLM / SOL",
+   "created": 1793469483.0,
+   "price": 4.861192258715902e-06,
+   "liq": 3855.2406
+  },
+  "4cRnLmdUHUpjuhoGaFpQ5nJR9Kucrm53qcJ3fUVjFC9q": {
+   "name": "Rocket / SOL",
+   "created": 1793469480.0,
+   "price": 4.476928392267423e-06,
+   "liq": 3524.9054
+  },
+  "3kiyyKHA9sK2pqM5uts2wiXkjG8pPLC1L5qyQ7RBLxtb": {
+   "name": "$LOAD / SOL",
+   "created": 1793469478.0,
+   "price": 7.609102887985443e-08,
+   "liq": 745.7841
+  },
+  "GknLrHeRDrAtnm5e2qLVkSmpMfk5vaqhS1Jb8S41HD6E": {
+   "name": "Upvember / SOL",
+   "created": 1793469476.0,
+   "price": 2.8737326984183753e-06,
+   "liq": 2273.8369
+  },
+  "DaWzGuNYFg92PYjUca68BZ7oVnVBrRpy3rvxkxcSmsm2": {
+   "name": "PRIVY / SOL",
+   "created": 1793469476.0,
+   "price": 2.812323483838946e-06,
+   "liq": 2811.9659
+  }
+ }
 }
