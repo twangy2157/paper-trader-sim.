@@ -1,3 +1,11 @@
+# Put this file at .github/workflows/paper-trader.yml in your repo, together with
+# paper_trader.py, sniper_v3.py and sniper_backtest_v2.py in the repo root.
+# Simulation only: no secrets, no wallets, read-only API calls. It commits its
+# CSV files to paper_data/ so you can read SUMMARY.md on your phone.
+#
+# Use a PUBLIC repo: each run lasts about 4-5 minutes (requests are spaced out to
+# stay under GeckoTerminal's rate limit), which would use up a private repo's
+# 2,000 free minutes a month within days.
 name: paper-trader
 on:
   schedule:
@@ -11,14 +19,14 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Run paper trader
-        run: python paper_trader.py run --network solana --out paper_data --max-calls 60 --pages 10
+        run: python paper_trader.py run --network solana --out paper_data
       - name: Commit results
         run: |
           git config user.name "paper-trader"
