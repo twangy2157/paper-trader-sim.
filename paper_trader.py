@@ -74,7 +74,7 @@ CAND_COLS = ["evaluated_at", "pool", "name", "created_at", "age_min", "liq_usd",
              "first_price", "price", "momentum_pct", "buy_sell", "mint_raw",
              "freeze_raw", "mint_revoked", "freeze_revoked", "top10_pct", "dist_raw",
              "dev_pct", "holders", "socials", "is_honeypot", "gt_score", "score",
-             "passed_research", "decision", "reason"]
+             "passed_research", "decision", "reason", "first_liq"]
 
 
 class OutOfBudget(Exception):
@@ -219,7 +219,7 @@ class Trader:
                           decision="skip", reason="missed_window")
 
     def refresh_watch(self):
-        added = 0
+        added = skipped = 0
         for page in range(1, self.a.pages + 1):
             try:
                 data = self.api.get(f"/networks/{self.a.network}/new_pools?page={page}")["data"]
@@ -239,12 +239,17 @@ class Trader:
                     continue
                 age = (self.now_ts - created) / 60
                 price = num(at.get("base_token_price_usd"))
+                liq0 = num(at.get("reserve_in_usd"))
+                if liq0 is not None and liq0 < self.a.prefilter_liq:
+                    self.state["decided"][addr] = self.now_ts    # too small: not worth a request
+                    skipped += 1
+                    continue
                 if price and price > 0 and -1 <= age < self.p.min_entry_age:
                     self.state["watch"][addr] = {
                         "name": at.get("name") or addr[:8], "created": created,
                         "price": price, "liq": num(at.get("reserve_in_usd"))}
                     added += 1
-        print(f"  watchlist: +{added}, now {len(self.state['watch'])} pools")
+        print(f"  watchlist: +{added} (skipped {skipped} tiny pools), now {len(self.state['watch'])} pools")
 
     def due_watch(self):
         p = self.p
@@ -337,7 +342,7 @@ class Trader:
         price, liq = num(at.get("base_token_price_usd")), num(at.get("reserve_in_usd"))
         base = {"pool": addr, "name": name, "created_at": iso(w["created"]),
                 "age_min": round(age, 1), "liq_usd": liq, "price": price,
-                "first_price": w["price"]}
+                "first_price": w["price"], "first_liq": w["liq"]}
 
         def done(decision, reason, **extra):
             self.state["watch"].pop(addr, None)
@@ -504,6 +509,8 @@ def main(argv=None):
     r.add_argument("--pages", type=int, default=2, help="pages of newest pools to read")
     r.add_argument("--max-calls", type=int, default=45)
     r.add_argument("--max-seconds", type=float, default=420, help="stop and save after this long")
+    r.add_argument("--prefilter-liq", type=float, default=2500,
+                   help="don't watch pools whose first-seen liquidity is below this")
     r.add_argument("--sleep", type=float, default=7.0, help="seconds between requests")
     r.add_argument("--backoff", type=float, default=65.0, help="wait after a 429")
     r.add_argument("--check-every", type=float, default=10, help="minutes between exit checks")
