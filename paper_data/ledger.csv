@@ -37,3 +37,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note
 2026-11-01T13:36:38Z,EXIT,3G1UxveTUkmyqtDemfpDaoWNv5d4xk1V9ATgmFjJHSn3,STOLON / SOL,0,7.27500943509e-05,100.0,timeout,-6.49,-6.49,900.0,exit_bar=2026-11-01T13:12:00Z
 2026-11-01T14:16:10Z,ENTRY,CqeANm9uVMpaVz8h37RyPBHmUzxMrc7cXx2wXmZW2ABb,INFLATE / SOL,0,1.01662956522e-05,100.0,research_failed,,,900.0,score=0.00 momentum=51%
 2026-11-01T14:16:10Z,EXIT,HFaqEkGGzn8WQqxazDzPsNAMVMvz2gDk1uEd2hYZreVu,Amazon / SOL,1,5.7881533242e-05,100.0,honeypot,-101.0,-101.0,899.0,exit_bar=2026-11-01T13:48:00Z
+2026-11-01T15:21:01Z,ENTRY,CH42r6TktBK4wSBUbF2FVw7GLK7LXyPdZBwFEMtuiNSf,DOGE / SOL,0,4.65717398042e-05,100.0,research_failed,,,899.0,score=0.00 momentum=385%
+2026-11-01T15:21:01Z,ENTRY,DNjENHL4ZFDAgy9KZLrbEtpfKe3G4ri4puCG4SmQyYuX,Des Cat / SOL,0,6.32876077857e-05,100.0,research_failed,,,899.0,score=0.00 momentum=183%
