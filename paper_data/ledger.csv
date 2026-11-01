@@ -57,3 +57,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-01T20:46:28Z,ENTRY,B1VBoREW6Zw5e9YNjCxkjuEwTxYc3QoZBqvieaCxi9xx,$LOAD / SOL,0,8.61028259038e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
 2026-11-01T20:47:55Z,ENTRY,BJBZ64X4Ad8EjiinoU9aHCYeBrGQNLwrweH1mcNXibmD,SC / SOL,0,0.000101883597316,100.0,research_failed,,,899.0,score=0.00 momentum=41%,mom
 2026-11-01T20:50:44Z,ENTRY,J1y8kug8C3RChxTos8RA85iMDSrRZHx4kZGP3f4xU5YS,MOVEMBER / SOL,0,5.38790438746e-05,100.0,research_failed,,,899.0,score=0.00 momentum=68%,mom
+2026-11-01T20:53:42Z,EXIT,2R36vag5zenNjnZ3zbt4d2FyyGKr6AG8AY9ypVTExu3U,thebeets / SOL,0,8.5930390815e-06,100.0,timeout,-8.45,-8.45,899.0,exit_bar=2026-11-01T20:52:00Z,control
+2026-11-01T20:53:42Z,ENTRY,GNdcnRJkMhEgdWdzjpA35ro8q5JpR69WpYJZyXmU5w8i,$LOAD / SOL,0,9.94152766197e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
