@@ -450,23 +450,28 @@ class Trader:
 
     # ---------- main loop ----------
     def run(self):
-        a = self.a
+        """One cycle. Returns True if it stopped because of a 429."""
+        a, limited = self.a, False
         try:
             self.expire_watch()
             self.refresh_watch()
+            done_n = 0
+            for addr, pos in list(self.state["open"].items()):
+                if self.now_ts >= pos["end"] + 60 and done_n < a.max_resolve:
+                    self.guarded(self.resolve, addr, pos)
+                    done_n += 1
             for _, addr, w in self.due_watch():
                 self.guarded(self.judge, addr, w)
-            for addr, pos in list(self.state["open"].items()):
-                if self.now_ts >= pos["end"] + 60:
-                    self.guarded(self.resolve, addr, pos)
         except OutOfBudget as e:
-            print("stopping early:", "still rate limited (429)" if isinstance(e, RateLimited)
+            limited = isinstance(e, RateLimited)
+            print("stopping early:", "still rate limited (429)" if limited
                   else f"call budget ({a.max_calls}) reached")
         finally:
             self.save()
             write_summary(a.out)
         print(f"done: {self.api.calls} API calls, watch={len(self.state['watch'])}, "
               f"open={len(self.state['open'])}, cash={self.state['cash']:.2f}")
+        return limited
 
     def guarded(self, fn, *args):
         try:
@@ -543,30 +548,78 @@ def write_summary(out):
     return "\n".join(lines)
 
 
+def git_commit(out):
+    """Save results to the repo (only used by the long-running loop in GitHub Actions)."""
+    import subprocess
+    try:
+        subprocess.run(["git", "config", "user.name", "paper-trader"], check=True)
+        subprocess.run(["git", "config", "user.email",
+                        "paper-trader@users.noreply.github.com"], check=True)
+        subprocess.run(["git", "add", out], check=True)
+        if subprocess.run(["git", "diff", "--staged", "--quiet"]).returncode != 0:
+            subprocess.run(["git", "commit", "-m", "paper trader update"], check=True)
+            subprocess.run(["git", "pull", "--rebase", "--autostash"], check=True)
+            subprocess.run(["git", "push"], check=True)
+            print("  committed results")
+    except Exception as e:
+        print("  commit failed (will retry later):", e)
+
+
+def loop(a):
+    """Run cycles back to back for --loop-minutes. Each cycle is a normal run."""
+    end = time.time() + a.loop_minutes * 60
+    last_commit, cycles = time.time(), 0
+    while time.time() < end:
+        t0 = time.time()
+        limited = Trader(a, datetime.now(timezone.utc)).run()
+        cycles += 1
+        if time.time() - last_commit >= a.commit_every * 60:
+            git_commit(a.out)
+            last_commit = time.time()
+        if a.max_cycles and cycles >= a.max_cycles:
+            break
+        rest = a.rest_after_429 if limited else max(0.0, a.min_cycle - (time.time() - t0))
+        time.sleep(rest)
+    if os.environ.get("GITHUB_ACTIONS"):
+        git_commit(a.out)
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
-    r = sub.add_parser("run")
-    r.add_argument("--network", default="solana")
-    r.add_argument("--out", default="paper_data")
-    r.add_argument("--base", default="https://api.geckoterminal.com/api/v2")
-    r.add_argument("--pages", type=int, default=2, help="pages of newest pools to read")
-    r.add_argument("--max-calls", type=int, default=45)
-    r.add_argument("--max-seconds", type=float, default=420, help="stop and save after this long")
-    r.add_argument("--prefilter-liq", type=float, default=2500,
-                   help="don't watch pools whose first-seen liquidity is below this")
-    r.add_argument("--sleep", type=float, default=7.0, help="seconds between requests")
-    r.add_argument("--backoff", type=float, default=65.0, help="wait after a 429")
-    r.add_argument("--check-every", type=float, default=10, help="minutes between exit checks")
-    r.add_argument("--max-age", type=int, default=60, help="latest pool age (min) to judge")
-    r.add_argument("--now", help="ISO time override, for testing")
-    r.add_argument("--null-authority-means", choices=["unknown", "revoked"], default="unknown")
+    def common(c):
+        c.add_argument("--network", default="solana")
+        c.add_argument("--out", default="paper_data")
+        c.add_argument("--base", default="https://api.geckoterminal.com/api/v2")
+        c.add_argument("--pages", type=int, default=2, help="pages of newest pools to read")
+        c.add_argument("--max-calls", type=int, default=45)
+        c.add_argument("--max-seconds", type=float, default=420, help="stop and save after this long")
+        c.add_argument("--max-resolve", type=int, default=99, help="closes per cycle (they cost 2 calls)")
+        c.add_argument("--prefilter-liq", type=float, default=2500,
+                       help="don't watch pools whose first-seen liquidity is below this")
+        c.add_argument("--sleep", type=float, default=7.0, help="seconds between requests")
+        c.add_argument("--backoff", type=float, default=65.0, help="wait after a 429")
+        c.add_argument("--check-every", type=float, default=10, help="(unused, kept for old configs)")
+        c.add_argument("--max-age", type=int, default=60, help="latest pool age (min) to judge")
+        c.add_argument("--now", help="ISO time override, for testing")
+        c.add_argument("--null-authority-means", choices=["unknown", "revoked"], default="unknown")
+    common(sub.add_parser("run"))
+    l = sub.add_parser("loop")
+    common(l)
+    l.add_argument("--loop-minutes", type=float, default=340)
+    l.add_argument("--min-cycle", type=float, default=30, help="minimum seconds per cycle")
+    l.add_argument("--rest-after-429", type=float, default=45)
+    l.add_argument("--commit-every", type=float, default=10, help="minutes between saves to git")
+    l.add_argument("--max-cycles", type=int, default=0, help="for testing")
+    l.set_defaults(max_calls=8, max_seconds=58, max_age=15, max_resolve=1)
     s = sub.add_parser("summary")
     s.add_argument("--out", default="paper_data")
     a = ap.parse_args(argv)
     if a.cmd == "summary":
         print(write_summary(a.out))
         return
+    if a.cmd == "loop":
+        return loop(a)
     now = parse_ts(a.now) if a.now else datetime.now(timezone.utc)
     Trader(a, now).run()
 
