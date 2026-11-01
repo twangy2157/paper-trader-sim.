@@ -69,3 +69,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-01T21:28:57Z,ENTRY,G9JyGLtNyzxSB8GzLg1Z3nLWGSSwmy7MxuZoKyTZ5CPy,$LOAD / SOL,0,8.45807068452e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
 2026-11-01T21:31:45Z,ENTRY,73z5rVC3F7jRctzfKVAZfcdxF5F3dPKadn67qdFiekRN,clone / SOL,0,9.07562869978e-06,100.0,research_failed,,,899.0,score=0.00 momentum=120%,mom
 2026-11-01T21:34:41Z,ENTRY,9u2tfm8uFJPYpecr976NUnPgdUSX5tcA2CWagkE6JBp9,Anakin / SOL,0,8.93089059712e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=9%,control
+2026-11-01T21:37:39Z,ENTRY,CVBNYBM6RpN1kJusYExAHRccTR9HZSVQwHCxoerrEDYZ,uni / SOL,0,2.48085994375e-05,100.0,research_failed,,,899.0,score=0.00 momentum=68%,mom
+2026-11-01T21:41:56Z,ENTRY,9bo4WyiGQhoDy4LC4fzjcEZrxFZrhykow8fk4kqDw4iq,NEX Ai / SOL,0,3.0395597297e-05,100.0,research_failed,,,899.0,score=0.00 momentum=47%,mom
+2026-11-01T21:46:14Z,EXIT,GcbdMBbT6ZA4h9XRsJxZLpKjEWxmtLq95CVj5UoTLuSc,NWN / SOL,0,3.77657526977e-05,100.0,rug,-100.02,-100.02,899.0,exit_bar=2026-11-01T21:44:00Z,mom
