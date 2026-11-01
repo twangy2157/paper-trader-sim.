@@ -69,12 +69,18 @@ from sniper_v3 import P3, research
 HEADERS = {"Accept": "application/json;version=20230302",
            "User-Agent": "paper-trader/1.0 (simulation only)"}
 LEDGER_COLS = ["ts", "event", "pool", "name", "filter", "price", "size_usd",
-               "reason", "pnl_usd", "ret_pct", "cash_after", "note"]
+               "reason", "pnl_usd", "ret_pct", "cash_after", "note", "group"]
 CAND_COLS = ["evaluated_at", "pool", "name", "created_at", "age_min", "liq_usd",
              "first_price", "price", "momentum_pct", "buy_sell", "mint_raw",
              "freeze_raw", "mint_revoked", "freeze_revoked", "top10_pct", "dist_raw",
              "dev_pct", "holders", "socials", "is_honeypot", "gt_score", "score",
              "passed_research", "decision", "reason", "first_liq"]
+
+
+VARIANTS = {"base_sl30_tp100": (0.30, 1.0), "wide_sl50_tp100": (0.50, 1.0),
+            "sl30_tp50": (0.30, 0.50), "sl50_tp50": (0.50, 0.50),
+            "no_stop_tp100": (0.99, 1.0)}
+VAR_COLS = ["pool", "group", "filter", "variant", "reason", "ret_pct"]
 
 
 class OutOfBudget(Exception):
@@ -270,7 +276,7 @@ class Trader:
         return out
 
     # ---------- exits ----------
-    def replay(self, pos, bars):
+    def replay(self, pos, bars, sl, tp):
         p, entry = self.p, pos["entry"]
         prev, last = pos["spot"], None
         for ts, _o, h, l, c in bars:
@@ -279,27 +285,36 @@ class Trader:
             last = c
             if c < prev * (1 - p.rug_drop):
                 return "rug", c, ts, last
-            if l <= entry * (1 - p.sl):                 # stop wins ties
-                return "sl", min(entry * (1 - p.sl), c), ts, last
-            if h >= entry * (1 + p.tp1):
-                return "tp", entry * (1 + p.tp1), ts, last
+            if l <= entry * (1 - sl):                   # stop wins ties
+                return "sl", min(entry * (1 - sl), c), ts, last
+            if h >= entry * (1 + tp):
+                return "tp", entry * (1 + tp), ts, last
             prev = c
         return None, None, None, last
 
+    def sim_exit(self, pos, bars, sl, tp, exit_liq, cur_liq):
+        p = self.p
+        reason, spot, ts, last = self.replay(pos, bars, sl, tp)
+        if reason is None:
+            reason, spot, ts = "timeout", (last if last else pos["spot"]), pos["end"]
+            if cur_liq is not None and cur_liq < 0.1 * pos["liq"]:
+                reason = "rug"
+        if pos["r_honey"] < pos["p_honey"]:
+            proceeds, reason = 0.0, "honeypot"
+        else:
+            proceeds = (pos["qty"] * sell_px(spot, exit_liq, pos["qty"] * spot)
+                        * (1 - p.dex_fee) * (1 - p.sell_tax))
+        return reason, spot, ts, proceeds - p.size - 2 * p.tip_usd
+
     def resolve(self, addr, pos):
+        """Called once the 60-minute window is over. Replays the whole window and
+        also scores alternative exit rules on the same trade (variants.csv)."""
         p, net = self.p, self.a.network
         limit = min(1000, max(5, (self.now_ts - pos["start"]) // 60 + 5))
         rows = self.api.get(f"/networks/{net}/pools/{addr}/ohlcv/minute"
                             f"?aggregate=1&limit={limit}")["data"]["attributes"]["ohlcv_list"]
         bars = sorted([int(r[0]), float(r[1]), float(r[2]), float(r[3]), float(r[4])]
                       for r in rows)
-        reason, spot, ts, last = self.replay(pos, bars)
-        final = self.now_ts >= pos["end"] + 60
-        if reason is None:
-            if not final:
-                pos["last_check"] = self.now_ts
-                return False
-            reason, spot, ts = "timeout", (last if last else pos["spot"]), pos["end"]
         cur_liq = None
         try:
             cur_liq = num(self.pool_attrs(addr).get("reserve_in_usd"))
@@ -308,22 +323,23 @@ class Trader:
         except Exception as e:
             print("  liquidity lookup failed, using entry liquidity:", e)
         exit_liq = cur_liq if cur_liq else pos["liq"]
-        if reason == "timeout" and cur_liq is not None and cur_liq < 0.1 * pos["liq"]:
-            reason = "rug"
-        if pos["r_honey"] < pos["p_honey"]:
-            proceeds, reason = 0.0, "honeypot"
-        else:
-            proceeds = (pos["qty"] * sell_px(spot, exit_liq, pos["qty"] * spot)
-                        * (1 - p.dex_fee) * (1 - p.sell_tax))
-        pnl = proceeds - p.size - 2 * p.tip_usd
+        group = pos.get("group", "mom")
+        reason, spot, ts, pnl = self.sim_exit(pos, bars, p.sl, p.tp1, exit_liq, cur_liq)
+        for vname, (vsl, vtp) in VARIANTS.items():
+            vr, _s, _t, vp = self.sim_exit(pos, bars, vsl, vtp, exit_liq, cur_liq)
+            append_csv(os.path.join(self.a.out, "variants.csv"), VAR_COLS,
+                       {"pool": addr, "group": group, "filter": int(pos["selected"]),
+                        "variant": vname, "reason": vr, "ret_pct": round(100 * vp / p.size, 2)})
         if pos["selected"]:
             self.state["cash"] += p.size + pnl
         del self.state["open"][addr]
-        self.log("EXIT", {"pool": addr, "name": pos["name"], "filter": int(pos["selected"])},
+        self.log("EXIT", {"pool": addr, "name": pos["name"], "filter": int(pos["selected"]),
+                          "group": group},
                  price=f"{spot:.12g}", size_usd=p.size, reason=reason,
                  pnl_usd=round(pnl, 2), ret_pct=round(100 * pnl / p.size, 2),
                  note=f"exit_bar={iso(ts)}")
-        print(f"  EXIT  {pos['name'][:24]:24s} {reason:9s} pnl={pnl:8.2f} filter={int(pos['selected'])}")
+        print(f"  EXIT  {pos['name'][:24]:24s} {reason:9s} pnl={pnl:8.2f} "
+              f"filter={int(pos['selected'])} group={group}")
         return True
 
     # ---------- entries ----------
@@ -366,21 +382,24 @@ class Trader:
             return done("skip", "low_liquidity")
         mom = price / w["price"] - 1
         base["momentum_pct"] = round(100 * mom, 1)
-        if mom < p.min_mom:
-            return done("skip", "no_momentum")
+        control = mom < p.min_mom          # control group: enters WITHOUT the momentum rule
         if p.size > p.max_pool_frac * liq:
-            return done("skip", "size_too_big_for_pool")
+            return done("skip", "no_momentum" if control else "size_too_big_for_pool")
+        group = "control" if control else "mom"
 
         m5 = (at.get("transactions") or {}).get("m5") or {}
         buy_sell = round(((m5.get("buys") or 0) + 1) / ((m5.get("sells") or 0) + 1), 3)
-        try:
-            feats, raw = self.fetch_features(addr, buy_sell)
-        except OutOfBudget:
-            raise
-        except Exception as e:
-            print("  features failed for", addr, e)
+        if control:
             feats, raw = None, {}
-        ok, score = research(feats, p)
+        else:
+            try:
+                feats, raw = self.fetch_features(addr, buy_sell)
+            except OutOfBudget:
+                raise
+            except Exception as e:
+                print("  features failed for", addr, e)
+                feats, raw = None, {}
+        ok, score = (False, 0.0) if control else research(feats, p)
         if raw.get("is_honeypot") == "true":
             ok = False
         extra = dict(raw)
@@ -396,7 +415,7 @@ class Trader:
                         and self.state["cash"] >= p.size + p.tip_usd)
         rnd = random.Random(addr)
         r_fail, r_mev, r_honey = rnd.random(), rnd.random(), rnd.random()
-        tag = {"pool": addr, "name": name, "filter": int(selected)}
+        tag = {"pool": addr, "name": name, "filter": int(selected), "group": group}
         if r_fail < p.fail_prob:
             if selected:
                 self.state["cash"] -= p.tip_usd
@@ -416,13 +435,15 @@ class Trader:
             self.state["cash"] -= p.size
         self.state["open"][addr] = {
             "name": name, "entry_ts": self.now_ts, "entry": entry, "qty": qty,
-            "spot": price, "liq": liq, "selected": selected, "start": start,
+            "spot": price, "liq": liq, "selected": selected, "group": group, "start": start,
             "end": start + p.max_hold * 60, "r_honey": r_honey, "p_honey": p_honey}
-        why = "research_passed" if selected else (
-            "research_failed" if not ok else "no_free_slot_or_cash")
+        why = "control_no_momentum" if control else ("research_passed" if selected else (
+            "research_failed" if not ok else "no_free_slot_or_cash"))
         self.log("ENTRY", tag, price=f"{entry:.12g}", size_usd=p.size, reason=why,
                  note=f"score={score:.2f} momentum={100 * mom:.0f}%")
         print(f"  ENTRY {name[:24]:24s} filter={int(selected)} score={score:.2f}")
+        if control:
+            return done("control_enter", "no_momentum", **extra)
         done("enter" if selected else "shadow_enter",
              "research_passed" if selected else ("research_failed" if not ok else "no_slot"),
              **extra)
@@ -436,11 +457,7 @@ class Trader:
             for _, addr, w in self.due_watch():
                 self.guarded(self.judge, addr, w)
             for addr, pos in list(self.state["open"].items()):
-                last = pos.get("last_check", pos["entry_ts"])
-                if pos["selected"] and self.now_ts - last >= a.check_every * 60:
-                    self.guarded(self.resolve, addr, pos)
-            for addr, pos in list(self.state["open"].items()):
-                if not pos["selected"] and self.now_ts >= pos["end"] + 60:
+                if self.now_ts >= pos["end"] + 60:
                     self.guarded(self.resolve, addr, pos)
         except OutOfBudget as e:
             print("stopping early:", "still rate limited (429)" if isinstance(e, RateLimited)
@@ -482,18 +499,34 @@ def write_summary(out):
     st = json.load(open(state_path)) if os.path.exists(state_path) else {}
     ex = [r for r in led if r["event"] == "EXIT"]
     fl = [r for r in led if r["event"] == "FAILED"]
+    grp = lambda r: r.get("group") or "mom"
+    mex, mfl = [r for r in ex if grp(r) == "mom"], [r for r in fl if grp(r) == "mom"]
+    cex, cfl = [r for r in ex if grp(r) == "control"], [r for r in fl if grp(r) == "control"]
     lines = ["# Paper trader summary", "", "SIMULATION ONLY. No real trades.", "",
              f"Updated {iso(time.time())}. Bankroll cash (research-selected trades): "
              f"{st.get('cash', 'n/a')}. Open positions: {len(st.get('open', {}))}. "
              f"Pools on watchlist: {len(st.get('watch', {}))}.", "",
              "| group | closed | win rate | avg return | 95% CI of avg | total P&L $ | failed buys |",
              "|---|---|---|---|---|---|---|",
-             group_stats("filter=1 (research-selected)", [r for r in ex if r["filter"] == "1"],
-                         [r for r in fl if r["filter"] == "1"]),
-             group_stats("filter=0 (momentum only)", [r for r in ex if r["filter"] == "0"],
-                         [r for r in fl if r["filter"] == "0"]),
-             group_stats("all momentum entries", ex, fl), ""]
-    n1 = sum(1 for r in ex if r["filter"] == "1")
+             group_stats("filter=1 (research-selected)", [r for r in mex if r["filter"] == "1"],
+                         [r for r in mfl if r["filter"] == "1"]),
+             group_stats("filter=0 (momentum only)", [r for r in mex if r["filter"] == "0"],
+                         [r for r in mfl if r["filter"] == "0"]),
+             group_stats("all momentum entries", mex, mfl),
+             group_stats("control (no momentum rule)", cex, cfl), ""]
+    var = read_csv(os.path.join(out, "variants.csv"))
+    if var:
+        lines += ["What-if exit rules on the SAME trades (stop-loss / take-profit):", "",
+                  "| group | exit rule | trades | win rate | avg return |", "|---|---|---|---|---|"]
+        for g in ("mom", "control"):
+            for v in VARIANTS:
+                rs = [float(r["ret_pct"]) for r in var if r["group"] == g and r["variant"] == v]
+                if rs:
+                    lines.append(f"| {g} | {v} | {len(rs)} | "
+                                 f"{100 * sum(x > 0 for x in rs) / len(rs):.0f}% | "
+                                 f"{statistics.mean(rs):.1f}% |")
+        lines.append("")
+    n1 = sum(1 for r in mex if r["filter"] == "1")
     lines.append("Verdict: " + ("NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI "
                                 "above zero before believing anything)." if n1 < 30 else
                                 "check the CI column: only a lower bound above 0 is evidence."))
@@ -501,7 +534,7 @@ def write_summary(out):
         c = Counter(r["reason"] for r in cands)
         lines += ["", f"Pools seen: {len(cands)}. Outcomes:", ""]
         lines += [f"- {k}: {v}" for k, v in c.most_common()]
-        unk = sum(1 for r in cands if r["passed_research"] != "" and r["mint_revoked"] == "")
+        unk = sum(1 for r in cands if r["passed_research"] != "" and r["mint_revoked"] == "" and r["decision"] != "control_enter")
         if unk:
             lines += ["", f"Warning: {unk} judged pools had an unreadable mint/freeze value. "
                       "Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing."]
