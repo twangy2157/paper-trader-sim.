@@ -1,15 +1,12 @@
-# Put this file at .github/workflows/paper-trader.yml in your repo, together with
-# paper_trader.py, sniper_v3.py and sniper_backtest_v2.py in the repo root.
-# Simulation only: no secrets, no wallets, read-only API calls. It commits its
-# CSV files to paper_data/ so you can read SUMMARY.md on your phone.
-#
-# Use a PUBLIC repo: each run lasts about 4-5 minutes (requests are spaced out to
-# stay under GeckoTerminal's rate limit), which would use up a private repo's
-# 2,000 free minutes a month within days.
+# Put this file at .github/workflows/paper-trader.yml (replace the old contents).
+# One job stays running for about 5.7 hours and checks for new pools every
+# minute or so, saving results to paper_data/ every 10 minutes. A new job starts
+# every 6 hours. Simulation only: no secrets, no wallets, read-only API calls.
+# Needs a PUBLIC repo (long jobs would use up a private repo's free minutes).
 name: paper-trader
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 concurrency:
   group: paper-trader
@@ -19,21 +16,22 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Run paper trader
-        run: python paper_trader.py run --network solana --out paper_data
-      - name: Commit results
+      - name: Run paper trader loop
+        run: python paper_trader.py loop --network solana --out paper_data --loop-minutes 340
+      - name: Final save
+        if: always()
         run: |
           git config user.name "paper-trader"
           git config user.email "paper-trader@users.noreply.github.com"
           git add paper_data
           if ! git diff --staged --quiet; then
             git commit -m "paper trader update"
-            git pull --rebase
+            git pull --rebase --autostash
             git push
           fi
