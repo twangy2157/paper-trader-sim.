@@ -2,24 +2,24 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-01T22:09:32Z. Bankroll cash (research-selected trades): 899.0. Open positions: 12. Pools on watchlist: 112.
+Updated 2026-11-01T22:19:35Z. Bankroll cash (research-selected trades): 899.0. Open positions: 13. Pools on watchlist: 99.
 
 | group | closed | win rate | avg return | 95% CI of avg | total P&L $ | failed buys |
 |---|---|---|---|---|---|---|
 | filter=1 (research-selected) | 1 | 0% | -101.0% | - | -101.00 | 0 |
-| filter=0 (momentum only) | 26 | 12% | -31.6% | [-54.8, -8.0] | -826.81 | 9 |
-| all momentum entries | 27 | 11% | -34.2% | [-58.3, -9.3] | -927.81 | 9 |
+| filter=0 (momentum only) | 27 | 15% | -28.7% | [-52.4, -3.3] | -780.41 | 10 |
+| all momentum entries | 28 | 14% | -31.3% | [-53.9, -6.7] | -881.41 | 10 |
 | control (no momentum rule) | 4 | 0% | -8.8% | - | -36.31 | 2 |
 
 What-if exit rules on the SAME trades (stop-loss / take-profit):
 
 | group | exit rule | trades | win rate | avg return |
 |---|---|---|---|---|
-| mom | base_sl30_tp100 | 6 | 33% | -24.8% |
-| mom | wide_sl50_tp100 | 6 | 33% | -28.0% |
-| mom | sl30_tp50 | 6 | 50% | -28.0% |
-| mom | sl50_tp50 | 6 | 50% | -28.0% |
-| mom | no_stop_tp100 | 6 | 33% | -24.4% |
+| mom | base_sl30_tp100 | 7 | 43% | -14.5% |
+| mom | wide_sl50_tp100 | 7 | 43% | -17.3% |
+| mom | sl30_tp50 | 7 | 57% | -21.6% |
+| mom | sl50_tp50 | 7 | 57% | -21.6% |
+| mom | no_stop_tp100 | 7 | 43% | -14.2% |
 | control | base_sl30_tp100 | 4 | 0% | -8.8% |
 | control | wide_sl50_tp100 | 4 | 0% | -8.8% |
 | control | sl30_tp50 | 4 | 0% | -8.8% |
@@ -28,13 +28,13 @@ What-if exit rules on the SAME trades (stop-loss / take-profit):
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 1424. Outcomes:
+Pools seen: 1513. Outcomes:
 
-- missed_window: 701
-- low_liquidity: 625
-- no_momentum: 53
-- research_failed: 33
-- simulated failed buy: 11
+- missed_window: 770
+- low_liquidity: 642
+- no_momentum: 54
+- research_failed: 34
+- simulated failed buy: 12
 - research_passed: 1
 
 Warning: 4 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.

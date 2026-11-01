@@ -84,3 +84,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-01T21:58:47Z,ENTRY,44XwUiHM2588gmeWNtwXGiXu62zUbRVwkUT2rDdL7yjD,NEX Ai / SOL,0,3.8336471491e-05,100.0,research_failed,,,899.0,score=0.00 momentum=59%,mom
 2026-11-01T22:07:20Z,EXIT,F1HbSzibwwFVjTi5JPBPTdefzTXm82bnxPfyxx2pBhN5,LMC / SOL,0,6.579196929e-06,100.0,timeout,-10.13,-10.13,899.0,exit_bar=2026-11-01T22:06:00Z,control
 2026-11-01T22:08:41Z,ENTRY,E6Uztjj1XkKpivF1b1U8293rBPtiR6ym44eMxMrxPUir,币安安全屋 / SOL,0,6.91360807977e-05,100.0,research_failed,,,899.0,score=0.00 momentum=125%,mom
+2026-11-01T22:11:39Z,EXIT,6wumaS57w8X5aVHqtELCZqYQH76QwTMCfBNqprnnQzQe,COVID-19😷 / SOL,0,5.98017699423e-05,100.0,tp,46.9,46.9,899.0,exit_bar=2026-11-01T21:21:00Z,mom
+2026-11-01T22:11:39Z,ENTRY,6gJNJQ4qgEUJjnUGkDdFMVhoL7j8E1xQbd1xdrsKsi5Z,MEMECOIN / SOL,0,9.74508328056e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-19%,control
+2026-11-01T22:11:39Z,FAILED,4yp4UDYYAEfHQmXdKbm9ZVDZChjoGe8NA1bSAaPtpiho,uni / SOL,0,9.15819902246e-05,0,tx_failed,-0.5,,899.0,"buy reverted, tip lost",mom
+2026-11-01T22:18:45Z,ENTRY,ATZNVrmFh79u5pjPbYvvEQgCe8mtcUVPJPhQXEnCgbzs,红果短剧 / SOL,0,3.08357977432e-05,100.0,research_failed,,,899.0,score=0.00 momentum=48%,mom
