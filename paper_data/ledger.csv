@@ -30,3 +30,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note
 2026-11-01T09:58:19Z,EXIT,4a2rhgCcvMBzcrrhmba5BfgQY3RkzEkpf3FQusRZdJT6,FAGENT / SOL,0,5.32319956942e-05,100.0,tp,-100.01,-100.01,1000.0,exit_bar=2026-11-01T09:04:00Z
 2026-11-01T09:58:19Z,EXIT,8METv1VbqEEberw6iMSCNx3BwwBh9UZyM8RT9ehu7bgD,Musk / SOL,0,5.02487093956e-05,100.0,timeout,-3.66,-3.66,1000.0,exit_bar=2026-11-01T09:31:00Z
 2026-11-01T10:30:03Z,ENTRY,7K26MiFaEkZwgktLihvK87zC3SQebR8uxeEATqqLzCtS,DICE / SOL,0,3.83709588917e-05,100.0,research_failed,,,1000.0,score=0.00 momentum=337%
+2026-11-01T11:39:03Z,FAILED,5A6so8ZLDDZfRshhVshgZC9qH9AZvSrhZPJfKgCMf3Je,白いヤク / SOL,0,1.06742392702e-06,0,tx_failed,-0.5,,1000.0,"buy reverted, tip lost"
+2026-11-01T11:39:03Z,EXIT,7K26MiFaEkZwgktLihvK87zC3SQebR8uxeEATqqLzCtS,DICE / SOL,0,3.81174569334e-05,100.0,timeout,-4.28,-4.28,1000.0,exit_bar=2026-11-01T11:31:00Z
