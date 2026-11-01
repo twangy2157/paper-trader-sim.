@@ -43,3 +43,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note
 2026-11-01T16:23:27Z,EXIT,CH42r6TktBK4wSBUbF2FVw7GLK7LXyPdZBwFEMtuiNSf,DOGE / SOL,0,4.62707420086e-05,100.0,timeout,-4.25,-4.25,899.0,exit_bar=2026-11-01T16:22:00Z
 2026-11-01T16:23:27Z,EXIT,DNjENHL4ZFDAgy9KZLrbEtpfKe3G4ri4puCG4SmQyYuX,Des Cat / SOL,0,7.33939946064e-05,100.0,rug,-100.02,-100.02,899.0,exit_bar=2026-11-01T16:22:00Z
 2026-11-01T16:57:28Z,ENTRY,FzbrrQMDLrfnrGQrvmJFka5nNiRJ8fevusLVk4VYZyDv,$POCKET / SOL,0,1.05612098286e-05,100.0,research_failed,,,899.0,score=0.00 momentum=77%
+2026-11-01T17:24:22Z,FAILED,6X9XnruzcRa4hWANFgC6Wfjs7kKaD3PBCyc4d7FfeP3A,Capybara / SOL,0,5.68954644718e-05,0,tx_failed,-0.5,,899.0,"buy reverted, tip lost"
