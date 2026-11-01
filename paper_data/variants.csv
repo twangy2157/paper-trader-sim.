@@ -1,0 +1,11 @@
+pool,group,filter,variant,reason,ret_pct
+GcskcyV18dR5jQ2yMysbf7vchFM32HQoLym4o1vDDtck,mom,0,base_sl30_tp100,tp,91.96
+GcskcyV18dR5jQ2yMysbf7vchFM32HQoLym4o1vDDtck,mom,0,wide_sl50_tp100,tp,91.96
+GcskcyV18dR5jQ2yMysbf7vchFM32HQoLym4o1vDDtck,mom,0,sl30_tp50,tp,44.29
+GcskcyV18dR5jQ2yMysbf7vchFM32HQoLym4o1vDDtck,mom,0,sl50_tp50,tp,44.29
+GcskcyV18dR5jQ2yMysbf7vchFM32HQoLym4o1vDDtck,mom,0,no_stop_tp100,tp,91.96
+FA57hDtHDEU1c6ViY6dKjUd7mKehgMkuKWDYa6XXeUVS,mom,0,base_sl30_tp100,rug,-100.02
+FA57hDtHDEU1c6ViY6dKjUd7mKehgMkuKWDYa6XXeUVS,mom,0,wide_sl50_tp100,rug,-100.02
+FA57hDtHDEU1c6ViY6dKjUd7mKehgMkuKWDYa6XXeUVS,mom,0,sl30_tp50,rug,-100.02
+FA57hDtHDEU1c6ViY6dKjUd7mKehgMkuKWDYa6XXeUVS,mom,0,sl50_tp50,rug,-100.02
+FA57hDtHDEU1c6ViY6dKjUd7mKehgMkuKWDYa6XXeUVS,mom,0,no_stop_tp100,rug,-100.02
