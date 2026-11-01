@@ -117,3 +117,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-01T23:11:45Z,ENTRY,4vhe7BuL9U44GiPGz9ddgpZ6LrVV1WQ67vt1mc7jd5tc,HANS / SOL,0,7.61360735949e-06,100.0,research_failed,,,899.0,score=0.00 momentum=31%,mom
 2026-11-01T23:11:45Z,FAILED,F3ksu5wkhhGYFZ4eMw1g84wTArymdgNa4g9ck4ari17J,Joe / SOL,0,2.0892851741e-06,0,tx_failed,-0.5,,899.0,"buy reverted, tip lost",control
 2026-11-01T23:13:21Z,EXIT,6gJNJQ4qgEUJjnUGkDdFMVhoL7j8E1xQbd1xdrsKsi5Z,MEMECOIN / SOL,0,1.94901665611e-05,100.0,tp,84.94,84.94,899.0,exit_bar=2026-11-01T22:30:00Z,control
+2026-11-01T23:14:43Z,ENTRY,Bwh3tpELKUsR2wQzRbvdnieDZCHXoqunchsv2qM3FJvp,STENKS / SOL,0,1.42269742012e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
+2026-11-01T23:14:43Z,ENTRY,FCFvC1NPZ3F8tKTAWBcVk4LcWZyoVMHPTx6JYuZzt6nz,dogbaton / SOL,0,1.72633367067e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-0%,control
+2026-11-01T23:19:14Z,ENTRY,28CkzZkLKJxwfbXfrx3JmdhxiBpMQFW4cQoLipWfEuak,Robinhood / SOL,0,0.000110501669794,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-7%,control
+2026-11-01T23:20:27Z,EXIT,ATZNVrmFh79u5pjPbYvvEQgCe8mtcUVPJPhQXEnCgbzs,红果短剧 / SOL,0,6.16715954863e-05,100.0,tp,-100.01,-100.01,899.0,exit_bar=2026-11-01T22:24:00Z,mom
+2026-11-01T23:21:55Z,ENTRY,D6o5K7ZFTN7dJVLMQrhYumtcCN3D9ZtqWics9jsoa7W6,DERP / SOL,0,1.30384653826e-05,100.0,research_failed,,,899.0,score=0.00 momentum=271%,mom
+2026-11-01T23:23:23Z,EXIT,4AuBpAQAXcjDQQbw5uUTr27MN4XCdwxQPk5SPa6SqaEA,CHOPPED / SOL,0,8.08106404074e-06,100.0,timeout,-8.74,-8.74,899.0,exit_bar=2026-11-01T23:22:00Z,control
