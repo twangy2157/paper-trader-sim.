@@ -129,3 +129,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-01T23:31:45Z,EXIT,E7ofC5XVSdCZco85QyJfZki51DpofsuU2mv6etPXHo82,GTAVI / SOL,0,8.13958291499e-06,100.0,timeout,-11.32,-11.32,899.0,exit_bar=2026-11-01T23:30:00Z,control
 2026-11-01T23:31:45Z,ENTRY,F3qm3TG1D4tZpyusFjZphJ8VCsFpX9Br8fiBifac1ESH,$CCOW / SOL,0,5.33269796172e-05,100.0,research_failed,,,899.0,score=0.00 momentum=1261%,mom
 2026-11-01T23:34:27Z,ENTRY,A4vzRviVsZHjgrscwpVGS8wSNp9xGy7wjuGPUySMEGf8,ALON / SOL,0,3.2309629779e-05,100.0,research_failed,,,899.0,score=0.00 momentum=207%,mom
+2026-11-01T23:37:24Z,ENTRY,EYKzLbnPPx4u8smRWMCjej4wjc5Apu9E4bJenTFek22g,Halloween / SOL,0,2.81174150455e-05,100.0,research_failed,,,899.0,score=0.00 momentum=94%,mom
+2026-11-01T23:38:45Z,ENTRY,DEkjwE97Y3kLwhBi4Rq66byazmspDTuRGhxNF7MCfj6q,ALON / SOL,0,1.97278855901e-05,100.0,research_failed,,,899.0,score=0.00 momentum=84%,mom
+2026-11-01T23:40:21Z,EXIT,679UFtGVcqR5HR61pNbZZRCsRYEbf23fRJNW4rypyZoF,DERP / SOL,0,1.46272050966e-05,100.0,timeout,-7.56,-7.56,899.0,exit_bar=2026-11-01T23:38:00Z,control
+2026-11-01T23:43:17Z,EXIT,7QmiMLNuLKpxLy3pDWfZkdxKhaZ3ex9VLJw7R8k12VRH,Rockhорper / SOL,0,5.47382258221e-05,100.0,timeout,-4.28,-4.28,899.0,exit_bar=2026-11-01T23:41:00Z,mom
+2026-11-01T23:44:38Z,EXIT,9MinmTC3Bh7dwaDE7yoCe1ZLqWnMExeJfhHY7h4K2QF8,Garfield / SOL,0,6.68736122891e-05,100.0,tp,-100.01,-100.01,899.0,exit_bar=2026-11-01T22:42:00Z,mom
