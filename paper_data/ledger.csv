@@ -25,3 +25,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note
 2026-11-01T08:30:48Z,ENTRY,4a2rhgCcvMBzcrrhmba5BfgQY3RkzEkpf3FQusRZdJT6,FAGENT / SOL,0,2.66159978471e-05,100.0,research_failed,,,1000.0,score=0.00 momentum=17%
 2026-11-01T08:30:48Z,ENTRY,8METv1VbqEEberw6iMSCNx3BwwBh9UZyM8RT9ehu7bgD,Musk / SOL,0,5.04222983775e-05,100.0,research_failed,,,1000.0,score=0.00 momentum=176%
 2026-11-01T08:30:48Z,EXIT,B5PtPwPC7PtRR4bEti6C8nnaJF75AK9JBnb8xonLVxt8,SS / SOL,0,3.2944965014e-05,100.0,timeout,-4.54,-4.54,1000.0,exit_bar=2026-11-01T08:01:00Z
+2026-11-01T09:17:07Z,EXIT,63EVwVoFp8mBYYQu5gkLq5xmh4LrwRzc89Ktug3BqBFA,SUGAR / SOL,0,9.44902140664e-05,100.0,tp,-100.01,-100.01,1000.0,exit_bar=2026-11-01T08:28:00Z
