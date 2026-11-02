@@ -1274,3 +1274,8 @@ A4QrupmUYWPTNNFB7me8VYapBB5TC4vAB1w1ixg5Xx4Y,control,0,no_stop_tp100,timeout,-9.
 8fTjUYmSEMa3TahbPohqaMvmdXTfwPf83RXGpqkFU7S6,control,0,sl30_tp50,honeypot,-101.0
 8fTjUYmSEMa3TahbPohqaMvmdXTfwPf83RXGpqkFU7S6,control,0,sl50_tp50,honeypot,-101.0
 8fTjUYmSEMa3TahbPohqaMvmdXTfwPf83RXGpqkFU7S6,control,0,no_stop_tp100,honeypot,-101.0
+BzcEeFaLmmQbSpMYBLDBshfhynNXtxKn1CnGbdrg18Rq,control,0,base_sl30_tp100,timeout,-12.21
+BzcEeFaLmmQbSpMYBLDBshfhynNXtxKn1CnGbdrg18Rq,control,0,wide_sl50_tp100,timeout,-12.21
+BzcEeFaLmmQbSpMYBLDBshfhynNXtxKn1CnGbdrg18Rq,control,0,sl30_tp50,timeout,-12.21
+BzcEeFaLmmQbSpMYBLDBshfhynNXtxKn1CnGbdrg18Rq,control,0,sl50_tp50,timeout,-12.21
+BzcEeFaLmmQbSpMYBLDBshfhynNXtxKn1CnGbdrg18Rq,control,0,no_stop_tp100,timeout,-12.21

@@ -617,3 +617,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T15:55:41Z,FAILED,BZvN52YuR6sxptrfPQR6zdxXsRKnkKz4M9wU7TB7KoiA,FEAR / SOL,0,5.04930060413e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
 2026-11-02T15:57:16Z,FAILED,J4LpKgoMFcgbrgUTzNb3gjD8TiDZKTCcYcZrnEzNiKwj,🚀 / SOL,0,9.14650146499e-06,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
 2026-11-02T15:58:30Z,ENTRY,FfR3dLoV4qym78Vdt5fVxkHwHgqDYz9phDFLtyR2wbcr,FEAR / SOL,0,4.92661020562e-05,100.0,research_failed,,,898.5,score=0.00 momentum=16%,mom
+2026-11-02T16:02:57Z,ENTRY,FUMWyaDxkcjUjUuPzULXtCjiLeUMXrp3vm1YvS6P3pJA,SPX7900 / SOL,0,0.0799833969638,100.0,research_failed,,,898.5,score=0.00 momentum=211676%,mom
+2026-11-02T16:04:25Z,ENTRY,HMgn7t8NTvnNvZDntEUiFKN9MtuiAhyxBp4658iAKeeg,龙猫 / SOL,0,1.48106086498e-05,100.0,research_failed,,,898.5,score=0.00 momentum=37%,mom
+2026-11-02T16:05:53Z,EXIT,BzcEeFaLmmQbSpMYBLDBshfhynNXtxKn1CnGbdrg18Rq,CHAROC / SOL,0,6.94233108984e-06,100.0,timeout,-12.21,-12.21,898.5,exit_bar=2026-11-02T16:04:00Z,control
+2026-11-02T16:09:56Z,ENTRY,EW2KYM5c8bCyEiCFud6FhriQX3DZuX1T6V4VezsXxWsb,OKKB / USDT,0,1.03542989219,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T16:09:56Z,ENTRY,6WdyRNLcThP4VFTmj1q57R8R7NYv9jiNLgQCdaXLFW31,$PANIC / SOL,0,1.01213937338e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
