@@ -250,3 +250,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T02:34:56Z,ENTRY,9RtQrmMcLpM9NxqxNXHJchfwdfucryHbXMBudqtirD3X,MrBeastLab / USDC,0,3.54241425207e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=2%,control
 2026-11-02T02:36:25Z,ENTRY,4kawqdF3WnDy5ArwfrYmWsv2aK95QP5cQu2zGvjdLEcY,TrumpWars / SOL,0,7.61472101661e-05,100.0,research_failed,,,899.0,score=0.00 momentum=671%,mom
 2026-11-02T02:36:25Z,ENTRY,FCAdUF7LbsdJbFsQCGK3ZTxdYiXecbfbVugfZrds8FEN,WASTED / SOL,0,9.11707836209e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=8%,control
+2026-11-02T02:37:47Z,EXIT,TVTG16jSRKtP2zyFemdnvvoYeFSxrqz6Z7g9Thn9rpG,DOOB / SOL,0,6.90721486772e-06,100.0,timeout,-9.78,-9.78,899.0,exit_bar=2026-11-02T02:36:00Z,control
+2026-11-02T02:37:47Z,ENTRY,FsrZuzooWxeCMD6av8v6dEwiGvCEE1nPdThf7o9FnprA,MUSKX / SOL,0,0.000251837089982,100.0,research_failed,,,899.0,score=0.00 momentum=106%,mom
+2026-11-02T02:39:23Z,EXIT,BXuiHbz5ZmaUo8szKjjr3FojnJUHd3vLtMG6ZuaBYnKC,Anakin / SOL,0,0.068849621429,100.0,rug,-100.02,-100.02,899.0,exit_bar=2026-11-02T02:36:00Z,mom
+2026-11-02T02:39:23Z,ENTRY,7v7PDoQMVnuvzztid4Fp3e4CdJ7jbMbJCkwAGhQTh1vt,mubull / MU,0,1.98834057309e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-3%,control
+2026-11-02T02:40:44Z,EXIT,5beiMqo3m3G96LGXM66YbeDuUJ2ivZ1yXaPudKLcEpTd,mmrich / SOL,0,1.90431831356e-05,100.0,timeout,-6.31,-6.31,899.0,exit_bar=2026-11-02T02:37:00Z,control
+2026-11-02T02:40:44Z,ENTRY,5QnavSSTcxnzV2w36UMTXTcqnFR1713PeMH9y6uqzA5S,DeepSeek / SOL,0,0.000128472241816,100.0,control_no_momentum,,,899.0,score=0.00 momentum=9%,control
+2026-11-02T02:42:20Z,ENTRY,7WX6W8HZcMdAE8YiRoq1AgXjFzffG5bekCr8Kv4nFNb2,RIJIN / SOL,0,0.395620014498,100.0,research_failed,,,899.0,score=0.00 momentum=1024625%,mom
+2026-11-02T02:42:20Z,ENTRY,5UtscovPi4KiKtCuDQ521a8U2cKQZ4YnVnLvo5PWDohF,TrumpWars / SOL,0,3.87782605046e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
+2026-11-02T02:44:10Z,ENTRY,3UXZKqFgw32DJ5egfehgEP6czFYcp96TojhEpPpAwpty,FAGENT / SOL,0,2.78739782656e-05,100.0,research_failed,,,899.0,score=0.00 momentum=23%,mom
+2026-11-02T02:45:24Z,EXIT,6QnnWm4acKbMpAbMLxyVJMJgbcQi9u87VoCizPjYfpJD,E / SOL,0,1.53718325509e-05,100.0,timeout,-8.84,-8.84,899.0,exit_bar=2026-11-02T02:44:00Z,mom
+2026-11-02T02:46:44Z,EXIT,3tzTs6ktN2yhHJ3ZcLPdksRt8CFUHmFJNokafkf1f5by,BACK / SOL,0,1.15782054907e-05,100.0,sl,-36.14,-36.14,899.0,exit_bar=2026-11-02T01:47:00Z,mom
