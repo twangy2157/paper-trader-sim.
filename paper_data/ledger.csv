@@ -727,3 +727,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T18:56:35Z,EXIT,9hFDGbmVKP8MLJedBQnVPNW2Xv8fTXpKiSeXwpmwUgPY,income / SOL,0,0.000194197042713,100.0,timeout,-9.28,-9.28,898.5,exit_bar=2026-11-02T18:55:00Z,control
 2026-11-02T18:58:11Z,ENTRY,AqnppifWy51XNjk6cTqMK4oSokwgKNWQmvDtBwLyYHrm,Nikit / USDC,0,1.19246731481e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
 2026-11-02T19:00:53Z,ENTRY,DQmi8E94BB5CcuzBmNJyYXPFrDhxYSD9T38H6bd8TxhW,MAMESUKE / SOL,0,7.90372480947e-07,100.0,research_failed,,,898.5,score=0.00 momentum=72%,mom
+2026-11-02T19:05:05Z,ENTRY,9xBRopAXKtejJmiM3EyHXrEX1jp8JH6nLeQjQSNwD6ZE,Speed / SOL,0,2.96129673451e-05,100.0,research_failed,,,898.5,score=0.00 momentum=46%,mom
+2026-11-02T19:06:26Z,ENTRY,6pUPTdNANiVKKQW8M4W58pu5SFj3boKCbJb1UTXmnF33,OTTR / SOL,0,7.28490579411e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T19:07:54Z,ENTRY,3H46SJfsRVixvAw899biKS3R56YDUfK8nMsHTSLG1TcP,trench / SOL,0,3.04966206373e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-33%,control
+2026-11-02T19:10:44Z,ENTRY,5LYYrqgLvey9CZotbxRugJS5cnHUmZrNrV8Gdf7nxfQo,KIDS / SOL,0,4.55263510646e-05,100.0,research_failed,,,898.5,score=0.00 momentum=46%,mom
+2026-11-02T19:10:44Z,ENTRY,EPH5VkW3E1NdjhHoz2y33RVZmHkYbEeFA7D68RL7EX3t,RICK / USDC,0,8.56326602306e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T19:12:20Z,EXIT,8x9T5cXYBkZmg9yJQwCm2kB1Qss4JNEPj9rz9KBDtqDw,TOD / SOL,0,3.78939073786e-05,100.0,timeout,-4.3,-4.3,898.5,exit_bar=2026-11-02T19:11:00Z,control
