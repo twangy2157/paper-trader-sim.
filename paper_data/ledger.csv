@@ -383,3 +383,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T05:03:45Z,ENTRY,9mMBgxjbG5bk2f9nKdLDv2mzBLwE4dZrPARcnRZrxYtW,ZCASHCAT / SOL,0,0.000976310134449,100.0,control_no_momentum,,,899.0,score=0.00 momentum=5%,control
 2026-11-02T05:03:45Z,ENTRY,4pKjpLqMKurEKSg7CgsBdbvYZAdYdA1nxtQbwhe4Dkxn,Harley3 / SOL,0,1.62344554766e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-0%,control
 2026-11-02T05:03:45Z,ENTRY,HtjT7PEgxPBSRHAwoBYuFTJiNfuhR3NTxRqWLzBWDUyS,CHIMP / SOL,0,1.70313790018e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-0%,control
+2026-11-02T05:05:22Z,EXIT,7QuGu2jbKqsoGs33FWBwtSP5psULiwAVexjuh8EcNE1i,MUTTAPE / SOL,0,7.16714377297e-05,100.0,sl,-37.13,-37.13,899.0,exit_bar=2026-11-02T04:04:00Z,mom
+2026-11-02T05:08:19Z,EXIT,8S9eJAZz1ZaCsjsLY2YtpWu95fLSRS2gjaDDGSXfDhmc,PEACEMAKER / DJT,0,6.70676167986e-06,100.0,honeypot,-101.0,-101.0,899.0,exit_bar=2026-11-02T05:07:00Z,mom
+2026-11-02T05:09:40Z,ENTRY,5mii3w7VhDWZ3pfh5rPWQuiRwzXgpQmbku2LJTvv62Cc,CRAB / SOL,0,1.71108383489e-05,100.0,research_failed,,,899.0,score=0.00 momentum=71%,mom
+2026-11-02T05:11:15Z,FAILED,CcLZ59gfytMf4URYeQD47FwePmkh31MPLxkJ7ckqEzSD,UHI / SOL,0,2.11641609124e-05,0,tx_failed,-0.5,,899.0,"buy reverted, tip lost",control
+2026-11-02T05:12:29Z,ENTRY,7J5kwviEbc4fYrhQqsC784eNjGyCGp4YKvNXPzhcU3Z8,XAR / SOL,0,5.1447140781e-05,100.0,research_failed,,,899.0,score=0.00 momentum=33%,mom
+2026-11-02T05:12:29Z,ENTRY,8skxXu1aSjdMaY9uiMQGhdKLtRVsgMisUAq5rRBvYKTL,PEACE / SOL,0,8.82825380476e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=7%,control
+2026-11-02T05:13:57Z,ENTRY,EBph9gfp682npEE91E5pLXeFYrpRKrFZqzmi3iHJbfoC,USMS / SOL,0,8.66032871435e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
