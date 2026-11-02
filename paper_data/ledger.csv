@@ -358,3 +358,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T04:28:35Z,ENTRY,CnWSexniMG3XLR6WabNpV4CGTJu2Qp6EYkPrE5jFY5gm,ACC / SOL,0,8.4175976794e-08,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-99%,control
 2026-11-02T04:30:10Z,EXIT,rKogjzgEhdeD29vZkgF99p1XFpxd2gfGvwmUEYnE38j,豹拉 / SOL,0,8.76140054613e-05,100.0,rug,-100.02,-100.02,899.0,exit_bar=2026-11-02T04:29:00Z,mom
 2026-11-02T04:31:24Z,ENTRY,HM6c5M1Kerh7HunmKofyLe23HPkkEhQKMEQBjQH6rJ1C,DEBT / SOL,0,7.22594153284e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
+2026-11-02T04:34:15Z,ENTRY,7f7UtDBneKW5u2yPUDCmu7ebJiDawbbHS4aELYYVcDUH,NEX Ai / SOL,0,3.61051477036e-05,100.0,research_failed,,,899.0,score=0.00 momentum=52%,mom
+2026-11-02T04:35:29Z,ENTRY,DoaSSKrPqa3z5qhYa7V7JmpkdWthvmhhopiGoxxsFq5T,PEJO / SOL,0,3.96308156484e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-5%,control
+2026-11-02T04:36:57Z,ENTRY,FYEjvmjZdDtkrPPzieV7fwTig2iP4EzkojqCzt3ViRur,KALSHI / SOL,0,3.87074059926e-05,100.0,research_failed,,,899.0,score=0.00 momentum=852%,mom
+2026-11-02T04:38:25Z,ENTRY,Fm1JHK4HU7ex151W1R2iJBVW7Zg4nDdG6yDeWcphzQgs,Trump / SOL,0,8.74687452145e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-32%,control
+2026-11-02T04:39:53Z,EXIT,EwG6nTk8LTBBtdrjP6VLyE9kWCZMg6uMJ32SeVm5wuQG,CRYPTOCRAT / SOL,0,1.9337601431e-07,100.0,rug,-100.44,-100.44,899.0,exit_bar=2026-11-02T03:39:00Z,mom
+2026-11-02T04:42:28Z,FAILED,8ZLZADsXJgh8CabEXnSry25TJv2i1rHjbASSFBdrSEn3,James / SOL,0,2.13708485614e-05,0,tx_failed,-0.5,,899.0,"buy reverted, tip lost",control
+2026-11-02T04:42:28Z,ENTRY,AgTPrnxbvAjkJ2HQ3G7AAsEfv3zYxG428DYFeVWwkxpg,SwordPepe / SOL,0,1.03820139251e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
