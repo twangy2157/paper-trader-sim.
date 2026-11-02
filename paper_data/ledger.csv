@@ -609,3 +609,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T15:45:28Z,EXIT,8fTjUYmSEMa3TahbPohqaMvmdXTfwPf83RXGpqkFU7S6,CRITTER / SOL,0,4.10678221277e-06,100.0,honeypot,-101.0,-101.0,898.5,exit_bar=2026-11-02T15:44:00Z,control
 2026-11-02T15:46:57Z,ENTRY,H7AfGM2kn3MAupYdCBA9Yf6VAKjmoKF5iyTzyBTUm893,NORTHKOREA / SOL,0,6.96523755146e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
 2026-11-02T15:48:25Z,ENTRY,BR8kouNJQnADyssd5KwXPpyJWCD8Hu7qAVA1SuBYpGxQ,WTP / SOL,0,4.85400371449e-08,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T15:49:55Z,ENTRY,HchUK3U9K5igCXoijfYQLT8c3wFFWcbTf7TS2y5KeQfo,HTO / SOL,0,9.15663678667e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=8%,control
+2026-11-02T15:52:44Z,ENTRY,HohTTGFSeYXsbTTsKmBnixp8Qkc5X9LNj1h3ASbXz3aC,SOKA / SOL,0,4.11887509627e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-1%,control
+2026-11-02T15:52:44Z,ENTRY,7n7PnPp5aLVdon8DiPu213gDGefnZLn3diaWSFBensSW,SI / SOL,0,5.91445211525e-05,100.0,research_failed,,,898.5,score=0.00 momentum=73%,mom
+2026-11-02T15:54:20Z,ENTRY,DEXT3CZ7boNPuq87orpZJZBEjaW3AVJAoMmydQKuosPi,同花顺 / SOL,0,2.33977447354e-05,100.0,research_failed,,,898.5,score=0.00 momentum=118%,mom
+2026-11-02T15:55:41Z,ENTRY,dEWiArk8Cwj2yL4peu4iQc1qfz4mWAS66ogetstqgAJ,FOREVER / SOL,0,3.68165207431e-05,100.0,research_failed,,,898.5,score=0.00 momentum=62%,mom
+2026-11-02T15:55:41Z,FAILED,BZvN52YuR6sxptrfPQR6zdxXsRKnkKz4M9wU7TB7KoiA,FEAR / SOL,0,5.04930060413e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T15:57:16Z,FAILED,J4LpKgoMFcgbrgUTzNb3gjD8TiDZKTCcYcZrnEzNiKwj,🚀 / SOL,0,9.14650146499e-06,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T15:58:30Z,ENTRY,FfR3dLoV4qym78Vdt5fVxkHwHgqDYz9phDFLtyR2wbcr,FEAR / SOL,0,4.92661020562e-05,100.0,research_failed,,,898.5,score=0.00 momentum=16%,mom
