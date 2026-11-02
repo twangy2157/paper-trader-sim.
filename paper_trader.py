@@ -197,7 +197,7 @@ class Trader:
         else:
             self.state = {}
         self.state.setdefault("cash", self.p.capital)
-        for k in ("decided", "open", "watch"):
+        for k in ("decided", "open", "watch", "proven_watch"):
             self.state.setdefault(k, {})
 
     # ---------- bookkeeping ----------
@@ -266,6 +266,9 @@ class Trader:
                         "name": at.get("name") or addr[:8], "created": created,
                         "price": price, "liq": num(at.get("reserve_in_usd"))}
                     added += 1
+                    if (liq0 is not None and liq0 >= self.a.proven_min_liq
+                            and len(self.state["proven_watch"]) < 60):
+                        self.state["proven_watch"][addr] = dict(self.state["watch"][addr])
         print(f"  watchlist: +{added} (skipped {skipped} tiny pools), now {len(self.state['watch'])} pools")
 
     def due_watch(self):
@@ -386,6 +389,14 @@ class Trader:
         if p.size > p.max_pool_frac * liq:
             return done("skip", "no_momentum" if control else "size_too_big_for_pool")
         group = "control" if control else "mom"
+        if control and mom <= -self.a.dip_drop:        # candidate for the dip group
+            try:
+                if self.is_dip(self.get_bars(addr, 30), price):
+                    group = "dip"
+            except OutOfBudget:
+                raise
+            except Exception as e:
+                print("  dip bars failed:", e)
 
         m5 = (at.get("transactions") or {}).get("m5") or {}
         buy_sell = round(((m5.get("buys") or 0) + 1) / ((m5.get("sells") or 0) + 1), 3)
@@ -413,7 +424,27 @@ class Trader:
         slots = sum(1 for x in self.state["open"].values() if x["selected"])
         selected = bool(ok and slots < p.max_positions
                         and self.state["cash"] >= p.size + p.tip_usd)
-        rnd = random.Random(addr)
+        why = "control_no_momentum" if control else ("research_passed" if selected else (
+            "research_failed" if not ok else "no_free_slot_or_cash"))
+        if group == "dip":
+            why = "dip_after_drop"
+        entered = self.open_trade(addr, name, price, liq, group, selected, feats, p.max_hold,
+                                  why, f"score={score:.2f} momentum={100 * mom:.0f}%")
+        if not entered:
+            return done("failed_tx", "simulated failed buy", **extra)
+        if group == "dip":
+            return done("dip_enter", "dip", **extra)
+        if control:
+            return done("control_enter", "no_momentum", **extra)
+        done("enter" if selected else "shadow_enter",
+             "research_passed" if selected else ("research_failed" if not ok else "no_slot"),
+             **extra)
+
+    def open_trade(self, addr, name, price, liq, group, selected, feats, hold_min, why, note):
+        """Simulate the buy (failure / MEV / honeypot dice) and open the position.
+        Returns False if the simulated buy reverted."""
+        p = self.p
+        rnd = random.Random(addr + group)
         r_fail, r_mev, r_honey = rnd.random(), rnd.random(), rnd.random()
         tag = {"pool": addr, "name": name, "filter": int(selected), "group": group}
         if r_fail < p.fail_prob:
@@ -421,8 +452,7 @@ class Trader:
                 self.state["cash"] -= p.tip_usd
             self.log("FAILED", tag, price=f"{price:.12g}", size_usd=0, reason="tx_failed",
                      pnl_usd=-p.tip_usd, ret_pct="", note="buy reverted, tip lost")
-            return done("failed_tx", "simulated failed buy", **extra)
-
+            return False
         quote_in = p.size * (1 - p.dex_fee)
         entry = buy_px(price, liq, quote_in)
         if r_mev < p.mev_prob:
@@ -436,17 +466,64 @@ class Trader:
         self.state["open"][addr] = {
             "name": name, "entry_ts": self.now_ts, "entry": entry, "qty": qty,
             "spot": price, "liq": liq, "selected": selected, "group": group, "start": start,
-            "end": start + p.max_hold * 60, "r_honey": r_honey, "p_honey": p_honey}
-        why = "control_no_momentum" if control else ("research_passed" if selected else (
-            "research_failed" if not ok else "no_free_slot_or_cash"))
-        self.log("ENTRY", tag, price=f"{entry:.12g}", size_usd=p.size, reason=why,
-                 note=f"score={score:.2f} momentum={100 * mom:.0f}%")
-        print(f"  ENTRY {name[:24]:24s} filter={int(selected)} score={score:.2f}")
-        if control:
-            return done("control_enter", "no_momentum", **extra)
-        done("enter" if selected else "shadow_enter",
-             "research_passed" if selected else ("research_failed" if not ok else "no_slot"),
-             **extra)
+            "end": start + hold_min * 60, "r_honey": r_honey, "p_honey": p_honey}
+        self.log("ENTRY", tag, price=f"{entry:.12g}", size_usd=p.size, reason=why, note=note)
+        print(f"  ENTRY {name[:24]:24s} group={group} filter={int(selected)}")
+        return True
+
+    def get_bars(self, addr, limit):
+        rows = self.api.get(f"/networks/{self.a.network}/pools/{addr}/ohlcv/minute"
+                            f"?aggregate=1&limit={limit}")["data"]["attributes"]["ohlcv_list"]
+        return sorted([int(r[0]), float(r[1]), float(r[2]), float(r[3]), float(r[4])]
+                      for r in rows)
+
+    @staticmethod
+    def is_dip(bars, price):
+        """Fell 20-60% from the high AND has bounced at least 5% off the low since."""
+        if len(bars) < 3:
+            return False
+        hi_i = max(range(len(bars)), key=lambda i: bars[i][2])
+        hi = bars[hi_i][2]
+        lo = min(b[3] for b in bars[hi_i:])
+        if hi <= 0 or lo <= 0:
+            return False
+        return 0.20 <= (hi - lo) / hi <= 0.60 and price >= lo * 1.05
+
+    def proven_check(self, addr, w):
+        """Pool has survived a couple of hours: is it still liquid, active, and trending up?"""
+        a, p = self.a, self.p
+        if addr in self.state["open"]:
+            return
+        at = self.pool_attrs(addr)
+        age = (self.now_ts - w["created"]) / 60
+        price, liq = num(at.get("base_token_price_usd")), num(at.get("reserve_in_usd"))
+        base = {"pool": addr, "name": w["name"], "created_at": iso(w["created"]),
+                "age_min": round(age, 1), "liq_usd": liq, "price": price,
+                "first_price": w["price"], "first_liq": w["liq"]}
+
+        def finish(decision, reason):
+            self.state["proven_watch"].pop(addr, None)
+            self.cand(**base, decision=decision, reason=reason)
+
+        if not price or liq is None or liq < a.proven_min_liq or liq < 0.7 * (w["liq"] or 0):
+            return finish("skip", "proven_liquidity_gone")
+        ratio = price / w["price"]
+        base["momentum_pct"] = round(100 * (ratio - 1), 1)
+        if not 0.8 <= ratio <= 10:
+            return finish("skip", "proven_price_collapsed_or_parabolic")
+        vol = num(((at.get("volume_usd") or {}).get("h1")))
+        if vol is None or vol < a.proven_min_vol:
+            return finish("skip", "proven_low_volume")
+        bars = self.get_bars(addr, 70)
+        closes = [b[4] for b in bars[-60:]]
+        if len(closes) < 30 or price < sum(closes) / len(closes):
+            return finish("skip", "proven_no_uptrend")
+        if p.size > p.max_pool_frac * liq:
+            return finish("skip", "size_too_big_for_pool")
+        if not self.open_trade(addr, w["name"], price, liq, "proven", False, None,
+                               a.proven_hold, "proven_pool", f"age={age:.0f}min"):
+            return finish("failed_tx", "simulated failed buy")
+        finish("proven_enter", "proven")
 
     # ---------- main loop ----------
     def run(self):
@@ -460,6 +537,14 @@ class Trader:
                 if self.now_ts >= pos["end"] + 60 and done_n < a.max_resolve:
                     self.guarded(self.resolve, addr, pos)
                     done_n += 1
+            pn = 0
+            for addr, w in sorted(self.state["proven_watch"].items(), key=lambda kv: kv[1]["created"]):
+                age = (self.now_ts - w["created"]) / 60
+                if age > a.proven_max_age:
+                    del self.state["proven_watch"][addr]
+                elif age >= a.proven_min_age and pn < a.max_proven:
+                    self.guarded(self.proven_check, addr, w)
+                    pn += 1
             for _, addr, w in self.due_watch():
                 self.guarded(self.judge, addr, w)
         except OutOfBudget as e:
@@ -518,11 +603,16 @@ def write_summary(out):
              group_stats("momentum, not picked", [r for r in mex if r["filter"] == "0"],
                          [r for r in mfl if r["filter"] == "0"]),
              group_stats("all momentum", mex, mfl),
-             group_stats("control", cex, cfl), ""]
+             group_stats("control", cex, cfl)]
+    for g, lab in (("dip", "dip buy"), ("proven", "proven pools")):
+        gx = [r for r in ex if grp(r) == g]
+        gf = [r for r in fl if grp(r) == g]
+        lines.append(group_stats(lab, gx, gf))
+    lines.append("")
     var = read_csv(os.path.join(out, "variants.csv"))
     if var:
         lines += ["What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).", "",
-                  "| exit rule | momentum | control |", "|---|---|---|"]
+                  "| exit rule | momentum | control | dip | proven |", "|---|---|---|---|---|"]
         def cell(g, v):
             rs = [float(r["ret_pct"]) for r in var if r["group"] == g and r["variant"] == v]
             if not rs:
@@ -530,7 +620,8 @@ def write_summary(out):
             return (f"{statistics.mean(rs):.0f}% ({len(rs)}, "
                     f"{100 * sum(x > 0 for x in rs) / len(rs):.0f}%)")
         for v in VARIANTS:
-            lines.append(f"| {v} | {cell('mom', v)} | {cell('control', v)} |")
+            lines.append(f"| {v} | {cell('mom', v)} | {cell('control', v)} | "
+                         f"{cell('dip', v)} | {cell('proven', v)} |")
         lines.append("")
     n1 = sum(1 for r in mex if r["filter"] == "1")
     lines.append("Verdict: " + ("NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI "
@@ -540,7 +631,7 @@ def write_summary(out):
         c = Counter(r["reason"] for r in cands)
         lines += ["", f"Pools seen: {len(cands)}. Outcomes:", ""]
         lines += [f"- {k}: {v}" for k, v in c.most_common()]
-        unk = sum(1 for r in cands if r["passed_research"] != "" and r["mint_revoked"] == "" and r["decision"] != "control_enter")
+        unk = sum(1 for r in cands if r["passed_research"] != "" and r["mint_revoked"] == "" and r["decision"] not in ("control_enter", "dip_enter"))
         if unk:
             lines += ["", f"Warning: {unk} judged pools had an unreadable mint/freeze value. "
                       "Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing."]
@@ -596,6 +687,13 @@ def main(argv=None):
         c.add_argument("--max-calls", type=int, default=45)
         c.add_argument("--max-seconds", type=float, default=420, help="stop and save after this long")
         c.add_argument("--max-resolve", type=int, default=99, help="closes per cycle (they cost 2 calls)")
+        c.add_argument("--dip-drop", type=float, default=0.20, help="dip group: fall vs first price")
+        c.add_argument("--proven-min-age", type=float, default=120)
+        c.add_argument("--proven-max-age", type=float, default=300)
+        c.add_argument("--proven-min-liq", type=float, default=15000)
+        c.add_argument("--proven-min-vol", type=float, default=5000, help="1h volume, USD")
+        c.add_argument("--proven-hold", type=int, default=180, help="minutes")
+        c.add_argument("--max-proven", type=int, default=99, help="proven checks per cycle")
         c.add_argument("--prefilter-liq", type=float, default=4000,
                        help="don't watch pools whose first-seen liquidity is below this")
         c.add_argument("--sleep", type=float, default=7.0, help="seconds between requests")
@@ -612,7 +710,7 @@ def main(argv=None):
     l.add_argument("--rest-after-429", type=float, default=45)
     l.add_argument("--commit-every", type=float, default=10, help="minutes between saves to git")
     l.add_argument("--max-cycles", type=int, default=0, help="for testing")
-    l.set_defaults(max_calls=8, max_seconds=58, max_age=15, max_resolve=1)
+    l.set_defaults(max_calls=8, max_seconds=58, max_age=15, max_resolve=1, max_proven=1)
     s = sub.add_parser("summary")
     s.add_argument("--out", default="paper_data")
     a = ap.parse_args(argv)
