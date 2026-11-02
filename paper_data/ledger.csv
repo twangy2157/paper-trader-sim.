@@ -168,3 +168,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T00:37:56Z,ENTRY,xzNYUNeViNqSx875AsEdN9XYwa3o58R2YDz5DkmsPCj,Gang / SOL,0,3.21448460282e-05,100.0,research_failed,,,899.0,score=0.00 momentum=61%,mom
 2026-11-02T00:39:24Z,EXIT,EYKzLbnPPx4u8smRWMCjej4wjc5Apu9E4bJenTFek22g,Halloween / SOL,0,5.62348300911e-05,100.0,tp,-100.01,-100.01,899.0,exit_bar=2026-11-02T00:00:00Z,mom
 2026-11-02T00:40:45Z,EXIT,DEkjwE97Y3kLwhBi4Rq66byazmspDTuRGhxNF7MCfj6q,ALON / SOL,0,3.94557711803e-05,100.0,tp,-100.01,-100.01,899.0,exit_bar=2026-11-01T23:43:00Z,mom
+2026-11-02T00:42:22Z,FAILED,967z45Ugq3c1MUJD9fBFmd58SRqKW31CdVnmZZ8Bj6Rw,Phillkin / SOL,0,4.58638465951e-05,0,tx_failed,-0.5,,899.0,"buy reverted, tip lost",mom
+2026-11-02T00:43:43Z,ENTRY,DTP4B71NfRMuZ6Zg18Qm2xJFayQxXP3n13m2jvkTgxbv,nut / SOL,0,3.77299803446e-05,100.0,research_failed,,,899.0,score=0.00 momentum=316%,mom
+2026-11-02T00:48:14Z,EXIT,r5qXVq9oxu41WGuESwhy97J8bc9zykdoSD4Srn7gdW6,POLYMEME / SOL,0,8.16598414834e-06,100.0,sl,-34.68,-34.68,899.0,exit_bar=2026-11-01T23:52:00Z,mom
