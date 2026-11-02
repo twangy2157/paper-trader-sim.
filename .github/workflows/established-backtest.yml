@@ -1,1 +1,34 @@
+# Put this at .github/workflows/established-backtest.yml. Run it by hand:
+# Actions -> established-backtest -> Run workflow. It downloads public hourly
+# prices, runs the backtest, and saves backtest_data/RESULTS.md to the repo.
+# Simulation only: no secrets, no accounts.
+name: established-backtest
+on:
+  workflow_dispatch:
+concurrency:
+  group: established-backtest
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run backtest
+        run: python backtest_established.py --out backtest_data
+      - name: Save results
+        run: |
+          git config user.name "paper-trader"
+          git config user.email "paper-trader@users.noreply.github.com"
+          git add backtest_data/RESULTS.md
+          if ! git diff --staged --quiet; then
+            git commit -m "established backtest results"
+            git pull --rebase --autostash
+            git push
+          fi
 
