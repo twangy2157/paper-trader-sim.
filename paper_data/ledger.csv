@@ -261,3 +261,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T02:44:10Z,ENTRY,3UXZKqFgw32DJ5egfehgEP6czFYcp96TojhEpPpAwpty,FAGENT / SOL,0,2.78739782656e-05,100.0,research_failed,,,899.0,score=0.00 momentum=23%,mom
 2026-11-02T02:45:24Z,EXIT,6QnnWm4acKbMpAbMLxyVJMJgbcQi9u87VoCizPjYfpJD,E / SOL,0,1.53718325509e-05,100.0,timeout,-8.84,-8.84,899.0,exit_bar=2026-11-02T02:44:00Z,mom
 2026-11-02T02:46:44Z,EXIT,3tzTs6ktN2yhHJ3ZcLPdksRt8CFUHmFJNokafkf1f5by,BACK / SOL,0,1.15782054907e-05,100.0,sl,-36.14,-36.14,899.0,exit_bar=2026-11-02T01:47:00Z,mom
+2026-11-02T02:48:22Z,ENTRY,8GoSkgZZvtvmZZyMyvgvzjLDGdUL4zXr6bHUJV5fwzfk,MUTTAPE / SOL,0,4.87246529363e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-7%,control
+2026-11-02T02:48:22Z,ENTRY,BRNWRp9315UarjtyoABZKrbzcjGA72qJttar3r2AkumE,THINKDECOR / SOL,0,3.69868512257e-05,100.0,research_failed,,,899.0,score=0.00 momentum=12%,mom
+2026-11-02T02:49:43Z,ENTRY,BHpfu1fjK12vwwg3B5RsUMW5zX72c26caAvzCspYrEVC,FOMO / SOL,0,2.53178298625e-05,100.0,research_failed,,,899.0,score=0.00 momentum=206%,mom
+2026-11-02T02:51:19Z,ENTRY,AkixCpbkXS4VZNieFqVg5YYBYSXTfjz3o14oioAZTcTA,Capybara / SOL,0,4.22671936474e-05,100.0,research_failed,,,899.0,score=0.00 momentum=93%,mom
+2026-11-02T02:52:40Z,EXIT,5nSvZxPpCPptLNkf2VkamytRvFEoojtSKcgTBgaFFAYR,meme / SOL,0,6.37296215886e-05,100.0,rug,22.37,22.37,899.0,exit_bar=2026-11-02T02:51:00Z,mom
+2026-11-02T02:52:40Z,ENTRY,3yYBiwxbxpyFU5vRNRbcRF2vmCziztbAcBy639H4PpnG,STEALTH / SOL,0,8.95455719304e-06,100.0,research_failed,,,899.0,score=0.00 momentum=25%,mom
+2026-11-02T02:52:40Z,ENTRY,GSEwkfWdRnw7GiFqU4n3CwTWdDj62B2ct4wGk4onkHoU,BLOBBO / SOL,0,1.60338792031e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-88%,control
+2026-11-02T02:54:15Z,EXIT,6FGaeAJ3HSHG9G11Pcuw8GUDNkk1s1GC4i3jmZbF52WP,UNI / SOL,0,4.71770592859e-05,100.0,timeout,-3.81,-3.81,899.0,exit_bar=2026-11-02T02:53:00Z,control
+2026-11-02T02:55:29Z,EXIT,9DQLPbqx7QfVAcLEQekztLU7gXV73zgBifMurkjvoQwv,Learjet / SOL,0,9.90693403202e-05,100.0,timeout,6.76,6.76,899.0,exit_bar=2026-11-02T02:54:00Z,control
+2026-11-02T02:55:29Z,ENTRY,5fMmY1KBo5uPrZts5sD6cC8ETLAS7DD1MpmzDBvnF6EM,BLOBBO / SOL,0,1.52717111444e-05,100.0,research_failed,,,899.0,score=0.00 momentum=27%,mom
+2026-11-02T02:57:05Z,EXIT,GzZAgXwapBvf7XJCkBwGpbbhAGy4unfaFsCahwimESRY,Gigachad / GIGA,0,2.03286907649e-05,100.0,timeout,-7.64,-7.64,899.0,exit_bar=2026-11-02T02:54:00Z,control
