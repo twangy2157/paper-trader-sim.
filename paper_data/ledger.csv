@@ -708,3 +708,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T18:15:56Z,ENTRY,EoZRpMBP3nQtfJiuWwJk7KSU3ogZcUxKBafNQB8QGJ3Y,SCRATCH / SOL,0,2.63590307849e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=6%,control
 2026-11-02T18:15:56Z,ENTRY,DN5w3eyXZ9ugeNzmYyTBLbuHrTRovBxQPuDbgJwNLqx2,HORSE / SOL,0,3.23764948924e-05,100.0,research_failed,,,898.5,score=0.00 momentum=181%,mom
 2026-11-02T18:17:25Z,EXIT,CGkvB4rrASJxhME2XknJnkGFWm4U2Qn2EtyKmMAwrt2e,$RENT / SOL,0,1.88663065076e-05,100.0,timeout,-8.25,-8.25,898.5,exit_bar=2026-11-02T18:16:00Z,control
+2026-11-02T18:18:55Z,ENTRY,92uvA5H4EdbMcrfnUF5XyfKQgdCz7ESYnX7W5rwn292n,OKKB / USDT,0,1.00058143928,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T18:20:24Z,EXIT,64aRecs97ffq2AgpYN5fmMe7B3WyDD1yDmyWTQWz3hj5,LosL / SOL,0,0.000884280620183,100.0,timeout,-4.85,-4.85,898.5,exit_bar=2026-11-02T18:19:00Z,mom
+2026-11-02T18:21:45Z,ENTRY,EvLBwRmN8MH2d5PNjD5vG8ozeVkiGx4FrHvjbxxuWSE9,SELFBET / SOL,0,1.94446497975e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-77%,control
+2026-11-02T18:24:42Z,EXIT,Bqd8p4vZxZMT8Jtic7xYJy2ztjYEpcTmPpjCsvYARYNf,CZ / SOL,0,0.000227762274904,100.0,sl,-100.02,-100.02,898.5,exit_bar=2026-11-02T17:23:00Z,mom
+2026-11-02T18:24:42Z,ENTRY,5ktRTT6ASpfr5hwLukXCsv446iArrN24fJ6AErftVzGH,SCORPION / SOL,0,8.50633864147e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T18:26:18Z,ENTRY,AmL6kQU9SBPy1RMShQz3jm9My36UGSQCS1t19HsSEuVG,Learjet 60 / SOL,0,3.84096192882e-05,100.0,research_failed,,,898.5,score=0.00 momentum=69%,mom
+2026-11-02T18:27:39Z,ENTRY,5HD2uQnXvefi4dDUEqNwJyo5L9xzg76bJ199sQkm97i9,horse / SOL,0,8.86887009385e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=8%,control
