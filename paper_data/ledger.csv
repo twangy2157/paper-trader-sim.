@@ -240,3 +240,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T02:24:45Z,ENTRY,7qSErHBi73TV954cYSrGchhKoBpTE9pnzu1MAwHCYgka,PREDICT / SOL,0,0.360900119066,100.0,research_failed,,,899.0,score=0.00 momentum=1642459%,mom
 2026-11-02T02:26:20Z,ENTRY,H3bABQcjsqB8hzeMpnyTfyLZouaabsVk4gvLJVcYLDiT,STEALTH / SOL,0,8.99764623197e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=8%,control
 2026-11-02T02:26:20Z,ENTRY,BgihyiLjxVkAf7wosz7t4krPYxxnNVsUh64WTVrH8amw,Learjet / SOL,0,8.87731673357e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=8%,control
+2026-11-02T02:27:43Z,ENTRY,H2ECCT2xTSzzaeNjV35MCCKo1yjNEXdnrvYxGLYqgazn,MEMECOINS / SOL,0,2.94634471803e-05,100.0,research_failed,,,899.0,score=0.00 momentum=146%,mom
+2026-11-02T02:29:18Z,ENTRY,22pmY5AndaLxSb2VjZbSDohUVYmXGBoJPQzhNJQqj5Mn,STEALTH / SOL,0,8.52512865241e-07,100.0,research_failed,,,899.0,score=0.00 momentum=82%,mom
+2026-11-02T02:30:39Z,ENTRY,3o3GLMZgYvyfBCK4YrGotPvtyMvtuAF7JWAzt6rKiBzx,PENGUIN / SOL,0,1.88783908958e-05,100.0,research_failed,,,899.0,score=0.00 momentum=60%,mom
+2026-11-02T02:30:39Z,ENTRY,FXD1q49oZkvCPBRaPzmTtD9TJjanEXR8XoLHCCuywn1v,Nuts / SOL,0,0.000107263559553,100.0,research_failed,,,899.0,score=0.00 momentum=110%,mom
+2026-11-02T02:32:14Z,EXIT,8Mjd1tBXALPjVcEv4PXUTM47iGzwWxjgqy6vHjr5qrn6,PREDICT / SOL,0,1.96545961638e-05,100.0,sl,-100.02,-100.02,899.0,exit_bar=2026-11-02T01:41:00Z,mom
+2026-11-02T02:33:28Z,ENTRY,7ZYFGxQWmY9zxAYk4HaG1KRscAoxLXpoHsK7oURRZ24t,JUMP / SOL,0,1.43599258398e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
+2026-11-02T02:34:56Z,ENTRY,4wzDkhz8BxNSvbsSJCYmFnLGZixC4cMecG7regrX5RUm,MEMECOINS / SOL,0,2.64414041245e-05,100.0,research_failed,,,899.0,score=0.00 momentum=244%,mom
+2026-11-02T02:34:56Z,ENTRY,9RtQrmMcLpM9NxqxNXHJchfwdfucryHbXMBudqtirD3X,MrBeastLab / USDC,0,3.54241425207e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=2%,control
+2026-11-02T02:36:25Z,ENTRY,4kawqdF3WnDy5ArwfrYmWsv2aK95QP5cQu2zGvjdLEcY,TrumpWars / SOL,0,7.61472101661e-05,100.0,research_failed,,,899.0,score=0.00 momentum=671%,mom
+2026-11-02T02:36:25Z,ENTRY,FCAdUF7LbsdJbFsQCGK3ZTxdYiXecbfbVugfZrds8FEN,WASTED / SOL,0,9.11707836209e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=8%,control
