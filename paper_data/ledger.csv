@@ -350,3 +350,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T04:18:14Z,EXIT,1TCKsogBcNZrVrtpvn2Yonp8Cv7Qdh8MEGEpBU4mGAg,PENGUIN / SOL,0,2.83289645419e-06,100.0,timeout,-7.02,-7.02,899.0,exit_bar=2026-11-02T04:16:00Z,control
 2026-11-02T04:19:28Z,ENTRY,55PKt84jZJtjbbjTByGwv9DBjsTQQxjtbX5pU1rmxyrx,‮DEKCOTS / SOL,0,0.000952050300998,100.0,research_failed,,,899.0,score=0.00 momentum=11%,mom
 2026-11-02T04:20:57Z,ENTRY,C9GMHJ5m6iea37kAv4Uq6wbnymmKaup85Tkbwh5BvvSt,Cryptocrat / SOL,0,4.02040466561e-05,100.0,research_failed,,,899.0,score=0.00 momentum=82%,mom
+2026-11-02T04:22:27Z,ENTRY,7nXvjxTySty6k6Dh6i9jaJJMsDDGDoSh2yZZ9q5gzMNR,DMT / SOL,0,3.21371131998e-05,100.0,research_failed,,,899.0,score=0.00 momentum=186%,mom
+2026-11-02T04:23:55Z,FAILED,GX2XUBuMqioeLhFxWasdbUyvc6rV2MGcaKVtMmfVhgvi,PEACE / SOL,0,9.56706290147e-05,0,tx_failed,-0.5,,899.0,"buy reverted, tip lost",mom
+2026-11-02T04:23:55Z,ENTRY,AJ56GHbWYAKzqjAJj9DzbS1giQr2fmW3Z8jFm7WoNrFK,ACC / OPENAI,0,8.30332879224e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=10%,control
+2026-11-02T04:25:24Z,ENTRY,8VaVTNvWcEmY4gVD7KFkHFabpnt3t57VLX3x27mzHZw1,Anakin / SOL,0,5.01513645068e-05,100.0,research_failed,,,899.0,score=0.00 momentum=19%,mom
+2026-11-02T04:26:45Z,EXIT,HJfYA4zdSapi68kSdgfpH4PugdFeSmWVQn1Ammmq2Yup,Cryptocrat / SOL,0,1.6258124061e-05,100.0,tp,-100.01,-100.01,899.0,exit_bar=2026-11-02T03:51:00Z,mom
+2026-11-02T04:28:35Z,ENTRY,CnWSexniMG3XLR6WabNpV4CGTJu2Qp6EYkPrE5jFY5gm,ACC / SOL,0,8.4175976794e-08,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-99%,control
+2026-11-02T04:30:10Z,EXIT,rKogjzgEhdeD29vZkgF99p1XFpxd2gfGvwmUEYnE38j,豹拉 / SOL,0,8.76140054613e-05,100.0,rug,-100.02,-100.02,899.0,exit_bar=2026-11-02T04:29:00Z,mom
+2026-11-02T04:31:24Z,ENTRY,HM6c5M1Kerh7HunmKofyLe23HPkkEhQKMEQBjQH6rJ1C,DEBT / SOL,0,7.22594153284e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
