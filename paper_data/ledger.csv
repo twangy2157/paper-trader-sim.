@@ -523,3 +523,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T13:23:41Z,ENTRY,DeJWvZvNN4DaBCpogW3QKq5sbwy3V1AgFE7XUnqry5MN,CLIPPED / SOL,0,2.72126310005e-05,100.0,research_failed,,,898.5,score=0.00 momentum=177%,mom
 2026-11-02T13:25:17Z,EXIT,FMJugaE4nsbv1sm2yQaqP5ArjLCwkF7NpR9mQpVZqjzY,PONK / SOL,0,1.9503163519e-05,100.0,tp,87.9,87.9,898.5,exit_bar=2026-11-02T07:14:00Z,control
 2026-11-02T13:26:38Z,ENTRY,7qGhrsn3h3gRj61qi2vhDjeMYzLQ6PriE9QdapNi1p3t,HALH / SOL,0,9.48090101562e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T13:30:58Z,ENTRY,9wTvdv82rnNPnuky7cQ7YjbBF8zduL1YexCdWsxuLWfk,DEVELOPER / SOL,0,1.50694898675e-05,100.0,research_failed,,,898.5,score=0.00 momentum=56%,mom
+2026-11-02T13:30:58Z,FAILED,FovMWxU7Jfd4xz79RQ93c4YxA73xLgN7avgEVRsRTCaM,DEVELOPER / SOL,0,9.62787754335e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",mom
+2026-11-02T13:32:26Z,ENTRY,3HyR32GRrEeQ3imByhwWg6vs7EcGDQmQVdt3ynK9MeXW,CC / SOL,0,4.07839674906e-05,100.0,research_failed,,,898.5,score=0.00 momentum=1158%,mom
+2026-11-02T13:36:29Z,ENTRY,8sheH5zNoS7UrNbaZ9J2vi7YkmD2ttj6deRrvpR2YG4Z,HACKCAT / MOGZ,0,5.36667884242e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T13:39:25Z,ENTRY,B5ccoeMGF72KHC9aq5wP3cTQAJ5UJhpswA5o4HbcykKW,FAGENT / SOL,0,3.2068938698e-05,100.0,research_failed,,,898.5,score=0.00 momentum=33%,mom
+2026-11-02T13:40:53Z,ENTRY,6SkZNkqpS2xtA2EiTDHpBF9MAT8Yr55RR1ANA4SP1wHc,POLARBEAR / SOL,0,1.38920075686e-05,100.0,research_failed,,,898.5,score=0.00 momentum=39%,mom
