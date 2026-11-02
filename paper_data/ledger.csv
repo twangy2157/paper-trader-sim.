@@ -230,3 +230,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T02:12:20Z,ENTRY,HMdtgtZzg6zvUy95dNe34vzbfd7FgbT8VKsEG4dcDDDM,lptp / SOL,0,7.50444000572e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
 2026-11-02T02:13:41Z,ENTRY,EQ4szPJs28Z2yfXoyHt1JSwNpaXswNcJ3ahhFNQGE7rC,박진혁 / SOL,0,0.0918644747031,100.0,research_failed,,,899.0,score=0.00 momentum=151865%,mom
 2026-11-02T02:15:16Z,EXIT,7gEEckBtqJfk7XF77NC4Pw5UDCZt8VdEgTXVpmtpq6cQ,Anakin / SOL,0,1.0981344287e-06,100.0,rug,-100.02,-100.02,899.0,exit_bar=2026-11-02T02:13:00Z,mom
+2026-11-02T02:16:32Z,ENTRY,4pFCFK6j9veCi8QWRz8vtyUUL3s3GDCR3XynjwPrThCc,STEALTH / SOL,0,4.10956142599e-06,100.0,control_no_momentum,,,899.0,score=0.00 momentum=-59%,control
+2026-11-02T02:16:32Z,ENTRY,5E5GQkLEkoSjgwip2uvcWMbXazB6uEvAzpf3W7FSp2k3,HANS / SOL,0,5.83461191427e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
+2026-11-02T02:18:00Z,EXIT,WBnjVkAj77pjrSdCwmSJXJ8GWLAYGCBhNyvacawgnH2,megatron / SOL,0,1.08012301484e-05,100.0,sl,-34.78,-34.78,899.0,exit_bar=2026-11-02T01:19:00Z,mom
+2026-11-02T02:19:14Z,ENTRY,9oWoJz3XP3ZMZMg6QivTnSRLSJ6nX7ohH7cyUUpHRvSL,$BWIZ / SOL,0,1.0453767633e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=0%,control
+2026-11-02T02:20:27Z,ENTRY,6YEkocasVTYfwnsmNuLvcNUQav4N4EJ3UJRbaNhnw1AT,MEMECOINS / SOL,0,2.26969902201e-05,100.0,research_failed,,,899.0,score=0.00 momentum=61%,mom
+2026-11-02T02:23:24Z,FAILED,FXak521MsJUXKhmUx1DtaazeQnCwhXd72Gr7984L1C78,TROPEDOBO / SOL,0,3.2670495629e-05,0,tx_failed,-0.5,,899.0,"buy reverted, tip lost",mom
+2026-11-02T02:24:45Z,EXIT,7wWHVeAatje5kDjze2CWEtZCgCYgXQQ1n7eG8Fi1HzqM,GNB / SOL,0,9.26303063531e-06,100.0,timeout,-8.88,-8.88,899.0,exit_bar=2026-11-02T02:23:00Z,control
+2026-11-02T02:24:45Z,ENTRY,7qSErHBi73TV954cYSrGchhKoBpTE9pnzu1MAwHCYgka,PREDICT / SOL,0,0.360900119066,100.0,research_failed,,,899.0,score=0.00 momentum=1642459%,mom
+2026-11-02T02:26:20Z,ENTRY,H3bABQcjsqB8hzeMpnyTfyLZouaabsVk4gvLJVcYLDiT,STEALTH / SOL,0,8.99764623197e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=8%,control
+2026-11-02T02:26:20Z,ENTRY,BgihyiLjxVkAf7wosz7t4krPYxxnNVsUh64WTVrH8amw,Learjet / SOL,0,8.87731673357e-05,100.0,control_no_momentum,,,899.0,score=0.00 momentum=8%,control
