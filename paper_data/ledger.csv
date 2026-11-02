@@ -675,3 +675,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T17:18:23Z,ENTRY,64aRecs97ffq2AgpYN5fmMe7B3WyDD1yDmyWTQWz3hj5,LosL / SOL,0,0.000894707031534,100.0,research_failed,,,898.5,score=0.00 momentum=25%,mom
 2026-11-02T17:22:41Z,ENTRY,Bqd8p4vZxZMT8Jtic7xYJy2ztjYEpcTmPpjCsvYARYNf,CZ / SOL,0,0.000325374678434,100.0,research_failed,,,898.5,score=0.00 momentum=521%,mom
 2026-11-02T17:22:41Z,FAILED,EAqok3vek2Y2d3TbxBKnuSma2y58TRPgYf8v15H1moz1,HC / SOL,0,9.50494787613e-06,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T17:24:19Z,EXIT,3CaPvrNSviPZtVibadTVVUMTTEyhssNtLfQWUg7dhGNy,FEAR / SOL,0,4.73743016121e-05,100.0,rug,-100.02,-100.02,898.5,exit_bar=2026-11-02T17:22:00Z,mom
+2026-11-02T17:25:41Z,EXIT,7Zq5zS6Cm9DdXVPfm9x6wsPUKExafx8Ygw1jU1QUqwXG,Promise / SOL,0,4.94805095724e-05,100.0,rug,-100.02,-100.02,898.5,exit_bar=2026-11-02T17:22:00Z,mom
+2026-11-02T17:27:17Z,ENTRY,AHQABvRoyBKYt6uvB4RiBBr6FZjQYGoJBK8ibMh1NbyC,USOE / SOL,0,0.158065080804,100.0,control_no_momentum,,,898.5,score=0.00 momentum=1%,control
+2026-11-02T17:27:17Z,ENTRY,HHfxdvtWPbmX2LEwmpS6JVjuf5sD5QL6sjy8rn7psSqZ,UDTF / SOL,0,0.0132366949357,100.0,control_no_momentum,,,898.5,score=0.00 momentum=2%,control
+2026-11-02T17:28:38Z,ENTRY,FtJ9WKdwYGRs3oZpW3o51X5DM9w7KUfeuYn74teE96gB,DEER / SOL,0,2.55742484771e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T17:30:13Z,EXIT,ETtxhbUp3T7bU4ouCbBuvY4mxT8hFpkA3nfvmSE3rMxQ,Promise / SOL,0,2.03043011046e-05,100.0,tp,91.47,91.47,898.5,exit_bar=2026-11-02T17:00:00Z,mom
+2026-11-02T17:31:34Z,ENTRY,35uvXihKhZCAY4cAzxTzJ5DETSJppCNCpDJ6h2MyiKtL,$PADO / SOL,0,1.26972691527e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T17:31:34Z,FAILED,D4aC8RfSNg7XnAmdtB5hyxFpmaASBytW2NwTXAecjMJG,Slingoor / SOL,0,8.59942454029e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T17:33:10Z,EXIT,3qJZo6UJiVq1e6TgfsdCJ6N2Sw4euJdruXZsjt9eTFLW,MAMESUKE / SOL,0,6.3732961473e-05,100.0,tp,-100.01,-100.01,898.5,exit_bar=2026-11-02T16:32:00Z,mom
