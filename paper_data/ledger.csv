@@ -418,3 +418,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T05:43:57Z,ENTRY,23dsBRJpcEEKMJRdy3p2NFC1jbzB3PnL1MQnqowprmPb,e / SOL,0,7.90786265523e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
 2026-11-02T05:45:26Z,EXIT,AgTPrnxbvAjkJ2HQ3G7AAsEfv3zYxG428DYFeVWwkxpg,SwordPepe / SOL,0,1.00418572681e-05,100.0,timeout,-9.23,-9.23,898.5,exit_bar=2026-11-02T05:43:00Z,control
 2026-11-02T05:45:26Z,FAILED,8fV6WUjjqrkyccTWkUSbeps38gXdff1shZ63zmj6svhZ,我靠 / SOL,0,9.49776431572e-07,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",mom
+2026-11-02T05:46:56Z,EXIT,GtEyC2htYUZkvRrr69KA6YXxPP5ncFsgCtQsqoUdLHLR,PEACE / SOL,0,5.20590420056e-05,100.0,sl,-100.04,-100.04,898.5,exit_bar=2026-11-02T04:47:00Z,mom
+2026-11-02T05:46:56Z,ENTRY,4FU7a3ddJGgUTQXZ7vqK7EzMvKKAa8V1APV6pbEAZzm6,faucet / SOL,0,1.14856220724e-05,100.0,research_failed,,,898.5,score=0.00 momentum=56%,mom
+2026-11-02T05:48:24Z,EXIT,49BZBspwth7aeP4PCRBWa32Di9cKJkjucjwWJ5PA8Pc4,ggg / SOL,0,3.29466453954e-05,100.0,timeout,-4.51,-4.51,898.5,exit_bar=2026-11-02T05:46:00Z,control
+2026-11-02T05:49:45Z,ENTRY,Asfvmd1oFaKCDsaGgh6AucUkvmnTgisVVeLKJRrKwVbj,0AGENT / SOL,0,1.45344739117e-05,100.0,research_failed,,,898.5,score=0.00 momentum=70%,mom
+2026-11-02T05:49:45Z,FAILED,9PdUcakKnryWDrP8gZmcZXwwXJwTLfAAL6LmdBiHj3fB,NEX Ai / SOL,0,2.58325960005e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",mom
+2026-11-02T05:51:21Z,EXIT,ELn8YPbvn3b4Uoi2ZMxEHt8YjEaW5zKZcfjB9mxbjV8n,LOL / SOL,0,5.01213177613e-05,100.0,tp,-100.01,-100.01,898.5,exit_bar=2026-11-02T05:19:00Z,mom
+2026-11-02T05:52:42Z,ENTRY,6cgusj9mD55VKmrZCPhtyK8Z98zoJQUDgM68JJpjrXau,AI / OPENAI,0,1.32256656077e-05,100.0,research_failed,,,898.5,score=0.00 momentum=32%,mom
+2026-11-02T05:52:42Z,ENTRY,BNkjwrMsRpnBj22z9m9MqVRj7VKjsM5abPJR3cud2ndQ,$GOAT / SOL,0,1.06534682196e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-33%,control
+2026-11-02T05:54:17Z,ENTRY,9anYRP17y4LVivKL7ej5oGVmcAHbEzNes2Jw4BoMmD2m,RICK / USDC,0,8.18337785231e-06,100.0,research_failed,,,898.5,score=0.00 momentum=14%,mom
+2026-11-02T05:54:17Z,ENTRY,J6sMe9wn8kbnEAKjzK7Xg4PBvV83pf5uAoE8wTFK5Spm,UAE / SOL,0,7.38034371709e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-79%,control
+2026-11-02T05:55:38Z,ENTRY,CQj3qa6LLhrWirj8L9mv34phCEgqGnJqtC79wLmXj1Mj,PEACE / SOL,0,9.26116746656e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=9%,control
+2026-11-02T05:55:38Z,ENTRY,4NUk7XjPqiau4FV27Wi424T7ZHMPqr5d1xDy5mL2dPVf,HALH / SOL,0,1.29625560136e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-20%,control
