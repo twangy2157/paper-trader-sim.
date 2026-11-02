@@ -748,3 +748,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T19:29:41Z,ENTRY,C67cY6pPdRUiHM6E4DTLSAa91emb3Xj7BChDPQqG7q23,GENESIS / SOL,0,2.62151825572e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-0%,control
 2026-11-02T19:31:17Z,ENTRY,EUegroHS7AV49CUn7x7ycMygDCypYse2dujbZAUiqqSe,ELONHOUSE / SOL,0,1.70289406244e-09,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-100%,control
 2026-11-02T19:32:38Z,ENTRY,8SuBrgG3cpLC9zc6juQb4HzZURPiJaHgJAsYmHdzES5N,PEPPER / SOL,0,1.59524293842e-05,100.0,research_failed,,,898.5,score=0.00 momentum=88%,mom
+2026-11-02T19:37:05Z,EXIT,2tBLuAUwVuPuQmrA3K479w3PAN3UWBHoaDQLmse6nfg9,SELFBET / SOL,0,5.52132779983e-05,100.0,rug,-100.02,-100.02,898.5,exit_bar=2026-11-02T19:36:00Z,mom
+2026-11-02T19:38:26Z,ENTRY,FWnXWCjfzWYkVTvSEAs3NppWChDaP1xteRyRu9J5Hruo,George / SOL,0,1.80236278127e-05,100.0,research_failed,,,898.5,score=0.00 momentum=37%,mom
