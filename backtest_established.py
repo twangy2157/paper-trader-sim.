@@ -65,9 +65,9 @@ def fetch(symbol, start_ms, cache):
     return [[float(x) for x in r] for r in rows]
 
 
-def synthetic(seed, n=24000, edge=0.0):
+def synthetic(seed, n=24000, edge=0.0, t0=1672531200000):
     rnd = random.Random(seed)
-    p, rows, t = 1.0, [], 1672531200000
+    p, rows, t = 1.0, [], t0
     for _ in range(n):
         r = rnd.gauss(edge, 0.012) * (3 if rnd.random() < 0.02 else 1)
         o = p
@@ -113,7 +113,7 @@ def net_ret(entry_open, exit_px):
     return sell / buy - 1
 
 
-def run(rows, rule):
+def run(rows, rule, open_out=None):
     t = [r[0] for r in rows]
     o, h, l, c = ([r[k] for r in rows] for k in (1, 2, 3, 4))
     n = len(rows)
@@ -160,8 +160,11 @@ def run(rows, rule):
                     exit_px = c[j]
                     break
             j += 1
-        if exit_px is None:
-            break                                            # still open at the end: ignore
+        if exit_px is None:                                  # still open at the end of the data
+            if open_out is not None:
+                open_out.append({"t": t[e], "entry": entry, "last": c[-1],
+                                 "ret": net_ret(entry, c[-1])})
+            break
         trades.append((t[e], net_ret(entry, exit_px)))
         i = max(j, i + 1)
     return trades
