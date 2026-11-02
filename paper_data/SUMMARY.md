@@ -2,34 +2,34 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-02T03:39:41Z. Bankroll cash (research-selected trades): 899.0. Open positions: 26. Pools on watchlist: 35.
+Updated 2026-11-02T03:51:09Z. Bankroll cash (research-selected trades): 899.0. Open positions: 22. Pools on watchlist: 44.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
 | research-picked | 1 | 0% | -101.0% | - | -101 |
-| momentum, not picked | 76 | 14% | -42.6% | -57 to -29 | -3243 |
-| all momentum | 77 | 14% | -43.3% | -57 to -29 | -3344 |
-| control | 53 | 9% | -12.5% | -23 to -2 | -668 |
+| momentum, not picked | 79 | 14% | -43.7% | -57 to -29 | -3458 |
+| all momentum | 80 | 14% | -44.4% | -58 to -30 | -3559 |
+| control | 58 | 14% | -9.0% | -20 to 1 | -529 |
 
 What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 | exit rule | momentum | control |
 |---|---|---|
-| base_sl30_tp100 | -46% (56, 18%) | -12% (53, 9%) |
-| wide_sl50_tp100 | -46% (56, 20%) | -14% (53, 9%) |
-| sl30_tp50 | -50% (56, 20%) | -16% (53, 9%) |
-| sl50_tp50 | -51% (56, 21%) | -15% (53, 11%) |
-| no_stop_tp100 | -46% (56, 20%) | -14% (53, 9%) |
+| base_sl30_tp100 | -47% (59, 17%) | -9% (58, 14%) |
+| wide_sl50_tp100 | -47% (59, 19%) | -10% (58, 14%) |
+| sl30_tp50 | -50% (59, 20%) | -13% (58, 14%) |
+| sl50_tp50 | -50% (59, 22%) | -12% (58, 16%) |
+| no_stop_tp100 | -48% (59, 19%) | -10% (58, 14%) |
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 3751. Outcomes:
+Pools seen: 3787. Outcomes:
 
-- missed_window: 2472
-- low_liquidity: 1054
-- no_momentum: 109
-- research_failed: 90
-- simulated failed buy: 25
+- missed_window: 2499
+- low_liquidity: 1058
+- no_momentum: 110
+- research_failed: 93
+- simulated failed buy: 26
 - research_passed: 1
 
-Warning: 16 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.
+Warning: 17 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.
