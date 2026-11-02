@@ -846,3 +846,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T21:47:25Z,FAILED,Af4bnnYJvDYbUTktqD2os3j3dKCNQvdMZC1K9gHw9Ct7,Otty / SOL,0,1.78959844942e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
 2026-11-02T21:48:53Z,EXIT,3G1wT4fuwWmFRhvbB88HEx6GqHu7frYcXK1C6vKZArfh,NER / SPCXx,0,1.97373577804e-05,100.0,timeout,-4.89,-4.89,898.5,exit_bar=2026-11-02T21:47:00Z,control
 2026-11-02T21:50:15Z,EXIT,nhioGQv9reQ1w2TrXxhxytNpgJcWn1DgJPn19kddc6g,FCC / SOL,0,1.78830345708e-05,100.0,timeout,-4.81,-4.81,898.5,exit_bar=2026-11-02T21:48:00Z,control
+2026-11-02T21:52:59Z,EXIT,26nhsMqsyNGYhxpVrrSCVn59ZKsdxrGzb9EXwdu6xS2K,HC / SOL,0,8.09516966839e-06,100.0,timeout,-8.91,-8.91,898.5,exit_bar=2026-11-02T21:51:00Z,control
+2026-11-02T21:54:28Z,ENTRY,3nNrUoUUhjqAB3Mpe8qKsudjVkqWP1ZfrvKA4AkBy9m7,Panthar / SOL,0,8.68434522828e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=8%,control
+2026-11-02T21:55:57Z,EXIT,B3fRMJXpThguNpSfM2SC5SxBGprd9PmKkAwcYn1G3pvw,Penny / SOL,0,1.78195938164e-05,100.0,timeout,-5.1,-5.1,898.5,exit_bar=2026-11-02T21:54:00Z,control
+2026-11-02T21:57:25Z,ENTRY,EcozAtZr7T58QeXykv2C6pDXU7vKFFkSG5JGrQWPLnye,NIU / MU,0,1.73506702916e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-4%,control
+2026-11-02T21:57:25Z,FAILED,A4UYdu4US6mjmNYy4agpE66aDMTVZQtiZwNNusW39ypd,ICAT / SPCXx,0,1.90864529783e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T22:01:29Z,ENTRY,C9f3EabgygPpHG9eWxu5nopaTjxY5tvaQXStqCWtgkVC,Don / DJT,0,1.90034138446e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T22:02:58Z,EXIT,517SyymSudcuPzjwj3KU7NExxawYjh697mYGy5j4jyra,CALLER / SOL,0,1.83999413653e-05,100.0,sl,-100.03,-100.03,898.5,exit_bar=2026-11-02T21:29:00Z,mom
