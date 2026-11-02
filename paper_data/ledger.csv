@@ -492,3 +492,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T07:11:25Z,EXIT,9f9jyivitJCxtBMHtKWfoMYb4rApKqDNzf3By7t3PxKU,我靠 / SOL,0,2.88258367189e-05,100.0,timeout,26.88,26.88,898.5,exit_bar=2026-11-02T07:10:00Z,mom
 2026-11-02T07:11:25Z,ENTRY,Db9TKZRYSgoPErKcpyRi65ZnprDXYKbdN2LwA6gpVjzF,NEEGY / SOL,0,0.000145772411647,100.0,control_no_momentum,,,898.5,score=0.00 momentum=2%,control
 2026-11-02T07:12:53Z,ENTRY,FMJugaE4nsbv1sm2yQaqP5ArjLCwkF7NpR9mQpVZqjzY,PONK / SOL,0,9.75158175952e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-5%,control
+2026-11-02T07:14:16Z,EXIT,HEPdLFXKJ6N3V8fowPSgchyutp3UbFctx9b7ceKMPwnA,WAR / SOL,0,7.83598816332e-05,100.0,tp,-100.01,-100.01,898.5,exit_bar=2026-11-02T06:44:00Z,mom
