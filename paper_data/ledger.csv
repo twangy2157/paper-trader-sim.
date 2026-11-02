@@ -853,3 +853,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T21:57:25Z,FAILED,A4UYdu4US6mjmNYy4agpE66aDMTVZQtiZwNNusW39ypd,ICAT / SPCXx,0,1.90864529783e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
 2026-11-02T22:01:29Z,ENTRY,C9f3EabgygPpHG9eWxu5nopaTjxY5tvaQXStqCWtgkVC,Don / DJT,0,1.90034138446e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
 2026-11-02T22:02:58Z,EXIT,517SyymSudcuPzjwj3KU7NExxawYjh697mYGy5j4jyra,CALLER / SOL,0,1.83999413653e-05,100.0,sl,-100.03,-100.03,898.5,exit_bar=2026-11-02T21:29:00Z,mom
+2026-11-02T22:04:36Z,ENTRY,69D9HK8FJ9dQPi9ZeHWP1sYumhs3iXaNaHFFJ2fdohaH,CATO / SOL,0,3.25923231214e-05,100.0,research_failed,,,898.5,score=0.00 momentum=52%,mom
+2026-11-02T22:06:12Z,EXIT,BwZeMFgiKkTouhu4mc1okotzKUMmvGBVu5HH5yz59vZz,forkhub / SOL,0,3.4681272858e-05,100.0,sl,-55.44,-55.44,898.5,exit_bar=2026-11-02T21:05:00Z,mom
+2026-11-02T22:07:34Z,ENTRY,9RLK3kuCTRa7MdCKp9nVCWzJfhWfWJitjVstY7eTfAEb,Gemini / SOL,0,0.000148981864838,100.0,research_failed,,,898.5,score=0.00 momentum=42%,mom
+2026-11-02T22:09:09Z,EXIT,2a4QUPrk6VCnqqcutz2HVgviEp3rw9rqgH57XGzQh4wn,FHC / SOL,0,8.02180233678e-06,100.0,timeout,-8.85,-8.85,898.5,exit_bar=2026-11-02T22:07:00Z,control
+2026-11-02T22:10:23Z,ENTRY,DHTpJiAJMMdWQvNt6CEXP18dSo7vE1oyPSWUmBNw9ywT,ZERO / SOL,0,0.00016497860614,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-15%,control
+2026-11-02T22:11:44Z,EXIT,85J1KqUqNteGXyWqKw1k9jiXAtLTLxK2MtN2PcZH292C,SINK / SOL,0,1.8099477502e-05,100.0,timeout,-6.75,-6.75,898.5,exit_bar=2026-11-02T22:10:00Z,control
