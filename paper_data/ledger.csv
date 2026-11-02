@@ -772,3 +772,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T20:14:23Z,EXIT,EPH5VkW3E1NdjhHoz2y33RVZmHkYbEeFA7D68RL7EX3t,RICK / USDC,0,8.31325506395e-06,100.0,timeout,-8.58,-8.58,898.5,exit_bar=2026-11-02T20:11:00Z,control
 2026-11-02T20:15:44Z,ENTRY,4bA1NrYA2WVzbdcS84Ru9zmpp3LjHDGSJy5DQ8kW58qE,红果短剧 / SOL,0,0.00012288469046,100.0,proven_pool,,,898.5,age=127min,proven
 2026-11-02T20:15:44Z,ENTRY,2PtAMp1Bxv7kb6pumQNEjxug1DX7zSPXyjDziJr5APBC,Hedge / GLDx,0,2.1424007761e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-4%,control
+2026-11-02T20:17:22Z,FAILED,9tCuYEHHM5AmxZaGTA6RsSJG5GUUnhbJK5eknXpRMYdh,SFLOAT / USDC,0,1.98348275141e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T20:18:43Z,EXIT,1AsyHqH9nrLQKXD9YDYyNEPD8cnkZSJxsjfEBBfz9zM,RICK / USDC,0,1.21007196479e-05,100.0,timeout,-9.59,-9.59,898.5,exit_bar=2026-11-02T20:17:00Z,control
+2026-11-02T20:18:43Z,ENTRY,EfEnUUApWe9qYkPoskKW2mGAc93MHzqFAX2PqvUQ3eGt,SXSN / SOL,0,8.2420666781e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T20:20:18Z,ENTRY,7mSJZmQQ8qrAyq2LfcaBwtbDLiWRnHJF73sjtv6qZUrG,Juan / USDC,0,2.08249912884e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-1%,control
+2026-11-02T20:20:18Z,ENTRY,DZvF5xju7Fg33UL82H2XQ8DqQyKk8PQG8UEUBENx7cd3,CHUD / SOL,0,8.46201107689e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T20:21:39Z,ENTRY,FTSHojWi18u7ShWoZd1jbe7SQHMA44NFPQfuZJe8ovAb,$COO / SOL,0,7.46837438567e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-0%,control
+2026-11-02T20:21:39Z,ENTRY,9bpCmC5euCu2iKAzkZUHSkG4i9NFYY6zoHXP5k88PQwL,WSP / SOL,0,0.00205237747425,100.0,research_failed,,,898.5,score=0.00 momentum=69%,mom
+2026-11-02T20:23:15Z,EXIT,2ZdCSAhSjP76MBbgoL3o49ZGYXaXZvAv6wdqyZXtT3J4,CAPYTISTAS / SOL,0,2.43718242934e-05,100.0,timeout,21.42,21.42,898.5,exit_bar=2026-11-02T20:21:00Z,control
+2026-11-02T20:24:29Z,ENTRY,GvS7buu8mj5VoyDiy81t2eS378ywJJM7eV7SwbqUtEkW,qatarlson / SOL,0,1.87368029515e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-1%,control
+2026-11-02T20:24:29Z,ENTRY,DZp9C4zcAWsBur9GTJgAXgCpAwr7JtBGKr3cSCXZNk4D,DRAC / SOL,0,9.95971653206e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-6%,control
