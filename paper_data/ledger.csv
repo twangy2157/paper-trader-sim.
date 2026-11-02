@@ -812,3 +812,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T21:04:45Z,ENTRY,BwZeMFgiKkTouhu4mc1okotzKUMmvGBVu5HH5yz59vZz,forkhub / SOL,0,7.0990441382e-05,100.0,research_failed,,,898.5,score=0.00 momentum=83%,mom
 2026-11-02T21:06:21Z,ENTRY,2a4QUPrk6VCnqqcutz2HVgviEp3rw9rqgH57XGzQh4wn,FHC / SOL,0,8.27753692852e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
 2026-11-02T21:07:42Z,EXIT,Gn5z3PnaeKhvi3fu9Aj612sEKqYH8Azi5futAH646vro,dogbaton / SOL,0,1.06118950959e-05,100.0,timeout,-7.46,-7.46,898.5,exit_bar=2026-11-02T21:06:00Z,control
+2026-11-02T21:09:20Z,ENTRY,85J1KqUqNteGXyWqKw1k9jiXAtLTLxK2MtN2PcZH292C,SINK / SOL,0,1.86241340527e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-43%,control
+2026-11-02T21:10:41Z,EXIT,42qW3n6iAZ2Zb5WE7wbiRpErPf8e1qG2HyjmSwAxzPtJ,Know / SOL,0,6.54982756497e-06,100.0,timeout,-10.02,-10.02,898.5,exit_bar=2026-11-02T21:09:00Z,control
+2026-11-02T21:10:41Z,FAILED,4DuuYXpNS82WuLCp5MoHJdE2NoWvsmuaYsvv9VTyh2YV,MeiMei / SOL,0,2.33157165673e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T21:13:31Z,ENTRY,H1g7Jri8vPYauh36fnyi3WHSktU8Cfcpka5YGem6MmB1,Karma / SOL,0,3.30331506739e-05,100.0,research_failed,,,898.5,score=0.00 momentum=68%,mom
+2026-11-02T21:16:27Z,ENTRY,4JHrXggU821yZMtXAxd7BMK6vRQ6nAEqcvRxQY3zPhqY,unvampable / SOL,0,1.96779721605e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=1%,control
+2026-11-02T21:16:27Z,ENTRY,6AfqqAEYGb2bkiH8L2vmcDP6PexRNe5deNe8G7GnvrzR,LMC / SOL,0,8.20362848251e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T21:17:55Z,EXIT,2PtAMp1Bxv7kb6pumQNEjxug1DX7zSPXyjDziJr5APBC,Hedge / GLDx,0,1.93701275444e-05,100.0,timeout,-13.19,-13.19,898.5,exit_bar=2026-11-02T21:16:00Z,control
+2026-11-02T21:17:55Z,ENTRY,HzLtx7fH2UZhL2axMMJEFwbfHtV8TPbMYyGb2e8NFcTr,Float / SOL,0,1.81419893204e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T21:17:55Z,ENTRY,3NaPVELf5qoobNZ8CWMhq7uaVvK97RHTi8byvo84MiGF,MoonPepe / SPCXx,0,2.15595887575e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-3%,control
