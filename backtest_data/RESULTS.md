@@ -1,7 +1,7 @@
 # Established memecoin backtest
 
 SIMULATION ONLY. Hourly bars, fixed rules, 0.30% round-trip costs.
-Updated 2026-11-02 02:41Z. Coins loaded: DOGE, SHIB, PEPE, BONK, WIF, FLOKI.
+Updated 2026-11-02 03:01Z. Coins loaded: DOGE, SHIB, PEPE, BONK, WIF, FLOKI.
 
 ## All coins pooled (return per trade, after costs)
 
@@ -20,10 +20,10 @@ Updated 2026-11-02 02:41Z. Coins loaded: DOGE, SHIB, PEPE, BONK, WIF, FLOKI.
 |---|---|---|---|---|
 | DOGE | -51% | -38% (35) | 32% (21) | -46% (62) |
 | SHIB | -63% | -42% (32) | 67% (14) | -64% (64) |
-| PEPE | -58% | -22% (38) | -7% (34) | -44% (57) |
+| PEPE | -59% | -22% (38) | -7% (34) | -44% (57) |
 | BONK | -85% | -46% (32) | 4% (39) | -64% (49) |
-| WIF | -75% | -17% (27) | 26% (34) | -54% (48) |
-| FLOKI | -72% | -49% (37) | 15% (34) | -56% (53) |
+| WIF | -76% | -17% (27) | 26% (34) | -54% (48) |
+| FLOKI | -73% | -49% (37) | 15% (34) | -56% (53) |
 
 Cells show total return (number of trades). Buy & hold is the benchmark: a rule
 that earns less than holding the coin, with similar risk, adds nothing.
