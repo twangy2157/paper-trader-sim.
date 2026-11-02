@@ -487,14 +487,14 @@ def group_stats(label, exits, fails):
     rets = [float(r["ret_pct"]) for r in exits]
     pnl = sum(float(r["pnl_usd"]) for r in exits) + sum(float(r["pnl_usd"]) for r in fails)
     if not rets:
-        return f"| {label} | 0 | - | - | - | {pnl:.2f} | {len(fails)} |"
-    ci = ""
+        return f"| {label} | 0 | - | - | - | {pnl:.0f} |"
+    ci = "-"
     if len(rets) > 5:
         lo, hi = boot_ci(rets)
-        ci = f"[{lo:.1f}, {hi:.1f}]"
+        ci = f"{lo:.0f} to {hi:.0f}"
     wins = 100 * sum(r > 0 for r in rets) / len(rets)
     return (f"| {label} | {len(rets)} | {wins:.0f}% | {statistics.mean(rets):.1f}% | "
-            f"{ci or '-'} | {pnl:.2f} | {len(fails)} |")
+            f"{ci} | {pnl:.0f} |")
 
 
 def write_summary(out):
@@ -511,25 +511,26 @@ def write_summary(out):
              f"Updated {iso(time.time())}. Bankroll cash (research-selected trades): "
              f"{st.get('cash', 'n/a')}. Open positions: {len(st.get('open', {}))}. "
              f"Pools on watchlist: {len(st.get('watch', {}))}.", "",
-             "| group | closed | win rate | avg return | 95% CI of avg | total P&L $ | failed buys |",
-             "|---|---|---|---|---|---|---|",
-             group_stats("filter=1 (research-selected)", [r for r in mex if r["filter"] == "1"],
+             "| group | n | win | avg | CI | P&L $ |",
+             "|---|---|---|---|---|---|",
+             group_stats("research-picked", [r for r in mex if r["filter"] == "1"],
                          [r for r in mfl if r["filter"] == "1"]),
-             group_stats("filter=0 (momentum only)", [r for r in mex if r["filter"] == "0"],
+             group_stats("momentum, not picked", [r for r in mex if r["filter"] == "0"],
                          [r for r in mfl if r["filter"] == "0"]),
-             group_stats("all momentum entries", mex, mfl),
-             group_stats("control (no momentum rule)", cex, cfl), ""]
+             group_stats("all momentum", mex, mfl),
+             group_stats("control", cex, cfl), ""]
     var = read_csv(os.path.join(out, "variants.csv"))
     if var:
-        lines += ["What-if exit rules on the SAME trades (stop-loss / take-profit):", "",
-                  "| group | exit rule | trades | win rate | avg return |", "|---|---|---|---|---|"]
-        for g in ("mom", "control"):
-            for v in VARIANTS:
-                rs = [float(r["ret_pct"]) for r in var if r["group"] == g and r["variant"] == v]
-                if rs:
-                    lines.append(f"| {g} | {v} | {len(rs)} | "
-                                 f"{100 * sum(x > 0 for x in rs) / len(rs):.0f}% | "
-                                 f"{statistics.mean(rs):.1f}% |")
+        lines += ["What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).", "",
+                  "| exit rule | momentum | control |", "|---|---|---|"]
+        def cell(g, v):
+            rs = [float(r["ret_pct"]) for r in var if r["group"] == g and r["variant"] == v]
+            if not rs:
+                return "-"
+            return (f"{statistics.mean(rs):.0f}% ({len(rs)}, "
+                    f"{100 * sum(x > 0 for x in rs) / len(rs):.0f}%)")
+        for v in VARIANTS:
+            lines.append(f"| {v} | {cell('mom', v)} | {cell('control', v)} |")
         lines.append("")
     n1 = sum(1 for r in mex if r["filter"] == "1")
     lines.append("Verdict: " + ("NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI "
@@ -595,7 +596,7 @@ def main(argv=None):
         c.add_argument("--max-calls", type=int, default=45)
         c.add_argument("--max-seconds", type=float, default=420, help="stop and save after this long")
         c.add_argument("--max-resolve", type=int, default=99, help="closes per cycle (they cost 2 calls)")
-        c.add_argument("--prefilter-liq", type=float, default=2500,
+        c.add_argument("--prefilter-liq", type=float, default=4000,
                        help="don't watch pools whose first-seen liquidity is below this")
         c.add_argument("--sleep", type=float, default=7.0, help="seconds between requests")
         c.add_argument("--backoff", type=float, default=65.0, help="wait after a 429")
