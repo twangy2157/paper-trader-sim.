@@ -789,3 +789,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T20:33:21Z,EXIT,EUegroHS7AV49CUn7x7ycMygDCypYse2dujbZAUiqqSe,ELONHOUSE / SOL,0,1.10255230485e-09,100.0,sl,-100.03,-100.03,898.5,exit_bar=2026-11-02T19:43:00Z,control
 2026-11-02T20:34:42Z,EXIT,8SuBrgG3cpLC9zc6juQb4HzZURPiJaHgJAsYmHdzES5N,PEPPER / SOL,0,1.50508003963e-05,100.0,rug,-100.02,-100.02,898.5,exit_bar=2026-11-02T20:33:00Z,mom
 2026-11-02T20:36:18Z,ENTRY,4o2t35qKd7Smw5UeB9eSFqdHg1Lz7znnPXQej7QKFgbS,XDUCK / SPCXx,0,2.0043879197e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-5%,control
+2026-11-02T20:37:41Z,ENTRY,ishEsmyWEtrSksuaFP9xC16zy1w3ujV3idWACsNyriC,HEDGE / USDC,0,0.000233157761304,100.0,research_failed,,,898.5,score=0.00 momentum=57%,mom
+2026-11-02T20:40:30Z,EXIT,FWnXWCjfzWYkVTvSEAs3NppWChDaP1xteRyRu9J5Hruo,George / SOL,0,1.73518530033e-05,100.0,timeout,-7.41,-7.41,898.5,exit_bar=2026-11-02T20:39:00Z,mom
+2026-11-02T20:42:06Z,ENTRY,8CkavFt1JPALvwaWHH73WEg5BcM2TMArFy1Up2WPLPxV,Fcon / USDC,0,9.89829846251e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T20:42:06Z,FAILED,22gbr9Z2oSMLTz6HJKMuqzxWbcceDoqDBEoW9rEdf9XC,SCRVAN / SOL,0,1.18760986408e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T20:42:06Z,FAILED,68Jk1kXxck1pPcoNindKedzvgnfvvsbgVjrNp1B8oKLE,QPF / MCDx,0,2.09296280582e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T20:43:27Z,ENTRY,GRC7YqiXrwjNFmNidKdZd1MoE5H4TkrWkkjrwZzTBkyp,cap / SOL,0,1.33268056935e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T20:46:23Z,FAILED,FT2YKAiMGQdD3BvnBdAVxPJqLnxLsBYjfFPNHcDsNXLh,EVIL / SOL,0,7.38975779991e-06,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-02T20:46:23Z,ENTRY,3G1wT4fuwWmFRhvbB88HEx6GqHu7frYcXK1C6vKZArfh,NER / SPCXx,0,1.99322853519e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control

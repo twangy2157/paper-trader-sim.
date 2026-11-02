@@ -1654,3 +1654,8 @@ EUegroHS7AV49CUn7x7ycMygDCypYse2dujbZAUiqqSe,control,0,no_stop_tp100,rug,-100.04
 8SuBrgG3cpLC9zc6juQb4HzZURPiJaHgJAsYmHdzES5N,mom,0,sl30_tp50,rug,-100.02
 8SuBrgG3cpLC9zc6juQb4HzZURPiJaHgJAsYmHdzES5N,mom,0,sl50_tp50,rug,-100.02
 8SuBrgG3cpLC9zc6juQb4HzZURPiJaHgJAsYmHdzES5N,mom,0,no_stop_tp100,rug,-100.02
+FWnXWCjfzWYkVTvSEAs3NppWChDaP1xteRyRu9J5Hruo,mom,0,base_sl30_tp100,timeout,-7.41
+FWnXWCjfzWYkVTvSEAs3NppWChDaP1xteRyRu9J5Hruo,mom,0,wide_sl50_tp100,timeout,-7.41
+FWnXWCjfzWYkVTvSEAs3NppWChDaP1xteRyRu9J5Hruo,mom,0,sl30_tp50,timeout,-7.41
+FWnXWCjfzWYkVTvSEAs3NppWChDaP1xteRyRu9J5Hruo,mom,0,sl50_tp50,timeout,-7.41
+FWnXWCjfzWYkVTvSEAs3NppWChDaP1xteRyRu9J5Hruo,mom,0,no_stop_tp100,timeout,-7.41
