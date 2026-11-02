@@ -806,3 +806,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T20:54:53Z,EXIT,BoUrsjqd6Enu7SvyfcYnvCrzxUj3SW92o4PhZ7cggKKo,God's Frog / SOL,0,3.67070932537e-09,100.0,rug,-100.02,-100.02,898.5,exit_bar=2026-11-02T20:53:00Z,control
 2026-11-02T20:56:14Z,EXIT,5Qe9R27JTSwVJGkdbwBJXBiKVz72syD22bQ1Wfm9x3rP,SNP / SPYx,0,1.93519890258e-05,100.0,timeout,-4.95,-4.95,898.5,exit_bar=2026-11-02T20:54:00Z,control
 2026-11-02T20:57:28Z,FAILED,2rYjqMJFpWT5TdyptD66AgggTiUE4WtEmovpkE1mAxdj,NEX Ai / SOL,0,4.18973625819e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",mom
+2026-11-02T20:58:58Z,EXIT,HrCHz7VJcR3o9PHxdJuw3Dsu37ZkS9yKNW3V2MieKN4U,CAPY / SOL,0,6.29175757548e-05,100.0,tp,-100.01,-100.01,898.5,exit_bar=2026-11-02T20:17:00Z,mom
+2026-11-02T21:00:27Z,ENTRY,517SyymSudcuPzjwj3KU7NExxawYjh697mYGy5j4jyra,CALLER / SOL,0,3.18764506292e-05,100.0,research_failed,,,898.5,score=0.00 momentum=257%,mom
+2026-11-02T21:01:55Z,EXIT,EDt5nUuak6LaefSsk3KbrcfkiaWjrWMU5oWZCnv6GJWt,CAPYTISTA / DOGE,0,1.83746429684e-05,100.0,timeout,-7.82,-7.82,898.5,exit_bar=2026-11-02T21:00:00Z,control
+2026-11-02T21:04:45Z,ENTRY,BwZeMFgiKkTouhu4mc1okotzKUMmvGBVu5HH5yz59vZz,forkhub / SOL,0,7.0990441382e-05,100.0,research_failed,,,898.5,score=0.00 momentum=83%,mom
+2026-11-02T21:06:21Z,ENTRY,2a4QUPrk6VCnqqcutz2HVgviEp3rw9rqgH57XGzQh4wn,FHC / SOL,0,8.27753692852e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T21:07:42Z,EXIT,Gn5z3PnaeKhvi3fu9Aj612sEKqYH8Azi5futAH646vro,dogbaton / SOL,0,1.06118950959e-05,100.0,timeout,-7.46,-7.46,898.5,exit_bar=2026-11-02T21:06:00Z,control
