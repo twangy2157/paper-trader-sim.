@@ -537,3 +537,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T13:50:29Z,ENTRY,3xwP7d3zWcg8wBghDc9JiRnEC2jjcBVLsvjnfSGe1pfB,PEACE / SOL,0,3.9450276884e-05,100.0,research_failed,,,898.5,score=0.00 momentum=48%,mom
 2026-11-02T13:50:29Z,ENTRY,Ey4zBKyzfBhx99TmazKcpFmUfm9tfZarrxNr5WJ1JKY5,BEAST / SOL,0,0.000181066938642,100.0,research_failed,,,898.5,score=0.00 momentum=57%,mom
 2026-11-02T13:51:57Z,ENTRY,4WqB7GExePkQwTtAwViWxWFwV3pF86g4EqZucP4jgYid,MAMESUKE / SOL,0,3.61864710407e-05,100.0,research_failed,,,898.5,score=0.00 momentum=23%,mom
+2026-11-02T13:57:45Z,ENTRY,GqUWNxWSJJB31o112rAz6xSAAQJJejLeNWgErQ5SfkoK,ANTH / SOL,0,0.000144553853615,100.0,research_failed,,,898.5,score=0.00 momentum=17%,mom
+2026-11-02T13:57:45Z,ENTRY,3e674sz551HEo388fuch89QA1Ve4fvKyJTW7YMVhLWAv,FOREVER / SOL,0,3.02866496898e-05,100.0,research_failed,,,898.5,score=0.00 momentum=31%,mom
+2026-11-02T13:59:20Z,ENTRY,GtZBpaiAv9yh1GRb3SC283zWtJwfd58eVdkGmRU7pkBp,HongKong / USDT,0,1.03932918975,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T14:02:16Z,EXIT,6UtXJK3vmpfnr1z9yANcuAhEzgPPM13W444TVvuDQDyb,ch / SOL,0,8.11255167755e-06,100.0,timeout,-8.85,-8.85,898.5,exit_bar=2026-11-02T14:00:00Z,control
