@@ -684,3 +684,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T17:31:34Z,ENTRY,35uvXihKhZCAY4cAzxTzJ5DETSJppCNCpDJ6h2MyiKtL,$PADO / SOL,0,1.26972691527e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
 2026-11-02T17:31:34Z,FAILED,D4aC8RfSNg7XnAmdtB5hyxFpmaASBytW2NwTXAecjMJG,Slingoor / SOL,0,8.59942454029e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
 2026-11-02T17:33:10Z,EXIT,3qJZo6UJiVq1e6TgfsdCJ6N2Sw4euJdruXZsjt9eTFLW,MAMESUKE / SOL,0,6.3732961473e-05,100.0,tp,-100.01,-100.01,898.5,exit_bar=2026-11-02T16:32:00Z,mom
+2026-11-02T17:34:28Z,EXIT,2X9SLjCZmUoQAQSXHMxJhYCYfw7ZUQbkRYXtkfjvH4y2,Zitcoin / WBTC,0,6.37174593094e-06,100.0,sl,-61.06,-61.06,898.5,exit_bar=2026-11-02T16:32:00Z,mom
+2026-11-02T17:34:28Z,ENTRY,CKuwAXUbnxmeCNurN5VvyC7kLz42JnQtyh2nyFJ8Kv1X,PIRATE / SOL,0,3.76090568137e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=9%,control
+2026-11-02T17:35:56Z,ENTRY,6yyQZpd7usYfMUUdL1ux35VbQUXxYAGrm3hBQMPSzVii,Nulo / SOL,0,1.47781053751e-05,100.0,research_failed,,,898.5,score=0.00 momentum=59%,mom
+2026-11-02T17:38:53Z,FAILED,81qj9DZGXrAcgjLMXEsRCRp6qdSnb7E7xUnY5ShBsrE5,Slingoor / SOL,0,7.91133680205e-07,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",mom
+2026-11-02T17:40:24Z,ENTRY,38AcJo1t6zUipGkkZbz4LTvpzF1dLySr3c9fV1ZytxNB,arm / SOL,0,1.17001475132e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T17:41:45Z,FAILED,AJ8szYed1k5ejXrNufwApQ44Zj7RVa4izejhQkvY1p9B,BEAST / SOL,0,7.61936026333e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",mom
+2026-11-02T17:43:14Z,EXIT,8LBcg5Duxb7BD8SQi6Wp2H1DYTePM6ePcwvQdhmNxykS,RICO / SOL,0,0.120979650808,100.0,rug,-100.02,-100.02,898.5,exit_bar=2026-11-02T17:42:00Z,mom
