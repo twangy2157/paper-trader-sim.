@@ -884,3 +884,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T22:52:09Z,ENTRY,2Gz64qBvU54vWTNdTBCBd9dtKq52TPkpFhHpM8x1FFfn,SINTER / SOL,0,2.06967303829e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-2%,control
 2026-11-02T22:56:07Z,EXIT,3nNrUoUUhjqAB3Mpe8qKsudjVkqWP1ZfrvKA4AkBy9m7,Panthar / SOL,0,9.29313239505e-05,100.0,rug,-100.02,-100.02,898.5,exit_bar=2026-11-02T22:55:00Z,control
 2026-11-02T22:56:07Z,ENTRY,8X2gBrrRwa1MCBRAZ8Gk6Z8ZNBp5NVbjus4kKmyn24Bm,Job / SOL,0,1.87191271957e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-2%,control
+2026-11-02T23:01:20Z,EXIT,EcozAtZr7T58QeXykv2C6pDXU7vKFFkSG5JGrQWPLnye,NIU / MU,0,1.71529212819e-05,100.0,timeout,-5.2,-5.2,898.5,exit_bar=2026-11-02T22:58:00Z,control
+2026-11-02T23:05:11Z,EXIT,C9f3EabgygPpHG9eWxu5nopaTjxY5tvaQXStqCWtgkVC,Don / DJT,0,1.88052404788e-05,100.0,timeout,-5.01,-5.01,898.5,exit_bar=2026-11-02T23:02:00Z,control
+2026-11-02T23:06:25Z,EXIT,69D9HK8FJ9dQPi9ZeHWP1sYumhs3iXaNaHFFJ2fdohaH,CATO / SOL,0,6.51846462427e-05,100.0,tp,93.94,93.94,898.5,exit_bar=2026-11-02T22:52:00Z,mom
