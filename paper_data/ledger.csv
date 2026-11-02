@@ -457,3 +457,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-02T06:27:17Z,EXIT,54xmHzforxehtojv5P4i6qyAPbNdXZHjHgxYuEv9oN7N,LMAO / SOL,0,3.18149754831e-05,100.0,timeout,-4.54,-4.54,898.5,exit_bar=2026-11-02T06:26:00Z,mom
 2026-11-02T06:28:30Z,ENTRY,De4QXuakVUrintDSyAfJu2LPdXC3oyNoqLmGwHGQLCia,BOOM / SOL,0,0.000136996069004,100.0,control_no_momentum,,,898.5,score=0.00 momentum=5%,control
 2026-11-02T06:28:30Z,ENTRY,H4XeZRkcazcGqUeusRMimoEouNGVsBDsySx7PcYwVhDz,USOE / SOL,0,0.66290072006,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T06:30:08Z,ENTRY,EfjCqAxB46Hp6MVjFhAUKn6bupECq1cBHYmKgpzYhNru,NEX Ai / SOL,0,3.70027380407e-05,100.0,research_failed,,,898.5,score=0.00 momentum=53%,mom
+2026-11-02T06:30:08Z,ENTRY,H58fTGHTcadr2pVAkLEvhXm3yVMa1D66nCDzGfrjMe1q,$RATBOT / SOL,0,7.8147172166e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T06:31:29Z,ENTRY,H161CPGcAithPgS9uRvDvWTLLBh3aXy4hNdX5eMirfdS,0agent / SOL,0,8.84902112315e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=9%,control
+2026-11-02T06:31:29Z,ENTRY,3WDGJoszo8Cww5apvtCsrXccXfS5f8cXG12bfSKnNFU4,SAFU / SOL,0,2.86986726437e-05,100.0,research_failed,,,898.5,score=0.00 momentum=32%,mom
+2026-11-02T06:32:57Z,FAILED,2XCwVGN9LJd3UbnA4S7yFeDmaCZpcgyE52vEJAojcWfK,CI / WBTC,0,3.34956902479e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",mom
+2026-11-02T06:34:25Z,EXIT,Bis2SpMPvER7ghGbceaTowfbWQyXN8eDFU3hGFfHV7Ns,RustCat / SOL,0,7.26492424521e-05,100.0,timeout,-6.42,-6.42,898.5,exit_bar=2026-11-02T06:33:00Z,mom
+2026-11-02T06:37:15Z,EXIT,CJA4qxCET2eYfPZRqcLprwCU3ZevXgdkfo9139YSQf7u,LOL / SOL,0,6.54287349069e-05,100.0,tp,-100.01,-100.01,898.5,exit_bar=2026-11-02T05:51:00Z,mom
+2026-11-02T06:38:29Z,ENTRY,DQLNRGuwKd3KU4aP8Shkn4fV9qc3mo4bi6Tec1v8xeFE,Fox / SOL,0,1.03914599528e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-02T06:38:29Z,ENTRY,8RWmc3W83i6bshia7stjwgDPactyozEfyjFMf3NhWW47,AASS / USDC,0,1.05151292218,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
