@@ -990,3 +990,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T01:43:25Z,ENTRY,HhXXFWZKg7hReNHojsFK1rhzWef9tQahUwa7uqL97scb,MAMESUKE / SOL,0,3.62134545568e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
 2026-11-03T01:43:25Z,ENTRY,DxoUNL45QDVpfVL1ZiARUXo4pTcuwct3EoJZ9wiDBuKw,MOTION / SOL,0,2.04588295555e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
 2026-11-03T01:46:14Z,FAILED,DuUWPXgGCwkbakoD3TJ9FVm1RK3BPLhJ9Pxoxis99Un2,SARP / SOL,0,0.288945811788,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",control
+2026-11-03T01:47:29Z,ENTRY,3VyUqtiHUZudLBgNctUawYtvpsv2Qs7yCe3ePyzQEcRu,ZEC / ᑓହꚡई,0,1160.25099464,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-1%,control
+2026-11-03T01:48:56Z,ENTRY,5MQQDnasAUrcECABBabtAR6rzYAAeyNz1MFRVUSJFDp1,ascend / SOL,0,3.45665236195e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-03T01:48:56Z,ENTRY,44vYxx6mHHSqMEwP6q7vkqB1gUHkae3WWgcst6hVWvFh,MONERO / USDC,0,0.000720881371826,100.0,control_no_momentum,,,898.5,score=0.00 momentum=0%,control
+2026-11-03T01:51:45Z,ENTRY,FzUiNmgvedKi9pSUDPXJWhZ6DvaHySiuQHBmAnkBitRf,CREW / DJT,0,9.12848735248e-06,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-55%,control
+2026-11-03T01:54:41Z,ENTRY,EsjaBeyxnQMzgbE6qCmqH6mFhnjLPF5upSudfCd1rTQF,ABCI / SOL,0,6.78073818046e-06,100.0,research_failed,,,898.5,score=0.00 momentum=32%,mom
+2026-11-03T01:54:41Z,ENTRY,Dmz6gRu3SuhkXA4TcmuBTD5mX3fj6M9xSCkk7XrUiYcf,USDP / SOL,0,0.279463476904,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-16%,control
