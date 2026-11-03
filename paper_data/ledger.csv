@@ -1533,3 +1533,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T15:18:55Z,ENTRY,AeFaetvxEyjjR6LeyLS36niHT1fe86kQJa3JTnSNb7d4,Green Cat / SOL,0,3.34068379794e-05,100.0,research_failed,,,898.0,score=0.00 momentum=54%,mom
 2026-11-03T15:21:45Z,ENTRY,2HNWu8zwBJnDqYWxqUetdRH1sFw9Fky7jCgBdk1yrNzD,CAPY / SOL,0,8.99868829453e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=8%,control
 2026-11-03T15:21:45Z,ENTRY,PcuhiAPmsM5uyGBW7e6m4mXyUi6Y92qrFqk8R1X7fqz,Coinbase / SOL,0,0.000162537032267,100.0,research_failed,,,898.0,score=0.00 momentum=48%,mom
+2026-11-03T15:23:24Z,ENTRY,GBkY1D6KASJ88kBBVnnRQmUq2y1CeVKSzPtm5XR1jLD8,COPPERINU / COPX,0,1.91444601899e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-8%,control
+2026-11-03T15:24:45Z,ENTRY,EcRGwtyfs6An2o1acPFCbGicY7d4vqMp3zfwfUNpGd7v,ASCEND / SOL,0,1.71727561847e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-0%,control
+2026-11-03T15:24:45Z,ENTRY,9b1jMyRA5VxkZFZe4JjzGSVoRwpFCoRnmDxB3hhBnGK4,PIRATE / SOL,0,1.93817470019e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-12%,control
+2026-11-03T15:24:45Z,ENTRY,GRpLgE9TdCFea7ndo17JRfad2swSR1qZYWSzzhnvvm4M,Fox / SOL,0,7.56621979272e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T15:26:21Z,EXIT,7ogMVYY13KfpUYrBhuw2vDcbcxjUyHdCMTDYNbGhBSgi,NUT / SOL,0,1.18344419083e-05,100.0,timeout,-10.33,-10.33,898.0,exit_bar=2026-11-03T15:25:00Z,control
+2026-11-03T15:27:42Z,EXIT,CSKpteMYe2D1tvK5JoYdxj3XTD9oyWB4ASuF8Hq7yKD5,purrp / xHYPE,0,1.63072085698e-05,100.0,timeout,-2.73,-2.73,898.0,exit_bar=2026-11-03T15:25:00Z,control
+2026-11-03T15:27:42Z,ENTRY,kgBnpV4iQ3LAgX4cSdxFZvr4fSyYTvokUJ9y7SX7tsv,LUCIA / SOL,0,0.000171189038116,100.0,research_failed,,,898.0,score=0.00 momentum=311%,mom
+2026-11-03T15:29:18Z,EXIT,DgE746KawYcEMaTXZeznoRHgG3Y8ooWUM2YK8crowJc,GrenCAT / SOL,0,9.86647900202e-06,100.0,timeout,-7.76,-7.76,898.0,exit_bar=2026-11-03T15:28:00Z,control
+2026-11-03T15:30:39Z,ENTRY,Aov97cMuxbHEN7qL11yWcZ92PDJRpGDbe5rBzfM1e7ZE,DanceKitty / SOL,1,6.88680921938e-05,100.0,research_passed,,,798.0,score=0.83 momentum=45%,mom
+2026-11-03T15:32:15Z,EXIT,CLT5WrHpFNkr8hMC65LcMdN3EaMRfeiXLsjhFaTquRBV,GENI / SOL,0,0.000651996611577,100.0,sl,-100.02,-100.02,798.0,exit_bar=2026-11-03T14:38:00Z,mom
