@@ -1123,3 +1123,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T05:03:24Z,ENTRY,B84fM9Ygw9J94HZeuqBewUfQBTGoADatiRUQWgeV7GJA,DOOYET / SOL,0,1.7714908797e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-2%,control
 2026-11-03T05:04:45Z,ENTRY,FBMe3mNsFDM8ynxK3JEX13fffdhBQWniSt4gN49CdN26,FLOAT / SOL,0,9.10720821587e-07,100.0,research_failed,,,898.0,score=0.00 momentum=32%,mom
 2026-11-03T05:06:20Z,ENTRY,GWmhj6cTpKb19cDjE2BTjeHHiw3uzh8d2gd2szu46Hp2,Graft / SOL,0,1.22333385955e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-73%,control
+2026-11-03T05:09:18Z,EXIT,BArF3EboAVdJ2ch2HqgMisuNa5MXJmS6S2bkUd8hj7rZ,ASH / SOL,0,4.5641548084e-05,100.0,timeout,-6.71,-6.71,898.0,exit_bar=2026-11-03T05:08:00Z,mom
+2026-11-03T05:10:39Z,ENTRY,3DZR9sM9R5Jbt2ntnsfvY8zQifiyfYTnw9cjLnfCFLg9,openclaw / SOL,0,3.25191571525e-05,100.0,research_failed,,,898.0,score=0.00 momentum=63%,mom
+2026-11-03T05:12:14Z,EXIT,CdDvbLuB16QE8H4t3QvDsQQFBTsu5gE4qRmgJ6DWutyE,XTO / SOL,0,9.89730322516e-05,100.0,rug,-100.71,-100.71,898.0,exit_bar=2026-11-03T04:14:00Z,mom
+2026-11-03T05:16:23Z,ENTRY,JBdHqbqVJ7vU3WpMi9ERJZr81JZ14Ax8NUEqkAgcYWmF,bonk543583 / Bonk,0,1.84668394595e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
