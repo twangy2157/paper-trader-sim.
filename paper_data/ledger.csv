@@ -1170,3 +1170,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T06:21:45Z,EXIT,6oKrhG65UYhxWHoK7BF35K3X21WcyNvQwwiWqLQyDVdP,ZEC / USDT,0,817.690441458,100.0,timeout,-2.99,-2.99,898.0,exit_bar=2026-11-03T06:20:00Z,control
 2026-11-03T06:21:45Z,ENTRY,ErvyuDCpdVFMQdUASztHiw75jnciKeCnQW4BskpE8GRt,MEM / SOL,0,0.000605950022371,100.0,proven_pool,,,898.0,age=121min,proven
 2026-11-03T06:23:20Z,EXIT,HvxosUBty8GxTLYJsLwzf8tkRRZSP5ygvMiQB8UmQbY4,XDG / Monero,0,3.29531648759e-05,100.0,sl,-48.34,-48.34,898.0,exit_bar=2026-11-03T05:25:00Z,mom
+2026-11-03T06:24:43Z,ENTRY,Mda6QmqSae1kvTDEwHQ6k2fomC83gqCuJqqWHH8vmgj,NEX Ai / SOL,0,3.89912857215e-05,100.0,research_failed,,,898.0,score=0.00 momentum=99%,mom
+2026-11-03T06:27:39Z,ENTRY,J3xUy645ML2dvJygZZrLVCAREc2uEt5EVtbgDmL7sfbP,BRAINROT / SOL,0,6.62298762508e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T06:27:39Z,ENTRY,BT3HyNDkHe9HECZWKUQbyK99t8c4FwbcdPDyvV8c2aHg,PerpScape / SOL,0,6.58329627396e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=8%,control
+2026-11-03T06:27:39Z,FAILED,CFHTvZFtkV9uRYSikQkF2C2J8k2dAKBQ8qyyax9vkzxQ,Marin / JUP,0,1.78923513254e-05,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",control
+2026-11-03T06:30:27Z,ENTRY,5fhGJo9FcPZA7NAmsqzMx2HVf5fx64pTVseQeeziV69f,perpetual / xHYPE,0,1.47308766825e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-1%,control
+2026-11-03T06:30:27Z,FAILED,4p2SKjUfk8WA3EBpWEmj92QfWEMdtyF1UZd8eVDD6MEp,ETC / USDC,0,6.98560923579,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",control
