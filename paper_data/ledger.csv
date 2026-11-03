@@ -1275,3 +1275,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T09:05:46Z,ENTRY,GSNbPzeV1y4MdcWqsr4Fp7u9spfAmwegHtEXckgmhsZ8,$CAT / SOL,0,4.15312598958e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
 2026-11-03T09:07:14Z,ENTRY,EHhUxoGF7PEZpEWg41RnzYBnMwB8nhNQxu6eCc2NHYbu,💸💲 / SOL,0,9.88023104098e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
 2026-11-03T09:08:27Z,ENTRY,6fcVVi1CaPSQciUabi8TamzWoSUcdBj9o5UG2sjcdtig,ELE / SOL,0,1.10398934399e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-0%,control
+2026-11-03T09:09:57Z,ENTRY,9AHrjXH26N91Eyky7z6Rv3jjj3St1suqx44gKwADNhdp,$BWIZ / SOL,0,1.08524776327e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T09:09:57Z,ENTRY,3Za38wx53ydirgAKdUDJjnyUbFdsogjbCNNm115d6iTF,uinhim / SOL,0,6.95440053709e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T09:11:25Z,EXIT,GJw1RAAkJpSQ3U8U257hNbdFSWY8ygdPKKL9nJmTd28r,Steve / SOL,0,0.00056156819117,100.0,sl,-100.02,-100.02,898.0,exit_bar=2026-11-03T08:11:00Z,mom
+2026-11-03T09:12:53Z,EXIT,9iLXuAcu7bgnx8uNQT2y3Y24rrgTXN6bPBeWNmdrFPJE,$MFRG / SOL,0,7.96835597566e-06,100.0,timeout,-9.0,-9.0,898.0,exit_bar=2026-11-03T09:09:00Z,control
+2026-11-03T09:14:14Z,EXIT,3f2sGNRuWMYU89TG9g1UEJrSLybJbaqcG7tEJUTfc5jZ,OVO / USDT,0,1.00207271646,100.0,timeout,-8.2,-8.2,898.0,exit_bar=2026-11-03T09:12:00Z,control
+2026-11-03T09:15:28Z,ENTRY,5AyiT1AmcKthrtUE7nsk6Mm29jzgf1P2vZgcMaNYxCZD,FERSPE / SOL,0,7.98412888437e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T09:15:28Z,ENTRY,6GQ7EhNEw1AyBn4rZtA1A4fgK6rzgogGtaDsXQBVncBT,BPCATE / SOL,0,1.09085425054e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T09:16:56Z,ENTRY,AQrqdSSe3cx2Vm1urzE3wt5iU28H9Fo7yrpeNvbze4tT,MAMESUKE / SOL,0,8.90633009558e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=9%,control
+2026-11-03T09:18:24Z,EXIT,5yJ5z1HyMuAjKUUsom797pjTNPfNyYB4VEWpeC4jbSFH,Dacity / SOL,0,0.000111383854095,100.0,rug,-100.02,-100.02,898.0,exit_bar=2026-11-03T09:17:00Z,mom
+2026-11-03T09:19:45Z,EXIT,9SyNxoBDFDr93fH9RmaHCQBzsHrNL5U83ThXT3GuQ38R,NEX Ai / SOL,0,5.92007430263e-05,100.0,tp,-100.01,-100.01,898.0,exit_bar=2026-11-03T08:42:00Z,mom
