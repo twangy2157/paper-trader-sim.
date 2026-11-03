@@ -1625,3 +1625,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T17:26:29Z,ENTRY,kuo9ZXPuyFqDw9y8psRt6oqDNZxwYcRyZ2voN5h9YoQ,bounce / SOL,0,2.09519226631e-05,100.0,research_failed,,,860.09,score=0.00 momentum=193%,mom
 2026-11-03T17:27:58Z,ENTRY,CqvMZmWDvEufa5rzkubidyR4zMDqDPoLjAtsW6wGsPMu,HIGH / SOL,0,0.000236776346235,100.0,research_failed,,,860.09,score=0.00 momentum=394%,mom
 2026-11-03T17:29:27Z,ENTRY,5VC297iyArVyEtVdZDFdwYkXUddKWtJh8QEop6j1NtXc,TitBit / SOL,0,7.83443934977e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-03T17:31:04Z,FAILED,5GRKgZkYxKwVCNh79obKNcVU244WUMvmSoocxpYWEwBF,SPYPIGEON / SPYx,0,1.94930826422e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-03T17:35:23Z,EXIT,7YF6Zx8eZNm9CAQCUjWvVa7hCC4SuhQ8vSPdy9CLYGYV,BINGUS / SOL,0,1.80655636617e-05,100.0,tp,92.17,92.17,860.09,exit_bar=2026-11-03T17:16:00Z,mom
+2026-11-03T17:36:45Z,ENTRY,BrEupSkzzCfnsw7PD2GArLyYXVWRfJRQvq9CF4Tq4RBJ,AMERICA / SOL,0,0.0102417488029,100.0,research_failed,,,860.09,score=0.00 momentum=105%,mom
+2026-11-03T17:36:45Z,ENTRY,8GvEF481aeonX9tk8P944TTZW839MaM31bNK15NeNPQq,SNDK / SOL,0,0.000133136403632,100.0,research_failed,,,860.09,score=0.00 momentum=25%,mom
