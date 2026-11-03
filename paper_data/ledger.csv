@@ -1336,3 +1336,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T10:24:55Z,ENTRY,BfLdog9h9eAQZVD6j2rrMboBGzAgoNupP9sD7ZNjD13M,ZCSH / SOL,0,9.01798137138e-05,100.0,research_failed,,,898.0,score=0.00 momentum=15%,mom
 2026-11-03T10:26:23Z,ENTRY,HSvDbCdcsFUNRmRCRxdBYwRzj7iS25NCHA1e5FaFszYf,CASH / SOL,0,1.48505008812e-05,100.0,research_failed,,,898.0,score=0.00 momentum=78%,mom
 2026-11-03T10:26:23Z,ENTRY,RkyhrtM592BMJdGqTjLn58xtKXNsS247g191iMACkEG,XMR / wXMR,0,2.38952818282e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=5%,control
+2026-11-03T10:27:46Z,ENTRY,7aXPT29deZ4uVBAFGQCPj9XWNqSNRmVY3FZ7HLWnMcGN,MONY / SOL,0,7.67313141456e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T10:30:28Z,EXIT,EMQTrr4zCCwDPYeYz1qqwKXCMLrDYNwCnefAbR3aBuWJ,JACKASS / SOL,0,1.97048076948e-05,100.0,timeout,-4.92,-4.92,898.0,exit_bar=2026-11-03T10:29:00Z,control
+2026-11-03T10:31:56Z,ENTRY,EGqoRwSD3eQyU5qxtYrZfGRoDL1Hc7MSufVQmZNpjSxi,SAVPIR / SOL,0,8.45559463504e-06,100.0,dip_after_drop,,,898.0,score=0.00 momentum=-37%,dip
+2026-11-03T10:34:45Z,ENTRY,26NQZ8F9L1qNPmxcHXbn4NDTMHpXk5Fjc5hUE1YtkB48,WIX / SOL,0,3.94682033448e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=9%,control
+2026-11-03T10:34:45Z,ENTRY,4ay1vVdoRHYJM1xssRaE58vm1sHZaeXJe9in5psdUKAE,FREK / SOL,0,6.95447023354e-05,100.0,research_failed,,,898.0,score=0.00 momentum=84%,mom
+2026-11-03T10:34:45Z,ENTRY,7EjvBQVfamEZmTN7KQWfG96Ncc6wuQcX45QJYDq4HofX,Buttcoin / WBTC,0,2.0851151887e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-1%,control
+2026-11-03T10:36:20Z,EXIT,Ahm67oTNe7b5enVDgckP7wULgt5of3XZXxgy2HprRYF5,XTO / SOL,0,0.309084765731,100.0,timeout,29.9,29.9,898.0,exit_bar=2026-11-03T10:34:00Z,proven
+2026-11-03T10:36:20Z,ENTRY,7TzDp3rCby8DExCjDjzG49whTBuRFdtrhXvJZv6FU1jo,OMBRO / SOL,0,8.32362968117e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T10:37:41Z,EXIT,4EgiLwFX5HGXoNCvirEEjAU4tFuUBbEbYJXG2WgEdPoD,MONEKO / wXMR,0,3.07508305961e-05,100.0,timeout,-1.51,-1.51,898.0,exit_bar=2026-11-03T10:36:00Z,proven
+2026-11-03T10:37:41Z,ENTRY,F2YhWdHEy6p7xVhms5LjaQeD5dY4TDPP2nvugxPcwT97,NEX Ai / SOL,0,3.35279628218e-05,100.0,research_failed,,,898.0,score=0.00 momentum=57%,mom
