@@ -1698,3 +1698,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T19:14:45Z,ENTRY,9BnJs5eGZUAerbKw2SJN1oT3VBxQJumQgocVHtaap5mg,Alouatta / SOL,0,5.55640827482e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-65%,control
 2026-11-03T19:16:20Z,EXIT,ChFZXqAGJUYHuMAa8MJTQQdtrNgEoGPKDgLyPD8HyVKT,FPTEST / SOL,0,1.9674508393e-05,100.0,timeout,-8.35,-8.35,860.09,exit_bar=2026-11-03T19:14:00Z,control
 2026-11-03T19:17:41Z,ENTRY,2jSGZUbXJ8FZJgWp3AfzcV33HtFGnncpzXUssfCj9vy4,ss / SOL,0,1.99595386037e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-03T19:20:43Z,EXIT,3HiP4WEgAuj6zM35PQotb77Fj5UbaMAZzJ9RriLP2X8f,MemeMan / STONK,0,1.98910307163e-05,100.0,timeout,-4.83,-4.83,860.09,exit_bar=2026-11-03T19:19:00Z,control
+2026-11-03T19:20:43Z,ENTRY,8migGtvEWNUotaHPuRNjcHwHuddEpY4f7hmmwg852qXE,STONKS / SOL,0,1.38490494182e-05,100.0,research_failed,,,860.09,score=0.00 momentum=16%,mom
+2026-11-03T19:22:19Z,EXIT,GJhZPZmxUoFjkXJEAUWMNEUyPn4PSg637f1aAodsQEFX,STONKERS / SOL,0,1.98654977457e-05,100.0,timeout,-4.91,-4.91,860.09,exit_bar=2026-11-03T19:21:00Z,control
+2026-11-03T19:23:40Z,EXIT,9XwTmkxa67mQRc5tU7DgNDJm6sjnTq5ZHcANF9aFGyvW,XDG / wXMR,0,2.05204126179e-05,100.0,timeout,-10.35,-10.35,860.09,exit_bar=2026-11-03T19:21:00Z,control
+2026-11-03T19:23:40Z,FAILED,54m3ACZLA7hK76HsbgRhYySVecaabP7T4J75uXe2ESNe,Mag / SOL,0,0.000111206172115,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-03T19:27:57Z,ENTRY,5fxEvYDhSoGi6TeYNFs7RydzqcQ5TjigE55xkkW7D1Mi,MAG / FRONTIER,0,2.12764641691e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-32%,control
+2026-11-03T19:27:57Z,ENTRY,GH12QFocJg1SFT5HfBHNRGGpbxi9Hvvz5LbLHFJQH6Wp,PEN / STONK,0,2.54229909953e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-2%,control
