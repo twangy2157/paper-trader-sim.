@@ -1355,3 +1355,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T10:46:23Z,FAILED,G75e7UhqvoFQdrvjAMLo3MPgDJK8E2YKujwtvrhQmtXw,LTC / cbLTC,0,2.00747887544e-05,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",control
 2026-11-03T10:47:44Z,ENTRY,2KhYd53D1vBDXYBp8QXRWKRHA9Fi7waEgoZxtP4qZeXu,DAZZY / SOL,0,7.12171981658e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
 2026-11-03T10:47:44Z,ENTRY,CXb42zzkP1TQ3j42RVLcxudrbva6XweDPShhrjf6tn1z,币安魂 / SOL,0,2.71669415377e-05,100.0,research_failed,,,898.0,score=0.00 momentum=40%,mom
+2026-11-03T10:49:21Z,ENTRY,C9n5cGsLAoTNfLanQXFcMiqtjpYhqXqZjfPRQZ9BfVAU,SOOTS / SOL,0,1.13999959525e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T10:50:42Z,ENTRY,7iPQjyxzQsm68fAfYnrTX6jJ1fT7ANRAViokJ3DfmG8J,AI / SOL,0,5.25074251836e-05,100.0,research_failed,,,898.0,score=0.00 momentum=390%,mom
+2026-11-03T10:52:17Z,EXIT,Ge9sDuXJSy13MsUtjSRiZkYYfi9cBtuLRWkaxm1sLG5b,pruple / SOL,0,6.46764890407e-06,100.0,timeout,-10.15,-10.15,898.0,exit_bar=2026-11-03T10:51:00Z,control
+2026-11-03T10:53:30Z,ENTRY,FUB2cTAofBcDHgpHUtUELAcVofbupHFKqvc1tPgPqYUB,AI / SOL,0,8.72100989803e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=9%,control
+2026-11-03T10:53:30Z,ENTRY,23i8mcQYZoyD94qkcwt8R9cdNXSvkpcJ5BCRUtmj8Nu2,zkSNARK / SOL,0,3.97308987747e-05,100.0,research_failed,,,898.0,score=0.00 momentum=258%,mom
+2026-11-03T10:55:05Z,EXIT,F81ZHmoeeqqmCxxQ2JEqBD932LsLxGiAw7Bu5UrQ9AXt,ELE / SOL,0,8.69293215173e-06,100.0,timeout,-10.99,-10.99,898.0,exit_bar=2026-11-03T10:54:00Z,control
+2026-11-03T10:56:26Z,FAILED,2qbX97LGo2nVe6sjkDUKcmxSSThQpboemHa2hKEt1rDX,OMBRO / SOL,0,2.88705232635e-05,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",mom
+2026-11-03T10:57:54Z,ENTRY,CbbLyABnuCq6ePhAvYiQ2bZiQ7DL13jhB8BDAjUAiK6T,zkSNARK / SOL,0,4.99715701969e-05,100.0,research_failed,,,898.0,score=0.00 momentum=35%,mom
+2026-11-03T10:59:15Z,ENTRY,D5Kuz7bmfJV82DRD9Z2wRyXjj9vXqFaz5X2bffeZxnoV,XTO / SOL,0,0.000215523135322,100.0,proven_pool,,,898.0,age=121min,proven
