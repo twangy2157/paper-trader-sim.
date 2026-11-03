@@ -1346,3 +1346,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T10:36:20Z,ENTRY,7TzDp3rCby8DExCjDjzG49whTBuRFdtrhXvJZv6FU1jo,OMBRO / SOL,0,8.32362968117e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
 2026-11-03T10:37:41Z,EXIT,4EgiLwFX5HGXoNCvirEEjAU4tFuUBbEbYJXG2WgEdPoD,MONEKO / wXMR,0,3.07508305961e-05,100.0,timeout,-1.51,-1.51,898.0,exit_bar=2026-11-03T10:36:00Z,proven
 2026-11-03T10:37:41Z,ENTRY,F2YhWdHEy6p7xVhms5LjaQeD5dY4TDPP2nvugxPcwT97,NEX Ai / SOL,0,3.35279628218e-05,100.0,research_failed,,,898.0,score=0.00 momentum=57%,mom
+2026-11-03T10:39:18Z,EXIT,241RZd7BDBwpgDxG16Hq5BVVYx9pdUB5ZF3ujrLGFCre,$SLJK / SOL,0,1.0013050794e-05,100.0,timeout,-7.7,-7.7,898.0,exit_bar=2026-11-03T10:36:00Z,control
+2026-11-03T10:40:39Z,EXIT,4guMDJjJ24jm2hewNj1rJGsE5GUxb7pDvjZXy8znbtid,ABDUL / SOL,0,0.000153231036502,100.0,honeypot,-101.0,-101.0,898.0,exit_bar=2026-11-03T10:36:00Z,mom
+2026-11-03T10:40:39Z,ENTRY,7RdqEU3aYHiuN43JapbfSiFUz3bSuhYnQKs1155SxM7F,DAFIG / SOL,0,3.91132462139e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=1%,control
+2026-11-03T10:44:55Z,ENTRY,ArcqWZpKwThc5K9EMBeo2RMdA2dXQgDEm49EY8LPH8S3,zkSHARK / SOL,0,4.41481168952e-05,100.0,research_failed,,,898.0,score=0.00 momentum=415%,mom
+2026-11-03T10:44:55Z,ENTRY,8wQ3siDbG2ZFSTTt6Q4LPT5SJJKh2pAZyLSJtrznU5tP,UNPOOLED / SOL,0,0.000922495986463,100.0,control_no_momentum,,,898.0,score=0.00 momentum=7%,control
+2026-11-03T10:46:23Z,EXIT,EyPeQo1oTkGf5jvDkdGDwD9rH1D1Cjgyy8FU3n1zPuF5,RCI / SOL,0,1.66552553344e-05,100.0,honeypot,-101.0,-101.0,898.0,exit_bar=2026-11-03T10:44:00Z,control
+2026-11-03T10:46:23Z,FAILED,G75e7UhqvoFQdrvjAMLo3MPgDJK8E2YKujwtvrhQmtXw,LTC / cbLTC,0,2.00747887544e-05,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",control
+2026-11-03T10:47:44Z,ENTRY,2KhYd53D1vBDXYBp8QXRWKRHA9Fi7waEgoZxtP4qZeXu,DAZZY / SOL,0,7.12171981658e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T10:47:44Z,ENTRY,CXb42zzkP1TQ3j42RVLcxudrbva6XweDPShhrjf6tn1z,币安魂 / SOL,0,2.71669415377e-05,100.0,research_failed,,,898.0,score=0.00 momentum=40%,mom
