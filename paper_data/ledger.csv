@@ -1459,3 +1459,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T13:34:15Z,ENTRY,6wPbcYCsa5azWWFo39ZxeNUG1gFG1KF9tw5NEZKqbRu9,FHC / SOL,0,7.35792499026e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
 2026-11-03T13:36:57Z,EXIT,HTDPGmUDMVoAPVzmcaNw66jGnsEjFVGoieUR4VoooyAZ,OMBRO / SOL,0,6.1983672224e-05,100.0,tp,-100.01,-100.01,898.0,exit_bar=2026-11-03T13:14:00Z,mom
 2026-11-03T13:36:57Z,ENTRY,7dAjBX7uaXKbfG5GQivuXC8tSuGkbdeSfVAtmknhP9Zv,ch / SOL,0,1.79407980289e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-0%,control
+2026-11-03T13:39:57Z,EXIT,6BszopUrufAyFLRUk4N6pbFymGRHFQ6jzogyLm1AauR2,MOGMAS / SOL,0,3.74263744501e-05,100.0,sl,-100.02,-100.02,898.0,exit_bar=2026-11-03T12:40:00Z,mom
+2026-11-03T13:41:26Z,ENTRY,B2wHeKmtm9CT93MFTX3uJz8j7wA4k74tKJwgSLbUWhhd,MGST / SOL,0,2.06059695278e-05,100.0,research_failed,,,898.0,score=0.00 momentum=221%,mom
+2026-11-03T13:42:55Z,ENTRY,H7pYtzFVar2yVC9ogmrtXw3jusLUbLU8tiYGCVsR4ZbA,BINGUS / SOL,0,1.72966470745e-05,100.0,research_failed,,,898.0,score=0.00 momentum=72%,mom
+2026-11-03T13:45:30Z,ENTRY,2YbmWad7yxiHnct8dZvFBiCPXnr3GrECtCF6WLfKjMhj,ANTHROPIG / ANTHRP,0,1.88378903763e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-3%,control
+2026-11-03T13:45:30Z,ENTRY,CFSw695bPWmcaT8AfE4FHbUN6w3uMYSMbLZy4weB7yjP,GTA 6 Coin / SOL,0,0.000188063399947,100.0,research_failed,,,898.0,score=0.00 momentum=35%,mom
+2026-11-03T13:47:05Z,ENTRY,2CYWV5v4RXJK5P42DJm6Y5USDSReAk8cE2c278cf5Xc2,PWESIDENT / SOL,0,4.54182453114e-05,100.0,research_failed,,,898.0,score=0.00 momentum=18%,mom
+2026-11-03T13:48:26Z,ENTRY,9o8b5f8o7tQGBS9d1BAnuZYFaYmMGDuDwUF5UoBYMYvC,dwnxerx / SOL,0,1.57608136414e-07,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T13:48:26Z,ENTRY,3N5DK4jXEWjErudSQ8nscijrkNBfaymiPSbZJFZgSdqo,CHADGPT / tOpenAI,0,1.96595390384e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-2%,control
