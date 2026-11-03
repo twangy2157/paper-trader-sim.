@@ -1095,3 +1095,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T04:16:40Z,ENTRY,8QKcyMv8CoYM2k61yRKwPd5mUALFAbgL3FRtifwoBhvZ,MEMESTOCK / SOL,0,0.100460366827,100.0,research_failed,,,898.0,score=0.00 momentum=178505%,mom
 2026-11-03T04:22:24Z,EXIT,F4j2UgyhYpUFUDKh1WMD4qR8msBnBnV4KBiq9aaext7K,DeepSeek / SOL,0,0.000179820696622,100.0,tp,57.94,57.94,898.0,exit_bar=2026-11-03T03:38:00Z,dip
 2026-11-03T04:23:45Z,ENTRY,GEZdbkEKL8bU1GQ1N2kwmohmzaEs5F9ffEveatmYiMth,Beast / SOL,0,3.60281065398e-05,100.0,research_failed,,,898.0,score=0.00 momentum=261%,mom
+2026-11-03T04:25:23Z,EXIT,4bCUvjW8fR1woUfbNWVdtiAu5qEqtz6xRwaHidVewvHq,ginga / SOL,0,5.57054554493e-05,100.0,timeout,-3.73,-3.73,898.0,exit_bar=2026-11-03T04:24:00Z,control
+2026-11-03T04:28:19Z,ENTRY,Da9zdPT32urvYUF48RLMLJeVcQ1tjpu7iTjFfLivruiJ,MrLeast / SOL,0,1.56787988297e-05,100.0,research_failed,,,898.0,score=0.00 momentum=49%,mom
+2026-11-03T04:29:39Z,EXIT,A7wzNsTKhtmnSfzvZLTbBH5nRKu4TpFjEmYCQQmofknV,usdce35345 / USDC,0,2.02205300547e-05,100.0,timeout,-4.87,-4.87,898.0,exit_bar=2026-11-03T04:28:00Z,control
+2026-11-03T04:32:28Z,EXIT,6eTyeiqoC1M3upMEurfPynP7BWc6ZX4ukYiLczbPfE52,Harmony / SOL,0,4.92945602515e-05,100.0,tp,-100.01,-100.01,898.0,exit_bar=2026-11-03T03:33:00Z,mom
