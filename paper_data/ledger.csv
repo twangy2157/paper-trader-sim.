@@ -1678,3 +1678,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T18:54:14Z,ENTRY,68Pp3xCcwHXg5QijgjcyUwsV764TtbEvLM23Ck85e85A,5STAR / SOL,0,8.29310096564e-05,100.0,proven_pool,,,860.09,age=134min,proven
 2026-11-03T18:55:28Z,FAILED,4ftcVtn2FFLiwhJFhEBwL7dd3xaDpADmnreAkgq473FH,SUPERSTONK / STONK,0,1.99225435021e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
 2026-11-03T18:55:28Z,ENTRY,FtD3WNtf3zeuRzu87NQSe85y2QPE7BYNDhgjMZWDhrn9,HIGIM / SOL,0,3.85286784081e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=8%,control
+2026-11-03T18:57:25Z,FAILED,96WH2UTcj1jEWUuPzKeMYAts1LP8gPDexU6gCbdLzdGR,Alt-coin / SAMA4,0,2.00533841416e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-03T19:00:14Z,EXIT,HpishJHpoNSx6oDCiF5fzmXh16o4B3bA1GKgSK5F1ZuZ,SATINAS / SOL,0,7.64847862481e-06,100.0,timeout,-9.04,-9.04,860.09,exit_bar=2026-11-03T18:58:00Z,control
+2026-11-03T19:01:28Z,ENTRY,4RbVtGJtQ2tomqFxqNi5THMXPcTRRjFVYg5WSmsy5diL,SI / NVDAx,0,2.06754231447e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-3%,control
+2026-11-03T19:02:57Z,ENTRY,kMDsFZ1hRydwpKxoezXNcQibaPSz68G9yaLmFqUD225,Floatabro / MOBY,0,2.0295948995e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-9%,control
+2026-11-03T19:04:25Z,ENTRY,4GdHU8XL4EGx3aYrRF1KBUvvDS5CDUCQMbHtiVeAwgUK,SI / FRONTIER,0,1.99569252835e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-2%,control
+2026-11-03T19:04:25Z,ENTRY,6UqcQuaQc8n3YZTtet8w9qX4RVEoAX1yhC9rNbUDdRjB,hopium / STONK,0,2.21214698131e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-9%,control
+2026-11-03T19:05:46Z,ENTRY,GRnEdEJff59XNmmLsWx4NyYpr1bUsgHRvt2d6JY512hj,GCAT / STONK,0,2.05608911549e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-0%,control
+2026-11-03T19:07:14Z,EXIT,DBGNvPN7zo9kPrGsiv2qWZJskEVq1B3KWpRWe2dr764u,DCYC / SOL,0,5.80742716899e-05,100.0,rug,-100.02,-100.02,860.09,exit_bar=2026-11-03T19:05:00Z,mom
