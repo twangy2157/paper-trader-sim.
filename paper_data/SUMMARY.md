@@ -2,14 +2,14 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-03T01:13:56Z. Bankroll cash (research-selected trades): 898.5. Open positions: 12. Pools on watchlist: 57.
+Updated 2026-11-03T01:24:00Z. Bankroll cash (research-selected trades): 898.5. Open positions: 8. Pools on watchlist: 74.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
 | research-picked | 1 | 0% | -101.0% | - | -102 |
-| momentum, not picked | 208 | 15% | -50.8% | -60 to -42 | -10589 |
-| all momentum | 209 | 15% | -51.1% | -60 to -42 | -10690 |
-| control | 226 | 9% | -16.4% | -21 to -11 | -3723 |
+| momentum, not picked | 210 | 15% | -51.1% | -59 to -43 | -10757 |
+| all momentum | 211 | 15% | -51.4% | -60 to -43 | -10858 |
+| control | 230 | 9% | -16.6% | -22 to -12 | -3850 |
 | dip buy | 0 | - | - | - | 0 |
 | proven pools | 3 | 0% | -100.0% | - | -300 |
 
@@ -17,22 +17,22 @@ What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 | exit rule | momentum | control | dip | proven |
 |---|---|---|---|---|
-| base_sl30_tp100 | -53% (188, 16%) | -16% (226, 9%) | - | -100% (3, 0%) |
-| wide_sl50_tp100 | -53% (188, 18%) | -17% (226, 9%) | - | -100% (3, 0%) |
-| sl30_tp50 | -54% (188, 20%) | -18% (226, 9%) | - | -100% (3, 0%) |
-| sl50_tp50 | -54% (188, 22%) | -18% (226, 10%) | - | -100% (3, 0%) |
-| no_stop_tp100 | -53% (188, 18%) | -17% (226, 9%) | - | -100% (3, 0%) |
+| base_sl30_tp100 | -53% (190, 16%) | -17% (230, 9%) | - | -100% (3, 0%) |
+| wide_sl50_tp100 | -54% (190, 17%) | -17% (230, 9%) | - | -100% (3, 0%) |
+| sl30_tp50 | -55% (190, 20%) | -18% (230, 9%) | - | -100% (3, 0%) |
+| sl50_tp50 | -54% (190, 22%) | -18% (230, 10%) | - | -100% (3, 0%) |
+| no_stop_tp100 | -53% (190, 18%) | -17% (230, 9%) | - | -100% (3, 0%) |
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 8062. Outcomes:
+Pools seen: 8100. Outcomes:
 
-- missed_window: 5351
-- low_liquidity: 1841
+- missed_window: 5378
+- low_liquidity: 1846
 - no_momentum: 278
-- proven_liquidity_gone: 240
-- research_failed: 211
-- simulated failed buy: 77
+- proven_liquidity_gone: 243
+- research_failed: 213
+- simulated failed buy: 78
 - proven_low_volume: 46
 - proven_price_collapsed_or_parabolic: 7
 - proven_no_uptrend: 6
