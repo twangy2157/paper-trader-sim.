@@ -1467,3 +1467,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T13:47:05Z,ENTRY,2CYWV5v4RXJK5P42DJm6Y5USDSReAk8cE2c278cf5Xc2,PWESIDENT / SOL,0,4.54182453114e-05,100.0,research_failed,,,898.0,score=0.00 momentum=18%,mom
 2026-11-03T13:48:26Z,ENTRY,9o8b5f8o7tQGBS9d1BAnuZYFaYmMGDuDwUF5UoBYMYvC,dwnxerx / SOL,0,1.57608136414e-07,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
 2026-11-03T13:48:26Z,ENTRY,3N5DK4jXEWjErudSQ8nscijrkNBfaymiPSbZJFZgSdqo,CHADGPT / tOpenAI,0,1.96595390384e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-2%,control
+2026-11-03T13:49:57Z,ENTRY,BGMNCE3XCPxPRxVUnpu4KBx1bSLaHaQPBrMowUkvz4uT,att / SOL,0,1.08454477824e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T13:52:54Z,ENTRY,F1apADrtB53xw8VL7KdSztDEaPC9YTY1oA77o4oSPTA2,眉眉 / SOL,0,3.2557919755e-05,100.0,research_failed,,,898.0,score=0.00 momentum=48%,mom
+2026-11-03T13:54:15Z,ENTRY,JAsNf69VCnQWcM5Msh9eJqhx4hJBBVep7UBH6isN6gBD,USOE / SOL,0,0.00929635024746,100.0,control_no_momentum,,,898.0,score=0.00 momentum=2%,control
+2026-11-03T13:55:29Z,ENTRY,4QPvBghjXNq1kZVygRd78Qi1DqhQV3rLBEHSrFvVY1nc,BB84 / SOL,0,7.75159089767e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=-0%,control
+2026-11-03T13:58:26Z,FAILED,HLkujSb4H8PHUPevSysjy6BLUYCgRvctnxn93U3Gg63c,同花顺 / SOL,0,6.89185373218e-06,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",control
+2026-11-03T13:59:54Z,EXIT,DcqC7ny6PY2yLuc1J1gvVbpRwtUuJ8D7gokejCeUwAt4,Anthropic / SOL,0,0.000236714268619,100.0,tp,59.08,59.08,898.0,exit_bar=2026-11-03T13:24:00Z,control
