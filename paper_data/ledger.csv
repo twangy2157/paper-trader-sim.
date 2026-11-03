@@ -1874,3 +1874,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T23:19:05Z,ENTRY,BXEKSGrWHygmbRkQ2KHfRUpSBeZZgZWnzrw7a8URZZ7D,VALOR / SOL,0,3.63936054984e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-9%,control
 2026-11-03T23:19:05Z,ENTRY,76dxLSv2T4DQbRuHLbvhYRP7dVhza6REQL7F9cxuM6Gx,fg / SOL,0,1.40964779737e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
 2026-11-03T23:21:54Z,ENTRY,jYeeS2f4HRzzMvD4yS4WESGTUc5JpojY1WcKemrAbMs,VALOR / SOL,0,4.59681844227e-05,100.0,research_failed,,,860.09,score=0.00 momentum=21%,mom
+2026-11-03T23:23:17Z,EXIT,HBPcNUQQE8okksDBxnKex7yz9ekferJUzqJt8cfdHsK3,Ruby / AMD,0,1.04863305197e-05,100.0,sl,-53.18,-53.18,860.09,exit_bar=2026-11-03T22:32:00Z,control
+2026-11-03T23:24:38Z,ENTRY,49ZHgxedS1SN9eEdSmdVQxHXEsDjKa84B2WEt2725i2M,MONY / SOL,0,1.31164789586e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-03T23:24:38Z,ENTRY,GHMe7pGsxaUoaeeCqYENCsGDW9WNnW5gRdEDLeHiPkbJ,Elon / E,0,1.3183132988e-05,100.0,research_failed,,,860.09,score=0.00 momentum=56%,mom
+2026-11-03T23:26:14Z,ENTRY,3fdbiBa3H4NNCoRvjboHFbbbXaio1XqdP4ahJpLVWfcF,NVIDIA Ai / SOL,0,3.22941350999e-05,100.0,research_failed,,,860.09,score=0.00 momentum=34%,mom
+2026-11-03T23:31:45Z,FAILED,9yjEwhHA8HeBUXpi4PfJaM1UyqEY4ixEVJJpFEkBknf2,FCM / SOL,0,1.01257069967e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
