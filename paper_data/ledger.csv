@@ -1080,3 +1080,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T03:46:42Z,ENTRY,E7bWgB2VSJ18CURx1KoLiSXAdhU8jy3LSXVPkSgTniBQ,USPR / SOL,0,0.140496334884,100.0,proven_pool,,,898.0,age=123min,proven
 2026-11-03T03:48:17Z,EXIT,Gf5MhDgNq6Sf68mckjqfUMN9knv2G5tGmec7pGytNkPs,MAGACREW / SOL,0,0.000222206701474,100.0,tp,63.31,63.31,898.0,exit_bar=2026-11-03T03:04:00Z,mom
 2026-11-03T03:49:39Z,ENTRY,CzXX6GU6thz4JeP9uXxqUzkWDXuUuwGxH5kvrgEk1EtW,MEM / SOL,0,7.90973145049e-07,100.0,research_failed,,,898.0,score=0.00 momentum=59%,mom
+2026-11-03T03:52:29Z,EXIT,5atJjPuW8uxNzDjqftiQCe97qbgpBvKpk5Z4X74eJy6E,BOTTOM / SOL,0,4.32674609938e-08,100.0,timeout,-8.09,-8.09,898.0,exit_bar=2026-11-03T03:51:00Z,control
+2026-11-03T03:52:29Z,ENTRY,H45FQKw68e5ywh7vaZVT7jeKRos4bbdNdtDAScSgmayh,Jue / SOL,0,6.42950928518e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T04:00:56Z,EXIT,BJ6o9mqQgyTwA7qcyYrLvcKvjPq5QpNxaFkq84YxwGUa,GOAT / SOL,0,9.85285769946e-05,100.0,rug,-100.02,-100.02,898.0,exit_bar=2026-11-03T03:59:00Z,control
