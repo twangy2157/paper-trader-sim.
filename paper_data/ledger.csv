@@ -1003,3 +1003,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T02:01:43Z,FAILED,8mTEjDpKQeE6Kofq5bBAXMAK7XaBfBcSQfprHvkt8uH,NEX Ai / SOL,0,4.11223927098e-05,0,tx_failed,-0.5,,898.5,"buy reverted, tip lost",mom
 2026-11-03T02:04:40Z,ENTRY,VyB3mSn2riTpxwFzegutogN2zt3PEZ4no9FtZSPonpM,ascend / SOL,0,9.24900554989e-05,100.0,research_failed,,,898.5,score=0.00 momentum=17%,mom
 2026-11-03T02:06:15Z,EXIT,HwfWcorSNEYLrddfCfJ7MXzsNL3vRGvdrM7u6CnN9jTb,WW3 / SOL,0,1.44480911682e-05,100.0,rug,-100.02,-100.02,898.5,exit_bar=2026-11-03T02:05:00Z,mom
+2026-11-03T02:10:27Z,ENTRY,BAK549pFzap6TN6Uk83qmXwJjrFR6fWQYUC7WVJwaMJj,CATO / SOL,0,3.13570405629e-05,100.0,research_failed,,,898.5,score=0.00 momentum=50%,mom
+2026-11-03T02:11:55Z,ENTRY,2yCL1UZQu5YnGU21DX69vxacv8D4FXHTr5miAoJZLv9J,眉眉 / SOL,0,2.71485686779e-05,100.0,research_failed,,,898.5,score=0.00 momentum=22%,mom
+2026-11-03T02:13:23Z,ENTRY,44MNDEfJ2V9KQ5kc4fyS53LD7x1DSjxN8jGytX6eMfsj,REMUS / PEAK,0,1.2070846936e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=5%,control
+2026-11-03T02:14:44Z,ENTRY,He1qntHvXiiESSkUmG5RSQ3euAjB2FqTcYDJ1kQC1LyL,HERONWARE / SOL,0,1.58414050587e-05,100.0,control_no_momentum,,,898.5,score=0.00 momentum=-46%,control
