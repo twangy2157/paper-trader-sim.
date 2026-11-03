@@ -1705,3 +1705,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T19:23:40Z,FAILED,54m3ACZLA7hK76HsbgRhYySVecaabP7T4J75uXe2ESNe,Mag / SOL,0,0.000111206172115,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
 2026-11-03T19:27:57Z,ENTRY,5fxEvYDhSoGi6TeYNFs7RydzqcQ5TjigE55xkkW7D1Mi,MAG / FRONTIER,0,2.12764641691e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-32%,control
 2026-11-03T19:27:57Z,ENTRY,GH12QFocJg1SFT5HfBHNRGGpbxi9Hvvz5LbLHFJQH6Wp,PEN / STONK,0,2.54229909953e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-2%,control
+2026-11-03T19:29:51Z,EXIT,52Tkadv9L1sH8n5Xst1GkYHwJP22NhsYVZGkoqhgFZz2,DCYC / SOL,0,1.97388560131e-05,100.0,timeout,-7.69,-7.69,860.09,exit_bar=2026-11-03T19:27:00Z,control
+2026-11-03T19:29:51Z,ENTRY,9zsLQWHEMVbTRHS65xJcHGva4wzcURjUt5Ebsv44XNVQ,smallstonk / SOL,0,1.99536389798e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-0%,control
+2026-11-03T19:29:51Z,ENTRY,4LgpMyaczJKvV6cLFLd6puqUt6qWQkjFwaM1HHmmjL54,MEMESTOCK / SPYx,0,2.00138156457e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-03T19:31:27Z,EXIT,49p64zVR9QJsa3SvjsrGEAeW7yRr47cy7u5FEvZGiDtr,BONKS / SOL,0,1.7814193713e-05,100.0,timeout,-7.89,-7.89,860.09,exit_bar=2026-11-03T19:27:00Z,control
+2026-11-03T19:31:27Z,ENTRY,9EPc1L5Cs1iUWEVw58JDKih8GdmrafH1x2DeyjAFZEj9,Pump Farm / SOL,0,1.18305816304e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-03T19:32:56Z,ENTRY,DywkKphd5iUmg2DdBYHbSpWBeZYXNc9zb2uruLUMuWrU,INU / DJT,0,1.99588109154e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-1%,control
+2026-11-03T19:32:56Z,FAILED,BhoZBCas4u2jU39QhCg4a66zPV4G1NDc9n8ousBxmVZh,BPCATE / SOL,0,2.13231026633e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-03T19:34:24Z,EXIT,6caYBbyu8r1TkGavXxhyvkeBTUC5TC6RrKMU5tGk5cc9,StonkFund / STONK,0,1.9583118623e-05,100.0,timeout,-7.71,-7.71,860.09,exit_bar=2026-11-03T19:32:00Z,control
+2026-11-03T19:35:45Z,EXIT,HQwzEk9epQc8JRdfJa34m4GtNt5jsLzeEwDH8sGTy3nh,SINK / STONK,0,2.08435018945e-05,100.0,timeout,-1.51,-1.51,860.09,exit_bar=2026-11-03T19:34:00Z,control
+2026-11-03T19:35:45Z,ENTRY,J1wXNKtJxLuD9V3N2T55YPJqHLJpx8mtzipcPXdpe25E,GTA$ / SOL,0,4.63442836959e-05,100.0,research_failed,,,860.09,score=0.00 momentum=23%,mom
+2026-11-03T19:37:21Z,ENTRY,2unJ8cuxHX7e3SYmpsnL4LRcU6JXryhHBW2SS7VvzR5q,DERP / SOL,0,1.05646183246e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-27%,control
+2026-11-03T19:38:42Z,ENTRY,B9xUdGfUfNoJWCMjNYoqQdActhFJ51PaKK4DU6ErLSWw,DCYC / SOL,0,4.64889692582e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
