@@ -1429,3 +1429,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T12:29:19Z,EXIT,8862uMTP8p9CNoeDK1p6u8e1CNGtAJhzQi2FnvNvzVrq,AODF / SOL,0,3.37660515699,100.0,timeout,-3.28,-3.28,898.0,exit_bar=2026-11-03T12:24:00Z,mom
 2026-11-03T12:33:29Z,FAILED,3Whmtv21wgeTyMVoSx4ByAzgqYtXrSJRNZSqyDBpZWoS,MOGMAS / SOL,0,1.86912847616e-05,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",control
 2026-11-03T12:34:57Z,ENTRY,HTDPGmUDMVoAPVzmcaNw66jGnsEjFVGoieUR4VoooyAZ,OMBRO / SOL,0,3.0991836112e-05,100.0,research_failed,,,898.0,score=0.00 momentum=74%,mom
+2026-11-03T12:36:27Z,EXIT,GwdBuzcv6ipk9rSqPaf5qXmGPt4Sa8CWnD4p6JBZ5z9v,COINBASE / SOL,0,0.000106363163059,100.0,rug,-100.02,-100.02,898.0,exit_bar=2026-11-03T12:35:00Z,control
+2026-11-03T12:37:55Z,ENTRY,6BszopUrufAyFLRUk4N6pbFymGRHFQ6jzogyLm1AauR2,MOGMAS / SOL,0,5.34662492144e-05,100.0,research_failed,,,898.0,score=0.00 momentum=415%,mom
+2026-11-03T12:37:55Z,FAILED,4BnNQR4Koha5mfWfinCF9E2FLye8aXd8xX2h92RJrSBE,OZDP / USDC,0,1.00088373042,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",control
