@@ -1202,3 +1202,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T07:26:24Z,EXIT,Mda6QmqSae1kvTDEwHQ6k2fomC83gqCuJqqWHH8vmgj,NEX Ai / SOL,0,7.7982571443e-05,100.0,tp,-100.01,-100.01,898.0,exit_bar=2026-11-03T06:45:00Z,mom
 2026-11-03T07:27:45Z,FAILED,84HQjv6xv4ggt7BJZ4uhy6Y3nSm3JKTGTvEPnx7JBXFu,hedge / SOL,0,1.56344689062e-05,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",mom
 2026-11-03T07:29:21Z,EXIT,J3xUy645ML2dvJygZZrLVCAREc2uEt5EVtbgDmL7sfbP,BRAINROT / SOL,0,6.3724000631e-06,100.0,timeout,-10.12,-10.12,898.0,exit_bar=2026-11-03T07:28:00Z,control
+2026-11-03T07:30:43Z,EXIT,BT3HyNDkHe9HECZWKUQbyK99t8c4FwbcdPDyvV8c2aHg,PerpScape / SOL,0,1.31665925479e-05,100.0,tp,88.94,88.94,898.0,exit_bar=2026-11-03T06:43:00Z,control
+2026-11-03T07:30:43Z,ENTRY,455ARLbzLrpu51ncAL1ZCUioQnkrQtk9NKJ2mJgaVsaR,CATO / SOL,0,3.06581230542e-05,100.0,research_failed,,,898.0,score=0.00 momentum=43%,mom
+2026-11-03T07:32:19Z,EXIT,5fhGJo9FcPZA7NAmsqzMx2HVf5fx64pTVseQeeziV69f,perpetual / xHYPE,0,1.45329171109e-05,100.0,timeout,-5.58,-5.58,898.0,exit_bar=2026-11-03T07:31:00Z,control
+2026-11-03T07:33:39Z,ENTRY,Ahm67oTNe7b5enVDgckP7wULgt5of3XZXxgy2HprRYF5,XTO / SOL,0,0.231383901813,100.0,proven_pool,,,898.0,age=124min,proven
+2026-11-03T07:33:39Z,ENTRY,HYxTHCn5FcyHFKbPfXWbkog59Cbs5n9rGg9Jj6L3ovxC,NORTHKOREA / SOL,0,8.72408820571e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T07:33:39Z,ENTRY,2kaSdQfRQXJHv5fazuocCsJuybFSXNue7jmbxYypRLbR,UNPOOLED / SOL,0,4.73971981306e-05,100.0,research_failed,,,898.0,score=0.00 momentum=465%,mom
+2026-11-03T07:35:15Z,ENTRY,4EgiLwFX5HGXoNCvirEEjAU4tFuUBbEbYJXG2WgEdPoD,MONEKO / wXMR,0,3.00882479136e-05,100.0,proven_pool,,,898.0,age=123min,proven
+2026-11-03T07:36:28Z,FAILED,DAxKytyzVhcgy3cN39AgB49GiDpBJwRXsdPKPc87xxgn,WORKER / SOL,0,3.11379151779e-05,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",proven
+2026-11-03T07:36:28Z,ENTRY,444SNzeVsc8QiKTt9sjSPqKyB5ZD7tpwQ4js3i3h3rYc,JIM / USDC,0,5.21095374395e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
