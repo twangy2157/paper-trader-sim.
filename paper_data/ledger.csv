@@ -1230,3 +1230,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T08:10:24Z,EXIT,21vFdy9rEVvSS6uByjV2deuJ1DMZi63vAt79KSaPx6Ls,OWL / SOL,0,2.13712615035e-05,100.0,rug,-100.02,-100.02,898.0,exit_bar=2026-11-03T08:09:00Z,mom
 2026-11-03T08:11:45Z,ENTRY,2f7SmHLaBZamsiqhawZeMgxkyKT6EkVwNgBCXiXC3UCF,AODF / SOL,0,0.398025109582,100.0,proven_pool,,,898.0,age=123min,proven
 2026-11-03T08:11:45Z,ENTRY,3f2sGNRuWMYU89TG9g1UEJrSLybJbaqcG7tEJUTfc5jZ,OVO / USDT,0,1.04541269289,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T08:16:18Z,ENTRY,5yJ5z1HyMuAjKUUsom797pjTNPfNyYB4VEWpeC4jbSFH,Dacity / SOL,0,8.88654529291e-05,100.0,research_failed,,,898.0,score=0.00 momentum=13%,mom
+2026-11-03T08:17:39Z,ENTRY,9SyNxoBDFDr93fH9RmaHCQBzsHrNL5U83ThXT3GuQ38R,NEX Ai / SOL,0,2.96003715131e-05,100.0,research_failed,,,898.0,score=0.00 momentum=49%,mom
+2026-11-03T08:19:14Z,EXIT,35x941FbojjnQiYXZs1qwEMTfSFz1Lzer4rpZtbJSLFM,BUY / USDC,0,1.51006162184e-05,100.0,timeout,-6.14,-6.14,898.0,exit_bar=2026-11-03T08:18:00Z,control
+2026-11-03T08:20:28Z,ENTRY,7NoxLDo4pjXj9ZeEMKiDaRu63TgUGkw5MywWxotvYjMm,รถไ / SOL,0,8.62337385313e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=8%,control
+2026-11-03T08:21:56Z,ENTRY,8EKsZKm9rdcyKgdPRSNDAqjExi2Zm9UaLT4RG62Xim3w,同花顺 / SOL,0,2.96772928714e-05,100.0,research_failed,,,898.0,score=0.00 momentum=261%,mom
