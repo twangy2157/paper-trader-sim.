@@ -1525,3 +1525,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T15:08:39Z,ENTRY,E7VSMSSGdHjm4HnivYGdxPShaLNiBGALYcctdm8iFEKB,Lyra / NVDAx,0,1.3273327978e-05,100.0,research_failed,,,898.0,score=0.00 momentum=18%,mom
 2026-11-03T15:10:16Z,EXIT,GyHf1b9kfyBUPBikqrJ1ce4nu6zSAhcKr9d13a6GQP1i,404 / SOL,0,0.000138143146236,100.0,sl,-100.02,-100.02,898.0,exit_bar=2026-11-03T14:10:00Z,mom
 2026-11-03T15:11:30Z,EXIT,6bxRPEkPJvY8bAkpkgJ53vnGtoM5oRYK3pF7kuBXpFiu,SATINU / SOL,0,1.26489081976e-05,100.0,timeout,-9.64,-9.64,898.0,exit_bar=2026-11-03T15:09:00Z,mom
+2026-11-03T15:13:08Z,EXIT,9nS9Hwi6P55qLBGGmLZ35gsLQLhnoJqJzyXs3MfokLx7,TCG / USDC,0,5.15723159217e-06,100.0,timeout,-9.98,-9.98,898.0,exit_bar=2026-11-03T15:12:00Z,control
+2026-11-03T15:14:30Z,ENTRY,ATP3Uh73a2faK7gwhfKv4qDnyAKU7QK71Me7obiYXYUH,YWRIGHT / SOL,0,5.27412427566e-06,100.0,control_no_momentum,,,898.0,score=0.00 momentum=0%,control
+2026-11-03T15:14:30Z,ENTRY,5ZRkgg5TbaoUvbsroCuAT2XZHe1w1nSRhQoKC5LcC2Kt,OXUS / SOL,0,2.7484331171e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=2%,control
+2026-11-03T15:16:05Z,EXIT,D1xEJdgimhFiTK5oGY8aSnbEHym8XrwKT6mM7sJhnxpY,0DAY / SOL,0,8.35753142605e-05,100.0,tp,60.54,60.54,898.0,exit_bar=2026-11-03T14:16:00Z,control
+2026-11-03T15:17:27Z,ENTRY,48xsPewq3x81rQDx5qtFAdTy8JoU4L48dHooLky9aatS,MAMESUKE / SOL,0,4.62009618522e-05,100.0,research_failed,,,898.0,score=0.00 momentum=377%,mom
+2026-11-03T15:18:55Z,ENTRY,AeFaetvxEyjjR6LeyLS36niHT1fe86kQJa3JTnSNb7d4,Green Cat / SOL,0,3.34068379794e-05,100.0,research_failed,,,898.0,score=0.00 momentum=54%,mom
+2026-11-03T15:21:45Z,ENTRY,2HNWu8zwBJnDqYWxqUetdRH1sFw9Fky7jCgBdk1yrNzD,CAPY / SOL,0,8.99868829453e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=8%,control
+2026-11-03T15:21:45Z,ENTRY,PcuhiAPmsM5uyGBW7e6m4mXyUi6Y92qrFqk8R1X7fqz,Coinbase / SOL,0,0.000162537032267,100.0,research_failed,,,898.0,score=0.00 momentum=48%,mom
