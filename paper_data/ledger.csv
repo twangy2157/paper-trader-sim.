@@ -1789,3 +1789,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T21:22:24Z,ENTRY,pbcGNRC6VybVtj9DW1aof5hnaf65GrVnYQ6f5JzDJi4,Rise / SOL,0,3.14438229331e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-13%,control
 2026-11-03T21:23:44Z,ENTRY,CsUVnnpFgdGGZMCYK1pn1uuy1qLL8YJXE5EBD1k7Cjr5,Mcoin / USDC,0,7.79243506161e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-0%,control
 2026-11-03T21:25:20Z,EXIT,DMY3NQZQJDKo1TfediG32sg7CDDXRse6hHTvHEY7ajFA,Pump Farm / SOL,0,4.05547471377e-05,100.0,timeout,-7.04,-7.04,860.09,exit_bar=2026-11-03T21:23:00Z,mom
+2026-11-03T21:26:51Z,ENTRY,CNewmJManTNxzJGCLs3m1i7tNx3zAKG2rS2TsT8kbh2w,ADP / SOL,0,0.0349000059668,100.0,control_no_momentum,,,860.09,score=0.00 momentum=4%,control
+2026-11-03T21:28:26Z,EXIT,6fSvgtUPcKa7XzTC2BWgSXnCtnrMNq4hv64x985Xsmnz,MAMESUKE / SOL,0,1.21604735625e-05,100.0,sl,-100.02,-100.02,860.09,exit_bar=2026-11-03T20:39:00Z,mom
+2026-11-03T21:29:55Z,ENTRY,69rG7nMc34hmpG4ry7XACYzNRADxy1HsdjQo5yc4pJ86,Microsoft / SOL,0,9.89756617118e-05,100.0,dip_after_drop,,,860.09,score=0.00 momentum=-21%,dip
+2026-11-03T21:31:16Z,EXIT,Ex4ezVgWJXNbPLHnEAaBQ4Hq8qbDWsznMbmvMzU4uBGN,$SB / SOL,0,1.83921863413e-05,100.0,timeout,-5.59,-5.59,860.09,exit_bar=2026-11-03T21:29:00Z,control
+2026-11-03T21:32:30Z,ENTRY,C2BsZysAQgzcPp4ukoYy4srATHgNxXiFLQeVjcUbKuR5,MINIR / SOL,0,6.61238331445e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-03T21:35:28Z,ENTRY,CBXr5GxdLEeA1bNhd4rVVSG3XtGEnrY4NK4UMXcuCEhs,IMPEACH / SOL,0,0.000122512024098,100.0,research_failed,,,860.09,score=0.00 momentum=30%,mom
