@@ -1782,3 +1782,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T21:13:27Z,ENTRY,3d7uENuUBdxDHuWxsJsJ36rHvp1TcUne3QmcTy4ZqdrL,大A / SOL,0,2.1304715514e-05,100.0,research_failed,,,860.09,score=0.00 momentum=76%,mom
 2026-11-03T21:13:27Z,ENTRY,4u9t8vT6puPMoScuqHxZu2dA3GmawHepiZhxvNE65qc4,HOPE / SOL,0,1.54498804188e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=6%,control
 2026-11-03T21:14:56Z,ENTRY,HiyoLdgHxNb9fQTsXwn1r3YtTBoFSr2coSRm61DZ6RYc,PEACE / SOL,0,1.98677735948e-07,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-99%,control
+2026-11-03T21:16:37Z,ENTRY,58zspdzJZq6WwJVj5oceUcRsmCSaHx5UtuQVN2qC75cK,NDX / SOL,0,2.68366635969e-05,100.0,research_failed,,,860.09,score=0.00 momentum=33%,mom
+2026-11-03T21:16:37Z,ENTRY,JDXRgMxsZQRKkDi7ANLUK4eVj4EJwfAQ1msMkyEdeAvQ,Mag / SOL,0,7.54116348967e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-4%,control
+2026-11-03T21:19:34Z,ENTRY,Dct8DnnSRBDYbToAVWd4GKpep2CECgdx6F1k5wrRoy1Y,Trump / DJT,0,9.74498750631e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=1%,control
+2026-11-03T21:19:34Z,FAILED,EAryEmNJvaBZkq8shw48GaxnxEijWvdU6ZirCQhN6j8d,PEACE / SOL,0,3.05105212368e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",mom
+2026-11-03T21:22:24Z,ENTRY,pbcGNRC6VybVtj9DW1aof5hnaf65GrVnYQ6f5JzDJi4,Rise / SOL,0,3.14438229331e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-13%,control
+2026-11-03T21:23:44Z,ENTRY,CsUVnnpFgdGGZMCYK1pn1uuy1qLL8YJXE5EBD1k7Cjr5,Mcoin / USDC,0,7.79243506161e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-0%,control
+2026-11-03T21:25:20Z,EXIT,DMY3NQZQJDKo1TfediG32sg7CDDXRse6hHTvHEY7ajFA,Pump Farm / SOL,0,4.05547471377e-05,100.0,timeout,-7.04,-7.04,860.09,exit_bar=2026-11-03T21:23:00Z,mom
