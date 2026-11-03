@@ -1217,3 +1217,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T07:47:45Z,ENTRY,DW9zb1D47N1YsodXdQ6jzeWTVL4GYN9iJeVWNqh2M6xQ,UNPOOLED / SOL,0,8.68812822543e-05,100.0,control_no_momentum,,,898.0,score=0.00 momentum=9%,control
 2026-11-03T07:49:19Z,ENTRY,EzesJzRqwSrxm7XJ1tmUvcyjKZJWxbGayWh5j7XBYiJq,OJ / SOL,0,2.23104562218e-05,100.0,research_failed,,,898.0,score=0.00 momentum=149%,mom
 2026-11-03T07:50:40Z,ENTRY,7Zvm4T9N1VRBSAGrxLBdehwM8UmonuvWp4aDwKiCnSnU,hired / SOL,0,2.56725474721e-05,100.0,research_failed,,,898.0,score=0.00 momentum=188%,mom
+2026-11-03T07:53:31Z,ENTRY,5WZgfNfAyJUhLfsbXjx6nPD5L2fPfyKoAJEQHuhK6y6t,Pearl Coin / SOL,0,2.31821365644e-05,100.0,research_failed,,,898.0,score=0.00 momentum=13%,mom
+2026-11-03T07:53:31Z,ENTRY,FSmCGgm2Q3xsExkZxFrs5fbSRMeGPfVURXU9NKjPzYby,Ollybee / SOL,0,1.14887159012e-05,100.0,research_failed,,,898.0,score=0.00 momentum=39%,mom
+2026-11-03T07:55:06Z,EXIT,BP1dLNtmvMMCXNuFU3fFJp3raPy4HQYWpFpLfrsZppjL,NOTF / SOL,0,0.0379017481062,100.0,timeout,2.65,2.65,898.0,exit_bar=2026-11-03T07:54:00Z,proven
+2026-11-03T07:56:27Z,ENTRY,Asov282jyt4f5UFzaKmrntUgjfd2osgFg2fRak5RV6vr,รถไถ / SOL,0,5.10553427082e-05,100.0,research_failed,,,898.0,score=0.00 momentum=39%,mom
+2026-11-03T07:59:15Z,ENTRY,4fsYayodSFKtLFdBWdkZCEecC4xHULER251BGHpw2T2N,XTO / SOL,0,0.139979242297,100.0,proven_pool,,,898.0,age=123min,proven
+2026-11-03T08:00:29Z,FAILED,Fg6xwq4cmBpifYWfsnV4Nm61gWxMtzHaw637pLWi23hT,รถไถ / SOL,0,3.3564972428e-05,0,tx_failed,-0.5,,898.0,"buy reverted, tip lost",control
