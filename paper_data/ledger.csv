@@ -2524,3 +2524,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T17:06:27Z,ENTRY,GtceQ2r3sNHdotyLbcBurUcKbpU7gQzdJ3Qx8YgA8WBu,$TAPE / SOL,0,6.13774787859e-05,100.0,research_failed,,,752.08,score=0.00 momentum=228%,mom
 2026-11-04T17:06:27Z,ENTRY,2WQp6jwN4LAKhudGLcRTdHmx8w7fmTE9SCtgpZ5tx4bX,Adonitology / BTC,0,4.38799893241e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
 2026-11-04T17:07:56Z,ENTRY,H9V33FkMQKFxECcsHyHJ25RqKeDMfYuZANB1gCTrPHba,Adonitology / BTC,0,2.49725206177e-05,100.0,research_failed,,,752.08,score=0.00 momentum=83%,mom
+2026-11-04T17:09:30Z,ENTRY,BZe4s4oqksMcfnhEpm84A91gLTF22SPhRvVfdk3Bwnmx,Adonitolog / SOL,0,2.01412113688e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=1%,control
+2026-11-04T17:09:30Z,ENTRY,6gAQexDQ8LGEinoezd6nBiC4456qY1466CgUsbT6MbWr,SAVPIR / SOL,0,1.23969005743e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-0%,control
+2026-11-04T17:09:30Z,ENTRY,8vgtLLxBrZQ6jnwREN7BaS1sojuJErMjZS7b2yPQhB89,MarsCoin / SOL,0,2.98963183674e-05,100.0,research_failed,,,752.08,score=0.00 momentum=43%,mom
+2026-11-04T17:11:06Z,ENTRY,8hwMe9bYAcB5QTbtSMwWz5SoaiUYVmmgLqpUcfyUN8KX,DOOROC / SOL,0,2.47093701513e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-8%,control
+2026-11-04T17:12:28Z,ENTRY,FceveNUCETiusTARCXziZK1kaM5vAyVDCkjUs2wT3ucu,LMC / SOL,0,9.89124847756e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-0%,control
+2026-11-04T17:13:57Z,EXIT,jEzvZPdZ4u5SBxRjAP9P9ygSxjqxcju78qqq6m1kUxv,MUMU / SOL,1,0.000166632615767,100.0,tp,61.65,61.65,913.73,exit_bar=2026-11-04T16:14:00Z,mom
+2026-11-04T17:15:26Z,ENTRY,C5vbjjJKqprGsERH4txo85ffEp1tQgQVB6y5u9yMrk3m,OTTER / SOL,0,9.62452539884e-06,100.0,control_no_momentum,,,913.73,score=0.00 momentum=-0%,control
+2026-11-04T17:15:26Z,ENTRY,5m9qUbpPsqmrWUjC4thY869QuYAYsW8osnULaAcVJC5J,ELIZABETH / SOL,0,1.47559408544e-05,100.0,control_no_momentum,,,913.73,score=0.00 momentum=-0%,control
+2026-11-04T17:16:55Z,EXIT,9hpcF4HenPAaJfVYPYrwY5Vkb5fsUwtUYFRcy9Weeg96,AIB / SOL,0,1.38965263856e-05,100.0,tp,-100.01,-100.01,913.73,exit_bar=2026-11-04T16:28:00Z,control
+2026-11-04T17:18:24Z,ENTRY,2g1BAsuJU42dudTXY4yeEZ5Wwq8568pVP8nDL1PUrmGx,FOREVER / SOL,0,0.320987703483,100.0,research_failed,,,913.73,score=0.00 momentum=1605029%,mom
+2026-11-04T17:18:24Z,ENTRY,FRTEAa15dhqtvadueiGTZffo2WNyFgwNv7C3RRDk1Gxs,AIRDROP / SOL,0,1.90796919378e-05,100.0,control_no_momentum,,,913.73,score=0.00 momentum=-11%,control
