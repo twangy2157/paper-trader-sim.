@@ -2299,3 +2299,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T11:12:40Z,ENTRY,CwvfkutCrX9j9WCTriKxjorA5F3cth5Dr6KUBTh7u45g,GAS / SOL,0,2.80394690798e-08,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-100%,control
 2026-11-04T11:14:15Z,EXIT,AEtzSsHohZaCwdMfvU5w2Nz93df3gWYUwukZLcbsZjJ1,SHRM / SOL,0,7.4906474955e-06,100.0,timeout,-11.72,-11.72,860.09,exit_bar=2026-11-04T11:13:00Z,control
 2026-11-04T11:15:30Z,EXIT,bF3chGYmF2YStyxpZXkELCvzraoc6NcyHMYNbeBUiH8,EMBER / SOL,0,3.19398526639e-05,100.0,timeout,-7.12,-7.12,860.09,exit_bar=2026-11-04T11:14:00Z,control
+2026-11-04T11:17:16Z,ENTRY,3e3HjfRzERmyVHiC83x8JYp8W5Hxj8hr3a1HHViCzPpD,SAN / SOL,0,4.84605784569e-05,100.0,research_failed,,,860.09,score=0.00 momentum=28%,mom
+2026-11-04T11:18:37Z,EXIT,HbqGFjdNafyfmYLj6dRrdVVGNV1adDezvTX4t1648d1u,MONK / SOL,0,2.02747830008e-05,100.0,timeout,-7.64,-7.64,860.09,exit_bar=2026-11-04T11:17:00Z,control
+2026-11-04T11:18:37Z,FAILED,DYxvj6hRxLr6wfXoojhaqqksCLra8bBGBCnLdmrhXqeF,RURU / SOL,0,2.11613278859e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",mom
+2026-11-04T11:20:13Z,ENTRY,8BJNzXGXaUG7x7kozERCYGQZWXE9TYFjwQazwKwdDCf5,NORTHKOREA / SOL,0,1.3144523491e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-2%,control
+2026-11-04T11:24:25Z,EXIT,VBfoNFR7Lh8vKkEWD4WP28b5intzA9pPrb8Bxnj1oxA,VI / SOL,0,1.29404072199e-05,100.0,timeout,-3.27,-3.27,860.09,exit_bar=2026-11-04T11:23:00Z,control
+2026-11-04T11:27:15Z,ENTRY,CuuNNJ7fRBC3pYfCXgMBumMjiuHtpKbjSXG7tPww6vJ4,CREED / SOL,0,0.000130028061309,100.0,research_failed,,,860.09,score=0.00 momentum=103%,mom
