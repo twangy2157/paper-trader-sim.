@@ -2505,3 +2505,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T16:44:56Z,FAILED,jtpLVXxTFJjCh1reYfpCuAhwtXtcEf1ZCiji5XJRi3A,tremp / SOL,0,4.71089806559e-05,0,tx_failed,-0.5,,752.08,"buy reverted, tip lost",mom
 2026-11-04T16:44:56Z,ENTRY,5xafLrj5CiK8cVqrvn9Enx8dwN21vJCxEpEbTQqSDJbW,$BONKERS / SOL,0,8.08598447973e-06,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
 2026-11-04T16:46:25Z,ENTRY,54CGG1YRpRwXwBDjAabN4AyPDDMX9LLxeby9paVARPC8,$TAPE / SOL,0,0.000233201864913,100.0,research_failed,,,752.08,score=0.00 momentum=192%,mom
+2026-11-04T16:47:57Z,EXIT,5VxCxJW2SyshtKuwUJXC1itpokrt4unnfgMSKwBbkGTT,GOOPER / SOL,0,2.00661705815e-05,100.0,timeout,-5.4,-5.4,752.08,exit_bar=2026-11-04T16:46:00Z,control
+2026-11-04T16:49:26Z,ENTRY,4nkNghXmyxpyAyTxBQ6PKcRrMD1vf8PbU9xBbQ23AimX,OMNIBUS / SOL,0,7.16465927198e-06,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-77%,control
+2026-11-04T16:49:26Z,ENTRY,EC5oPfvBqEn9snQcdJjDM1qp31oV5DY2a5EesPDMtyuG,FOREVER / SOL,0,6.7345155183e-08,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T16:50:55Z,ENTRY,3sG2QzVwdWFDCqV4WuNiEz9CRKRr8k479d39MDosJa3X,Impeach / SOL,0,9.52922303483e-07,100.0,research_failed,,,752.08,score=0.50 momentum=39%,mom
+2026-11-04T16:52:18Z,ENTRY,G9iSSs9GXvsHEzzDXizdLtuUB8QfYG6fN5LQ3aQkcABM,WENDYS / WEN,0,1.66967262645e-05,100.0,research_failed,,,752.08,score=0.00 momentum=92%,mom
+2026-11-04T16:53:40Z,ENTRY,2vcTooA8UhLpRA6XWnD6jfxNZD1B1c4cRNrEJvqXvV7U,FIX / SOL,0,8.90231489946e-07,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T16:53:40Z,ENTRY,FMXZpTLdzdeXLxfi9nZEaL7BcBpjMMaqST5fkToWvKJD,PUMPONOMIC / SOL,0,4.91178005253e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T16:56:30Z,ENTRY,9dzcbCRVaM6pJWwkXsS4LkHVhAm54XduyxdurQ5fxSBD,Impeach / SOL,0,0.000105104850411,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-52%,control
+2026-11-04T16:56:30Z,ENTRY,9Lqukwnj2V4JjWAGHx99dgEa1cStGbhUB5PMXc5EAW4Q,ZEC / USDT,0,1314.64015156,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-0%,control
