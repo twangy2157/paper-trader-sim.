@@ -2004,3 +2004,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T03:34:44Z,EXIT,5rgXvUdzaMgTPAsfbEy74Sdbv93GLBjaKMea6tPUQTxn,Lone / SOL,0,1.0205495162e-05,100.0,timeout,-7.66,-7.66,860.09,exit_bar=2026-11-04T03:33:00Z,control
 2026-11-04T03:36:20Z,ENTRY,D3V4eyCoiJpo6sakWSwdxHzQmNyuzSWB5jqE9Qscyxz5,XTEN / SOL,0,5.04328982563e-06,100.0,proven_pool,,,860.09,age=122min,proven
 2026-11-04T03:37:41Z,ENTRY,Gzce9SZ4vRi7CC1RFRLiHibsbwMPjurmrR6s8YCVfiT9,MUSKX / SOL,0,0.000213279016849,100.0,research_failed,,,860.09,score=0.00 momentum=83%,mom
+2026-11-04T03:39:20Z,ENTRY,FYPdHRahzBcvPfcHSJLQWBfCopbd4kuW4LsswNAUdBsK,Game / SOL,0,3.31031344908e-05,100.0,research_failed,,,860.09,score=0.00 momentum=62%,mom
+2026-11-04T03:40:41Z,ENTRY,FKM64yHbE499VHGCmN4mY7QAzkgWejNuxWk4Nmr7M3r3,sol / SOL,0,7.98347223936e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T03:43:39Z,EXIT,4ZgDpUrvpRbJjsucF421RMpnA5kwGK86n2C8yjdeeGFD,XTO / SOL,0,0.000140316057381,100.0,timeout,9.47,9.47,860.09,exit_bar=2026-11-04T03:42:00Z,mom
+2026-11-04T03:46:28Z,EXIT,8LaqeoQe7YM38VKaZy5B9Z5dHVoX3N7nLoeyjSVzH5ug,LIBEARAL / SOL,0,1.66898616524e-05,100.0,rug,-100.02,-100.02,860.09,exit_bar=2026-11-04T03:45:00Z,control
+2026-11-04T03:47:57Z,ENTRY,CM2Qb5rMwjN5u16HuAPaqMwf6tR8QtjKWRhZja29VinU,MEME/COIN / SOL,0,4.43303587748e-05,100.0,research_failed,,,860.09,score=0.00 momentum=21%,mom
