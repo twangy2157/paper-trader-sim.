@@ -2269,3 +2269,16 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T10:41:45Z,EXIT,HbQ9VfWqhRoREsGe59u5UtxBbkkZh2onGn4C2XkzWMrp,MOGZ / SOL,0,3.18769471024e-05,100.0,timeout,-4.32,-4.32,860.09,exit_bar=2026-11-04T10:40:00Z,control
 2026-11-04T10:41:45Z,ENTRY,EbY5DktYzPfX2kYEx98nJwJ3L26Rr3E2euiBRUdtRxzF,USOE / SOL,0,0.163909449058,100.0,proven_pool,,,860.09,age=128min,proven
 2026-11-04T10:43:22Z,ENTRY,6Ffq4GF84wYGDJf6NdthdStVnNoJQre41QKwe88MZnXz,Google AI / SOL,0,3.01184754543e-05,100.0,research_failed,,,860.09,score=0.00 momentum=32%,mom
+2026-11-04T10:44:52Z,ENTRY,2JAheFkobeBDsftjtdSqyGGeFfJmnTRCx2S39gwzkCzC,sol / SOL,0,4.93122884312e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T10:44:52Z,ENTRY,BuonN5VaxMGRaaddR66ojRJAxURZXhsENmeG91vcmKTj,WOKEJAK / SOL,0,1.58672859613e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=5%,control
+2026-11-04T10:44:52Z,ENTRY,aEaxd9ovSfAjtpJYDLCepmW4ueamYDSqNta4EHJZdb5,RAM / SOL,0,8.1096728097e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T10:46:27Z,EXIT,HvanQvEK4dNaN9yj8gTMvKqfjEpPg7dZSyFURxZMLyQ6,TAKEHI / SOL,0,2.80121887744e-05,100.0,sl,-100.03,-100.03,860.09,exit_bar=2026-11-04T10:27:00Z,mom
+2026-11-04T10:46:27Z,ENTRY,4iVDEe1oW6Z385uHpX7ssYRyNNsEmUTerLufB5nmo7Zq,SPXL / SOL,0,5.32361353945e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-2%,control
+2026-11-04T10:47:56Z,ENTRY,Est5sVmr8vcpMYfJEHD2f6wKAB9Rr7gBRDVM8z4yhtGJ,Turtles / SOL,0,2.4874941075e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=9%,control
+2026-11-04T10:47:56Z,ENTRY,ARQHgJGG8XA3JHdBAsYTff1PqwSvgFzMLBeyc6fYav9y,Transinu / SOL,0,1.14304056489e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T10:47:56Z,ENTRY,AeHpygF3f63TTdryAXwUcvGMP3TcfTBtdziRStwUyP7h,Solana / SOL,0,1.28206983836e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T10:49:25Z,EXIT,7aAhJzgV9Eexzd5hmTFeorhXNHHNmkH45zqpC52Y6Y9r,USPR / SOL,0,0.00920985521653,100.0,honeypot,-101.0,-101.0,860.09,exit_bar=2026-11-04T10:48:00Z,control
+2026-11-04T10:49:25Z,ENTRY,5xe56cxL316XFp1RFWH5G65hQo6DLdx5P4XxBzPyRm6t,XTX / SOL,0,0.0826230892585,100.0,control_no_momentum,,,860.09,score=0.00 momentum=1%,control
+2026-11-04T10:50:54Z,EXIT,3N23oNxozjSnMuKXAEQXtVhLYtae6SMU9p65bE4eXrvt,Doge / SOL,0,3.46026480933e-05,100.0,sl,-100.03,-100.03,860.09,exit_bar=2026-11-04T09:48:00Z,mom
+2026-11-04T10:52:15Z,EXIT,6HjpxyTFgJVDTzQHZBPnJ1rYKyDQJzmYgzE9zyovehqS,NORTHKOREA / SOL,0,1.36225706051e-05,100.0,timeout,-10.75,-10.75,860.09,exit_bar=2026-11-04T10:48:00Z,control
+2026-11-04T10:53:30Z,ENTRY,8q42oD1ZLW3X7e8bBrq5k957ZTRYaowR9j1Yq7hUXdWv,STAY / SOL,0,2.47716339188e-05,100.0,research_failed,,,860.09,score=0.00 momentum=196%,mom
