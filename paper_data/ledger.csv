@@ -1940,3 +1940,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T01:44:27Z,FAILED,BhB2HVfrkaf9reMjPbrFbAGLkn4aF3UPK5CjQP8P3dum,HELIA / SOL,0,0.000250337452882,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",mom
 2026-11-04T01:45:56Z,ENTRY,AjyYcEWyaBG46dbgZ9jLRA8mNoDbkv31ThFfXydWUrTN,Other / SOL,0,0.00123459276915,100.0,research_failed,,,860.09,score=0.00 momentum=8381%,mom
 2026-11-04T01:47:25Z,ENTRY,4LXFsr4hVeXVymNzjc7qLfeQLtz61vdSTMibd4BMvF3a,META / SOL,0,9.1668016395e-05,100.0,research_failed,,,860.09,score=0.00 momentum=14%,mom
+2026-11-04T01:48:55Z,ENTRY,D3V4eyCoiJpo6sakWSwdxHzQmNyuzSWB5jqE9Qscyxz5,XTEN / SOL,0,4.5354355423e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=4%,control
+2026-11-04T01:54:28Z,EXIT,2m8xUuMcxVy8FML88EXzqjoGkcvNhPaziTGxPvj2SBs8,UODF / SOL,0,0.146756877421,100.0,timeout,-1.41,-1.41,860.09,exit_bar=2026-11-04T01:53:00Z,proven
+2026-11-04T01:55:57Z,ENTRY,9w7xuSxg56bms9qGJoeER9aHEPechdAGnW8SH5SDPLrW,Other / SOL,0,8.99893582761e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=6%,control
+2026-11-04T01:55:57Z,ENTRY,CS5KMmRQLkuhFdrPMQesUTKUXHBuXSagTsMGdpTwWywZ,E / SOL,0,4.11923837205e-05,100.0,research_failed,,,860.09,score=0.00 momentum=442%,mom
+2026-11-04T01:57:25Z,ENTRY,2DeHQprr8cN1mqvxc7uvoGHnk2DZokqNXJwcjXrq6GTr,$BTC / SOL,0,1.54330864584e-05,100.0,research_failed,,,860.09,score=0.00 momentum=110%,mom
