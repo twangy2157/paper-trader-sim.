@@ -1928,3 +1928,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T01:21:23Z,EXIT,8UBRf695ty5eufBnrUHinD82cW3xPdedbQXQB3Cq4bS2,FOREVER / SOL,0,4.861100513e-05,100.0,rug,-100.02,-100.02,860.09,exit_bar=2026-11-04T01:19:00Z,mom
 2026-11-04T01:22:44Z,ENTRY,EYd6Ex4umq1hAP8ttmYy3XftUjhn5ReWHVNM84kmrv7X,Jackass / SOL,0,4.57785373029e-05,100.0,research_failed,,,860.09,score=0.00 momentum=449%,mom
 2026-11-04T01:24:20Z,EXIT,6NRjfyEPLtXAKm8DGh4NQh5dkfFGbMNSNPmYdFCDZi73,AMD / SOL,0,1.71123182782e-05,100.0,timeout,20.24,20.24,860.09,exit_bar=2026-11-04T01:22:00Z,mom
+2026-11-04T01:27:20Z,ENTRY,9ejR6uxQ89TvBbRaXW3Uv33LVxX456uYbE28LnNa19wZ,VeraAgent / SOL,0,6.05026960063e-05,100.0,research_failed,,,860.09,score=0.00 momentum=547%,mom
+2026-11-04T01:28:41Z,ENTRY,4tAC9EzAmnQ5wDkdcPZJK4urgdpcqNSrExtb4DgX2Nrg,Rockstar / SOL,0,0.00019990967487,100.0,research_failed,,,860.09,score=0.00 momentum=70%,mom
+2026-11-04T01:33:14Z,ENTRY,3drcn9C5vmZXysetmZUaDALhk6dhKvEZkmCKTUVmub3A,gta / SOL,0,8.59938706066e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T01:34:28Z,ENTRY,Dv1HtGTp6s1bU1nD8aWpA9XTGHRYFkTuuRz5NCodEfNm,Capybara / SOL,0,4.25824041002e-05,100.0,research_failed,,,860.09,score=0.00 momentum=119%,mom
+2026-11-04T01:35:57Z,FAILED,7hBn3irYjFk6Ngw22Mcgjo5AghsuNnj5kY37T1djRHCz,HELIA / POLYMARKET,0,1.86722276402e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",mom
