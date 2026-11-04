@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-04T12:42:55Z. Bankroll cash (research-selected trades): 859.5946161788225. Open positions: 16. Pools on watchlist: 9.
+Updated 2026-11-04T12:44:33Z. Bankroll cash (research-selected trades): 859.5946161788225. Open positions: 15. Pools on watchlist: 3.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
@@ -11,25 +11,25 @@ Updated 2026-11-04T12:42:55Z. Bankroll cash (research-selected trades): 859.5946
 | all momentum | 480 | 15% | -54.1% | -60 to -48 | -26020 |
 | control | 568 | 7% | -17.5% | -20 to -15 | -9991 |
 | dip buy | 4 | 25% | -13.1% | - | -52 |
-| proven pools | 22 | 36% | -24.6% | -45 to -5 | -542 |
+| proven pools | 23 | 35% | -23.7% | -43 to -5 | -546 |
 
 What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 | exit rule | momentum | control | dip | proven |
 |---|---|---|---|---|
-| base_sl30_tp100 | -55% (459, 16%) | -17% (568, 7%) | -13% (4, 25%) | -25% (22, 36%) |
-| wide_sl50_tp100 | -55% (459, 17%) | -18% (568, 8%) | -13% (4, 25%) | -25% (22, 36%) |
-| sl30_tp50 | -57% (459, 19%) | -18% (568, 8%) | -22% (4, 25%) | -25% (22, 36%) |
-| sl50_tp50 | -56% (459, 21%) | -18% (568, 9%) | -22% (4, 25%) | -25% (22, 36%) |
-| no_stop_tp100 | -54% (459, 19%) | -18% (568, 8%) | -13% (4, 25%) | -25% (22, 36%) |
+| base_sl30_tp100 | -55% (459, 16%) | -17% (568, 7%) | -13% (4, 25%) | -24% (23, 35%) |
+| wide_sl50_tp100 | -55% (459, 17%) | -18% (568, 8%) | -13% (4, 25%) | -24% (23, 35%) |
+| sl30_tp50 | -57% (459, 19%) | -18% (568, 8%) | -22% (4, 25%) | -24% (23, 35%) |
+| sl50_tp50 | -56% (459, 21%) | -18% (568, 9%) | -22% (4, 25%) | -24% (23, 35%) |
+| no_stop_tp100 | -54% (459, 19%) | -18% (568, 8%) | -13% (4, 25%) | -24% (23, 35%) |
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 17477. Outcomes:
+Pools seen: 17484. Outcomes:
 
-- missed_window: 11551
-- low_liquidity: 3285
-- proven_liquidity_gone: 1099
+- missed_window: 11555
+- low_liquidity: 3287
+- proven_liquidity_gone: 1100
 - no_momentum: 619
 - research_failed: 482
 - simulated failed buy: 195

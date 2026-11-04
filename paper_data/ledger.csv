@@ -2358,3 +2358,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T12:40:43Z,ENTRY,7Dph4C8QcFufTNr2RcBjoaL8649hAD5ihixyaAs86g9s,TORSTASH / SOL,0,6.60441267962e-06,100.0,research_failed,,,859.59,score=0.00 momentum=18%,mom
 2026-11-04T12:42:19Z,ENTRY,5xe56cxL316XFp1RFWH5G65hQo6DLdx5P4XxBzPyRm6t,XTX / SOL,0,0.083912569146,100.0,proven_pool,,,859.59,age=121min,proven
 2026-11-04T12:42:19Z,FAILED,DuatTZQAB1dUAycs8q5YLgcMFKeU2wYmFuLekRc9DvTR,LMC / SOL,0,9.88470538259e-06,0,tx_failed,-0.5,,859.59,"buy reverted, tip lost",control
+2026-11-04T12:43:43Z,EXIT,Dy9AnTkCXy121LZRUkRJFcUc59QPKKNJW1Kod1sNDVWh,Elon Musk / SOL,0,4.31925725728e-05,100.0,timeout,-3.69,-3.69,859.59,exit_bar=2026-11-04T12:42:00Z,proven
