@@ -2260,3 +2260,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T10:29:45Z,FAILED,AyXwMfHLRv9rpwdwNxCNymiKqUozbk9o98DiPj4Acnwi,GATO / SOL,0,2.32037002165e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",mom
 2026-11-04T10:31:21Z,EXIT,4b9bDUW33sEGdhP57HVJDzwJPYBzhumgN5FVGyLchWm5,AMD / SOL,0,1.99883148292e-05,100.0,sl,-100.02,-100.02,860.09,exit_bar=2026-11-04T09:32:00Z,mom
 2026-11-04T10:32:43Z,ENTRY,2dAVe3uee888fWZexQsa7EDcsN2P9KsnoRxMnEDEKX2a,OKKB / USDT,0,1.00079065869,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T10:34:36Z,ENTRY,AnKwXyRDdNGayuPrrgCazNj6FufbwrufWiW8tf3U4gV4,NEX Ai / SOL,0,3.53993231534e-05,100.0,research_failed,,,860.09,score=0.00 momentum=65%,mom
+2026-11-04T10:36:12Z,ENTRY,3AhU23pcKXSsFxqYTYS7YWyL6VBDaxLgLmJMKX2uwtn3,RAMzilla / SOL,0,6.75376483545e-05,100.0,research_failed,,,860.09,score=0.00 momentum=54%,mom
+2026-11-04T10:37:34Z,EXIT,GeKjGDrUceJxaw6Li2YAEKrGgzhAXCFnQfMLGLgH6mpY,ELON / SOL,0,0.000332628379645,100.0,tp,93.51,93.51,860.09,exit_bar=2026-11-04T10:14:00Z,mom
+2026-11-04T10:37:34Z,ENTRY,J1GVrt3qebUSBXTRZDc3zc2Ret3ttCSjywhjGW95thhg,SPXL / SOL,0,5.30015706072e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T10:39:10Z,ENTRY,C24g6r5QY34HfDRVG8KhHxFZDvpsUWA4ntruAGXCbSzs,BRAINROT / SOL,0,1.39546277824e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T10:40:24Z,ENTRY,589BDZRbY1oVf48BgGPnRwSzG8EdLKEgwxvqCbQb5uaL,PowerMaxx / SOL,0,3.31015049467e-05,100.0,research_failed,,,860.09,score=0.00 momentum=87%,mom
+2026-11-04T10:41:45Z,EXIT,HbQ9VfWqhRoREsGe59u5UtxBbkkZh2onGn4C2XkzWMrp,MOGZ / SOL,0,3.18769471024e-05,100.0,timeout,-4.32,-4.32,860.09,exit_bar=2026-11-04T10:40:00Z,control
+2026-11-04T10:41:45Z,ENTRY,EbY5DktYzPfX2kYEx98nJwJ3L26Rr3E2euiBRUdtRxzF,USOE / SOL,0,0.163909449058,100.0,proven_pool,,,860.09,age=128min,proven
+2026-11-04T10:43:22Z,ENTRY,6Ffq4GF84wYGDJf6NdthdStVnNoJQre41QKwe88MZnXz,Google AI / SOL,0,3.01184754543e-05,100.0,research_failed,,,860.09,score=0.00 momentum=32%,mom
