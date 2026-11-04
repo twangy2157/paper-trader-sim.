@@ -2417,3 +2417,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T14:38:24Z,ENTRY,GWFeKqwRmBXp9YhhXHw6XFSRnKCatQZdELPamUQmjyQ6,ctl / SOL,0,0.000187210660425,100.0,control_no_momentum,,,859.59,score=0.00 momentum=-1%,control
 2026-11-04T14:39:53Z,ENTRY,9T8vSF6givveFqkjezf2gmniA2MBYsQZkYwokCTTRVqU,AMD / SOL,0,4.53452463421e-05,100.0,research_failed,,,859.59,score=0.00 momentum=408%,mom
 2026-11-04T14:41:15Z,EXIT,BsS9zprAd74eSQP5HM1kRFj7LXD9gJDiGxphfYJ46nvB,胖五 / SOL,0,1.14572884271e-06,100.0,rug,-100.02,-100.02,859.59,exit_bar=2026-11-04T14:39:00Z,mom
+2026-11-04T14:42:32Z,ENTRY,6v67F7i3LNjpFkZmRMuD4YorRhyoWyiqVQE13oCQnGYh,PAIRITY / SOL,0,1.00664721805e-05,100.0,research_failed,,,859.59,score=0.00 momentum=30%,mom
+2026-11-04T14:42:32Z,ENTRY,HsMbKvuKEedKskrA7vEDPbB5THYiy4U1YbZaj8pDssBH,COPE / SOL,0,1.68444476145e-05,100.0,research_failed,,,859.59,score=0.00 momentum=75%,mom
+2026-11-04T14:45:23Z,FAILED,4dhz4YVGo42vjAK6eK7avPmGjQtPHiWa94e6crQ72hf3,PAIRITY / SOL,0,2.4998167775e-05,0,tx_failed,-0.5,,859.59,"buy reverted, tip lost",mom
+2026-11-04T14:46:45Z,ENTRY,5mbDoMnPkFmKxx5zNGxWgSWZsUes49W6RiVL7evTwi8U,SWIPEY / SOL,0,1.91770073038e-05,100.0,research_failed,,,859.59,score=0.00 momentum=39%,mom
+2026-11-04T14:46:45Z,ENTRY,3jk8eW6LnEQcD86H1BEGrJ5PUDhQMBTqCffVDq9kxESH,MEMEMAN / STONKS,0,2.00459491393e-05,100.0,control_no_momentum,,,859.59,score=0.00 momentum=-15%,control
+2026-11-04T14:48:21Z,ENTRY,G5bPnwCc5zymHsziGFGm2EAJevouYxpBxDumPkTNgXTa,SHORT / SOL,0,8.03420703967e-06,100.0,control_no_momentum,,,859.59,score=0.00 momentum=-6%,control
+2026-11-04T14:49:42Z,ENTRY,DtKSiT4sVA8TmCBNCZvcQ7MWPpVj8aHu3aP7QrPoxnbC,AI / FRONTIER,0,2.00487466394e-05,100.0,control_no_momentum,,,859.59,score=0.00 momentum=-1%,control
+2026-11-04T14:49:42Z,ENTRY,CmfPBQMjznDSdfzcdYsn5jPfDBDdTA4WCMLQeFyK2E5V,BASKET / tOpenAI,0,2.06887193015e-05,100.0,control_no_momentum,,,859.59,score=0.00 momentum=5%,control
+2026-11-04T14:51:19Z,EXIT,6bL2UuZoBi2fJY5kR89QsDoCmsPcquAg7DCRNBu2mhvG,TOLY / SOL,0,1.31313390287e-05,100.0,sl,-100.03,-100.03,859.59,exit_bar=2026-11-04T13:50:00Z,mom
