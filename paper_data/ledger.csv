@@ -2615,3 +2615,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T19:32:27Z,ENTRY,7drPdRCost7tKmF8eWrvSV3ij68R3R9YXNxqWbN1GmCm,HEART / SOL,0,5.06922868161e-05,100.0,research_failed,,,813.73,score=0.00 momentum=20%,mom
 2026-11-04T19:35:24Z,ENTRY,FjXWcR9bSTnnjgCGDV1PkWKJxS9XpP59W16mqqGtaMCj,fg / SOL,0,2.09257063081e-05,100.0,control_no_momentum,,,813.73,score=0.00 momentum=0%,control
 2026-11-04T19:36:46Z,ENTRY,88g8pFVjjjtqKpEENCSpYsW17MXC2E111fSnigKue748,TMM / SOL,0,6.84022384957e-06,100.0,control_no_momentum,,,813.73,score=0.00 momentum=0%,control
+2026-11-04T19:39:31Z,FAILED,6UtsiSpBKo5HHV2YAYWE7CgkhN91tUP5u2FRLFGynrL2,mmrich / SOL,0,6.9083873728e-06,0,tx_failed,-0.5,,813.73,"buy reverted, tip lost",control
+2026-11-04T19:39:31Z,ENTRY,F5rKwDnMp4GtwtosXpAA1JV6gfHTVLysb33kX6rVpX12,Scaminals / SOL,0,0.000142209236809,100.0,control_no_momentum,,,813.73,score=0.00 momentum=0%,control
+2026-11-04T19:41:06Z,ENTRY,GL4wDu52r1SG5dZPEKXEbJenng17B9s6LrCt4pzCtdsZ,TRUMPBUTT / SOL,0,4.95499993031e-05,100.0,research_failed,,,813.73,score=0.00 momentum=18%,mom
+2026-11-04T19:43:56Z,ENTRY,FhVGa5N86x7WP23dfhWH8GWCbh53413S9yTRVQ74HaCG,BPCATE / SOL,0,7.81569971289e-05,100.0,control_no_momentum,,,813.73,score=0.00 momentum=0%,control
+2026-11-04T19:43:56Z,ENTRY,4xu8kBXnNzvWaSATNQkyk6uDqjCt78TxdjRKHVsLX87Q,PEN / STONK,0,2.01110616871e-05,100.0,control_no_momentum,,,813.73,score=0.00 momentum=1%,control
+2026-11-04T19:45:25Z,ENTRY,LhbYDHSJ4ZcyBFrHErreCAyoeRwceEtKdyHNPUTdhS7,SCZCS / SOL,0,6.97999328997e-06,100.0,control_no_momentum,,,813.73,score=0.00 momentum=-0%,control
