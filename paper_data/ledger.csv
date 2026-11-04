@@ -1964,3 +1964,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T02:29:25Z,ENTRY,9rVFD5NK2hL1m6PiNnCJKxffooJyt9BjdzNGm8xaSkzJ,WTEA / SOL,0,7.8369462068e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
 2026-11-04T02:30:53Z,EXIT,4tAC9EzAmnQ5wDkdcPZJK4urgdpcqNSrExtb4DgX2Nrg,Rockstar / SOL,0,1.65235777054e-06,100.0,rug,-100.19,-100.19,860.09,exit_bar=2026-11-04T01:31:00Z,mom
 2026-11-04T02:32:15Z,ENTRY,5rgXvUdzaMgTPAsfbEy74Sdbv93GLBjaKMea6tPUQTxn,Lone / SOL,0,1.04601503553e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T02:33:31Z,FAILED,G8yKnoXWRPBp3UPw6jDewXgyEsEgj3pSprgspF6syMrD,GROKBOT / USDC,0,7.05268370458e-06,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-04T02:35:00Z,EXIT,3drcn9C5vmZXysetmZUaDALhk6dhKvEZkmCKTUVmub3A,gta / SOL,0,8.25106463373e-05,100.0,timeout,-8.02,-8.02,860.09,exit_bar=2026-11-04T02:34:00Z,control
+2026-11-04T02:36:14Z,EXIT,Dv1HtGTp6s1bU1nD8aWpA9XTGHRYFkTuuRz5NCodEfNm,Capybara / SOL,0,8.51648082003e-05,100.0,tp,-100.01,-100.01,860.09,exit_bar=2026-11-04T01:59:00Z,mom
+2026-11-04T02:37:28Z,FAILED,8pNrXcfoxhd6uuixwc2yoqStTCdxZASver8ckv7v1AHM,XTO / SOL,0,0.000794354053225,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-04T02:40:24Z,EXIT,5NfPPewxzJNhvPsRcfmkG9qwv4ZPGdwAaaEqmnMzqtmE,OpenAI / SOL,0,2.02304563779e-06,100.0,rug,-98.42,-98.42,860.09,exit_bar=2026-11-04T01:49:00Z,control
+2026-11-04T02:41:46Z,ENTRY,4ZgDpUrvpRbJjsucF421RMpnA5kwGK86n2C8yjdeeGFD,XTO / SOL,0,0.000123514805074,100.0,research_failed,,,860.09,score=0.00 momentum=153%,mom
+2026-11-04T02:43:14Z,EXIT,FU9iBMbgnjjUGD3Jk5qmJydfWdZ81641jEQmv7DE4kMd,NPCH / SOL,0,7.20918158497e-06,100.0,timeout,-9.85,-9.85,860.09,exit_bar=2026-11-04T02:41:00Z,control
