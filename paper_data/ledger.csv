@@ -2403,3 +2403,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T14:19:18Z,EXIT,4oH2qJQhDrgRzoLjELoAR1yqvpagrK5SQStzLL5yYe58,$ / SOL,0,2.27475268408e-05,100.0,rug,-100.02,-100.02,859.59,exit_bar=2026-11-04T14:17:00Z,mom
 2026-11-04T14:20:39Z,EXIT,6k8PpGvgh3TFyophhHf12FyniPxKxPc23HQ2nexCC8m6,SGMA / SOL,0,6.83106128474e-06,100.0,timeout,-8.65,-8.65,859.59,exit_bar=2026-11-04T14:19:00Z,control
 2026-11-04T14:20:39Z,ENTRY,ArRLypyKbBLEx2BDxT2oTNdhNV5uRDza4qseVvwsARCF,AODF / SOL,0,0.0130513098765,100.0,proven_pool,,,859.59,age=122min,proven
+2026-11-04T14:22:19Z,ENTRY,6A5schnN1Y7G9vR6wvGfgEC3fmqZ1n3rsJpKNbaaR4SN,Lone / SOL,0,7.04155074276e-06,100.0,control_no_momentum,,,859.59,score=0.00 momentum=0%,control
+2026-11-04T14:26:31Z,ENTRY,BKGe1wMDiriBVaMiq2R1dFGUqxzPhm3vMq41kYDNp8rx,SLINGTOSHI / SOL,0,8.12427724957e-06,100.0,control_no_momentum,,,859.59,score=0.00 momentum=0%,control
+2026-11-04T14:28:07Z,ENTRY,6CZfkgp96ntnrvD7e2xSuvR1CpvB8eeHyeYBAnCTRoQV,rock / SOL,0,4.60504909295e-05,100.0,research_failed,,,859.59,score=0.00 momentum=23%,mom
+2026-11-04T14:29:28Z,ENTRY,FAsFC1SdKkv4YK7dv6jSEwja9khmG6D9aMRzrxJLZjyj,BARRON / SOL,0,9.85429302421e-05,100.0,control_no_momentum,,,859.59,score=0.00 momentum=-17%,control
+2026-11-04T14:30:57Z,FAILED,HjLUXn4kpaspFCtk2MkAVzJ8PEng1E2JkS7QRQkLiSCx,pepefish / SOL,0,3.31567795348e-05,0,tx_failed,-0.5,,859.59,"buy reverted, tip lost",control
