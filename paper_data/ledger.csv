@@ -2514,3 +2514,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T16:53:40Z,ENTRY,FMXZpTLdzdeXLxfi9nZEaL7BcBpjMMaqST5fkToWvKJD,PUMPONOMIC / SOL,0,4.91178005253e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
 2026-11-04T16:56:30Z,ENTRY,9dzcbCRVaM6pJWwkXsS4LkHVhAm54XduyxdurQ5fxSBD,Impeach / SOL,0,0.000105104850411,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-52%,control
 2026-11-04T16:56:30Z,ENTRY,9Lqukwnj2V4JjWAGHx99dgEa1cStGbhUB5PMXc5EAW4Q,ZEC / USDT,0,1314.64015156,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-0%,control
+2026-11-04T16:58:09Z,ENTRY,5oRbq3QeQHFZPYqnaGpLWanasPdtbbJ1zscVHCQojpKA,baby / SOL,0,1.58315451112e-05,100.0,research_failed,,,752.08,score=0.00 momentum=84%,mom
+2026-11-04T17:01:00Z,ENTRY,498Ndo5ucuh6aTUUEB7WvkpWn8WYrmBxe2XpkNew8EwG,Toad / SOL,0,2.04821495367e-05,100.0,research_failed,,,752.08,score=0.00 momentum=71%,mom
+2026-11-04T17:02:14Z,ENTRY,Fx3JfJMW8akgeBxfEQTjYeY8NqQ8uk9wQ2eNAJdZBE3P,ULTRA / SOL,0,1.16127751781e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-0%,control
+2026-11-04T17:03:29Z,ENTRY,8s5yL7W4qpNhv6zRcV7uMrgaNwXjeXQSjRqZwSmAQA5c,Rooster / SOL,0,3.81641120788e-05,100.0,research_failed,,,752.08,score=0.00 momentum=282%,mom
+2026-11-04T17:03:29Z,ENTRY,Eb5VZQPSXhs1AzkhxC2bZqv5rwGvFPahNu1GRxg5BrwH,Adonitology / SOL,0,4.19440731477e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T17:04:58Z,ENTRY,DbsUQBSpPAgfQqmo4XV5Ti1KbiMVAJNyBAchipVRs8fQ,MIA / SOL,0,2.93428000971e-06,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T17:04:58Z,ENTRY,7L4eHArtgcB9ttPQWdcds1K6HBJZPisHETVA38jBP54D,ADONITOLOG / SOL,0,0.11923730853,100.0,research_failed,,,752.08,score=0.00 momentum=139540%,mom
+2026-11-04T17:06:27Z,ENTRY,GtceQ2r3sNHdotyLbcBurUcKbpU7gQzdJ3Qx8YgA8WBu,$TAPE / SOL,0,6.13774787859e-05,100.0,research_failed,,,752.08,score=0.00 momentum=228%,mom
+2026-11-04T17:06:27Z,ENTRY,2WQp6jwN4LAKhudGLcRTdHmx8w7fmTE9SCtgpZ5tx4bX,Adonitology / BTC,0,4.38799893241e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T17:07:56Z,ENTRY,H9V33FkMQKFxECcsHyHJ25RqKeDMfYuZANB1gCTrPHba,Adonitology / BTC,0,2.49725206177e-05,100.0,research_failed,,,752.08,score=0.00 momentum=83%,mom
