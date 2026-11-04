@@ -2172,3 +2172,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T08:19:21Z,ENTRY,CwuTV2sx88ZxegAw9bVsMfwN15LuvtbDCqNKWryrgM5S,X / SOL,0,0.000268956992439,100.0,research_failed,,,860.09,score=0.00 momentum=202%,mom
 2026-11-04T08:23:40Z,ENTRY,3VBYNNVGn7vNgASMWVpNuns5S5xDAcaRaxoGAnS8tV57,AI / SOL,0,3.3584729236e-05,100.0,research_failed,,,860.09,score=0.00 momentum=254%,mom
 2026-11-04T08:25:16Z,FAILED,8N6DzAyYGE51wD6TaN5PQPCgxGPnBWQqbLd8p7jrQ8rS,Groyper / SOL,0,8.73748142278e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-04T08:29:29Z,ENTRY,Eign9LMTsqcsjTobB3wZfTLjtA2s37KFrE58JYi6Lew,DDD / SOL,0,9.02243256421e-05,100.0,research_failed,,,860.09,score=0.00 momentum=351%,mom
+2026-11-04T08:30:58Z,EXIT,DTxRGZUmWJS323BcsxHfbhHqatmQpNMtjdJMJ9ZRheNU,XAUT / USDT,0,3993.86077837,100.0,timeout,-5.92,-5.92,860.09,exit_bar=2026-11-04T08:29:00Z,control
+2026-11-04T08:30:58Z,ENTRY,HivJCPyk5R8PrRSAVBdxzdUiaR4Rcfd4d4qrxZo2f1EL,NORTHKOREA / SOL,0,7.63210745497e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T08:32:27Z,EXIT,D8tLz1S4JjGtU4eengC12X1As3W3i4yyva3Cf5nhwuAf,ELONCOIN / SOL,0,1.11282897251e-05,100.0,timeout,-5.03,-5.03,860.09,exit_bar=2026-11-04T08:29:00Z,control
+2026-11-04T08:35:25Z,ENTRY,Bp2PvaP5eqJZshL9gusQBDFDD7GRkvmwiT6XXC7aLkV4,AURA / SOL,0,4.6167267119e-05,100.0,research_failed,,,860.09,score=0.00 momentum=22%,mom
