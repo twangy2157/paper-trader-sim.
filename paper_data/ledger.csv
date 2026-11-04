@@ -2360,3 +2360,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T12:42:19Z,FAILED,DuatTZQAB1dUAycs8q5YLgcMFKeU2wYmFuLekRc9DvTR,LMC / SOL,0,9.88470538259e-06,0,tx_failed,-0.5,,859.59,"buy reverted, tip lost",control
 2026-11-04T12:43:43Z,EXIT,Dy9AnTkCXy121LZRUkRJFcUc59QPKKNJW1Kod1sNDVWh,Elon Musk / SOL,0,4.31925725728e-05,100.0,timeout,-3.69,-3.69,859.59,exit_bar=2026-11-04T12:42:00Z,proven
 2026-11-04T12:55:27Z,EXIT,A3HcHAYsrL6UAkbsAPc82ArsiNBKhcKdoyRFzrMw93AM,HALH / SOL,0,5.06920011361e-06,100.0,timeout,-8.5,-8.5,859.59,exit_bar=2026-11-04T12:51:00Z,mom
+2026-11-04T13:10:57Z,ENTRY,5h5haQRpACfxD4TRBAFMd73Xio534crd3pRkMHsEvJZm,NORMIE / SOL,0,1.09015853891e-05,100.0,control_no_momentum,,,859.59,score=0.00 momentum=0%,control
+2026-11-04T13:10:57Z,ENTRY,Cpu6gNCwJiXg29u9pMwA83y3yqLCdb3ZTiQMLawdJbfe,AMD / SOL,0,8.50332326991e-05,100.0,control_no_momentum,,,859.59,score=0.00 momentum=3%,control
+2026-11-04T13:10:57Z,ENTRY,FebuNkjqrZJbVCodXssqMys1Qxb6RaU2oPaS8i7JAN4P,RAM / SOL,0,8.54467890971e-06,100.0,control_no_momentum,,,859.59,score=0.00 momentum=1%,control
+2026-11-04T13:12:25Z,ENTRY,DbdgkJfRbTwfhzkrsVBKCMEuxuMApyFVd3nMREGL2snH,$GOAT / SOL,0,3.44472993222e-06,100.0,control_no_momentum,,,859.59,score=0.00 momentum=0%,control
+2026-11-04T13:13:54Z,EXIT,CwuTV2sx88ZxegAw9bVsMfwN15LuvtbDCqNKWryrgM5S,X / SOL,0,0.000697714544179,100.0,timeout,-3.86,-3.86,859.59,exit_bar=2026-11-04T13:12:00Z,proven
+2026-11-04T13:16:30Z,ENTRY,4oH2qJQhDrgRzoLjELoAR1yqvpagrK5SQStzLL5yYe58,$ / SOL,0,2.29629909163e-05,100.0,research_failed,,,859.59,score=0.00 momentum=99%,mom
+2026-11-04T13:16:30Z,FAILED,82U2kVCDWAcMNnbBA7KCz8zTKSWs7ghQ2J2RccQpHSjV,Aluna / SOL,0,3.96825322869e-05,0,tx_failed,-0.5,,859.59,"buy reverted, tip lost",mom
