@@ -1971,3 +1971,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T02:40:24Z,EXIT,5NfPPewxzJNhvPsRcfmkG9qwv4ZPGdwAaaEqmnMzqtmE,OpenAI / SOL,0,2.02304563779e-06,100.0,rug,-98.42,-98.42,860.09,exit_bar=2026-11-04T01:49:00Z,control
 2026-11-04T02:41:46Z,ENTRY,4ZgDpUrvpRbJjsucF421RMpnA5kwGK86n2C8yjdeeGFD,XTO / SOL,0,0.000123514805074,100.0,research_failed,,,860.09,score=0.00 momentum=153%,mom
 2026-11-04T02:43:14Z,EXIT,FU9iBMbgnjjUGD3Jk5qmJydfWdZ81641jEQmv7DE4kMd,NPCH / SOL,0,7.20918158497e-06,100.0,timeout,-9.85,-9.85,860.09,exit_bar=2026-11-04T02:41:00Z,control
+2026-11-04T02:44:31Z,ENTRY,8LaqeoQe7YM38VKaZy5B9Z5dHVoX3N7nLoeyjSVzH5ug,LIBEARAL / SOL,0,1.03803154781e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=8%,control
+2026-11-04T02:46:07Z,ENTRY,DENMAKCcb216FidBTiYjEVNxaNsouXxpgWbyPVg74ZYt,song / SOL,0,9.61611565186e-06,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
+2026-11-04T02:47:28Z,EXIT,AjyYcEWyaBG46dbgZ9jLRA8mNoDbkv31ThFfXydWUrTN,Other / SOL,0,0.00139132484802,100.0,timeout,9.22,9.22,860.09,exit_bar=2026-11-04T02:46:00Z,mom
+2026-11-04T02:47:28Z,ENTRY,8vTjHWCURQ5opnAy1aGwqDvKjfmXbRCstp7c3Cwi5Q14,Transinu / SOL,0,2.94021601066e-05,100.0,research_failed,,,860.09,score=0.00 momentum=243%,mom
+2026-11-04T02:48:56Z,ENTRY,2GXiQQqqzkeEano3DyoVjbfYxrjqGCd9atQ37XCBjpeS,NEXQ / SOL,0,2.21204287172e-05,100.0,research_failed,,,860.09,score=0.00 momentum=25%,mom
+2026-11-04T02:50:25Z,EXIT,4LXFsr4hVeXVymNzjc7qLfeQLtz61vdSTMibd4BMvF3a,META / SOL,0,0.000105830297243,100.0,rug,-100.02,-100.02,860.09,exit_bar=2026-11-04T02:48:00Z,mom
+2026-11-04T02:51:54Z,EXIT,D3V4eyCoiJpo6sakWSwdxHzQmNyuzSWB5jqE9Qscyxz5,XTEN / SOL,0,5.03742449897e-06,100.0,timeout,7.72,7.72,860.09,exit_bar=2026-11-04T02:49:00Z,control
