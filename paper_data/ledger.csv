@@ -2494,3 +2494,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T16:27:56Z,ENTRY,CcwugfUey346cv1W9N9YgSvJQczdd4WrL67Xn6RJQcH1,SCRVAN / SOL,0,9.34537798605e-06,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
 2026-11-04T16:33:30Z,ENTRY,CBmbFtzXToX5jViJUS81N2Ld6dYWg9ebPWiRi9GKVcCx,Predict / SOL,0,2.11330099652e-05,100.0,research_failed,,,752.08,score=0.00 momentum=100%,mom
 2026-11-04T16:35:07Z,FAILED,4Yj5pphDBQbb4bjZiYMdpBxhCmkjMJsd9BuSia2i94RP,DICE / SOL,0,8.57412496237e-06,0,tx_failed,-0.5,,752.08,"buy reverted, tip lost",control
+2026-11-04T16:36:31Z,FAILED,DnRhBTf5r48ErxYD4z7XWTHYKZkEtf13ib3f4nEwFpME,POKEMON / SOL,0,9.11270477517e-05,0,tx_failed,-0.5,,752.08,"buy reverted, tip lost",control
+2026-11-04T16:38:00Z,EXIT,8jcgMxvG9K5XpPkmpTkqHFuEZyEJpeNJJjMhEs9uEz83,GETPAID / SOL,0,8.99235372042e-06,100.0,timeout,-8.17,-8.17,752.08,exit_bar=2026-11-04T16:36:00Z,control
+2026-11-04T16:39:14Z,ENTRY,DAcJEksjU8vwYPYZGPpMPJV5Jb49Xf1zA41L9KEv8e99,$SUSDUCK / SOL,0,1.02515808597e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T16:40:29Z,EXIT,A1Ew12GCLHL4UFXgZgnPCUNvztL9bDkbaGHnrou66nS9,Intel AI / SOL,0,7.34023051947e-05,100.0,tp,93.69,93.69,752.08,exit_bar=2026-11-04T15:39:00Z,mom
+2026-11-04T16:41:58Z,ENTRY,J9SmrgP7YNDHx37vZnxBgF8er3MAymtgSdirGxLXwW1A,Impeach / SOL,0,9.14441655948e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=8%,control
+2026-11-04T16:41:58Z,ENTRY,6w649iPTtsvGH3PytwXFRacHAickXmhy2ue9jaYkV5u3,TREMP / SOL,0,0.000174281496294,100.0,research_failed,,,752.08,score=0.00 momentum=56%,mom
+2026-11-04T16:43:27Z,ENTRY,CgNtYt76GsKkdwbEq5T11gZrV4qQm72gsJ2hXEyeaQtL,CAPY / SOL,0,9.93639435602e-05,100.0,research_failed,,,752.08,score=0.00 momentum=14%,mom
+2026-11-04T16:43:27Z,ENTRY,DTPHiVbUXyVCQFsLHiNuKMeGa8pSxfkhVFPY6gTNcBVH,10X / STONK,0,1.99526346024e-05,100.0,control_no_momentum,,,752.08,score=0.00 momentum=-1%,control
+2026-11-04T16:44:56Z,FAILED,jtpLVXxTFJjCh1reYfpCuAhwtXtcEf1ZCiji5XJRi3A,tremp / SOL,0,4.71089806559e-05,0,tx_failed,-0.5,,752.08,"buy reverted, tip lost",mom
+2026-11-04T16:44:56Z,ENTRY,5xafLrj5CiK8cVqrvn9Enx8dwN21vJCxEpEbTQqSDJbW,$BONKERS / SOL,0,8.08598447973e-06,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T16:46:25Z,ENTRY,54CGG1YRpRwXwBDjAabN4AyPDDMX9LLxeby9paVARPC8,$TAPE / SOL,0,0.000233201864913,100.0,research_failed,,,752.08,score=0.00 momentum=192%,mom
