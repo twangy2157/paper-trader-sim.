@@ -1894,3 +1894,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-03T23:52:21Z,ENTRY,BB9F547LLXcuBhgyCheB87F7GFW3VUPXj74S9gmuLQaM,FCM / SOL,0,4.68183015995e-05,100.0,research_failed,,,860.09,score=0.00 momentum=25%,mom
 2026-11-03T23:55:19Z,ENTRY,4nfq63M4SEzjEP1BRBbifmQwGCYNmxXV4qAVKjxkPp9c,GTA 6 Coin / SOL,0,0.000144580649905,100.0,research_failed,,,860.09,score=0.00 momentum=35%,mom
 2026-11-04T00:01:06Z,ENTRY,Ap18nBtA2Q7unqCRMnh246gDohXhGNkTzxhjpyTcaJJ4,AMD / SOL,0,2.72647609423e-09,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-100%,control
+2026-11-04T00:03:58Z,ENTRY,AyKKCUrxfvg5rcjuxXy6TCTcTtSHEFpAiCE7txakV4ms,MAMESUKE / SOL,0,1.30019532601e-05,100.0,research_failed,,,860.09,score=0.00 momentum=55%,mom
+2026-11-04T00:05:27Z,FAILED,8TXKfQJbMKRHFwtb642nV9y28Qao6WuwC65Hc8Ssuy29,SwordPepe / SOL,0,1.3602335265e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-04T00:13:05Z,EXIT,92iuo2CNfpgrzUYoMjyJe5WRMSLaujHit7AZxAgS8BdF,AMD / SOL,0,1.83823892226e-06,100.0,rug,-100.51,-100.51,860.09,exit_bar=2026-11-03T23:36:00Z,mom
