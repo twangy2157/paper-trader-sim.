@@ -2143,3 +2143,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T07:32:54Z,FAILED,88Jh2tbNyiMBXVh7Z3VUrRixQxFtxs1boNZ4iRLniKM,OKSD / USDT,0,127.913321956,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
 2026-11-04T07:34:15Z,EXIT,5kVbL5UrgyXSUTEBf6ef5FQPQynB8xkb3H8v2Y5aFk2W,LINGO / SOL,0,1.01343670219e-05,100.0,timeout,-7.67,-7.67,860.09,exit_bar=2026-11-04T07:32:00Z,control
 2026-11-04T07:35:29Z,EXIT,j8yDLUmyapNGYkPAwamEYoqtEWn6VV7PPoHGrDUFa4e,JACKED / SOL,0,6.38753013486e-06,100.0,timeout,-10.15,-10.15,860.09,exit_bar=2026-11-04T07:34:00Z,control
+2026-11-04T07:38:29Z,ENTRY,2i47PqrJJZ6irk55c7mHQovm4vh6ofg7qV4qnd9BPJR4,AMD / SOL,0,2.98522222573e-05,100.0,research_failed,,,860.09,score=0.00 momentum=191%,mom
+2026-11-04T07:40:05Z,ENTRY,3Pp3XrcrwWmBw2EHRziXR9iDPaFLsBXJggJqFhdLsYk4,RAM / SOL,0,9.45169803057e-07,100.0,research_failed,,,860.09,score=0.00 momentum=58%,mom
+2026-11-04T07:41:27Z,ENTRY,J2b1KS6ZbaRzYo8ZSog7eEQVXcMQEkTuqriiit1HpF4t,Bingling / SOL,0,1.37988535987e-05,100.0,research_failed,,,860.09,score=0.00 momentum=60%,mom
+2026-11-04T07:42:56Z,ENTRY,2FjeFweiqGA62Ea8jWp996ZuyNukhrN6MuGpr53kJ9sk,Dacity / SOL,0,4.64538716028e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=2%,control
+2026-11-04T07:45:45Z,ENTRY,5Mtqz8CLusxsq2nU6B7THZF4pwCFqdRG3SrBUaJefVuk,OATUNI / TAO,0,2.05005786845e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-7%,control
+2026-11-04T07:45:45Z,ENTRY,z88mCCzWU9dRZoqDjyRnzUiBesYg2cjkWHyeZE41G4F,AMD / SOL,0,4.84294783955e-05,100.0,research_failed,,,860.09,score=0.00 momentum=16%,mom
