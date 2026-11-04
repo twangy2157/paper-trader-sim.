@@ -2491,3 +2491,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T16:21:57Z,ENTRY,FoEEWXxZTu2deWak8pYKkgRTkX5pjDay4UemBN1RFLpS,MrBeast / SOL,0,0.000137094583961,100.0,research_failed,,,752.08,score=0.00 momentum=21%,mom
 2026-11-04T16:23:26Z,EXIT,BVmHxc7yGzxBLxccnbYxA7UQBGMKQ45F8no8u7GwEBsA,RAM / SOL,0,1.96548299024e-05,100.0,tp,91.76,91.76,752.08,exit_bar=2026-11-04T15:55:00Z,mom
 2026-11-04T16:24:55Z,EXIT,DkSnSordAcT7bHH7scaJYXzFXGkGxz3e3a3HbWv1gmWw,AMD / SOL,0,2.0391269838e-05,100.0,tp,-100.01,-100.01,752.08,exit_bar=2026-11-04T15:39:00Z,mom
+2026-11-04T16:27:56Z,ENTRY,CcwugfUey346cv1W9N9YgSvJQczdd4WrL67Xn6RJQcH1,SCRVAN / SOL,0,9.34537798605e-06,100.0,control_no_momentum,,,752.08,score=0.00 momentum=0%,control
+2026-11-04T16:33:30Z,ENTRY,CBmbFtzXToX5jViJUS81N2Ld6dYWg9ebPWiRi9GKVcCx,Predict / SOL,0,2.11330099652e-05,100.0,research_failed,,,752.08,score=0.00 momentum=100%,mom
+2026-11-04T16:35:07Z,FAILED,4Yj5pphDBQbb4bjZiYMdpBxhCmkjMJsd9BuSia2i94RP,DICE / SOL,0,8.57412496237e-06,0,tx_failed,-0.5,,752.08,"buy reverted, tip lost",control
