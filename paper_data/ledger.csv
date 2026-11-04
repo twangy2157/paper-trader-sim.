@@ -2061,3 +2061,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T05:00:56Z,ENTRY,52tSfbcXFEB3kcJRyAZyFvLUniwBZHVYDUwUco3w7PD7,VETO / DJT,0,2.06202591369e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-4%,control
 2026-11-04T05:02:25Z,EXIT,2MFBJNwfZXmMSNRXBEWNPnVe8etvBM1Fmw7eggKXRdwH,CLAWMES / SOL,0,2.1930973713e-05,100.0,timeout,-5.29,-5.29,860.09,exit_bar=2026-11-04T05:00:00Z,mom
 2026-11-04T05:05:15Z,FAILED,858gMt97pDzUsySvrTb9vmwQsG7YcXbdfrrtt5MTTUA6,Mr Veto / DJT,0,1.9996702917e-05,0,tx_failed,-0.5,,860.09,"buy reverted, tip lost",control
+2026-11-04T05:06:31Z,ENTRY,GcKRsJtWWeud5qtVizdToocejtn62ujzz6uRtimrUDWX,VETO / SOL,0,2.83006112988e-09,100.0,control_no_momentum,,,860.09,score=0.00 momentum=-100%,control
+2026-11-04T05:08:06Z,EXIT,9wErmTaM55EYTY8yr8Ck5i8hfn1xnemBq8ay9i9h2dwN,altcoin / SOL,0,1.01596652719e-05,100.0,sl,-100.03,-100.03,860.09,exit_bar=2026-11-04T05:04:00Z,mom
+2026-11-04T05:09:27Z,EXIT,Dtc1BxFHQLe7rxaqVc1A1NR5CnpXfoRAYPPn3vsuLJ1H,MOGGED / SOL,0,2.85262774006e-05,100.0,sl,-100.03,-100.03,860.09,exit_bar=2026-11-04T05:04:00Z,mom
+2026-11-04T05:10:56Z,EXIT,2G1jhAT1W7tzZu6uFezgM3LMTgfBe1oYQjjY3fjRSWok,AI / SOL,0,2.4376856362e-05,100.0,rug,-100.02,-100.02,860.09,exit_bar=2026-11-04T05:09:00Z,mom
+2026-11-04T05:10:56Z,ENTRY,4sQ1M4mB6MybZ4Qk1Vn6TszjsYpyLVJwTEpe787xhceu,XTEN / SOL,0,5.81980595984e-06,100.0,proven_pool,,,860.09,age=121min,proven
+2026-11-04T05:12:24Z,ENTRY,HTxyxAiwiXbuDAqSLbHZaPUBYwAxwMfah31i3x3Urvb8,CPU / SOL,0,4.88865925792e-05,100.0,research_failed,,,860.09,score=0.00 momentum=32%,mom
+2026-11-04T05:12:24Z,ENTRY,HV6GF4hnisNZmBia29NX6ntXMxMcasDcraCfZKLJ7eKS,VETO / SOL,0,8.64718069857e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=8%,control
+2026-11-04T05:13:53Z,ENTRY,GafvicsEt8oVgpHoocis9GGRKJ4zNNcgdE4fKj1bSz5C,SAMTRAPMAN / tOpenAI,0,2.00450259085e-05,100.0,control_no_momentum,,,860.09,score=0.00 momentum=0%,control
