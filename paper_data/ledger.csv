@@ -2598,3 +2598,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T19:01:26Z,ENTRY,5ioQfoBJi7PXBWaysDi1N5QsoVvHPwf9UQBDXKmMcZ78,UP / SOL,0,4.34735171713e-05,100.0,research_failed,,,813.73,score=0.00 momentum=13%,mom
 2026-11-04T19:01:26Z,FAILED,GeXja5UtcBHpGrzGNTruaX39k7osRzFCbu1QbbXGWNam,CashDog / ZEC,0,2.0558450409e-05,0,tx_failed,-0.5,,813.73,"buy reverted, tip lost",control
 2026-11-04T19:02:54Z,ENTRY,5S5QRLHZ7NKFJK1FUyE4rr6Q4cMMsa7sxgbCPrEtpkou,CASHDOG / SOL,0,4.30516064476e-05,100.0,research_failed,,,813.73,score=0.00 momentum=13%,mom
+2026-11-04T19:04:26Z,FAILED,BocJSNF69Rw7sdX1Xr2ZqLiLMGGNExRtXZgEmhg6PpEf,CASHDOG / SOL,0,0.0001238103906,0,tx_failed,-0.5,,813.73,"buy reverted, tip lost",mom
+2026-11-04T19:04:26Z,ENTRY,HLVP8CRQNdbyQ7V7w3KuC6LXw6jjQ2AmsaKXoeMhFbN8,BULL / TRX,0,2.00031685512e-05,100.0,control_no_momentum,,,813.73,score=0.00 momentum=0%,control
+2026-11-04T19:07:15Z,FAILED,G8VFD6Y3v4huDRbU7DtJr4KpAuXmnHQYdxveKqvWAr6b,Impeach / SOL,0,8.93949533257e-05,0,tx_failed,-0.5,,813.73,"buy reverted, tip lost",mom
+2026-11-04T19:08:30Z,EXIT,9WH6FUNWfkw6UP9Nc1s1tsWpPftrYDtYaq3y2p9w2sHS,Kitsu / SOL,0,3.7387830656e-05,100.0,timeout,1.67,1.67,813.73,exit_bar=2026-11-04T19:07:00Z,control
+2026-11-04T19:08:30Z,ENTRY,7Bz3CaBynVGybe3fS2QCHnBuzzkuHZKUU3jf2YkaoBrF,WFH / SOL,0,9.3131476771e-06,100.0,control_no_momentum,,,813.73,score=0.00 momentum=0%,control
+2026-11-04T19:11:27Z,ENTRY,4ED23rzhNjRx13fh8mN5o8UdZwKByKjjUNw36MDiWFai,AI / SOL,0,0.000131095045782,100.0,control_no_momentum,,,813.73,score=0.00 momentum=3%,control
+2026-11-04T19:14:16Z,EXIT,A69DgQZMmCpLDPZ3fKCEghEw5wtkvg6VieSofUgYZxum,GSHOES / SOL,0,5.16570571136e-06,100.0,honeypot,-101.0,-101.0,813.73,exit_bar=2026-11-04T19:13:00Z,control
