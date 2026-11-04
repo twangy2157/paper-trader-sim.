@@ -2741,3 +2741,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-04T22:51:26Z,EXIT,2DSenRQqViZFABcC3CCHfqV8sdN9wf3kjCfWrF9HFcqv,Patronus🐶 / SOL,0,4.51727127759e-07,100.0,rug,-100.35,-100.35,816.81,exit_bar=2026-11-04T22:01:00Z,mom
 2026-11-04T22:51:26Z,ENTRY,AW4jB6PPs9xVBcZbP4qmCDFtr8cf6zXTKAvun6cFoAnS,GDA / SOL,0,1.59188420228e-07,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
 2026-11-04T22:51:26Z,ENTRY,4La9fFvc5Jm9YJPBjVfpYVcJizPi3pygcEU2KRNG5iAG,眉眉 / SOL,0,2.02979758247e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-3%,control
+2026-11-04T22:53:05Z,ENTRY,5NjZ8LJjnWBkQiK4Q383vEUy2JVKLngrseuY6t7okRk8,Bingus / SOL,0,4.77727260285e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=8%,control
+2026-11-04T22:53:05Z,ENTRY,8QGjYZM3v8VyXVGZHxrSEW9Q6w34oHqVC1suxJ3Goz2e,BINGUS / SOL,0,0.0283293724987,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
+2026-11-04T22:54:26Z,EXIT,BSQ4BprctyTkyCWAJkgvyEVPp4XxrvPQCvguPbM44dAZ,MORTGAGE / SOL,0,6.65297945816e-05,100.0,timeout,35.52,35.52,816.81,exit_bar=2026-11-04T22:53:00Z,mom
+2026-11-04T22:54:26Z,ENTRY,AYAZzeVbzkuAvSNwXoKjvZUZkk25K6fGzomkxvdV4HGP,SOOTS / SOL,0,1.1278162747e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
+2026-11-04T22:54:26Z,ENTRY,4wB61P2VR5mhEaGwQuve9oy87N7Jsm7jX5eQS27ZTApV,FISTJAK / SOL,0,6.43732845798e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-6%,control
+2026-11-04T22:56:04Z,ENTRY,Du4KDJSeWUm7tuV5FTWjGFkbsS7CgDZpuj1mjmZYAvsY,$AURA / SOL,0,8.75332105712e-06,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
+2026-11-04T22:57:34Z,ENTRY,4x9j1uzroBZfRjoxFwFW4CcQCNiAZDL6rEWB2QmTtH4B,MashaM / SOL,0,1.53811973802e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
+2026-11-04T22:57:34Z,FAILED,qvusuCZ28omSkCFj1DtbkHv7Wj2htH5mVXLWm7M6sb3,MrBeast / SOL,0,0.000101905237174,0,tx_failed,-0.5,,816.81,"buy reverted, tip lost",control
+2026-11-04T22:59:10Z,ENTRY,GCA3eEaDzuUFwWmv2jXzfVapZ89MNiwBVJry1StpyH57,PAD / SOL,0,0.0544210140094,100.0,proven_pool,,,816.81,age=122min,proven
+2026-11-04T22:59:10Z,ENTRY,9gyuQQiE7mE9yeMzKUUcBrd179j2RpwXjryAa8yoSVHr,SHAKIRA / SOL,0,4.77853552533e-05,100.0,research_failed,,,816.81,score=0.00 momentum=13%,mom
+2026-11-04T23:00:39Z,ENTRY,GmNL8VVZh15LbcUwKAHiHCcHRKY15FqmV4niEBL6pz1N,SLOP / SOL,0,5.01212011838e-05,100.0,research_failed,,,816.81,score=0.00 momentum=18%,mom
+2026-11-04T23:02:22Z,EXIT,2kt4isUByKzJrNXb1TciFVujpUqKMD747MD8VGoMhbwU,HOD / SOL,0,8.97708556837e-06,100.0,timeout,-10.89,-10.89,816.81,exit_bar=2026-11-04T23:00:00Z,control
