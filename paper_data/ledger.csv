@@ -3078,3 +3078,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T07:46:24Z,ENTRY,84fW8cmdJ2QhifDcLiTtoKVo9k2Pf93UDXXFTE4YjYxY,Solana / SOL,0,7.7024706174e-06,100.0,control_no_momentum,,,751.65,score=0.00 momentum=0%,control
 2026-11-05T07:50:28Z,ENTRY,B4QaURtAzW3CWJEpPWfjML24v1KVeJorrNX5WTMpjqcN,Love! / SOL,0,2.32399437145e-05,100.0,research_failed,,,751.65,score=0.00 momentum=12%,mom
 2026-11-05T07:51:56Z,ENTRY,FTj3dRAsuyFjYo3WZayvciiBxJBXRyhZegMtC8J16nVU,RAM / SOL,0,2.66323320637e-05,100.0,research_failed,,,751.65,score=0.00 momentum=13%,mom
+2026-11-05T07:53:28Z,ENTRY,3Mfy3WSp3hUx3bbeDGd9T4dFHMsoTphX1CQLSrBgkwZi,LMAO / SOL,0,1.14191907812e-05,100.0,control_no_momentum,,,751.65,score=0.00 momentum=0%,control
+2026-11-05T07:53:28Z,FAILED,J9TX5jq6AqGBi6FRXx8GJmoR9U4DGz9gEzuqGPmjTFD3,Solana / SOL,0,1.836003455e-05,0,tx_failed,-0.5,,751.65,"buy reverted, tip lost",mom
+2026-11-05T07:54:56Z,FAILED,4dMdgCQAEH18trVaEJ6nA5iDdJu7mPiGNunskzjknmac,1 / SLINGTOSHI,0,1.64378150856e-05,0,tx_failed,-0.5,,751.65,"buy reverted, tip lost",control
+2026-11-05T07:56:25Z,ENTRY,5spFudY9ZuUYGHcRHFJ9wgHjrsi1mtzBButvZJ2WPFKW,KARDZ / SOL,0,7.16688213953e-05,100.0,research_failed,,,751.65,score=0.00 momentum=585%,mom
+2026-11-05T07:57:54Z,FAILED,GfJ3wTJvToVFC5f8Q2xf948rSc1tUmCZ81PE2nNnTT9R,CHIMP / SOL,0,8.2137734645e-06,0,tx_failed,-0.5,,751.65,"buy reverted, tip lost",control
+2026-11-05T08:03:26Z,FAILED,BaXubk2yVUjTse2RLKaThfAd6bVdtBfGh21wpJwWYwkF,ZELDA / SOL,0,4.97245052454e-05,0,tx_failed,-0.5,,751.65,"buy reverted, tip lost",mom
