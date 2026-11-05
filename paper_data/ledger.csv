@@ -3518,3 +3518,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T19:09:15Z,EXIT,4FrkNw7HHecE4USXNi57EcjUTCCUGzhQiVciTrgVqMXi,Donkey / SOL,0,1.91075498566e-05,100.0,tp,-100.01,-100.01,749.64,exit_bar=2026-11-05T18:42:00Z,mom
 2026-11-05T19:10:29Z,ENTRY,73PULmmj22oYXA1NZcj1i71DXtypG4MZScnEKwmhu4bQ,APEPHN / SOL,0,8.35651742676e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
 2026-11-05T19:11:58Z,ENTRY,FNvbE6x9FjmcjFqMj9MZMFv8xgmkcjJWX7Fs9DLbR1EG,AI robot / SOL,0,2.53196927495e-05,100.0,research_failed,,,749.64,score=0.00 momentum=34%,mom
+2026-11-05T19:13:30Z,FAILED,4PGBcttDNHfSK6fc33b6XNQcd7B6izCkTJdXC7XiH4yC,TANK / SOL,0,1.33185408231e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",mom
+2026-11-05T19:16:27Z,EXIT,2k5bxRop4MvN7zvuRpMEtA82yskgJnh73t64U9Ek7br1,SP500 / SPY,0,2.02884333913e-05,100.0,timeout,-4.86,-4.86,749.64,exit_bar=2026-11-05T19:15:00Z,control
+2026-11-05T19:17:56Z,ENTRY,F1WoJg21YUqsJVPsikTwrc5sPFPuugB3cJXTyX4EWppH,如我是高市你做川普吗 / SOL,0,2.21763054506e-05,100.0,research_failed,,,749.64,score=0.00 momentum=34%,mom
+2026-11-05T19:19:25Z,FAILED,4tJwpdmwjgeBVU3zHFCGML8SS2nXy2QSNtijnpVitnvX,PRISM / SOL,0,1.67093601341e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",mom
+2026-11-05T19:19:25Z,ENTRY,3FvhRdcDTeyibsiJHfVSnVg2H3bYtJSp95XQkYopTshT,TIRED / SOL,0,4.61447720397e-05,100.0,research_failed,,,749.64,score=0.00 momentum=14%,mom
+2026-11-05T19:20:54Z,ENTRY,DeNjxupoA6RZMysaRnddJYxxD2bF4fy5rPSQBMVhBo3M,OX / SOL,0,4.22655252758e-05,100.0,research_failed,,,749.64,score=0.00 momentum=109%,mom
