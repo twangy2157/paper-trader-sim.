@@ -3089,3 +3089,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T08:07:54Z,ENTRY,64nRH4S2a7ZjMUuKqWJ7VemSXkgF9o937yF8mZdguWji,888FATED / SOL,0,0.00453561430546,100.0,proven_pool,,,751.65,age=125min,proven
 2026-11-05T08:12:06Z,ENTRY,AMsSptuyrv8d6mETTsN4veKSpthi12KN1GDcfG41HBDY,PSA / SOL,0,2.12337018762e-05,100.0,research_failed,,,751.65,score=0.00 momentum=97%,mom
 2026-11-05T08:13:27Z,EXIT,AYRkbpc9o5C2R3xMVtLBazuFVX8jfxegVBLzwg4x79E9,Char / CARDS,0,5.90089221633e-06,100.0,sl,-35.66,-35.66,751.65,exit_bar=2026-11-05T07:19:00Z,mom
+2026-11-05T08:16:27Z,ENTRY,Aq2y36ujVrTgCktRpcw6FRYVoCfQcbA3TYoCn2Z6dA8z,AC / SOL,0,7.42585966811e-06,100.0,control_no_momentum,,,751.65,score=0.00 momentum=0%,control
+2026-11-05T08:16:27Z,ENTRY,GZLFD62G87W9oLBBEuG4Mfk4xuC5Rvj2v4Db8Qkrm6s,PSA / SOL,0,2.17913517712e-05,100.0,research_failed,,,751.65,score=0.00 momentum=126%,mom
+2026-11-05T08:17:56Z,ENTRY,6ETUw5EommnhfuxwDAVmP97TrWzJ7ScWS612vJu2CRor,I / SOL,0,3.6468809321e-05,100.0,control_no_momentum,,,751.65,score=0.00 momentum=-1%,control
+2026-11-05T08:17:56Z,ENTRY,6L9wkKVenv3AMscJQaLyYRAxCc9BzVU1ccbru52eQNpA,INDEXCAT / SOL,0,2.0402921606e-05,100.0,control_no_momentum,,,751.65,score=0.00 momentum=0%,control
+2026-11-05T08:26:26Z,EXIT,4m65DyR4o2UbNFrKUCtyzXhKZMHv4HVeW9mvZe4UeNet,PIKACOIN / SOL,0,5.11961358454e-05,100.0,rug,-100.02,-100.02,751.65,exit_bar=2026-11-05T08:25:00Z,mom
