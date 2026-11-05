@@ -2,25 +2,27 @@
 
 SIMULATION ONLY. Fixed rules, 0.30% round-trip costs, hourly bars.
 
-Live since 2026-11-02 03:00 UTC. Updated 2026-11-05 04:00 UTC.
+Live since 2026-11-02 03:00 UTC. Updated 2026-11-05 06:00 UTC.
 
 | rule | closed | win | avg | open now |
 |---|---|---|---|---|
 | momentum | 0 | - | - | 4 |
 | dip | 0 | - | - | 0 |
-| trend | 0 | - | - | 3 |
+| trend | 0 | - | - | 5 |
 
 Open positions (marked at the last closed hour):
 
 | coin | rule | opened | return so far |
 |---|---|---|---|
-| BONK | momentum | 2026-11-04 07:00 | 1.4% |
-| PEPE | momentum | 2026-11-04 09:00 | -2.1% |
-| DOGE | momentum | 2026-11-04 15:00 | 0.1% |
-| SHIB | momentum | 2026-11-04 16:00 | -0.9% |
-| PEPE | trend | 2026-11-04 16:00 | -3.6% |
-| BONK | trend | 2026-11-04 16:00 | -3.5% |
-| DOGE | trend | 2026-11-05 02:00 | -0.5% |
+| BONK | momentum | 2026-11-04 07:00 | 0.4% |
+| PEPE | momentum | 2026-11-04 09:00 | -2.7% |
+| DOGE | momentum | 2026-11-04 15:00 | -0.5% |
+| SHIB | momentum | 2026-11-04 16:00 | -1.8% |
+| PEPE | trend | 2026-11-04 16:00 | -4.2% |
+| BONK | trend | 2026-11-04 16:00 | -4.4% |
+| DOGE | trend | 2026-11-05 02:00 | -1.0% |
+| SHIB | trend | 2026-11-05 03:00 | -1.3% |
+| WIF | trend | 2026-11-05 04:00 | -2.0% |
 
 Each rule needs 30+ closed trades before the average means anything,
 and the coins move together, so treat any early result as noise.
