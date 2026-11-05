@@ -3550,3 +3550,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T20:00:10Z,EXIT,A3GKZZNciawvzvVkqa4YewFQ6VJX4jVVjmPzPPNmnUaz,LBFML / SOL,0,1.90851490341e-05,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-05T19:58:00Z,mom
 2026-11-05T20:01:31Z,ENTRY,CoXiTZDVFUwtiDc1itsLn3kvRX5K3cNhSr8e3qvLK9by,ACTII / SOL,0,4.75758131264e-05,100.0,research_failed,,,749.64,score=0.00 momentum=20%,mom
 2026-11-05T20:05:29Z,EXIT,GZiigN3SfcCiLbMBHZLTwUucyLzBs4ySvWHKUz1f6wEd,COGE / SOL,0,1.94382158141e-06,100.0,rug,-93.91,-93.91,749.64,exit_bar=2026-11-05T19:10:00Z,control
+2026-11-05T20:11:19Z,ENTRY,3JJeVdA9NiXWuckDyaJ6YS2eYrqs9bJre9JsYE8VLCDL,kevun / FTX Token,0,2.01510569923e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T20:11:19Z,ENTRY,4ckBDYR3gEWwaewBawxEaiXnDe4s3TPeobfJnVHGigek,Simpson / SOL,0,4.93022667902e-05,100.0,research_failed,,,749.64,score=0.00 momentum=32%,mom
+2026-11-05T20:12:47Z,EXIT,73PULmmj22oYXA1NZcj1i71DXtypG4MZScnEKwmhu4bQ,APEPHN / SOL,0,8.09311325533e-06,100.0,timeout,-8.96,-8.96,749.64,exit_bar=2026-11-05T20:11:00Z,control
+2026-11-05T20:12:47Z,ENTRY,7aE4hqZcJqZqE8YLTFekoVmoiogbgCx7hXvnAVDSmAVX,GrenCAT / SOL,0,2.99090936359e-05,100.0,research_failed,,,749.64,score=0.00 momentum=46%,mom
+2026-11-05T20:12:47Z,ENTRY,YGfNKuRae146jdxVZAyssUwFaThkdGNguTyP1KNQGjt,PISSME / SOL,0,2.53969310199e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-0%,control
+2026-11-05T20:14:24Z,EXIT,FNvbE6x9FjmcjFqMj9MZMFv8xgmkcjJWX7Fs9DLbR1EG,AI robot / SOL,0,5.06393854989e-05,100.0,tp,-100.01,-100.01,749.64,exit_bar=2026-11-05T19:19:00Z,mom
