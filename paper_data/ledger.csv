@@ -2836,3 +2836,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T01:24:56Z,ENTRY,D3QhPt7MWLQdb7wcJWWzpyMKE4tMQ9a3vBoVKqb6K1YY,WLFI / SOL,0,3.94405314001e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
 2026-11-05T01:24:56Z,ENTRY,2YdKyfb924CTL8bSGwGqGh8LnyxyGe9p9sr4aYCht3r6,CALL / SOL,0,5.09433348816e-05,100.0,research_failed,,,816.81,score=0.00 momentum=20%,mom
 2026-11-05T01:26:24Z,ENTRY,9vrUY9NWjaryB1r7mw5DA8UnLEKjH7NvBG43DjQCxBT5,white swan / SOL,0,7.87571532838e-05,100.0,research_failed,,,816.81,score=0.00 momentum=235%,mom
+2026-11-05T01:27:48Z,ENTRY,FX6PC92fBBLsL1ikwFm13gMPPRnPmapJc9YYEu45Lyfy,LMAO / SOL,0,2.09072510031e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
+2026-11-05T01:27:48Z,ENTRY,5q1MRAujzqZUYwg1xqmgAjXCNhMGv73L8PT1pe9XQsMz,OMNI / SOL,0,5.40449878446e-08,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-100%,control
+2026-11-05T01:30:45Z,EXIT,ASVrRK3VEMo6x8WKDA9BkKiqXuPtiKH64WhBqquYC16m,MONITOR / AMZNx,0,1.16216208247e-05,100.0,timeout,-6.22,-6.22,816.81,exit_bar=2026-11-05T01:29:00Z,control
+2026-11-05T01:33:41Z,EXIT,gQCXYj3FJG6xaZkftsiZ66MzdxmExQpm7YYCCVHGtjG,NEX Ai / SOL,0,2.72353830151e-05,100.0,sl,-100.02,-100.02,816.81,exit_bar=2026-11-05T00:36:00Z,mom
+2026-11-05T01:36:31Z,ENTRY,7qwWMAurrkjnb9fCduzW9bBtiGHCYtDwEDrdspccAqTG,LEEROY / SOL,0,0.0816169669422,100.0,research_failed,,,816.81,score=0.00 momentum=191520%,mom
