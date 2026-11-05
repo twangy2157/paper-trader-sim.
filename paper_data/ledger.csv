@@ -2940,3 +2940,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T04:04:24Z,ENTRY,DGFxsnW83Dz8EYcHKFjuvsuTWJFqY9h432gcPJZEx3y3,AURANGIE / SOL,0,6.44900546065e-06,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
 2026-11-05T04:05:45Z,ENTRY,9smmLXkxw3cytsBtAYrLWGHsJb2aiYXQfKaKQWCGc712,AURANGIE / SOL,0,6.43428446064e-06,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
 2026-11-05T04:05:45Z,ENTRY,8zrG7bbkHejpbyqa2DD3tUGdhKMty7o4vygVeJRKxsMR,MGOAT / SOL,0,8.198112538e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
+2026-11-05T04:08:30Z,ENTRY,GkuJ3XX3ag8vKKWapH5117oH9yVg8SY6ABax9LD3FEZC,PANGEA / SOL,0,2.5952881975e-05,100.0,research_failed,,,816.81,score=0.00 momentum=10%,mom
+2026-11-05T04:08:30Z,ENTRY,6mB6WGMsQ17xtf1KwPz2yLa3eoGVbejgm99dLsWZJysL,$TA / USDC,0,6.07163580083e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
+2026-11-05T04:10:06Z,ENTRY,4yHKLTQSuRKiSJH6pJdo2c4NtgsT8oUwTcsBJut6gvTJ,BEM / SOL,0,2.64854744373e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=7%,control
+2026-11-05T04:12:55Z,ENTRY,A6fVLH3ruPXAgVWKeZiUCmP1ncwdZf8hkcv7PAK9W76M,Look / SOL,0,1.66002400094e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-56%,control
+2026-11-05T04:14:16Z,EXIT,33tNyPr5sEbQEmURzyEzJLwQe5Lred6uGfnfAfaqvK9R,PIRATE / SOL,0,6.49343397728e-05,100.0,tp,94.0,94.0,816.81,exit_bar=2026-11-05T03:52:00Z,mom
+2026-11-05T04:15:30Z,EXIT,7LvH8236Kg3UfFU8NnSPyK6b4PnwBFaBHzic31yGF3rW,HIGH / SOL,0,5.0583285925e-05,100.0,timeout,-4.57,-4.57,816.81,exit_bar=2026-11-05T04:13:00Z,mom
+2026-11-05T04:15:30Z,ENTRY,4MSamMU5kEa9AP9qEJMMWihWvQutsrZobwnxNTeaLcpE,FURAX / SOL,0,5.5657168037e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-8%,control
+2026-11-05T04:17:05Z,EXIT,2wYAGiVV9HkS8JiKmYwUEM6yUJKpvZj8VrS23CExj7rR,ABTC / SOL,0,6.6091479858e-05,100.0,rug,-100.02,-100.02,816.81,exit_bar=2026-11-05T04:16:00Z,mom
+2026-11-05T04:18:27Z,ENTRY,8qv79veb8rA4RLHi7CKxnuP78iS7HRqVdoZjJZDSAuYL,PREDICT / SOL,0,4.62495998916e-06,100.0,control_no_momentum,,,816.81,score=0.00 momentum=4%,control
