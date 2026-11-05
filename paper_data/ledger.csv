@@ -3001,3 +3001,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T05:21:41Z,EXIT,BHYvxJW1p6CGocJnAtErHewTvey4owzeWmg24B63w7k9,NEX Ai / SOL,0,7.37996196409e-05,100.0,tp,-100.01,-100.01,816.81,exit_bar=2026-11-05T04:22:00Z,mom
 2026-11-05T05:21:41Z,FAILED,BQKsoU72KdQYJbtmZU6YzJavwPaLcMY7BxjdMTxqKSDo,AURA / SOL,0,9.76907068143e-06,0,tx_failed,-0.5,,816.81,"buy reverted, tip lost",control
 2026-11-05T05:23:16Z,ENTRY,7JfRNytjh3FG9GuM2sbzTpZ9eTCpsXXtH1EucCQKzGgM,MKIM / MASK,0,1.92104013722e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-4%,control
+2026-11-05T05:27:15Z,EXIT,A9u9UQqZqR75rorQB7tmbUPtn7MLaYPrmEqVNbkr37MQ,USDT / SOL,0,2.0876554172e-05,100.0,timeout,1.93,1.93,816.81,exit_bar=2026-11-05T05:26:00Z,control
+2026-11-05T05:29:56Z,ENTRY,9eFGPqN6X8aSDDumKr8ib9M2JZDnoQSe2MjKwwQs5s3K,Look / SOL,0,4.96766647519e-05,100.0,research_failed,,,816.81,score=0.00 momentum=16%,mom
+2026-11-05T05:31:25Z,ENTRY,ETRx7d6AcYVEXTZpH2cdGAeBPM6ChujwHGYHq4Visiq9,AI / SOL,0,8.56755659709e-06,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-2%,control
+2026-11-05T05:32:53Z,ENTRY,49ntAd4UxruxLeisweTHPUCpAbLtg2JV5ktLsnfZJYXu,NIGTRUMP / SOL,0,7.20221563365e-06,100.0,research_failed,,,816.81,score=0.00 momentum=24%,mom
+2026-11-05T05:34:15Z,EXIT,8zvshX59TpfvWzXBNyxnjHxgQmGEdpy6NCzZowxXBmA3,NORTHKOREA / SOL,0,1.04192108152e-05,100.0,timeout,-8.43,-8.43,816.81,exit_bar=2026-11-05T05:32:00Z,control
