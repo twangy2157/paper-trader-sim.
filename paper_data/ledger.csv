@@ -3338,3 +3338,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T15:01:44Z,EXIT,CGHgt9FcAWHxTK3cyVfBo5mgwY1a8fYRmj1zTtj7Ff2z,SHKT / SOL,0,1.25422847232e-05,100.0,timeout,-6.9,-6.9,749.64,exit_bar=2026-11-05T14:58:00Z,control
 2026-11-05T15:01:44Z,ENTRY,5HG75k7f9hcQJ3UGkt6MvdfCzwyS3baDrZQttrDiPcyq,GNB / SOL,0,7.42991673296e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
 2026-11-05T15:03:21Z,EXIT,8RZMcfQggANTSi3LzAfiPZL6PjbW9uHs3rHu9WM5PK2e,COVID-19😷 / SOL,0,6.96448283065e-05,100.0,tp,-100.01,-100.01,749.64,exit_bar=2026-11-05T14:24:00Z,mom
+2026-11-05T15:04:45Z,FAILED,2YHzrzUpHe1bpzhrbgicLvWgswwrZti63tyWAaFp5ZmJ,MicronCat / SOL,0,0.000101247854262,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",mom
+2026-11-05T15:04:45Z,ENTRY,rKooawVa5QMbbkpdFtGHzw8ngDE79k33Y5MoxTCmTHy,EAGLE / SOL,0,5.26266297257e-05,100.0,research_failed,,,749.64,score=0.00 momentum=63%,mom
+2026-11-05T15:04:45Z,FAILED,DrprF3bJDvuENdmtxWFuNpB15XjsDpussL8SkRLur7W,EVIL / SOL,0,1.93436593759e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T15:06:22Z,EXIT,5A5M2jB9prvaD4h3WtumrbRKFxUBurW16Mg5NWev9Rmw,Enrique / USDC,0,6.49187841421e-06,100.0,sl,-38.29,-38.29,749.64,exit_bar=2026-11-05T15:00:00Z,control
+2026-11-05T15:07:43Z,FAILED,D6yx8j2po6kFm1tQ5PHtSx3W2asEQiW4R9s5K1vqF42m,wind / SOL,0,8.53325326683e-06,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T15:07:43Z,FAILED,A258wp68pbjZ5tq6Z3efMc7oHnToXeGGMXZ2TonPZcae,MrBeast / SOL,0,0.000138994804059,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",mom
+2026-11-05T15:07:43Z,FAILED,DrppoxiWpWWmT3gFnpsgJkeKxBMtXrtj1QLRrd479eEk,D Day Gay / SOL,0,1.29854211908e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T15:09:20Z,EXIT,6MVmKiLFP13fZm3Kk8UAdMP76hdvsvdqqt84da3tQUq3,dump / SOL,0,6.48216722174e-05,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-05T15:08:00Z,mom
+2026-11-05T15:12:18Z,ENTRY,HeTFCwUMgKJzPUVQmWH2ZWvtdgBQnFLB6iT2gNH6mXcL,MOSQUE / SOL,0,4.49089707065e-05,100.0,research_failed,,,749.64,score=0.00 momentum=20%,mom
+2026-11-05T15:13:40Z,ENTRY,35ybBcEkk4d5goSKADCmBvKju9ipgoSkmofzGaRoqTp8,MCD / SOL,0,4.58237925438e-05,100.0,research_failed,,,749.64,score=0.00 momentum=11%,mom
+2026-11-05T15:13:40Z,ENTRY,H4GSgeZX2QjY3hTE8uBhSYd7sCJZuuJxWcV4rpQn7Bhd,RATELLO / SOL,0,7.35468276867e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-37%,control
