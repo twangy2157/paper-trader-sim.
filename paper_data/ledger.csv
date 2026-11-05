@@ -3370,3 +3370,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T15:44:58Z,ENTRY,2vBpyCw5wCWrq9tyJ7w4PTAevzRgw5gYmkmgcHaoTv4G,GTAVI / SOL,0,3.49626662282e-05,100.0,research_failed,,,749.64,score=0.00 momentum=143%,mom
 2026-11-05T15:44:58Z,ENTRY,CzmKedKBCVYjKaphUATZXyyzzk9521hJut9KAWQSwSW6,MUB / SOL,0,3.70677968139e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-1%,control
 2026-11-05T15:46:27Z,EXIT,fHna4gmU4DuvMQGxgataePH4sth7EMnRjppY1Znkzsz,Know / SOL,0,7.0418276816e-06,100.0,timeout,-14.01,-14.01,749.64,exit_bar=2026-11-05T15:45:00Z,control
+2026-11-05T15:47:59Z,EXIT,EKDf6Tb8kUGH1vPXznuFgdvhVy5DMuFy8dag3U54iq1f,CR / SOL,0,1.94402125105e-05,100.0,tp,-100.01,-100.01,749.64,exit_bar=2026-11-05T15:02:00Z,mom
+2026-11-05T15:49:28Z,ENTRY,21AxH4HwrqzRnUZgJkYpeo1tHj1E7vFoMMTYBPPu4soP,JOB / MCDx,0,2.57045609562e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-53%,control
+2026-11-05T15:50:57Z,EXIT,4dhMFzgGK5bBoLv1c5eAqDecBVMmXk7K8dfGw8EeFSen,titcoin / SOL,0,9.66430375522e-07,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-05T15:49:00Z,mom
+2026-11-05T15:52:26Z,EXIT,Aa9rusnW2QQReUmrj9PQgnnHwJmfqUfN6XpnpRoLCdqv,TOM / SOL,0,1.77027377191e-05,100.0,timeout,-9.67,-9.67,749.64,exit_bar=2026-11-05T15:51:00Z,control
+2026-11-05T15:52:26Z,ENTRY,6QVGPCcJedZzCyfcmPnjmJa5VesfCZVHnaueFwyfnrZy,JOB / SOL,0,2.62255295372e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-8%,control
+2026-11-05T15:53:55Z,ENTRY,6HBH1QNSDUGQ9DEnzm6dMNWm953skssTVnab1fVHcJaT,AMD / SOL,0,1.25259906622e-05,100.0,research_failed,,,749.64,score=0.00 momentum=60%,mom
+2026-11-05T15:55:24Z,ENTRY,FRsCDMCvUWAKBeb36kTbZA4HwrjD5z6kXMq8eVsVU4ZY,ansem / SOL,0,8.18544738061e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T15:56:46Z,EXIT,AKYDqM4GEhghDCg1HNuhF17oYsjLh4KwfrS3qU6PpD4P,LEEROY / SOL,0,6.03174513367e-05,100.0,tp,-100.01,-100.01,749.64,exit_bar=2026-11-05T15:17:00Z,mom
