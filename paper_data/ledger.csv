@@ -3675,3 +3675,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T23:24:17Z,EXIT,7pEQrz33G1gq6BzfHXShesg59ghbeFbVPXFSbUfmnew6,XTO / SOL,0,0.0446281300699,100.0,tp,94.98,94.98,749.64,exit_bar=2026-11-05T22:52:00Z,control
 2026-11-05T23:25:39Z,FAILED,8QjNDTvJ3zdiRRMt3y58XywbGb8XqX14eU28WNXUdnvN,Doubao / SOL,0,4.64597684532e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",mom
 2026-11-05T23:25:39Z,FAILED,BCG4tPj7A7JmH51nZQc2jQs4oH7oVoXf9uASeMNJ2mRb,MOONSICK / USDC,0,5.02075068749e-06,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T23:27:17Z,FAILED,8pZHaRTV1rSJVh5TkCVCxSd1heF8pfNc5G6znhH1KhYy,RUINED / SOL,0,6.55626203491e-06,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T23:28:39Z,ENTRY,2KpqfWQuy61LYYeAFX7nJPiybc73TfVUUTVqvZWw56h8,logan / SOL,0,9.29996994169e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T23:28:39Z,ENTRY,uNRZgX1s3dT5VXEBVjqA8JkcziuMWpY8tmEUTH5m46o,Settler / SOL,0,1.75452287397e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T23:30:15Z,EXIT,ELvY2jtRVApG3G5Yv4BTDEpf3Vzpmuup69CvsptdjFjN,iMeme / SOL,0,0.000123533641711,100.0,tp,93.47,93.47,749.64,exit_bar=2026-11-05T22:38:00Z,control
+2026-11-05T23:31:44Z,ENTRY,5X1hHxAsCnZaaU7e1bw1SKAwhtEqTTBoXfMd6r1g8pXg,Amazon / SOL,0,0.000204710808117,100.0,research_failed,,,749.64,score=0.00 momentum=66%,mom
+2026-11-05T23:33:20Z,EXIT,DERpCugzDTtXH1VLQVyC4uGbFs8dQGMeid4YaguNWxHS,HEDGE / USDC,0,5.24112998464e-06,100.0,sl,-39.95,-39.95,749.64,exit_bar=2026-11-05T22:41:00Z,control
+2026-11-05T23:33:20Z,ENTRY,BiYE7vcgG12ix2dm94SPjSxCVrDRSSCmZeGGcmgrP5TB,BOLOGNA / SOL,0,6.85466838136e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T23:34:41Z,EXIT,ZX1ws9D4qYQdYDPkcjC2UXi6TVBnFRvCLxtJkVBpQhs,IM3M3 / wNEAR,0,1.72265092545e-05,100.0,timeout,-7.97,-7.97,749.64,exit_bar=2026-11-05T23:32:00Z,control
+2026-11-05T23:34:41Z,ENTRY,8Nftr5fuNZGLgbj4B6kWYet59m2qz8Eba3x7SPUBHpoU,LIFE / STONK,0,2.10852210403e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T23:34:41Z,ENTRY,7wVc5pztgk1UQBhMpmRAoTFrnf7521WZUvh4w8XghJH6,LIFE / STONK,0,2.12895329407e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=3%,control
+2026-11-05T23:36:17Z,ENTRY,BYpJBm4rk4BHZ8aPbY4Sg59e5WSsuJm5WLA9GkGriYHN,LIFE / SOL,0,1.89562354777e-05,100.0,research_failed,,,749.64,score=0.00 momentum=114%,mom
