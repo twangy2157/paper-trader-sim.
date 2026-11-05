@@ -3691,3 +3691,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T23:39:17Z,EXIT,DwNAm7bwXFB7sdnmkVsBcZbLo4euFUCAWb3y9vECvZVs,Microduck / SOL,0,5.77743235254e-05,100.0,tp,-100.01,-100.01,749.64,exit_bar=2026-11-05T23:05:00Z,mom
 2026-11-05T23:40:38Z,ENTRY,2Xp4WGW3J2ijpvYGTg4v3j5dBdu1CeuymNXYr2WkhzUg,BB / SOL,0,8.4458134648e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
 2026-11-05T23:46:25Z,EXIT,HrHwLn67iUnE9WW6babQnxLbPnCDPK39Bm3ZSeuB9Tuk,COGE / SOL,0,4.9566917294e-05,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-05T23:44:00Z,mom
+2026-11-05T23:47:57Z,ENTRY,9vRkdX9MB7YkwWV7eUc11bFCFshoSupcunC43G2yWVc8,MVM / SOL,0,9.15184910794e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T23:47:57Z,FAILED,8YD52dCpoS1zn1RLJoD9yoxkLg63KKVWRabz8GujCLYR,THICK / SOL,0,1.13051706288e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T23:49:25Z,FAILED,5xskLLfLrUE8uq4QCMUWecb3VHgXQXrYfAJQJcxmEkkj,BLUE / SOL,0,9.89824247153e-06,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T23:50:54Z,ENTRY,5LrADMwNkEMbphZbC3nKkbmLVLKLwxXt7X76iy68aQ5m,sssdfg / SOL,0,8.45085821166e-07,100.0,research_failed,,,749.64,score=0.00 momentum=45%,mom
+2026-11-05T23:52:15Z,EXIT,AKw3JEKG6aWNbfb6KfduVakNWyhUgxSqHftdz5kUWkBE,$BULL / SOL,0,1.22967734719e-05,100.0,timeout,-6.64,-6.64,749.64,exit_bar=2026-11-05T23:50:00Z,control
+2026-11-05T23:53:29Z,EXIT,AFHwZ2wsjkunuT7N3ub6aY4xCToH3n6RpF5MFSypJGLw,iMeme / SOL,0,6.11172834268e-05,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-05T23:51:00Z,mom
+2026-11-05T23:53:29Z,FAILED,3BGuNzDzJDDk1XY2jr5eiAWhegy6NTfw2rVFZMS3PxZ5,PUMPLOYEE / SOL,0,9.85760845088e-06,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T23:55:06Z,ENTRY,9s2uvT3GJGLheWHHzD7fTjoi7aQAAbPhWSazNTWddXVP,sssdfg / SOL,0,7.12726799804e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=2%,control
+2026-11-05T23:56:27Z,ENTRY,D39nrtkpdoNFJVruVqzJDRj7ZnB776TddG4VXNY71gqF,GTA 6 Coin / SOL,0,0.000122812120089,100.0,research_failed,,,749.64,score=0.00 momentum=13%,mom
+2026-11-05T23:57:56Z,ENTRY,AsoYia2wvGus7PyJM33BiLdhtogWBFyYy7Xb2NRfWwB9,hi / sssdfg,0,1.21808445815e-05,100.0,research_failed,,,749.64,score=0.00 momentum=57%,mom
