@@ -2801,3 +2801,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T00:10:30Z,ENTRY,6dsUBdds5hg3X7fR8GxzYELv7hgwWE6zRTtCnCsCAtek,Bugheat / SOL,0,7.92459690674e-05,100.0,research_failed,,,816.81,score=0.00 momentum=13%,mom
 2026-11-05T00:12:06Z,FAILED,ABiv9e3wL1denjTPK4SNA3qrqZhqemcT6ByVkbaeqPQw,GLITCH / SOL,0,2.41560913834e-08,0,tx_failed,-0.5,,816.81,"buy reverted, tip lost",control
 2026-11-05T00:14:58Z,ENTRY,BS1ZURTfmDyzcRgtQc9aAdNAy2LVNkQdCqq1Lux84XnK,PEACE / SOL,0,2.61427887327e-05,100.0,research_failed,,,816.81,score=0.00 momentum=25%,mom
+2026-11-05T00:16:28Z,ENTRY,24jND6EosXYqdPenyHKCSe38FxHktyWpduZ926wqYx6y,LEEROY / SOL,0,8.00230333454e-07,100.0,research_failed,,,816.81,score=0.00 momentum=52%,mom
+2026-11-05T00:17:57Z,ENTRY,7dMpgXqBFe4r1SmGBz3yCqeoNKNtQBy9xubSx7Lv1KSn,SAFU / SOL,0,2.58594585912e-05,100.0,research_failed,,,816.81,score=0.00 momentum=16%,mom
+2026-11-05T00:19:25Z,ENTRY,HF3Lni9aQwrwpPygT82g1Nbywt24YNKQYpedkh8y7tkm,P C / SOL,0,2.97602428265e-05,100.0,research_failed,,,816.81,score=0.00 momentum=39%,mom
+2026-11-05T00:20:54Z,ENTRY,BdbmtT946pp8qCsDgk6s5v7BuhjH3LJGsk47bMcGw777,中国石油 / SOL,0,2.86521785777e-05,100.0,research_failed,,,816.81,score=0.00 momentum=33%,mom
