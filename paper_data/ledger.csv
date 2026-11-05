@@ -3421,3 +3421,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T16:58:45Z,ENTRY,B9pnrC4kcinC23AUnxNPBg4kRpZSv9yZxg6hM8NjjG2k,BenBen / SOL,0,4.21538169936e-05,100.0,research_failed,,,749.64,score=0.00 momentum=15%,mom
 2026-11-05T16:58:45Z,ENTRY,8nvcXuHozTdaMuJpWoSavkBgg37EiqRWYf6jiT9fatxm,att / SOL,0,0.000166205525652,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
 2026-11-05T17:00:21Z,ENTRY,DP3ELBnHnpvAS9qAQDT5VvJXn8wpkUg6rVTAHwotN94e,NASDAQISTA / SOL,0,3.92963659154e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-54%,control
+2026-11-05T17:01:46Z,EXIT,URhuRFFrk4SC5reYMxGfEb9qBGiSRSo49P8kCouRJPB,JOB / SOL,0,9.37232910183e-05,100.0,tp,43.12,43.12,749.64,exit_bar=2026-11-05T16:03:00Z,mom
+2026-11-05T17:03:15Z,ENTRY,3vV9opgsycWoKp617iv5Ts7yRGc51hzqR8E6r15DUecc,stillhere / SOL,0,2.77318987787e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T17:04:30Z,ENTRY,1sMjmX6ehDkYpGuePKEu289WfumYjYN9umunR6JygmP,BAGSPAY / SOL,0,1.2446340885e-05,100.0,research_failed,,,749.64,score=0.00 momentum=17%,mom
+2026-11-05T17:04:30Z,FAILED,EU5w1J1VVzFr8K6Sy97ChuQvCpBd1KcYsdKLXgbzoyax,EBT / USDC,0,8.77725904888e-06,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T17:06:06Z,ENTRY,6a73HwyjKp6VipX4VvnmFMuHsNfM3Wz3wpKGCmcRbMPQ,PUMPER / SOL,0,7.26550595447e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T17:06:06Z,ENTRY,9pNCtTBt7MM8qKpUbvxgy9GNA99QdS7X5qKcDnU1JXm9,NEURAL / SOL,0,2.40107180125e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-2%,control
+2026-11-05T17:07:28Z,ENTRY,5JFB6jdaurdZRbKiwgretzfRqHunx18GqJUqKKLA1YGt,LIBRE / USDC,0,1.4431420386e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T17:07:28Z,ENTRY,73TdJ69587WAJvFdH72dtB3fLsq6HzqfCxtf7wgnwAhe,MAP / SOL,0,4.25402256587e-05,100.0,research_failed,,,749.64,score=0.00 momentum=17%,mom
+2026-11-05T17:08:57Z,EXIT,2EWtSdWFa2KTrPWvCkofWQ8VwbwaWfkJdAqHczqBrv1L,FOTF / SOL,0,2.31923605058e-05,100.0,rug,-100.95,-100.95,749.64,exit_bar=2026-11-05T16:30:00Z,control
+2026-11-05T17:10:26Z,EXIT,Cjo6k5RbeKpKkpkhoAEKU7ndX3geCsQzPbSd7A67M7M4,ROBU / SOL,0,7.19275172122e-05,100.0,tp,-91.6,-91.6,749.64,exit_bar=2026-11-05T16:07:00Z,control
+2026-11-05T17:10:26Z,ENTRY,EWfs8FpwQd2KvTrpiur4pPNJRpfCEmGdEoCgpr3r2mLe,fiat / SOL,0,2.06850646984e-05,100.0,research_failed,,,749.64,score=0.00 momentum=97%,mom
