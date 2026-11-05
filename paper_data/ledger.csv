@@ -3214,3 +3214,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T11:32:25Z,EXIT,CnFtYUUs8FPztxtG8LTQfhC7kaCz2q8csqyrhShfgvFV,HIGHER / SOL,0,2.0157023283e-05,100.0,timeout,-4.9,-4.9,551.15,exit_bar=2026-11-05T11:30:00Z,control
 2026-11-05T11:33:54Z,FAILED,42Qz23QvhJspJwKyyDqbrM2EyJBbdaVPs8nMTzcJUVWP,DAD / SOL,0,8.72861400835e-06,0,tx_failed,-0.5,,551.15,"buy reverted, tip lost",control
 2026-11-05T11:36:30Z,ENTRY,CcU3x5sM2EPoqZb9hkErm9tojaHXVhgiiMLG43XvbC8D,ZELDA / SOL,0,5.02282124141e-05,100.0,research_failed,,,551.15,score=0.00 momentum=17%,mom
+2026-11-05T11:38:08Z,ENTRY,E6E1bEME4uviqii5ietUbZGZeCBduhF7Evmg8jpM79U4,INTC / SOL,0,58.721036121,100.0,control_no_momentum,,,551.15,score=0.00 momentum=0%,control
+2026-11-05T11:39:30Z,ENTRY,CRpgRQqnNCguJnstdY6jh1SbtB5Saw5dvqsXjCkhp7Ui,CHIPCAT / NVDAx,0,2.07304990854e-05,100.0,control_no_momentum,,,551.15,score=0.00 momentum=0%,control
+2026-11-05T11:41:06Z,EXIT,3o5WJFEZN7zfTtVUFJMPUBvNHPsKPJg5SPTycDfovagx,Bubble / SOL,0,3.72971338893e-05,100.0,timeout,28.49,28.49,551.15,exit_bar=2026-11-05T11:39:00Z,control
+2026-11-05T11:45:24Z,ENTRY,Tc9MNmMeSjKgeq28MJa355wmKG8dBpaaFCxJsbHLsjb,CR / SOL,0,2.29358865361e-05,100.0,research_failed,,,551.15,score=0.00 momentum=10%,mom
+2026-11-05T11:46:46Z,ENTRY,5YZCjez3VyUvEECr3PfwXYWjFdtz8kT3kcWXWXDyfRkC,IPO / SOL,0,9.72874454277e-06,100.0,control_no_momentum,,,551.15,score=0.00 momentum=-8%,control
