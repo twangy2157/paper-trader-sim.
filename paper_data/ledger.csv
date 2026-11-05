@@ -2905,3 +2905,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T03:11:28Z,EXIT,ChAoTpxZALgFpd5RmrjXxazGGSyNp8CEvSUd7G8P4oCf,PIRATE / SOL,0,1.09747214856e-06,100.0,rug,16.25,16.25,816.81,exit_bar=2026-11-05T03:09:00Z,mom
 2026-11-05T03:12:56Z,ENTRY,33tNyPr5sEbQEmURzyEzJLwQe5Lred6uGfnfAfaqvK9R,PIRATE / SOL,0,3.24671698864e-05,100.0,research_failed,,,816.81,score=0.00 momentum=58%,mom
 2026-11-05T03:12:56Z,ENTRY,7LvH8236Kg3UfFU8NnSPyK6b4PnwBFaBHzic31yGF3rW,HIGH / SOL,0,5.08554982942e-05,100.0,research_failed,,,816.81,score=0.00 momentum=20%,mom
+2026-11-05T03:14:27Z,EXIT,GtpRBu1egBxvD9h8RJYmfE8xZutZrfaV2L6kpmfAWFDZ,ZERO / SOL,0,1.77458385339e-05,100.0,timeout,-5.06,-5.06,816.81,exit_bar=2026-11-05T03:12:00Z,control
+2026-11-05T03:15:55Z,ENTRY,2wYAGiVV9HkS8JiKmYwUEM6yUJKpvZj8VrS23CExj7rR,ABTC / SOL,0,5.0260898083e-05,100.0,research_failed,,,816.81,score=0.00 momentum=18%,mom
+2026-11-05T03:18:29Z,ENTRY,7zTGz1nrNTQcjVMZbUjdY1zNQUYn6JozTVQXaC13fbea,MIM / cbBTC,0,1.30052412591e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=6%,control
+2026-11-05T03:18:29Z,ENTRY,E3g3h2r8gGVswLfyzcwairhZUGQaNkNMh75MvgAXSMyz,ASTOCK / SOL,0,3.55887697509e-05,100.0,research_failed,,,816.81,score=0.00 momentum=78%,mom
+2026-11-05T03:19:57Z,ENTRY,3DjeDaJChTDzG6sMvvveMBmNkp67qVePa44pJVqW8Y74,Mayhem / SOL,0,3.41163568653e-05,100.0,research_failed,,,816.81,score=0.00 momentum=69%,mom
