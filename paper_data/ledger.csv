@@ -3021,3 +3021,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T05:53:58Z,ENTRY,ADgaYtkryhpWHo6KmqfYH1a9uo4JhZngGQ4JV8KUDpAe,NEX Ai / SOL,0,3.26209318941e-05,100.0,research_failed,,,816.81,score=0.00 momentum=42%,mom
 2026-11-05T05:55:26Z,EXIT,GE75BwfXYbzZpfhxciMwFVZPsT1JzoQvqhdQjtGBW9t2,MOSQUE / SOL,0,6.48950980344e-05,100.0,rug,-100.02,-100.02,816.81,exit_bar=2026-11-05T05:53:00Z,mom
 2026-11-05T05:56:54Z,ENTRY,4BwGKpV37w6da64oQpe8X1c1GiegFm783Dce9yy1ENGQ,Democat / SOL,0,2.01100722787e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=2%,control
+2026-11-05T05:58:17Z,ENTRY,ACmLgfr6DhhBtLbzbdzTBsotCQTFDFgpmLceTEdd3oa6,Dacity / SOL,0,4.99080435364e-05,100.0,research_failed,,,816.81,score=0.00 momentum=16%,mom
+2026-11-05T05:59:38Z,ENTRY,FNZ4eSYgG5F3myZwYji2txywCetK72YFFeiGXndjpP6x,Look / SOL,0,4.98557788109e-05,100.0,research_failed,,,816.81,score=0.00 momentum=18%,mom
+2026-11-05T05:59:38Z,ENTRY,FLaVwq4jMjSfMwjpuMJDnRsPMqCxuDZuHJ6iwLGvtUjz,ELONMOSQUE / SOL,0,1.89309693641e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-4%,control
+2026-11-05T06:01:14Z,ENTRY,4yHKLTQSuRKiSJH6pJdo2c4NtgsT8oUwTcsBJut6gvTJ,BEM / SOL,0,6.46749974883e-05,100.0,proven_pool,,,816.81,age=126min,proven
+2026-11-05T06:02:28Z,ENTRY,GaJVGxC2Ke1xtof2NtcyKxGUCNTC6aRuMgwrxcHESwsq,CORLA / SOL,0,7.19784165549e-05,100.0,dip_after_drop,,,816.81,score=0.00 momentum=-28%,dip
+2026-11-05T06:03:56Z,EXIT,2hMYmeZCmCwF8MiN1mEtJDvx1KsaaSa3ih9kJVerfaFX,WINTERARC / SOL,0,8.75468616615e-06,100.0,timeout,-8.38,-8.38,816.81,exit_bar=2026-11-05T06:02:00Z,control
+2026-11-05T06:05:24Z,ENTRY,25Y6wQHFzCpVLUwnHmTBBB8S6EVXQnQmEbNVTNLe4w65,Look / SOL,0,8.2571309082e-07,100.0,research_failed,,,816.81,score=0.00 momentum=62%,mom
