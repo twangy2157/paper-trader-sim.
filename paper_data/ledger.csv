@@ -3102,3 +3102,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T08:33:45Z,ENTRY,2gm75tBSDKejA3wyVV86c3XunrzFKzUfCxBDxA9A1pFX,NIGHT / USDC,0,0.0422616389174,100.0,control_no_momentum,,,751.65,score=0.00 momentum=0%,control
 2026-11-05T08:36:42Z,ENTRY,FPsbsm6tiZmd5tF171PXTuyQgV6JhCXrFVT21mh9EzqV,ZELDA / SOL,0,5.11421240653e-05,100.0,research_failed,,,751.65,score=0.00 momentum=20%,mom
 2026-11-05T08:36:42Z,ENTRY,7ASPae9GzHnbCgfWhGk8ckcTLDy64TBAfmJm4PfXwfwW,normie / SOL,0,4.23476465569e-07,100.0,control_no_momentum,,,751.65,score=0.00 momentum=0%,control
+2026-11-05T08:39:42Z,FAILED,A24VJ9FvgJaaTzrRRA1xVZkPCkL7QL9XPWXejZwWdNYx,Democat / SOL,0,2.11226710101e-05,0,tx_failed,-0.5,,751.65,"buy reverted, tip lost",mom
+2026-11-05T08:41:18Z,FAILED,2FeUiMQEabQ4EV7HequSFzA63iNiu9mWRHx5AFvAZ6pC,LEEROY / SOL,0,4.94298463875e-05,0,tx_failed,-0.5,,751.65,"buy reverted, tip lost",mom
+2026-11-05T08:42:40Z,ENTRY,HEEA6G3ZCL1vV8dRy1YkBumiTDpKz9ipm4JDehkFA9we,Mos / USDC,0,3.99447906953e-05,100.0,control_no_momentum,,,751.65,score=0.00 momentum=-0%,control
+2026-11-05T08:45:30Z,EXIT,FqR3BRVJgMjQCoSJJNG8NnNi15rLBRJ6U5M5vnnbjcSA,CORLA / SOL,0,2.40627421257e-05,100.0,timeout,-7.29,-7.29,751.65,exit_bar=2026-11-05T08:44:00Z,mom
+2026-11-05T08:47:06Z,ENTRY,73XMrDXNwYYFZSrtcbZipmD3yowpa775NKGfN7SaFUVA,ZELDA / SOL,0,0.000142705457885,100.0,research_failed,,,751.65,score=0.00 momentum=68%,mom
