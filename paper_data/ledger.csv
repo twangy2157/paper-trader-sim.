@@ -3662,3 +3662,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T23:02:25Z,EXIT,Ci4RJa2BjXWhQ3Jiu8fTod9DkfEKeN1KSQgyHxLfwLjw,VC / SOL,0,0.00013761633842,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-05T23:00:00Z,mom
 2026-11-05T23:02:25Z,ENTRY,DeozEK7PDxiHayoHm91mLM4STxXDWHAvjzFYm62JGTse,iMeme / SOL,0,2.70405114395e-05,100.0,research_failed,,,749.64,score=0.00 momentum=145%,mom
 2026-11-05T23:04:09Z,EXIT,7h23DaHtzcSFPt2zb3FMnu3B8NZpLY2KMEZAqMuBjB6e,BUY / BTC,0,7.13394969335e-06,100.0,honeypot,-101.0,-101.0,749.64,exit_bar=2026-11-05T22:14:00Z,mom
+2026-11-05T23:05:25Z,ENTRY,DyKfC1jMUwPBm6Q2r1PUhG8mXwSHujNYxjhzm6RaW8t4,ANSEM / SOL,0,2.82941616254e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T23:08:15Z,FAILED,6Acrb1RSzbuHAQsuphSxhKd1eoxYnrDkY7nFtKwBDzmZ,F10 / SOL,0,1.58417176584e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T23:09:29Z,ENTRY,Dd6DyRofvM9ukdfVHKLTpm4RLv8G9HFPivFw1mc6CCfN,DARKEN / DARK,0,2.06020754734e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T23:09:29Z,ENTRY,FLjZ7BDSLPX7c9p7ue2KwsRXowdg1uKP8FaLTNGEGDTt,HIGH / SOL,0,0.000313734584551,100.0,control_no_momentum,,,749.64,score=0.00 momentum=7%,control
+2026-11-05T23:12:34Z,ENTRY,9nxfHWwJ7LD8TSqunkmcih129TBhiA5VS48XfmVE2Vgc,Green cat / SOL,0,2.38056958153e-05,100.0,research_failed,,,749.64,score=0.00 momentum=25%,mom
+2026-11-05T23:15:24Z,ENTRY,8iHbvgbcP4aJEG4NGj1MgcqRveJjopBAQvt9fo9sm4zV,😻 / SOL,0,1.05526333173e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
