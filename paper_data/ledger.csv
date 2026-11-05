@@ -3561,3 +3561,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T20:22:28Z,EXIT,DeNjxupoA6RZMysaRnddJYxxD2bF4fy5rPSQBMVhBo3M,OX / SOL,0,7.67897806094e-05,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-05T20:21:00Z,mom
 2026-11-05T20:23:57Z,ENTRY,2PL2FBKSn7TfQmoUe7Tq2AdcyXViBV1bW9BbiEo8T3LC,Edmond / SOL,0,3.8641525402e-05,100.0,research_failed,,,749.64,score=0.00 momentum=340%,mom
 2026-11-05T20:26:54Z,ENTRY,ChdeYy5CH8BSR4ABRg4A32KpwkjHaoGZSxhGMHDBwY2C,$STOP / SOL,0,1.11397218409e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T20:29:40Z,EXIT,5Q7pwMkpRbsXF8ypovbJWE8R35a4P7ST35mqdgYJm7LF,gg / SOL,0,1.48446311586e-05,100.0,timeout,-6.26,-6.26,749.64,exit_bar=2026-11-05T20:28:00Z,control
+2026-11-05T20:32:30Z,ENTRY,CuYQsMLrFjqa8gnGftsLNc2mvrBAVS3qJfVQaAAcNuVk,WIRELYSS / SOL,0,4.50107010741e-05,100.0,research_failed,,,749.64,score=0.00 momentum=25%,mom
+2026-11-05T20:34:06Z,ENTRY,5Bh4g11iBaYY7jgjiwi6ZjXDCxkaNSB2aVTqxJo3xhqa,PEGUIN / PUMP,0,1.90357564271e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=3%,control
+2026-11-05T20:35:27Z,EXIT,4evkgBiZuFntV3KMokNjVmLTCbLWkGHDPLbwrt9cUsUi,COGE / SOL,0,2.64544186455e-05,100.0,tp,75.23,75.23,749.64,exit_bar=2026-11-05T19:44:00Z,control
+2026-11-05T20:36:56Z,ENTRY,522uuCXPBmxYRbUU8VP9kpRmA8365N4TGHHSWVQRQvjK,SNDK / USDC,0,840.187680665,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-1%,control
