@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. Fixed rules, 0.30% round-trip costs, hourly bars.
 
-Live since 2026-11-02 03:00 UTC. Updated 2026-11-05 08:00 UTC.
+Live since 2026-11-02 03:00 UTC. Updated 2026-11-05 10:00 UTC.
 
 | rule | closed | win | avg | open now |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ Open positions (marked at the last closed hour):
 | coin | rule | opened | return so far |
 |---|---|---|---|
 | BONK | momentum | 2026-11-04 07:00 | 2.0% |
-| PEPE | momentum | 2026-11-04 09:00 | -1.5% |
-| DOGE | momentum | 2026-11-04 15:00 | -0.6% |
+| PEPE | momentum | 2026-11-04 09:00 | -2.3% |
+| DOGE | momentum | 2026-11-04 15:00 | 0.3% |
 | SHIB | momentum | 2026-11-04 16:00 | -0.7% |
-| PEPE | trend | 2026-11-04 16:00 | -3.0% |
+| PEPE | trend | 2026-11-04 16:00 | -3.8% |
 | BONK | trend | 2026-11-04 16:00 | -2.8% |
-| DOGE | trend | 2026-11-05 02:00 | -1.1% |
+| DOGE | trend | 2026-11-05 02:00 | -0.3% |
 | SHIB | trend | 2026-11-05 03:00 | -0.3% |
 
 Each rule needs 30+ closed trades before the average means anything,
