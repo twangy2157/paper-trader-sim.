@@ -3293,3 +3293,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T13:47:39Z,EXIT,8qWETjbU3P1WcBP51TUuWKUvSMLawDPPYsP2kb6ytPkh,Banner🧌 / SOL,0,8.26373819897e-09,100.0,rug,-100.98,-100.98,749.64,exit_bar=2026-11-05T12:48:00Z,mom
 2026-11-05T13:49:15Z,EXIT,9e2YFW8XJWdnAHpoZaHysGiJcXmsLSew4jmMxVwzbSz8,TOPLESS / SOL,0,7.42935604437e-05,100.0,tp,91.74,91.74,749.64,exit_bar=2026-11-05T12:49:00Z,control
 2026-11-05T13:50:29Z,ENTRY,G9ooMX4U7FYLkULMRwooi8gaeAudLqRfrwrUenBL1iyF,GTA6 / SOL,0,0.000102102957727,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T13:53:29Z,ENTRY,Hoexv19ueMRM68nURxLbYRA53caJiUYUoDNroN5bWUfS,LEEROY / SOL,0,5.01489806489e-05,100.0,research_failed,,,749.64,score=0.00 momentum=20%,mom
+2026-11-05T13:56:27Z,ENTRY,HMr2PRY4wiC3oz9SLCVFSjfZhxth8RKcDqAbsfz372sE,GTA 6 Coin / SOL,0,0.000140556754295,100.0,research_failed,,,749.64,score=0.00 momentum=22%,mom
+2026-11-05T13:56:27Z,ENTRY,8M5TZL5AZF3ghVAxAXKsE1N7BddWS3RTgkxwBf2AmvmH,DOCK / SOL,0,0.000210232824474,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-2%,control
+2026-11-05T13:57:56Z,ENTRY,CGHgt9FcAWHxTK3cyVfBo5mgwY1a8fYRmj1zTtj7Ff2z,SHKT / SOL,0,1.2800690464e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-1%,control
+2026-11-05T13:59:25Z,FAILED,39XYkD2KqncWafCPPnJ46geT853TbcaWLcYL17QkAyis,? / SOL,0,1.49260329251e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T13:59:25Z,ENTRY,8RZMcfQggANTSi3LzAfiPZL6PjbW9uHs3rHu9WM5PK2e,COVID-19😷 / SOL,0,3.48224141532e-05,100.0,research_failed,,,749.64,score=0.00 momentum=66%,mom
