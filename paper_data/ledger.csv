@@ -3686,3 +3686,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T23:34:41Z,ENTRY,8Nftr5fuNZGLgbj4B6kWYet59m2qz8Eba3x7SPUBHpoU,LIFE / STONK,0,2.10852210403e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
 2026-11-05T23:34:41Z,ENTRY,7wVc5pztgk1UQBhMpmRAoTFrnf7521WZUvh4w8XghJH6,LIFE / STONK,0,2.12895329407e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=3%,control
 2026-11-05T23:36:17Z,ENTRY,BYpJBm4rk4BHZ8aPbY4Sg59e5WSsuJm5WLA9GkGriYHN,LIFE / SOL,0,1.89562354777e-05,100.0,research_failed,,,749.64,score=0.00 momentum=114%,mom
+2026-11-05T23:37:41Z,FAILED,5o2xpbNaeA7wU62qXj78pPhX8LsekfY26AZguoPqDhk,AndroidGen / GOOGLx,0,1.71047763233e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-05T23:37:41Z,ENTRY,HGF99YdDVyJm6moPq6JhQvZeUwJBzMuDaTmrHHjSu6cV,dump / QQQx,0,1.78087030373e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-5%,control
+2026-11-05T23:39:17Z,EXIT,DwNAm7bwXFB7sdnmkVsBcZbLo4euFUCAWb3y9vECvZVs,Microduck / SOL,0,5.77743235254e-05,100.0,tp,-100.01,-100.01,749.64,exit_bar=2026-11-05T23:05:00Z,mom
+2026-11-05T23:40:38Z,ENTRY,2Xp4WGW3J2ijpvYGTg4v3j5dBdu1CeuymNXYr2WkhzUg,BB / SOL,0,8.4458134648e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-05T23:46:25Z,EXIT,HrHwLn67iUnE9WW6babQnxLbPnCDPK39Bm3ZSeuB9Tuk,COGE / SOL,0,4.9566917294e-05,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-05T23:44:00Z,mom
