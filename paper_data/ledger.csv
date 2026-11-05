@@ -2876,3 +2876,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T02:29:25Z,EXIT,9vrUY9NWjaryB1r7mw5DA8UnLEKjH7NvBG43DjQCxBT5,white swan / SOL,0,7.60999012701e-05,100.0,timeout,-6.73,-6.73,816.81,exit_bar=2026-11-05T02:27:00Z,mom
 2026-11-05T02:30:53Z,EXIT,FX6PC92fBBLsL1ikwFm13gMPPRnPmapJc9YYEu45Lyfy,LMAO / SOL,0,2.0041441001e-05,100.0,timeout,-8.18,-8.18,816.81,exit_bar=2026-11-05T02:28:00Z,control
 2026-11-05T02:32:15Z,EXIT,5q1MRAujzqZUYwg1xqmgAjXCNhMGv73L8PT1pe9XQsMz,OMNI / SOL,0,5.34884563014e-08,100.0,timeout,-4.98,-4.98,816.81,exit_bar=2026-11-05T02:28:00Z,control
+2026-11-05T02:35:06Z,ENTRY,8WCdJcaFDx9MQK2VP9sZLZmvKbtfaFuRTpvBEAesoVdw,AMC / SOL,0,0.000135172113187,100.0,control_no_momentum,,,816.81,score=0.00 momentum=8%,control
+2026-11-05T02:36:27Z,ENTRY,93r1xpuA8tvPhg8T4QrE6PS3VNNZ1gB6Mm5gz3qaPZ8k,CI / SOL,0,1.39938832227e-05,100.0,research_failed,,,816.81,score=0.00 momentum=92%,mom
+2026-11-05T02:37:56Z,FAILED,EGXnbKGXooDmr1tkTQtf917SpsckBctGPwGvwytGieis,CrftyFlcon / SOL,0,1.01066995732e-05,0,tx_failed,-0.5,,816.81,"buy reverted, tip lost",control
+2026-11-05T02:39:24Z,EXIT,7qwWMAurrkjnb9fCduzW9bBtiGHCYtDwEDrdspccAqTG,LEEROY / SOL,0,0.0806568825127,100.0,timeout,-5.26,-5.26,816.81,exit_bar=2026-11-05T02:37:00Z,mom
+2026-11-05T02:40:45Z,ENTRY,BfB6icRnbJVUXB59tXLTXyMqqj1huQsA32Lj8BcLYA5d,ROCKET / SOL,0,1.12825869748e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=-1%,control
