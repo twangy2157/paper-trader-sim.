@@ -2846,3 +2846,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T01:43:27Z,ENTRY,EHF8h3E7SThUY3kgHg6byaNyZFTwmQaQrqLtquw4MW7f,STONKS / STONK,0,2.01980954013e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
 2026-11-05T01:46:16Z,ENTRY,nfdHX1Z6yQHDL5XwgkxKqL7qhjjTNwJP7wjmpR6f45a,CALL / SOL,0,9.06512348151e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=9%,control
 2026-11-05T01:47:29Z,ENTRY,ui3jNWymx9H45CgFrnvgAWvnt743M8vSrQwCM149pqH,inu / SOL,0,4.89151023274e-05,100.0,research_failed,,,816.81,score=0.00 momentum=16%,mom
+2026-11-05T01:49:00Z,ENTRY,B1TRLS9hK8C1pUVYqFEQj9DdY1eR3bg2UZGZnVBPSRxx,BTP / BTC,0,1.20225066561e-05,100.0,research_failed,,,816.81,score=0.00 momentum=36%,mom
+2026-11-05T01:50:21Z,ENTRY,GbSwSErgTAoRYTALJQaUubwyWFAKgmPxnqEaLSmBRsST,mspaint / SOL,0,5.02460133587e-05,100.0,research_failed,,,816.81,score=0.00 momentum=16%,mom
+2026-11-05T01:51:42Z,ENTRY,93jtPiPMJwHeodoNBePEUwXKnRNn5bBs7SqxtNhca3aL,USAE / USDT,0,1.03761648249,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
+2026-11-05T01:51:42Z,ENTRY,HdfVTHNMhKoErBBZcD9UCedCfXpmJtF8yNBRLSUzjjq,PIRATE / SOL,0,4.90251865136e-05,100.0,research_failed,,,816.81,score=0.00 momentum=12%,mom
+2026-11-05T01:57:28Z,ENTRY,89URAunX3cmUwbofKEgfapxi8a46ycTt7gmc1nDoKHuf,CSVET / SOL,0,1.89553318125e-05,100.0,control_no_momentum,,,816.81,score=0.00 momentum=0%,control
