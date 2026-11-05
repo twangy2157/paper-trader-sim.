@@ -2,42 +2,42 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-05T06:34:56Z. Bankroll cash (research-selected trades): 716.8065461812329. Open positions: 24. Pools on watchlist: 43.
+Updated 2026-11-05T07:19:30Z. Bankroll cash (research-selected trades): 716.8065461812329. Open positions: 17. Pools on watchlist: 50.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
 | research-picked | 5 | 20% | -36.3% | - | -183 |
-| momentum, not picked | 606 | 16% | -54.3% | -59 to -49 | -32975 |
-| all momentum | 611 | 16% | -54.2% | -59 to -49 | -33158 |
-| control | 741 | 8% | -18.8% | -21 to -16 | -14010 |
+| momentum, not picked | 610 | 16% | -54.5% | -59 to -49 | -33286 |
+| all momentum | 615 | 16% | -54.3% | -59 to -49 | -33469 |
+| control | 744 | 8% | -18.9% | -22 to -16 | -14126 |
 | dip buy | 4 | 25% | -13.1% | - | -52 |
-| proven pools | 33 | 42% | -19.4% | -36 to -3 | -642 |
+| proven pools | 34 | 44% | -17.5% | -34 to -2 | -596 |
 
 What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 | exit rule | momentum | control | dip | proven |
 |---|---|---|---|---|
-| base_sl30_tp100 | -55% (590, 16%) | -19% (741, 8%) | -13% (4, 25%) | -19% (33, 42%) |
-| wide_sl50_tp100 | -55% (590, 18%) | -19% (741, 8%) | -13% (4, 25%) | -19% (33, 42%) |
-| sl30_tp50 | -56% (590, 19%) | -19% (741, 9%) | -22% (4, 25%) | -21% (33, 42%) |
-| sl50_tp50 | -56% (590, 22%) | -19% (741, 9%) | -22% (4, 25%) | -21% (33, 42%) |
-| no_stop_tp100 | -54% (590, 19%) | -19% (741, 8%) | -13% (4, 25%) | -19% (33, 42%) |
+| base_sl30_tp100 | -55% (594, 16%) | -19% (744, 8%) | -13% (4, 25%) | -17% (34, 44%) |
+| wide_sl50_tp100 | -55% (594, 18%) | -19% (744, 8%) | -13% (4, 25%) | -17% (34, 44%) |
+| sl30_tp50 | -56% (594, 19%) | -19% (744, 8%) | -22% (4, 25%) | -20% (34, 44%) |
+| sl50_tp50 | -56% (594, 22%) | -20% (744, 9%) | -22% (4, 25%) | -20% (34, 44%) |
+| no_stop_tp100 | -54% (594, 19%) | -20% (744, 8%) | -13% (4, 25%) | -17% (34, 44%) |
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 21850. Outcomes:
+Pools seen: 21901. Outcomes:
 
-- missed_window: 14306
+- missed_window: 14349
 - low_liquidity: 4038
-- proven_liquidity_gone: 1513
+- proven_liquidity_gone: 1519
 - no_momentum: 792
-- research_failed: 618
+- research_failed: 619
 - simulated failed buy: 245
-- proven_low_volume: 223
+- proven_low_volume: 224
 - proven_price_collapsed_or_parabolic: 48
 - proven: 36
 - proven_no_uptrend: 20
 - research_passed: 6
 - dip: 5
 
-Warning: 163 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.
+Warning: 164 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.
