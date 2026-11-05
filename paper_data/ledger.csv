@@ -3240,3 +3240,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T12:15:30Z,ENTRY,CPESFkiXni39ffv8euLyZBCQnjc2ZzK8MdLiPd3HCa9X,HIGH / SOL,0,1.11417319119e-05,100.0,research_failed,,,684.97,score=0.00 momentum=39%,mom
 2026-11-05T12:15:30Z,ENTRY,782X9Y76xY2xXibjtoh2oC5rGDfvFrtiEjmYW4JTiBrh,CR / SOL,0,9.03483392675e-05,100.0,control_no_momentum,,,684.97,score=0.00 momentum=9%,control
 2026-11-05T12:18:27Z,EXIT,9WKqAdbd79AK4CmLQQ6zJ6W97Qq3WpyuH9jWzMbSeti8,thoughts / SOL,0,7.18705311952e-06,100.0,timeout,-9.85,-9.85,684.97,exit_bar=2026-11-05T12:17:00Z,control
+2026-11-05T12:19:59Z,EXIT,HTtmDAZEHsMSMekabksZwGGu5GKYqTNyJGzn9MeXRgnf,NEX Ai / SOL,0,4.82479526066e-05,100.0,tp,-100.01,-100.01,684.97,exit_bar=2026-11-05T11:33:00Z,mom
+2026-11-05T12:19:59Z,ENTRY,jpDqH2NRE7Cg6BgDkZL2bf2rKVJpaE2SKsrtdKZ1S72,TOILET / SOL,0,2.16382607887e-05,100.0,control_no_momentum,,,684.97,score=0.00 momentum=-0%,control
+2026-11-05T12:21:28Z,EXIT,EdXzWyjo5Qmvcr3pwjiF618sjD4DMG22XgKMqajdtwd6,HUSK / SOL,0,7.96457278837e-06,100.0,timeout,-12.38,-12.38,684.97,exit_bar=2026-11-05T12:18:00Z,control
+2026-11-05T12:22:56Z,ENTRY,Dp9nguzpJDxD1JAp5ENeDK7Fb4TRebku8uDcofHs4Rh4,FLYWHEEL / SOL,0,7.37873109126e-06,100.0,control_no_momentum,,,684.97,score=0.00 momentum=0%,control
+2026-11-05T12:22:56Z,ENTRY,CvKhqDgvcdXwTpc3D1RCGJ8dWubRUmctgr1A5U7KazQC,TOILET / SOL,0,8.7943622884e-06,100.0,control_no_momentum,,,684.97,score=0.00 momentum=-0%,control
+2026-11-05T12:25:54Z,EXIT,BYk5hEgFbDtXofQUkYtx7by6J6jXxSeUVJX36Y3ShTeP,Ronaldinu / SOL,1,0.000120044107274,100.0,sl,-35.33,-35.33,749.64,exit_bar=2026-11-05T11:25:00Z,mom
+2026-11-05T12:28:29Z,ENTRY,Cf7Knp6WgDgr8Cd8HfA1YCkVVxoF2cTcZXvnEyTEVw9z,Anthropic / SOL,0,3.41016843446e-05,100.0,research_failed,,,749.64,score=0.00 momentum=40%,mom
+2026-11-05T12:29:58Z,ENTRY,5Ncc1B2rbKq7tXA2fHKBMVQUMPvYWqVkVNgkexWEHjYu,GTA 6 Coin / SOL,0,0.000150614538559,100.0,research_failed,,,749.64,score=0.00 momentum=30%,mom
