@@ -4217,3 +4217,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T12:43:30Z,EXIT,7KGxEQqKtiMjiHXhM8eZkxBtLwQeoASwbYLUbAU6xjot,SHAWAZ / SOL,0,1.76202252051e-05,100.0,timeout,-7.9,-7.9,549.84,exit_bar=2026-11-06T12:40:00Z,control
 2026-11-06T12:43:30Z,ENTRY,EiZcotJDzsVLQxfdrdNPGX7PhXCGZ9hchRp6cLmeS3ua,Stockrcat / Fartcoin,0,1.99085890249e-05,100.0,control_no_momentum,,,549.84,score=0.00 momentum=-4%,control
 2026-11-06T12:45:09Z,EXIT,HzzzFNihVuKEv9uYfQuUDyw2Tm834u8MSZ76eixjxJQF,MrBeast / SOL,1,0.000245971366872,100.0,tp,93.29,93.29,743.13,exit_bar=2026-11-06T12:20:00Z,mom
+2026-11-06T12:56:10Z,EXIT,DS3fb8u6Szz69X5QANF4MEpLdCbJtoyBbSyjD4Lvn1qg,LIA / SOL,0,0.000222627493117,100.0,tp,-99.73,-99.73,743.13,exit_bar=2026-11-06T11:13:00Z,proven
+2026-11-06T12:57:32Z,EXIT,4bBjyCtTbqin9YL73ZFzmrYX8vU8AMigedYRrb2QcxJd,APPLEPAID / SOL,0,0.000102794758888,100.0,tp,-100.01,-100.01,743.13,exit_bar=2026-11-06T11:55:00Z,dip
+2026-11-06T12:59:00Z,EXIT,fq79sbhDho3KYvpjnceMhU7XbTKnvuJ9xAGB3JDh6Vu,fun / SOL,0,8.26870171607e-06,100.0,sl,-100.04,-100.04,743.13,exit_bar=2026-11-06T11:53:00Z,mom
+2026-11-06T13:01:28Z,ENTRY,A94nwhX9fLqpgZ3kg1oXhtzWtYQhrAix3nC8nZgLsvUp,dogbaton / SOL,0,1.6411295709e-05,100.0,control_no_momentum,,,743.13,score=0.00 momentum=0%,control
+2026-11-06T13:02:56Z,ENTRY,5Urd1Nn1ejtU2hCknTmFXzdZVFZWikT6Fh1yUjHLVLoN,ONCHAIN / SOL,0,0.000132992310233,100.0,research_failed,,,743.13,score=0.00 momentum=69%,mom
+2026-11-06T13:02:56Z,ENTRY,6K7G58wmGQP4KD2nhAetq2J2NVHwg9hcznKAfhzhZBTs,SEUD / USDT,0,1.00263366925,100.0,control_no_momentum,,,743.13,score=0.00 momentum=0%,control
+2026-11-06T13:04:25Z,ENTRY,G4EXiG3NpfMP9hh8tx5FkT8CgqPUAUdxufrpnpDt3xur,TAJ / USDC,0,9.67063240009e-06,100.0,research_failed,,,743.13,score=0.00 momentum=18%,mom
+2026-11-06T13:05:53Z,ENTRY,D2obEvzwueHu6rs3sWRcdunNpyAwY8AKxUTMgtB5LWuT,f-х / SOL,0,6.01872579871e-05,100.0,control_no_momentum,,,743.13,score=0.00 momentum=0%,control
