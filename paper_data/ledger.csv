@@ -4119,3 +4119,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T10:39:57Z,ENTRY,DoLbqsatw1ZVYEFLPcT9Hq7cDPB8hvG5cZRKyBioD5tx,JENSEN / SOL,0,1.65359027511e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
 2026-11-06T10:41:26Z,EXIT,GsEAb8t6d6fecuALofi1uyeLn4x9EAYopa7FdmnoWBqF,STENKS / SOL,0,1.9037983367e-05,100.0,timeout,-5.53,-5.53,649.84,exit_bar=2026-11-06T10:39:00Z,control
 2026-11-06T10:42:55Z,EXIT,98kkedSy2gHfQB5q7BuRWpmBaBsmdDxnAA9dK9YqgSvw,Vutomi / SOL,0,4.10179818881e-05,100.0,rug,-100.02,-100.02,649.84,exit_bar=2026-11-06T10:41:00Z,mom
+2026-11-06T10:45:47Z,ENTRY,AM8hya16VcW4PA7NUESsQRhznFjAb5kKQLJqzhN4myXc,大A / SOL,0,1.38266928342e-05,100.0,research_failed,,,649.84,score=0.00 momentum=57%,mom
+2026-11-06T10:48:30Z,ENTRY,47PGtaQD7QAhuHP5BEEfab5rF6Faj5SySmBs1sMZGBBw,Hermès / SOL,0,2.00871669717e-05,100.0,research_failed,,,649.84,score=0.00 momentum=30%,mom
+2026-11-06T10:48:30Z,ENTRY,MTiMY9SxWtGJXvpZALD4EJmDmQm6eJRcxhcptNvEdLS,Xi / SOL,0,4.84263368805e-05,100.0,research_failed,,,649.84,score=0.00 momentum=34%,mom
+2026-11-06T10:50:06Z,ENTRY,GZZotdQUwyNAfmX7LJmUyC97wa7x2XPaZhzfdYUu1WBK,MAMESUKE / SOL,0,8.89182226484e-06,100.0,research_failed,,,649.84,score=0.00 momentum=57%,mom
+2026-11-06T10:51:27Z,ENTRY,KVrzGSPHbQ911oW4eHof9BVyvZHXZZNHxRFGKVKGC1v,LMC / SOL,0,2.84567223595e-05,100.0,research_failed,,,649.84,score=0.00 momentum=64%,mom
+2026-11-06T10:51:27Z,ENTRY,53ifxjAh8hgC4HwQDsCeYsojt3Xpx4KToQeuKfpsUWBW,BetOnBlak / SOL,0,1.458706401e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T10:52:56Z,EXIT,BvnYr3iomMTn8EtFZTUBXsjTpgZxNJj19GR6RzgpGLzV,TAB / SOL,0,1.10160008391e-05,100.0,timeout,-10.61,-10.61,649.84,exit_bar=2026-11-06T10:51:00Z,control
+2026-11-06T10:52:56Z,FAILED,CAeyE7xBoM5MN1QjVxr23BxxH5VhKYC5ZmL3Z7wgGtfy,HALO / SOL,0,9.10148312645e-06,0,tx_failed,-0.5,,649.84,"buy reverted, tip lost",mom
+2026-11-06T10:54:24Z,ENTRY,3G1HnSVFKc8dr6NUtGQ4P2z1LTyifhs8B92RvcNRosEA,ヨウヨウ / SOL,0,0.000127827751244,100.0,research_failed,,,649.84,score=0.00 momentum=192%,mom
+2026-11-06T10:55:46Z,ENTRY,HZ514XQc6HcnyKMQ9P9yGjVskVPfC7yzLRJDwAUC18BS,ANAKIN / SOL,0,1.53808623707e-05,100.0,research_failed,,,649.84,score=0.00 momentum=30%,mom
+2026-11-06T10:55:46Z,ENTRY,5JmhtmxMTzQzyVcgF3G7XkQcUfdLUN5McHFgJ3rbcTHm,floatket / SOL,0,1.787581127e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
