@@ -3760,3 +3760,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T01:31:36Z,EXIT,8PZmz6oasFSwKyH9kwYMKXXBW2K7mw3oayAKWRJWPYQx,ELOINCOIN / STONK,0,1.77760928682e-05,100.0,timeout,-5.15,-5.15,749.64,exit_bar=2026-11-06T01:29:00Z,control
 2026-11-06T01:31:36Z,ENTRY,EQQz2PUZEvY44eViJiuhadUSFtWnHLkMP9MuYSZanSmY,Adeng / SOL,0,1.24188705877e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-8%,control
 2026-11-06T01:37:36Z,ENTRY,DvsXGtjKjKQifgHJthrKq9mh58x8uZNTdPLqKTEC1bZL,A-shares / SOL,0,3.46603126515e-05,100.0,research_failed,,,749.64,score=0.00 momentum=54%,mom
+2026-11-06T01:39:35Z,ENTRY,6jX82qo1C6ZwkZ5gdRCJCz8y8CR4ockceF6sJXMs2bDh,Chika / SOL,0,7.9829239309e-05,100.0,research_failed,,,749.64,score=0.00 momentum=49%,mom
+2026-11-06T01:39:35Z,FAILED,HfVGzEBFD8MABudPDnu4zYq1aNjk5oY3iqx9wsiPC6B4,Democat / SOL,0,1.40773726747e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-06T01:40:33Z,ENTRY,4UuMauTe1MSgosTPXjrU5YvB1f2rDgEssDyiogZrZ4Cy,XTO / SOL,0,1.17964757527,100.0,control_no_momentum,,,749.64,score=0.00 momentum=1%,control
+2026-11-06T01:41:54Z,ENTRY,2xGx9GV4XaLSwV4SRfUUasEPhv2GuMxzr1QbAN1WwR8n,Microduck / SOL,0,2.96005242326e-05,100.0,research_failed,,,749.64,score=0.00 momentum=52%,mom
+2026-11-06T01:41:54Z,ENTRY,Ap78Fmiz2agsyUq9BXZXsa5eF8pM5tx9vLwDRR9zvGoe,coin / SOL,0,4.73168049976e-05,100.0,research_failed,,,749.64,score=0.00 momentum=19%,mom
+2026-11-06T01:42:52Z,ENTRY,2ozYhNdQtgRWthS4qp8dEwVk744E11rEZsT5DSZpLPEE,PUMU / SOL,0,4.02742168072e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-1%,control
+2026-11-06T01:42:52Z,FAILED,2thDuJaqvJN1VzmyTjEmTbghpw5YzKSE8TS9J4VZfz8H,IMEME / wNEAR,0,2.11827208135e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-06T01:44:57Z,FAILED,VdiFREpfPTcooR94SZvq4WBRDgoYQ8mkJvM4YewQueL,MOONRUSH / SOL,0,6.43088310773e-06,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-06T01:46:32Z,ENTRY,2zEFN5HuuKTYhTN2PquLE2ay7T3ogPLgaK6AD2oLS37z,IMEME / SOL,0,4.80618752011e-05,100.0,research_failed,,,749.64,score=0.00 momentum=16%,mom
+2026-11-06T01:46:32Z,FAILED,EgHcZHVhvLHUcu3QyUZvRkUCX7XuZZWC5yJ32tVazZdE,SHADOW / SOL,0,4.62560265598e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",mom
