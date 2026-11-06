@@ -4020,3 +4020,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T08:06:31Z,ENTRY,BTVGpVVN2ApXKtY5koqo1URSVqAbzJrTAhQd6vRukPCj,LMC / SOL,0,1.61475779413e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=-29%,control
 2026-11-06T08:08:06Z,ENTRY,BGK7QmTgoG4nXEcRxFqLayjDPWeu16UtyRPgJh4Enpr6,BLSH / SOL,0,0.000115212783809,100.0,research_failed,,,649.84,score=0.00 momentum=1312%,mom
 2026-11-06T08:09:28Z,ENTRY,5CJm4fVGNHAk3jfRLfY7Mm7hLHNcDxnfA2rZkW3zn7fg,SAYHI / SOL,0,0.000135595505741,100.0,research_failed,,,649.84,score=0.00 momentum=18%,mom
+2026-11-06T08:12:27Z,EXIT,3YxSKCNwsW9MjonaHE9tMZ4VLaB5wVnu4uXE4KJsKJXZ,RM / SOL,0,2.51397724808e-05,100.0,tp,-100.01,-100.01,649.84,exit_bar=2026-11-06T07:12:00Z,control
+2026-11-06T08:13:56Z,ENTRY,3VggAyMLTYkVN9dfSogJPi7WdR6pCjg7oABsiMHNbcwc,RM / SOL,0,8.76252862108e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=9%,control
+2026-11-06T08:13:56Z,ENTRY,6zJVXi35wcojoU6i4rgPXMUgZhZH4QxaLu92Zcg4p5ZL,BPCATE / SOL,0,8.83413024949e-06,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T08:15:24Z,ENTRY,FZyTnFL1AbdHGmFei17YjsBicjSkFn1deyD9Rjm18pRy,Democat / SOL,0,2.27682160598e-05,100.0,research_failed,,,649.84,score=0.00 momentum=49%,mom
+2026-11-06T08:19:28Z,EXIT,73Jv2xc1rEhNrQJWwypzndmW68AeGgYcymwJGksFuzY3,Chika / SOL,0,6.76991638331e-06,100.0,timeout,-9.83,-9.83,649.84,exit_bar=2026-11-06T08:18:00Z,control
+2026-11-06T08:20:56Z,ENTRY,mqXDBmKAGWR5VcnbVbAxUbGPKG55XFByzcH8YJCskmo,coin / SOL,0,1.14994149458e-05,100.0,research_failed,,,649.84,score=0.00 momentum=27%,mom
