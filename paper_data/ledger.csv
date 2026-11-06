@@ -4005,3 +4005,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T07:33:56Z,FAILED,2MH1HsLWjL9hfcnioq6Vkjm1YdVNNqkxRHruXoEaV21a,RM / SOL,0,0.000203735711128,0,tx_failed,-0.5,,649.84,"buy reverted, tip lost",control
 2026-11-06T07:35:25Z,FAILED,B1GoJ6xH71a4Yd1uFwbC2Zn7Fs23qFsaBK84XjY2CLn7,XTruth Oil / SOL,0,0.00639233449704,0,tx_failed,-0.5,,649.84,"buy reverted, tip lost",proven
 2026-11-06T07:38:15Z,EXIT,3E1iT8K9hJMsauTZfDf9NaeMDZaXsVTM85aHw3UKddD3,NORTHKOREA / SOL,0,7.43093613916e-06,100.0,timeout,-10.29,-10.29,649.84,exit_bar=2026-11-06T07:37:00Z,control
+2026-11-06T07:43:28Z,ENTRY,BfgAvtde2L8DtbnDMLfTTHgyjDmbKpxoE3YD9tokr2N4,RM / SOL,0,0.00012068532798,100.0,research_failed,,,649.84,score=0.00 momentum=75%,mom
+2026-11-06T07:44:56Z,ENTRY,4nqrskuaiotMAypy7kxdgQsxtxvyox44GvWEkwySJQDP,REDBER / SOL,0,9.95754052165e-06,100.0,research_failed,,,649.84,score=0.00 momentum=74%,mom
+2026-11-06T07:46:25Z,ENTRY,4TyYPdwtEz8vH3NiBxxFoP16NVvxdmQeY2iaabw77SCU,Diamond / SOL,0,8.45794040557e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=10%,control
+2026-11-06T07:47:46Z,ENTRY,Bujoy6WMmYaAVcUG7RUra4XudX6xZJe5ZbSnqVXFbQ7g,BAGEL / SOL,0,0.000181227307441,100.0,research_failed,,,649.84,score=0.00 momentum=51%,mom
+2026-11-06T07:47:46Z,ENTRY,64TS4cp3dtwwUYGyChZzTVKLFnuGMSbAknxZcnyRwSPy,RICK / SOL,0,9.21695063068e-06,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T07:49:14Z,ENTRY,8kogXX6ZU5vk57UmYdQiBcXJNsxzV5iMagB8SVp6quzZ,FREAK / SOL,0,1.95639118869e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
