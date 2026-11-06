@@ -3943,3 +3943,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T05:39:23Z,EXIT,9gS3MRnf5KxUCKkTZxPPkuhQvFsNf76t1J4y1fagu7Bz,COGE / SOL,0,5.78675997604e-05,100.0,tp,-100.01,-100.01,649.84,exit_bar=2026-11-06T05:14:00Z,mom
 2026-11-06T05:40:45Z,ENTRY,HY9UGeCZYjDMFonJDftp9Lq8Gw4LvrQ38r6ayouor1zU,Coal / Diamond,0,2.47462259264e-05,100.0,research_failed,,,649.84,score=0.00 momentum=80%,mom
 2026-11-06T05:42:20Z,EXIT,5bfeHpTGAhRs3JXozyr8cm8reXYz4aK6EzeVGro8UHRH,bracket / SOL,0,1.03937559536e-05,100.0,timeout,-5.06,-5.06,649.84,exit_bar=2026-11-06T05:41:00Z,mom
+2026-11-06T05:43:44Z,ENTRY,HGidScBGDK4pXdfZ5V58jRjU8VyYHbU4ugiCSRtEcpZ6,A / SOL,0,8.72880433453e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=9%,control
+2026-11-06T05:43:44Z,ENTRY,BqtJ9dmgoPWJzmVqaNhoLuNtmcgWbjMmxp2VBNuyKDwY,MCH / SOL,0,5.33022828129e-05,100.0,research_failed,,,649.84,score=0.00 momentum=140%,mom
+2026-11-06T05:45:20Z,EXIT,6jPgzEEh4hnx1d2wSfpcwzR8DR6rHRfpgyUS1poWEFSo,BTC / SOL,0,6.03484429477e-05,100.0,rug,-100.02,-100.02,649.84,exit_bar=2026-11-06T05:44:00Z,mom
+2026-11-06T05:49:30Z,ENTRY,7S9UD7nntdSf36fVy5LamUM4rYKc7TgfdyMW8KhCxJBK,Democat / SOL,0,1.80522648283e-05,100.0,research_failed,,,649.84,score=0.00 momentum=14%,mom
