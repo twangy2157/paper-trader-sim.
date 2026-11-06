@@ -4502,3 +4502,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T22:34:38Z,ENTRY,akLvM8jg9oeXkNNVdzYSj6XJgUkrNFxerECYHfujVxn,WHITE / SOL,0,9.52947506785e-05,100.0,research_failed,,,706.17,score=0.00 momentum=462%,mom
 2026-11-06T22:34:38Z,ENTRY,3HBMEZxV57vJD1qDUcGHbx6FUrrffuJaRDA183Z58BNF,PI / SOL,0,8.40809131461e-07,100.0,research_failed,,,706.17,score=0.00 momentum=81%,mom
 2026-11-06T22:34:38Z,FAILED,Dge7ntoseAuzpQ4AVrQ7dUGLHTi9SPBjqNupUCYHX4KU,BilIy / SOL,0,1.80283262809e-05,0,tx_failed,-0.5,,706.17,"buy reverted, tip lost",control
+2026-11-06T22:38:35Z,EXIT,GqgjyaFxHwe3YBY7jyxqktLjYEomCfkg4BWmsjREQXcV,PCAT / SOL,0,8.84404192808e-05,100.0,rug,-100.02,-100.02,706.17,exit_bar=2026-11-06T22:36:00Z,control
+2026-11-06T22:38:35Z,ENTRY,3vvZjCvzodwowWEw3zn6Ad5EYnDrjEHSsfdMf9s58Z2e,GTA KODAK / SOL,0,3.38877093493e-05,100.0,research_failed,,,706.17,score=0.00 momentum=121%,mom
+2026-11-06T22:38:35Z,ENTRY,9mGmMPzvxeAFBVbcK3Z6GycsCq5uPpRLpCfeHdyjRkFq,Diamond / SOL,0,8.33158508733e-05,100.0,control_no_momentum,,,706.17,score=0.00 momentum=7%,control
+2026-11-06T22:39:33Z,EXIT,3zbQ3Dg7BhNmmiSGLGCDwFJFHP5sDzJuJ7an6WKqcWde,fingerbir / SOL,0,7.31640122401e-06,100.0,timeout,-12.2,-12.2,706.17,exit_bar=2026-11-06T22:36:00Z,control
+2026-11-06T22:39:33Z,ENTRY,BYjWQHs8ebHJCtMhVTegwRo17wAGeinoGZDEXgfGVBQW,WHITE / SOL,0,4.53842868976e-05,100.0,research_failed,,,706.17,score=0.00 momentum=15%,mom
+2026-11-06T22:41:09Z,EXIT,9NTtPL5cJPtvJv2dPTwgMuD999bBdfSwPyNajw7gYyws,NEX Ai / SOL,0,1.91076857038e-05,100.0,sl,-100.02,-100.02,706.17,exit_bar=2026-11-06T22:18:00Z,mom
+2026-11-06T22:41:09Z,ENTRY,CoJpnWTUVAZPtkhi6yKyw1y66HCnvYX3eAcWv3p8K2Bu,FOMOCAT / SOL,0,4.14068247351e-05,100.0,research_failed,,,706.17,score=0.00 momentum=89%,mom
+2026-11-06T22:44:35Z,EXIT,923vPjW2rFhoFbJ6odcCcso9XLThsssTSHyiGNqeLH67,Monty / SOL,0,8.48282357601e-05,100.0,tp,-100.01,-100.01,706.17,exit_bar=2026-11-06T22:01:00Z,mom
+2026-11-06T22:45:33Z,ENTRY,3trKDHp8forUDZKHmSzmRFAVeBqendwmEpfjp7Wtyc94,GTA KODAK / SOL,0,1.37555607682e-05,100.0,control_no_momentum,,,706.17,score=0.00 momentum=0%,control
