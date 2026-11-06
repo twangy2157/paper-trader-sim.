@@ -4521,3 +4521,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T22:55:34Z,ENTRY,3rXLr5wHFZyTzszWDUivf2Wskdw8MCbj8jQ2o6oDcE9n,WHITE / SOL,0,1.28087302917e-05,100.0,research_failed,,,706.17,score=0.00 momentum=40%,mom
 2026-11-06T22:56:55Z,ENTRY,ExypQ4Dufxa16VK8APQS8gf1dJf7RiVk1UBYRKjW1t7e,Daumen / SOL,0,5.02407497611e-05,100.0,research_failed,,,706.17,score=0.00 momentum=45%,mom
 2026-11-06T22:56:55Z,FAILED,7tUxDmaR4Ys7SK3hcTCcS8sws23Dqkxz9hQAVSujLXUN,Daumen / SOL,0,2.67799838055e-05,0,tx_failed,-0.5,,706.17,"buy reverted, tip lost",mom
+2026-11-06T22:58:41Z,EXIT,Dyz45HEWiPe5YA6izLEaf447VMZZaUZBLTsdFmQWmb5z,LMC / SOL,0,7.59329782846e-06,100.0,timeout,-9.36,-9.36,706.17,exit_bar=2026-11-06T22:56:00Z,control
+2026-11-06T23:00:39Z,EXIT,FxTkgdduQDoF7VmNJZ3qH3y1x4Mf5uUixb4JDqQFu4qL,KIRK VI / SOL,0,8.53381790817e-06,100.0,honeypot,-101.0,-101.0,706.17,exit_bar=2026-11-06T22:56:00Z,control
+2026-11-06T23:02:37Z,ENTRY,FdYD5698ULTaxz6kDFBhuDUstSxh1uzMQXF1vrBYojDK,Jose / MUSK4,0,7.89379267091e-05,100.0,research_failed,,,706.17,score=0.00 momentum=173%,mom
+2026-11-06T23:02:37Z,ENTRY,HPZ426bRii1Np6XCCaD6gRAjghj9YxNeZjXuRLhnhi5z,ch / SOL,0,8.47002395458e-06,100.0,control_no_momentum,,,706.17,score=0.00 momentum=0%,control
+2026-11-06T23:04:21Z,EXIT,BPDccYCrgzZKZ4rdb5RrJ99xV5h6q7uvskFo7mptyoZK,PINU / PRIVACY,0,1.92592156974e-05,100.0,honeypot,-101.0,-101.0,706.17,exit_bar=2026-11-06T23:02:00Z,control
+2026-11-06T23:04:21Z,FAILED,7t5Lgq8VZBbiCQr9wixs83b8NLqyWXqGPJYE4cwdb7dF,VETO / SOL,0,0.000113425379662,0,tx_failed,-0.5,,706.17,"buy reverted, tip lost",control
+2026-11-06T23:04:21Z,ENTRY,3chaYfrUFmMsgbmtWEDfmeeKAj5oftErox7hgaM6gFcG,JOSE / MUSK4,0,1.95473368664e-05,100.0,control_no_momentum,,,706.17,score=0.00 momentum=0%,control
+2026-11-06T23:05:19Z,EXIT,HKkRTiyctYpL6i5ghuyJHTyhMtLWJiDR7dZRmTZHn1Dk,PINU / PRIVACY,0,1.98334562005e-05,100.0,timeout,-4.9,-4.9,706.17,exit_bar=2026-11-06T23:02:00Z,control
+2026-11-06T23:06:54Z,EXIT,CHvBgGYcQQv1WtLgdh9MuX8kgDgBAiPvzKqyFqPBwtvf,PRIVACY / PI,0,0.971964747866,100.0,timeout,-9.82,-9.82,706.17,exit_bar=2026-11-06T23:04:00Z,control
+2026-11-06T23:08:30Z,EXIT,8QDZG4tppkSkT4Ex2z4rzgKEyzCxuRnE9ZPvTgMmb5cv,PI / SOL,0,5.69630684098e-05,100.0,timeout,79.7,79.7,706.17,exit_bar=2026-11-06T23:06:00Z,mom
+2026-11-06T23:08:30Z,ENTRY,CmeSujVc41CTh6yVgbm8XU98Ff4crdYFi2CM5NNhBVGd,Jose / MUSK4,0,1.83121587312e-05,100.0,control_no_momentum,,,706.17,score=0.00 momentum=-9%,control
