@@ -4230,3 +4230,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T13:12:56Z,ENTRY,GAdsJcx4wm8tEPK9qWomZAuJNe7Kd84dAxvuU69sVGjx,NORTHKOREA / SOL,0,1.03556731942e-05,100.0,control_no_momentum,,,743.13,score=0.00 momentum=0%,control
 2026-11-06T13:12:56Z,ENTRY,GdXoSKxSvD5bYWkmk2n8os5q3KpGtjR3HZdmqZRpNtFa,INUX / SOL,0,6.77535527971e-06,100.0,control_no_momentum,,,743.13,score=0.00 momentum=0%,control
 2026-11-06T13:15:46Z,FAILED,C5dqkPXxQM97JygZqAa2yHnh4jsDxswiQJq3vc7K1rfT,NIG / SOL,0,1.2365143229e-05,0,tx_failed,-0.5,,743.13,"buy reverted, tip lost",mom
+2026-11-06T13:18:30Z,ENTRY,GDYP5LgzLr66g3542h9dcZqoS3wvFcQXDRJWyuidutnB,lucky / SOL,0,1.97585356534e-05,100.0,research_failed,,,743.13,score=0.00 momentum=87%,mom
+2026-11-06T13:18:30Z,ENTRY,GGKPRw4TAFTRgh8D5ZoxqJGpxGYXBBx7vuByQJyqPR2r,Dacity / SOL,0,8.72611578493e-06,100.0,research_failed,,,743.13,score=0.00 momentum=11%,mom
+2026-11-06T13:20:06Z,ENTRY,9VmhN1Ai3a9yYKbKkT1XbGdw1xN25X5nY2M6HCQsRsMg,McDonald / SOL,0,1.91936319042e-05,100.0,control_no_momentum,,,743.13,score=0.00 momentum=0%,control
+2026-11-06T13:21:27Z,FAILED,HWArV1NXEF2NnVBecUWN1X9yWZzgaBziNNASVbXXjDgp,GLABS / TOUCHGRASS,0,0.00503171044241,0,tx_failed,-0.5,,743.13,"buy reverted, tip lost",control
+2026-11-06T13:22:55Z,EXIT,BJ1xb7Z4mwjVQsjP4WBWWBXQNQf6NUABwyhLwTQrdfZy,OKSG / USDT,0,0.994700832511,100.0,timeout,-6.03,-6.03,743.13,exit_bar=2026-11-06T13:21:00Z,control
+2026-11-06T13:27:20Z,EXIT,CKjknqfH3NCCSb51GqgG9ZVHQULeNF5w2vcanyb7LARE,NATF / SOL,0,0.139486188038,100.0,timeout,2.09,2.09,743.13,exit_bar=2026-11-06T13:26:00Z,proven
