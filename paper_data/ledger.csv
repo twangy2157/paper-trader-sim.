@@ -4026,3 +4026,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T08:15:24Z,ENTRY,FZyTnFL1AbdHGmFei17YjsBicjSkFn1deyD9Rjm18pRy,Democat / SOL,0,2.27682160598e-05,100.0,research_failed,,,649.84,score=0.00 momentum=49%,mom
 2026-11-06T08:19:28Z,EXIT,73Jv2xc1rEhNrQJWwypzndmW68AeGgYcymwJGksFuzY3,Chika / SOL,0,6.76991638331e-06,100.0,timeout,-9.83,-9.83,649.84,exit_bar=2026-11-06T08:18:00Z,control
 2026-11-06T08:20:56Z,ENTRY,mqXDBmKAGWR5VcnbVbAxUbGPKG55XFByzcH8YJCskmo,coin / SOL,0,1.14994149458e-05,100.0,research_failed,,,649.84,score=0.00 momentum=27%,mom
+2026-11-06T08:22:27Z,ENTRY,9Eas7pdhT3GFiQwm6CcvggBRPL7zYHFxGxK1WPKZD3Wi,躺枪 / SOL,0,0.00014357965699,100.0,research_failed,,,649.84,score=0.00 momentum=172%,mom
+2026-11-06T08:23:55Z,ENTRY,EdwBT6JRrUXsGE1vAehU3vAh3fhpm7nnr6XjirvoRMFK,ZEC / USDT,0,1263.76413776,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T08:25:24Z,EXIT,HVET2ygJzRExvSLkKgdcBnmyhe5Y6FT9NprXqvtnH5R1,RM / SOL,0,9.45232240993e-05,100.0,rug,-100.02,-100.02,649.84,exit_bar=2026-11-06T08:24:00Z,control
+2026-11-06T08:26:46Z,ENTRY,8xAFJjjB6Hh38sBDQr8tbDnLujQavdwh4oWTXpHdDhiG,ZUHIN / SOL,0,3.44130004114e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=-6%,control
+2026-11-06T08:26:46Z,ENTRY,4RNVjLQPqMKpeyfDiovyJNs9SP9S1kSu3fY2XRkPoRv1,USLA / USDT,0,1.00168118031,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T08:28:14Z,EXIT,8jttp5aSKVDjXGN4UxV4f8Ghoq8sPje4etTfQpHMGsWU,Redflag / SOL,0,5.17998453941e-05,100.0,tp,-100.01,-100.01,649.84,exit_bar=2026-11-06T07:43:00Z,mom
+2026-11-06T08:29:29Z,ENTRY,96gLbfZqanPnGxJpifDLEzaypUoSciVZByaYaou9VQie,RM / SOL,0,8.48467704302e-07,100.0,research_failed,,,649.84,score=0.00 momentum=61%,mom
+2026-11-06T08:30:58Z,EXIT,2krd7yx8oCPZnS3CEnkcnqh3aqm2uRccoiP6pwKo3M8B,RM / SOL,0,1.06109365344e-06,100.0,rug,-100.02,-100.02,649.84,exit_bar=2026-11-06T08:29:00Z,mom
+2026-11-06T08:32:26Z,EXIT,5fk38yE6sNyFjrtawXAiBadYyLsDyw8YCXNMu7obCGWZ,ATTENTION / SOL,0,3.06457007573e-05,100.0,timeout,-4.67,-4.67,649.84,exit_bar=2026-11-06T08:30:00Z,control
