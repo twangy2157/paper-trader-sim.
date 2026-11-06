@@ -3925,3 +3925,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T05:18:26Z,ENTRY,6yDEzgvoxEhE4xnWhR4iTwppJ1FzXAork3K3YKYY1HRT,$BWIZ / SOL,0,6.83375634625e-06,100.0,research_failed,,,649.84,score=0.00 momentum=131%,mom
 2026-11-06T05:19:54Z,EXIT,FEB1i2185qx9RwdLUG44PqYZnVhwHTovdjkp6yJDKT1U,COIN / SOL,0,0.000191546166031,100.0,tp,-100.01,-100.01,649.84,exit_bar=2026-11-06T04:37:00Z,mom
 2026-11-06T05:21:15Z,EXIT,H8SECNvP4B2iuUPesCmttc5AQRXGTEUHhtZDi6afcCDW,VETO / SOL,0,1.04447846638e-05,100.0,timeout,-10.16,-10.16,649.84,exit_bar=2026-11-06T05:19:00Z,control
+2026-11-06T05:22:32Z,ENTRY,D4Ahvsqx4Z8MJCzgnoNNn2YxK9JdL5haqZLz6m3gnhfC,ASTER / SOL,0,3.86816516424e-05,100.0,research_failed,,,649.84,score=0.00 momentum=48%,mom
+2026-11-06T05:22:32Z,ENTRY,5g3obwwST7g3FZtqi2eKSYKL7nX9gg8QQXiuqK3HGa4Z,DERP / SOL,0,8.09786676444e-06,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T05:24:00Z,ENTRY,8Cf1o7uqovUicRNQo7yE15GgciZAXwJ4czVxtn8Tycz7,KUB / USDC,0,7.4317712375e-06,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T05:26:28Z,ENTRY,CjrpgsjUHsss9mChCVUssqfWBWukqWxJfkZ1pKoQzuP5,SELLA / TSLAx,0,5.96256939494e-06,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T05:26:28Z,ENTRY,EswYDxmNcZM5X1yRy1v76fuiJxXy1SYCdpzbddeh5h4P,beer / SOL,0,7.05818859556e-06,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T05:27:56Z,ENTRY,3g7L1DCFwNdpcCufDcQRVMdmSkPcP2ECZtCFNzJ4CEXt,bracket / SOL,0,0.000230972112373,100.0,control_no_momentum,,,649.84,score=0.00 momentum=-10%,control
+2026-11-06T05:29:24Z,EXIT,1JT1EqBjcAHTQDgkzRcNnu8de6ud2FAySFDpEN3nMjf,inu / SOL,0,6.19216052212e-05,100.0,rug,-100.02,-100.02,649.84,exit_bar=2026-11-06T05:28:00Z,mom
+2026-11-06T05:30:46Z,ENTRY,G35YXCR1YLTXXMfi1tbppH5opNKGw5sivx9vUK144ftS,pump / SOL,0,2.61174311339e-05,100.0,research_failed,,,649.84,score=0.00 momentum=197%,mom
+2026-11-06T05:30:46Z,ENTRY,TAwvQg34QFvSMCQhgwJRAztC7StuSzXzHs5iyyfmezQ,CHAROC / SOL,0,1.17935095876e-05,100.0,control_no_momentum,,,649.84,score=0.00 momentum=0%,control
+2026-11-06T05:32:14Z,EXIT,G1dNDQuSRSoMS4A8b6zx9G1v8THupMsNv1usF29FX4Ub,coin / SOL,0,7.60814005264e-05,100.0,tp,-100.01,-100.01,649.84,exit_bar=2026-11-06T05:02:00Z,mom
