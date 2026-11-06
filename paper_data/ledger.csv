@@ -3701,3 +3701,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-05T23:55:06Z,ENTRY,9s2uvT3GJGLheWHHzD7fTjoi7aQAAbPhWSazNTWddXVP,sssdfg / SOL,0,7.12726799804e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=2%,control
 2026-11-05T23:56:27Z,ENTRY,D39nrtkpdoNFJVruVqzJDRj7ZnB776TddG4VXNY71gqF,GTA 6 Coin / SOL,0,0.000122812120089,100.0,research_failed,,,749.64,score=0.00 momentum=13%,mom
 2026-11-05T23:57:56Z,ENTRY,AsoYia2wvGus7PyJM33BiLdhtogWBFyYy7Xb2NRfWwB9,hi / sssdfg,0,1.21808445815e-05,100.0,research_failed,,,749.64,score=0.00 momentum=57%,mom
+2026-11-06T00:02:25Z,ENTRY,FeimBEKhMio2MmiSmPwgrYLR7RtcCPUraVgjm7gajeSX,Hi / SOL,0,2.82109089576e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=8%,control
+2026-11-06T00:03:53Z,ENTRY,CN1mokAvGzLb1Sy8AP3PBzueXxvEPNkqgHkCzWffLYp5,PPFS / USDC,0,2.06121375201e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-0%,control
+2026-11-06T00:05:15Z,EXIT,DeozEK7PDxiHayoHm91mLM4STxXDWHAvjzFYm62JGTse,iMeme / SOL,0,5.40810228791e-05,100.0,tp,-100.01,-100.01,749.64,exit_bar=2026-11-05T23:04:00Z,mom
+2026-11-06T00:06:29Z,ENTRY,Dfd5YPQFp3ALuvJimH6ob1x2TJckQF1n2BTWnFAJHudq,TRUMP / SOL,0,1.03364401669e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-06T00:07:58Z,EXIT,DyKfC1jMUwPBm6Q2r1PUhG8mXwSHujNYxjhzm6RaW8t4,ANSEM / SOL,0,2.80356561266e-05,100.0,timeout,-4.77,-4.77,749.64,exit_bar=2026-11-06T00:06:00Z,control
+2026-11-06T00:09:27Z,ENTRY,GbRNG7MRGRCw6kZbB3fxGuMjGjtwT4FTvqECi9VZyUkd,$SOLGAINS / SOL,0,7.75083389384e-06,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
