@@ -3770,3 +3770,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T01:44:57Z,FAILED,VdiFREpfPTcooR94SZvq4WBRDgoYQ8mkJvM4YewQueL,MOONRUSH / SOL,0,6.43088310773e-06,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
 2026-11-06T01:46:32Z,ENTRY,2zEFN5HuuKTYhTN2PquLE2ay7T3ogPLgaK6AD2oLS37z,IMEME / SOL,0,4.80618752011e-05,100.0,research_failed,,,749.64,score=0.00 momentum=16%,mom
 2026-11-06T01:46:32Z,FAILED,EgHcZHVhvLHUcu3QyUZvRkUCX7XuZZWC5yJ32tVazZdE,SHADOW / SOL,0,4.62560265598e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",mom
+2026-11-06T01:50:35Z,ENTRY,AososCFwJV7RqiBaCmMGJ3wQqvdAk58s1waRfYYtBsaV,ASTER / SOL,0,2.46145989695e-05,100.0,research_failed,,,749.64,score=0.00 momentum=39%,mom
+2026-11-06T01:52:25Z,ENTRY,4rwtgdxaSVZHR4PRkBzanrKt1vyPywn7kARQAoYn8yw1,DOOROC / SOL,0,1.26643021041e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=0%,control
+2026-11-06T01:52:25Z,ENTRY,8No6HBj7Kg2B2xkQFv2kTXHfPgRNFFQiguFTTZftFBB5,GTA 6 Coin / SOL,1,0.000133511656859,100.0,research_passed,,,649.64,score=0.61 momentum=30%,mom
+2026-11-06T01:53:23Z,FAILED,6NGsP7WkGCjw65EQxK9UZLi8NZptHGFrye4uNMcF9xbs,CHAROC / SOL,0,2.01656494627e-05,0,tx_failed,-0.5,,649.64,"buy reverted, tip lost",control
+2026-11-06T01:54:37Z,ENTRY,4TFou3gu7VgNs6w4CboPHSvXj5fVDr4XRuu7t94C16BV,ZUP / SOL,0,3.65602177757e-05,100.0,control_no_momentum,,,649.64,score=0.00 momentum=-1%,control
+2026-11-06T01:56:56Z,FAILED,8simUp9Rc13keDhLvucZthRMAyKbTFyExDgKNfeQcFfa,YUGE / WLFI,0,2.75837746561e-05,0,tx_failed,-0.5,,649.64,"buy reverted, tip lost",mom
+2026-11-06T01:58:32Z,ENTRY,AXx3zNsgHs1n8g17GdBRAGprgG4cnQ6pJ7kToJVpvB3d,Chika / SOL,0,8.68032732914e-06,100.0,research_failed,,,649.64,score=0.00 momentum=28%,mom
+2026-11-06T01:58:32Z,ENTRY,3htmAtuYVKeJmCbgt9VpBbuUspzpCF7eZwomwsTEb92N,DIAMOND / SOL,0,0.000135692617212,100.0,research_failed,,,649.64,score=0.00 momentum=88%,mom
