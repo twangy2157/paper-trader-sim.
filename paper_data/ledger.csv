@@ -3755,3 +3755,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T01:26:40Z,ENTRY,BatsVHJhwgfaomjntGV4VXFj5mLDAPVkrc17tYcsQvKo,d/acc / SOL,0,3.54357570311e-05,100.0,research_failed,,,749.64,score=0.00 momentum=92%,mom
 2026-11-06T01:27:38Z,EXIT,22Mt682G8ESb3PzRPRJp3zpQe7NAbh3TGGqjY5nuLtNH,COIN / SOL,0,0.000146309121542,100.0,rug,-100.02,-100.02,749.64,exit_bar=2026-11-06T01:26:00Z,mom
 2026-11-06T01:27:38Z,ENTRY,DJQPTePh3zLtzKPKr68GTZfEUMjvpCb2msPekjUf5VWk,IMEME / wNEAR,0,2.00175737286e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-2%,control
+2026-11-06T01:29:38Z,ENTRY,8cM7B5YU4REtcLFzd7BjJZ8BdFesMqUDTv79i4rYRFoe,Chika / SOL,0,8.36916391625e-05,100.0,research_failed,,,749.64,score=0.00 momentum=628%,mom
+2026-11-06T01:29:38Z,FAILED,GEekT7GztgArTHojXWAU6i4kY9dJBrPWbFum3Bzr41ts,GRIT / SOL,0,1.99782036651e-05,0,tx_failed,-0.5,,749.64,"buy reverted, tip lost",control
+2026-11-06T01:31:36Z,EXIT,8PZmz6oasFSwKyH9kwYMKXXBW2K7mw3oayAKWRJWPYQx,ELOINCOIN / STONK,0,1.77760928682e-05,100.0,timeout,-5.15,-5.15,749.64,exit_bar=2026-11-06T01:29:00Z,control
+2026-11-06T01:31:36Z,ENTRY,EQQz2PUZEvY44eViJiuhadUSFtWnHLkMP9MuYSZanSmY,Adeng / SOL,0,1.24188705877e-05,100.0,control_no_momentum,,,749.64,score=0.00 momentum=-8%,control
+2026-11-06T01:37:36Z,ENTRY,DvsXGtjKjKQifgHJthrKq9mh58x8uZNTdPLqKTEC1bZL,A-shares / SOL,0,3.46603126515e-05,100.0,research_failed,,,749.64,score=0.00 momentum=54%,mom
