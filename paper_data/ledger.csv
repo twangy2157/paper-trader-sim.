@@ -4216,3 +4216,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T12:42:16Z,EXIT,GRZjHEQbdidAmSEjh6GQWtH49vXvYVpwuFWBuefbYUwN,kittylick / SOL,0,6.75020825561e-05,100.0,timeout,-3.72,-3.72,549.84,exit_bar=2026-11-06T12:39:00Z,control
 2026-11-06T12:43:30Z,EXIT,7KGxEQqKtiMjiHXhM8eZkxBtLwQeoASwbYLUbAU6xjot,SHAWAZ / SOL,0,1.76202252051e-05,100.0,timeout,-7.9,-7.9,549.84,exit_bar=2026-11-06T12:40:00Z,control
 2026-11-06T12:43:30Z,ENTRY,EiZcotJDzsVLQxfdrdNPGX7PhXCGZ9hchRp6cLmeS3ua,Stockrcat / Fartcoin,0,1.99085890249e-05,100.0,control_no_momentum,,,549.84,score=0.00 momentum=-4%,control
+2026-11-06T12:45:09Z,EXIT,HzzzFNihVuKEv9uYfQuUDyw2Tm834u8MSZ76eixjxJQF,MrBeast / SOL,1,0.000245971366872,100.0,tp,93.29,93.29,743.13,exit_bar=2026-11-06T12:20:00Z,mom
