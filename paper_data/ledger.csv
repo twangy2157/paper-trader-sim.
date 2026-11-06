@@ -4249,3 +4249,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T13:46:16Z,EXIT,EiZcotJDzsVLQxfdrdNPGX7PhXCGZ9hchRp6cLmeS3ua,Stockrcat / Fartcoin,0,1.97103039988e-05,100.0,timeout,-4.93,-4.93,743.13,exit_bar=2026-11-06T13:44:00Z,control
 2026-11-06T13:47:30Z,ENTRY,2w3euq1PWqzpjkh6B5qeViUrNRVCqTdVdJ3SDzUhr6my,EME / SOL,0,2.6184057129e-05,100.0,control_no_momentum,,,743.13,score=0.00 momentum=0%,control
 2026-11-06T13:47:30Z,ENTRY,AT5Fp4HafTNWtMuaGzocLjn6MTDhjA7bJYdeke1KzS5G,HYPEL2 / HYPE,0,9.29100919832e-06,100.0,research_failed,,,743.13,score=0.00 momentum=35%,mom
+2026-11-06T13:51:58Z,ENTRY,HRudhAHsLQN9KyntW5oAHfpLb4MqPP1k4zstuAy3vey,OKSG / USDT,0,0.997703965089,100.0,control_no_momentum,,,743.13,score=0.00 momentum=0%,control
+2026-11-06T13:53:26Z,ENTRY,8eH3iHyHKHjVW7SeUnH3CNWqUrgyB1Bv5kYZu913fFzd,FMAS / SOL,0,1.83153479942e-05,100.0,control_no_momentum,,,743.13,score=0.00 momentum=-0%,control
+2026-11-06T13:53:26Z,ENTRY,74HRo3gStu5d5BjLjwRYx1DvgG9i4a634DZzHeFGYNi4,Stеve / SOL,0,2.51557485246e-05,100.0,research_failed,,,743.13,score=0.00 momentum=250%,mom
+2026-11-06T13:56:16Z,ENTRY,4GiKk14fYTjDHHkTMYUd38uvqYA5SfxE51TqqtgcB3WP,ZEKIF / SOL,0,3.64946233044e-05,100.0,control_no_momentum,,,743.13,score=0.00 momentum=-9%,control
