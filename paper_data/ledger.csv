@@ -4511,3 +4511,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T22:41:09Z,ENTRY,CoJpnWTUVAZPtkhi6yKyw1y66HCnvYX3eAcWv3p8K2Bu,FOMOCAT / SOL,0,4.14068247351e-05,100.0,research_failed,,,706.17,score=0.00 momentum=89%,mom
 2026-11-06T22:44:35Z,EXIT,923vPjW2rFhoFbJ6odcCcso9XLThsssTSHyiGNqeLH67,Monty / SOL,0,8.48282357601e-05,100.0,tp,-100.01,-100.01,706.17,exit_bar=2026-11-06T22:01:00Z,mom
 2026-11-06T22:45:33Z,ENTRY,3trKDHp8forUDZKHmSzmRFAVeBqendwmEpfjp7Wtyc94,GTA KODAK / SOL,0,1.37555607682e-05,100.0,control_no_momentum,,,706.17,score=0.00 momentum=0%,control
+2026-11-06T22:46:34Z,FAILED,5pygAC6bXb9VhPorRHHbbBEv6o7SRk7HgziUE1ZfYSFB,José / SOL,0,4.40828066908e-05,0,tx_failed,-0.5,,706.17,"buy reverted, tip lost",mom
+2026-11-06T22:47:31Z,FAILED,EoeZ2WkzNQPWkCV8GSpZE9Uyu4j4gHFBPNg2mitsY2Nk,José / SOL,0,2.86482800822e-05,0,tx_failed,-0.5,,706.17,"buy reverted, tip lost",mom
+2026-11-06T22:48:29Z,FAILED,FmDzr9vv2G2LG1zcXsEAFrMW57uqDVZF7G9UDhPDL62F,José / SOL,0,9.76543577574e-06,0,tx_failed,-0.5,,706.17,"buy reverted, tip lost",mom
+2026-11-06T22:48:29Z,ENTRY,4DBnyfPviWaDCNS8kXUt7yVH2LWRoUb5cf5YMtdgVSCn,NORTHKOREA / SOL,0,3.00078310424e-05,100.0,control_no_momentum,,,706.17,score=0.00 momentum=0%,control
+2026-11-06T22:50:26Z,EXIT,8vboNma9xW2wxXw3kc3hnqspwcbSR7Ya3ob8f2FuTGmr,FOMOCAT / SOL,0,1.53831080659e-05,100.0,timeout,-9.91,-9.91,706.17,exit_bar=2026-11-06T22:49:00Z,mom
+2026-11-06T22:51:24Z,EXIT,Dr7uE5oGTBCDteibQvotXTf1E4KVRgsLDJX7kkLQBKS5,WHITE / SOL,0,5.1388208872e-05,100.0,tp,-100.01,-100.01,706.17,exit_bar=2026-11-06T21:58:00Z,mom
+2026-11-06T22:54:36Z,ENTRY,BLoaV8CnxfpWrWkcXyNC8RRZe7BMuSbFmWF8UBZy7t53,Sahil / SOL,0,4.37237934303e-05,100.0,research_failed,,,706.17,score=0.00 momentum=21%,mom
+2026-11-06T22:55:34Z,ENTRY,3rXLr5wHFZyTzszWDUivf2Wskdw8MCbj8jQ2o6oDcE9n,WHITE / SOL,0,1.28087302917e-05,100.0,research_failed,,,706.17,score=0.00 momentum=40%,mom
+2026-11-06T22:56:55Z,ENTRY,ExypQ4Dufxa16VK8APQS8gf1dJf7RiVk1UBYRKjW1t7e,Daumen / SOL,0,5.02407497611e-05,100.0,research_failed,,,706.17,score=0.00 momentum=45%,mom
+2026-11-06T22:56:55Z,FAILED,7tUxDmaR4Ys7SK3hcTCcS8sws23Dqkxz9hQAVSujLXUN,Daumen / SOL,0,2.67799838055e-05,0,tx_failed,-0.5,,706.17,"buy reverted, tip lost",mom
