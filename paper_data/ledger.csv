@@ -3882,3 +3882,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T04:01:30Z,ENTRY,FjVTWUEwpiNQcYEQ6PzaiEoSe6aC5rDKJ8UybjavAiyN,ASTER / SOL,0,3.31233043237e-05,100.0,research_failed,,,649.84,score=0.00 momentum=24%,mom
 2026-11-06T04:03:06Z,ENTRY,A1zwm36ycZcwLX4ckd24WS2J1g1CQ2VGnp1FXtkRsvxm,Moon Cat / SOL,0,2.25342541919e-05,100.0,research_failed,,,649.84,score=0.00 momentum=13%,mom
 2026-11-06T04:04:27Z,ENTRY,HD9TvyxE8FcFjTcRyi1W9TR4bgdH6RdoE5ZMnnzKn7fA,444 / SOL,0,9.61806747889e-06,100.0,control_no_momentum,,,649.84,score=0.00 momentum=-0%,control
+2026-11-06T04:07:26Z,FAILED,uVN1bwDorNvcX1Et3GnKM9j8LCKhSeWaWBkXJUx7bbd,KITMAN / SOL,0,9.81211862839e-05,0,tx_failed,-0.5,,649.84,"buy reverted, tip lost",mom
+2026-11-06T04:11:30Z,EXIT,BRKT7thaus73ATYS8xNCg21EYujM3ByjVhf2fPQQ5BNd,TEST / USDC,0,1.31791504336e-05,100.0,timeout,-5.86,-5.86,649.84,exit_bar=2026-11-06T04:10:00Z,control
+2026-11-06T04:13:06Z,EXIT,8jPDa1hEFUhF7gVHJsMbK47JVz5tpNeQsVkkrvkDMFh8,Dose / SOL,0,8.2185871557e-06,100.0,timeout,-9.3,-9.3,649.84,exit_bar=2026-11-06T04:10:00Z,control
+2026-11-06T04:14:27Z,EXIT,JgfiNGqLjRpBKnCkjo9h1aUrQXA88g26TkX7ZDRVu6G,EVIL / SOL,0,1.21242605496e-05,100.0,timeout,-6.98,-6.98,649.84,exit_bar=2026-11-06T04:12:00Z,control
+2026-11-06T04:17:24Z,ENTRY,FEB1i2185qx9RwdLUG44PqYZnVhwHTovdjkp6yJDKT1U,COIN / SOL,0,9.57730830155e-05,100.0,research_failed,,,649.84,score=0.00 momentum=99%,mom
