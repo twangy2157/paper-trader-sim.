@@ -5505,3 +5505,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T22:08:24Z,ENTRY,CEoBfHXbLRmJTSD3m8nJnoTuSg5y1AXQ6hMcpjdGcMtv,DonateLab / SOL,0,1.81389234564e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
 2026-11-07T22:09:46Z,ENTRY,EJAq9sdFYX2zoGKbf3XT17eExLzXPRhdK4WLtkkoQEhp,FCAT / SOL,0,7.84882770684e-05,100.0,research_failed,,,499.4,score=0.00 momentum=75%,mom
 2026-11-07T22:09:46Z,ENTRY,DRjYDAnH3E3TUnDtbeCSFwRCvXv1YzLwCDERKy2N77xo,fg / SOL,0,8.52571600135e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T22:11:17Z,EXIT,CXNZXXSQpvQEjgsjWRazPdDQ9W76EHsDkfmpfApLnM5v,FRODO / SOL,0,9.56682343464e-07,100.0,rug,-100.02,-100.02,499.4,exit_bar=2026-11-07T22:09:00Z,mom
+2026-11-07T22:12:39Z,ENTRY,AxuZZhV7Tapx2hrA7n2dzsvcPjMthSc8KhLwsNddMwuk,BCAT / SOL,0,2.01562292849e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-8%,control
+2026-11-07T22:12:39Z,ENTRY,2UwoJJ8V9FMPxaMKBWDK8FgbJcFo6hDGwDiLx72bfUE2,scamsem / SOL,0,1.42849627947e-05,100.0,research_failed,,,499.4,score=0.00 momentum=79%,mom
+2026-11-07T22:12:39Z,ENTRY,8EjzxKen685LNdzMXJkAuGLikpAN8zqUPKeZoXPgSkRE,HEROES / SOL,0,1.55448598671e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-1%,control
+2026-11-07T22:16:58Z,FAILED,LPZZVh75srbvZNAya9NFpHLXVpe3cV9ZwVHFp8w8taw,LMEOW / SOL,0,1.85084047616e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
+2026-11-07T22:18:27Z,EXIT,B5JLQ6VNcPQFzBC25ZTargxrToggKaC72fNGdqDAy3Vb,BLM / USDC,0,1.16276706034e-05,100.0,timeout,-7.9,-7.9,499.4,exit_bar=2026-11-07T22:16:00Z,control
+2026-11-07T22:19:55Z,ENTRY,6EBQcxiKC7kVVNayipKmarepVPZZA5kEpGEH9yBwXsjy,SC / SOL,0,2.02279067715e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-1%,control
