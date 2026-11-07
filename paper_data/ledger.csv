@@ -4882,3 +4882,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T07:38:56Z,ENTRY,DyC7TaC8w2JZzuVbznVdRKiaE2Sw7pb1ccsRb7VvU1NT,BUGDROID / GOOGLx,0,1.86715971918e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=3%,control
 2026-11-07T07:38:56Z,ENTRY,97tas5MKsFguZJAJS88RAruPtWhv1oct5nbpuaRWuM8a,SHP / SOL,0,7.75830907344e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
 2026-11-07T07:40:24Z,ENTRY,yVcYE3XS6GhxixA9v3iqR5bciCz8vibw5VxoxMfyNXA,PREDICT / SOL,0,5.3830680308e-06,100.0,proven_pool,,,605.19,age=122min,proven
+2026-11-07T07:48:56Z,ENTRY,7F2pqWoRnHfHFocTBvZcdQ1gwz83VC26Qi9XTaHDHbJo,dogbaton / SOL,0,0.000121711562443,100.0,research_failed,,,605.19,score=0.00 momentum=891%,mom
+2026-11-07T07:50:25Z,ENTRY,D85jaGNTUW3g2tyWUWkNKxUDnc7UZLacU6ivcM52vLY4,notion / SOL,0,3.67489452777e-05,100.0,research_failed,,,605.19,score=0.00 momentum=32%,mom
+2026-11-07T07:54:29Z,ENTRY,5q4vtSuoH9n6XsPACJ3x4uiG2zqLLzzwtDw86WtBG14L,FERN / SOL,0,2.00461291169e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T07:54:29Z,ENTRY,5GsjWs7bhX3kSee9hXuHWxA2yw9NoBAo6mpBogeV2zpG,USBT / USDT,0,1.04431352209,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T07:55:57Z,ENTRY,FBx5KX5WM9zgcStkNyMgyrBnosnMuzWyNNKKua894oVq,XMR / USDC,0,613.680774643,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
