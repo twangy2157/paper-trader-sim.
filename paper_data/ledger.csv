@@ -4734,3 +4734,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T03:58:30Z,ENTRY,6nkPBDrWD7JgLoudNTHKVU61r13BEKbXEEqhiJzUvdLo,NADF / SOL,0,0.00599958307412,100.0,control_no_momentum,,,605.19,score=0.00 momentum=4%,control
 2026-11-07T03:58:30Z,ENTRY,8sihLENUj7pVC8pVMpAykVeBMkUoaokktiYKnd7bJwM8,PI / SOL,0,8.73672519082e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=9%,control
 2026-11-07T03:59:58Z,EXIT,43jngXPhtvzECw5SJBsSYEvkhW4WUa51BPa3HAGKvxqZ,SCAM / SOL,0,6.55851188625e-05,100.0,rug,-100.02,-100.02,605.19,exit_bar=2026-11-07T03:58:00Z,mom
+2026-11-07T04:01:29Z,EXIT,8aZPp9XK2McUcwjBpRqWSoa1h2wRC4QKQP4CjaEdnTVZ,NN / SOL,0,4.97881168895e-05,100.0,rug,-100.02,-100.02,605.19,exit_bar=2026-11-07T04:00:00Z,mom
+2026-11-07T04:02:58Z,EXIT,2N9vyVUR5BhBoRQXVXLdFx9SPKGz6cLd7XxoSTsbX2R3,SK / SOL,0,9.0090821995e-06,100.0,sl,-100.04,-100.04,605.19,exit_bar=2026-11-07T03:20:00Z,control
+2026-11-07T04:04:27Z,ENTRY,BiCVFbmvfRGurD8z9LMBuLrfpmguPqExCxABWtLYxyq,PS5 / GTA6,0,2.07356461402e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T04:04:27Z,ENTRY,9RDoqMGbKrM6xCjEcoKaP9rqkEhpL4jHo12Er51RtBSg,NOBELL / SOL,0,8.42654375346e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-1%,control
+2026-11-07T04:07:23Z,ENTRY,3LxXBTZvVMgRy97oMSR8KhKDvrQHw2hXF5C1P66SU9F1,pebble / SOL,0,1.7843984791e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-4%,control
+2026-11-07T04:08:44Z,ENTRY,AAR29bbvdsyv56CdggmHgM4L5BfmRHjVDuHkpoMEH3Pg,scamsem / SOL,0,9.01836135015e-05,100.0,research_failed,,,605.19,score=0.00 momentum=18%,mom
