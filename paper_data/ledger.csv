@@ -5249,3 +5249,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T16:50:26Z,EXIT,Dz6zpE4EonjWMnrsdadQB7wpbeqgv42e9mhYcwRt5dww,USPR / SOL,0,0.199962328035,100.0,timeout,14.73,14.73,472.1,exit_bar=2026-11-07T16:48:00Z,proven
 2026-11-07T16:51:54Z,EXIT,HbPJF4Revh54J1WXshSjuML6j19aXRyMsGVnP2q8K1GT,RICHARD / SOL,0,4.19531779457e-05,100.0,rug,-100.02,-100.02,472.1,exit_bar=2026-11-07T16:48:00Z,mom
 2026-11-07T16:54:30Z,ENTRY,8yBVsswgMxan855bbzfKDEKH4XFCrtsDf8rUjVs5afme,CHOO / SOL,0,1.39827481524e-05,100.0,research_failed,,,472.1,score=0.00 momentum=46%,mom
+2026-11-07T16:57:30Z,ENTRY,CyYMyLvSoU3EHAKEjxFPR88BHNhGdWBCxKckr2nssh6t,KOJ / SOL,0,3.3868413888e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=-6%,control
+2026-11-07T16:59:06Z,ENTRY,DTfiD5U8qRhMfRNuaCw7YZxPUxdkGpLfCwH3ChvQsu7v,piLL / SOL,0,4.47461587197e-05,100.0,research_failed,,,472.1,score=0.00 momentum=25%,mom
+2026-11-07T17:00:27Z,EXIT,FTwDmNVte85CDKL45WhGvc8Wkto7XhzmRnkM21H94TCK,HOPIUM / SOL,0,1.73990593696e-05,100.0,timeout,-7.81,-7.81,472.1,exit_bar=2026-11-07T16:59:00Z,control
+2026-11-07T17:01:56Z,ENTRY,5juabQVjBwhufMWaVzQon4M2bsd8HhdDvmnpThGTpPR3,USNR / SOL,0,0.121401519361,100.0,control_no_momentum,,,472.1,score=0.00 momentum=2%,control
+2026-11-07T17:03:25Z,ENTRY,4y8hgFQjX7LzuD8J4CUZW6GLuxsPqWF4yQEJbGoQ217d,miggles / COINx,0,9.09068669381e-06,100.0,control_no_momentum,,,472.1,score=0.00 momentum=-84%,control
+2026-11-07T17:04:54Z,EXIT,B3do9aLtT9rzfuLUgc555AmPCuKT3k9jyeEphQaasz47,ROBINCAT / SOL,0,6.3722239939e-05,100.0,tp,-100.01,-100.01,472.1,exit_bar=2026-11-07T16:27:00Z,mom
