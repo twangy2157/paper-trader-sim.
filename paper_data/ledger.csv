@@ -4629,3 +4629,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T01:32:26Z,EXIT,5o7qAZtwffZ1J5MsFQQ1uEbH2J5r8zpLpqQMvK4kxHZR,INUX / SOL,0,1.44227212658e-05,100.0,timeout,-6.39,-6.39,605.19,exit_bar=2026-11-07T01:26:00Z,control
 2026-11-07T01:32:26Z,FAILED,Ajv9wppT96TRpu3WHcnK4HHgXB9YM7hxx4DJxMZQg4s2,FERREA / SOL,0,8.01288542465e-06,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",control
 2026-11-07T01:33:54Z,ENTRY,2zssrooPGKtDidjTEfwJczGeiP8GWMs6L5cU9Mo3dKRy,scamsem / SOL,0,5.83286889676e-05,100.0,research_failed,,,605.19,score=0.00 momentum=117%,mom
+2026-11-07T01:35:18Z,ENTRY,48VLBVbH539tnQSdRzVLhsmmqeCgCDptfzHDpqPGbCzX,NEX Ai / SOL,0,3.65706571439e-05,100.0,research_failed,,,605.19,score=0.00 momentum=74%,mom
+2026-11-07T01:36:40Z,ENTRY,7eVePwScE1QbYE1tNaU25g3c5LDo74qfBVt31iBPSuDt,scamsem / SOL,0,3.25853861744e-05,100.0,research_failed,,,605.19,score=0.00 momentum=58%,mom
+2026-11-07T01:39:30Z,ENTRY,A7VKgPp4Pw5e9VyHuE9XWbB6xYnmj5pfoDbbdKunY2J4,GM / SOL,0,2.80094458406e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=2%,control
+2026-11-07T01:39:30Z,ENTRY,GDD7KzM46EF34Yf9kyNT2jXkiw9oWWcRjjGki63qMmCM,FERREA / SOL,0,8.67348817832e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T01:42:27Z,ENTRY,9KkfcjAF7KQScKpRrpCgQqw4E8dhEwdDBzEBRe7Xh8aB,chromecat / SOL,0,8.61699893182e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T01:43:55Z,ENTRY,DY4ewfiwFKHk3o2a7beVwD57Y8WJtPtVLRVFwKRYkXru,PEER / SOL,0,2.94547512117e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=2%,control
