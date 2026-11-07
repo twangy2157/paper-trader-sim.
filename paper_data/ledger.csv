@@ -4943,3 +4943,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T08:58:23Z,EXIT,5GsjWs7bhX3kSee9hXuHWxA2yw9NoBAo6mpBogeV2zpG,USBT / USDT,0,1.0051415009,100.0,timeout,-10.07,-10.07,605.19,exit_bar=2026-11-07T08:55:00Z,control
 2026-11-07T08:59:45Z,EXIT,FBx5KX5WM9zgcStkNyMgyrBnosnMuzWyNNKKua894oVq,XMR / USDC,0,613.457216773,100.0,timeout,-3.06,-3.06,605.19,exit_bar=2026-11-07T08:56:00Z,control
 2026-11-07T09:01:21Z,EXIT,GbdUih5jGent8iGZNM3shakfWt6oJ8zFhGPGKeKypJcG,Alice / SOL,0,1.14472565789e-05,100.0,sl,-44.56,-44.56,605.19,exit_bar=2026-11-07T07:58:00Z,mom
+2026-11-07T09:02:45Z,ENTRY,E655tofXdhMZ9vUeNh7FW9niGXB2G1nVfX6AAB9XLWvv,Trump / SOL,0,0.000136302615596,100.0,research_failed,,,605.19,score=0.00 momentum=26%,mom
+2026-11-07T09:05:42Z,ENTRY,BxTbqqm7J2YCx2husXKKPrWiVVyYWchTd4ABQ7uugf7u,Morgano / SOL,0,8.88186645661e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=4%,control
+2026-11-07T09:05:42Z,ENTRY,DeTMPmYwsdpQn9eUE1iNG3oM7u2VRrD6jov5H8FR14Na,Alice / SOL,0,8.24881980575e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-19%,control
+2026-11-07T09:07:18Z,ENTRY,38YXR4oGKoLJCa4hP3rrAgD5ZBZwmUAkJGSGfj95o5dM,solana / SOL,0,7.77014932737e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-0%,control
+2026-11-07T09:10:14Z,ENTRY,5gnJrNfnnjQqCpPMhg619uAPuPU8AxARZyogARACpy7P,Alice / SOL,0,1.39683316385e-05,100.0,research_failed,,,605.19,score=0.00 momentum=128%,mom
+2026-11-07T09:11:28Z,ENTRY,EVeXXzavxb6YJA4WSWvLciCBGNhAg2aiaZEaDnw1vwAX,SGB / USDC,0,0.779790154918,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
