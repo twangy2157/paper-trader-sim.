@@ -5523,3 +5523,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T22:29:58Z,FAILED,2vXEaZ2cW4XMitW2wVtBt8AZs59NnieA8ZrsN7KwHBne,Ghostcat / SOL,0,1.77858753247e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
 2026-11-07T22:31:27Z,ENTRY,8ZkxvRN6WHoBKLbemc3mjejZ2tzKAY4XHHn1UfmFDPJc,FLOATARD / SOL,0,1.80200007082e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-9%,control
 2026-11-07T22:31:27Z,ENTRY,BPF1A3C6xzyxzGAyekZiSNtXAj6rxdUDcMfp8kCaBNnf,USMS / SOL,0,1.81645048915e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
+2026-11-07T22:32:58Z,EXIT,4i9fFwdCKQtGo4hmFdyiZzoQAWQtzBU1CT4AGpcbuAyM,belly / SOL,0,1.73462134156e-05,100.0,timeout,-5.17,-5.17,499.4,exit_bar=2026-11-07T22:31:00Z,control
+2026-11-07T22:32:58Z,ENTRY,Dc1oqLQb24qCFW5Gh6pi8p8uRXRNHoSSoLtjVwigVU23,AOTF / USDC,0,0.00224711668394,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T22:34:27Z,EXIT,CjgyrhNedKwuBix2zN3sRRevajsP9sqUx3FdFpgNxG2E,LIQUID / SOL,0,9.03114463803e-06,100.0,rug,-100.02,-100.02,499.4,exit_bar=2026-11-07T22:31:00Z,control
+2026-11-07T22:34:27Z,ENTRY,Gda3CK7EXypvBXSoidNyf4tya2gYKMivPEUPMqmJ6jY5,Respect / SOL,0,0.000159157439119,100.0,control_no_momentum,,,499.4,score=0.00 momentum=6%,control
+2026-11-07T22:35:56Z,EXIT,GomypsAYmirxZseeE7UChhVH6eX1j3w6oCQqFunwd3Gy,MEW / SOL,0,1.73563043829e-05,100.0,timeout,-5.17,-5.17,499.4,exit_bar=2026-11-07T22:31:00Z,control
+2026-11-07T22:37:24Z,EXIT,8XQhddC2LQJrmg7Jgy7BAb5MU7weEzTVu9y7atfAX5L1,Musks / MUSK4,0,1.79732035422e-05,100.0,timeout,-8.24,-8.24,499.4,exit_bar=2026-11-07T22:35:00Z,control
+2026-11-07T22:37:24Z,ENTRY,PYZ1FjFJ1Fef4PKiDWwWD7qzmyqsz3kn8RTrvZhnhDK,BetOnBlak / SOL,0,1.79905043094e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T22:38:46Z,EXIT,7WGjZXycviyrWwFKc5VnXEk39WU3m1LX7K1VbUtRNkS4,MEOWNERO / wXMR,0,2.02740918542e-05,100.0,timeout,-7.37,-7.37,499.4,exit_bar=2026-11-07T22:37:00Z,control
+2026-11-07T22:38:46Z,FAILED,6JHefg75d3D8BMsTbNGVtYHofMDcARSUvDB9WG6K7BTG,MNC / SOL,0,1.02604365348e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
+2026-11-07T22:40:15Z,ENTRY,35mWjcumCntJrcCf93BsXXhoV4eGePDjLKcJ6G3iD9T9,HINT / SOL,0,5.09164538944e-05,100.0,research_failed,,,499.4,score=0.00 momentum=38%,mom
+2026-11-07T22:41:30Z,ENTRY,AzVF23d1Hm3xks3rRsap8nFfBFK61vCgM5qBWyGUzTMJ,Btc / USDC,0,7.95259639436e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T22:41:30Z,ENTRY,8Gcj2dvdjFQPwYwJS31T6TvB9LbCvb1xumJWkNz7a58N,HIGHCAP / SOL,0,5.15545928857e-05,100.0,research_failed,,,499.4,score=0.00 momentum=43%,mom
