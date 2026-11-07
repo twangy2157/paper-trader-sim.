@@ -4767,3 +4767,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T04:39:23Z,ENTRY,DuTXH8S2AqqzZZHHH5rvfWyQUEteRerihyQSH97FeQZ,Tinyt / SOL,0,6.79734370843e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
 2026-11-07T04:40:45Z,ENTRY,7F62mKWYDz4Nah3teqHof3o2u5F3i6DmxeWJYqqouh3C,JELLY / SOL,0,2.00365857893e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
 2026-11-07T04:40:45Z,ENTRY,3enCsXxFj6ngVVctjNNjz1d8bRnKu2Lu2vemwUdYYv6i,Whalsem / SOL,0,1.62625473316e-05,100.0,research_failed,,,605.19,score=0.00 momentum=24%,mom
+2026-11-07T04:42:23Z,EXIT,FB3AYqqLUxuavTk1oZLMn4DCcG9Ah8tSQVeV4AR5vpLd,scamsem / SOL,0,9.70177674188e-05,100.0,rug,-100.02,-100.02,605.19,exit_bar=2026-11-07T04:41:00Z,control
+2026-11-07T04:43:44Z,ENTRY,GoZj1w37Zu12ByTrFXTVTkvSyWmDkXbDRZLDsPSb5ZGe,dogbaton / SOL,0,7.63541742907e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T04:45:20Z,EXIT,6QvSmSpLP9TyEV76oRR9G4dhmQsTY4Fzx5Zzw8KqMjao,ZEVO / SOL,0,7.48358090135e-05,100.0,tp,-90.54,-90.54,605.19,exit_bar=2026-11-07T04:13:00Z,control
+2026-11-07T04:46:42Z,EXIT,C8M924NkWcPmipX3Kpkzn5NgWVfNt7ede8z3q9abP48j,trump / SOL,0,8.65316667036e-06,100.0,timeout,-8.63,-8.63,605.19,exit_bar=2026-11-07T04:43:00Z,control
+2026-11-07T04:46:42Z,ENTRY,8MYkyQV7aGSa7gt9X1JvWNtXsa1V2bnuZ7gWBizDDAyR,Alice / SOL,0,2.3980913961e-05,100.0,research_failed,,,605.19,score=0.00 momentum=266%,mom
+2026-11-07T04:48:18Z,EXIT,DJDWH3Vx1npKr4kcBJX9CphMBuhSHNLyf4Wmx29tRsZU,NIO / SOL,0,1.05697080307e-05,100.0,sl,-42.25,-42.25,605.19,exit_bar=2026-11-07T03:50:00Z,mom
+2026-11-07T04:48:18Z,FAILED,FkzuYiiEjay8ztNHhFTWKGQA68inLidQizTSHzmnFmZm,Slingfolio / SOL,0,8.45099045324e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",control
+2026-11-07T04:49:39Z,ENTRY,eHsyKfRQLufTerzYJXyv1uhEFt8AsWKJPcrZx6QyCZ8,aloong / SOL,0,7.58558489952e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-0%,control
+2026-11-07T04:49:39Z,FAILED,DoQWjBgCDnY9efpPL3cfUvyE6hX3hUd8RBgExpoYFe4W,HLWD / SOL,0,9.87792573902e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",control
+2026-11-07T04:51:15Z,ENTRY,BydoqKM8NGBdNnMWN1KnGvukhQdhF36DCiggy2uUssPB,$AURA / SOL,0,8.49726750492e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
