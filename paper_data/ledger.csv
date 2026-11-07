@@ -5255,3 +5255,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T17:01:56Z,ENTRY,5juabQVjBwhufMWaVzQon4M2bsd8HhdDvmnpThGTpPR3,USNR / SOL,0,0.121401519361,100.0,control_no_momentum,,,472.1,score=0.00 momentum=2%,control
 2026-11-07T17:03:25Z,ENTRY,4y8hgFQjX7LzuD8J4CUZW6GLuxsPqWF4yQEJbGoQ217d,miggles / COINx,0,9.09068669381e-06,100.0,control_no_momentum,,,472.1,score=0.00 momentum=-84%,control
 2026-11-07T17:04:54Z,EXIT,B3do9aLtT9rzfuLUgc555AmPCuKT3k9jyeEphQaasz47,ROBINCAT / SOL,0,6.3722239939e-05,100.0,tp,-100.01,-100.01,472.1,exit_bar=2026-11-07T16:27:00Z,mom
+2026-11-07T17:07:39Z,ENTRY,DiDppkp1x52gwdEAbDSQmCBSdsZ4rmv1eCpWZTanoNMT,USOE / SOL,0,0.00755788656557,100.0,control_no_momentum,,,472.1,score=0.00 momentum=3%,control
+2026-11-07T17:07:39Z,ENTRY,6Jm3ezg5bvMo4Y7nBhvF6TVWxgUV8CZJkwsXdvoqftsZ,BUDDY / SOL,0,4.38246839689e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=0%,control
+2026-11-07T17:07:39Z,ENTRY,67ijWRbc6jdevDJv5AYxZsf2rhQLwZR5fJzcDu2QHLnJ,NEX Ai / SOL,0,3.32521101003e-05,100.0,research_failed,,,472.1,score=0.00 momentum=70%,mom
+2026-11-07T17:07:39Z,ENTRY,Ea2ooj1syhS4gHzNQdjLnMaxUUxxmvmVUiMeubdfxsSo,ADYROS / SOL,0,2.43568931127e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=-1%,control
+2026-11-07T17:10:29Z,ENTRY,8X2gbieoFYoRJ7LUhtEN3TSHen2BWBXMVFLJDubhqgky,ALON / SOL,0,2.13322448599e-05,100.0,research_failed,,,472.1,score=0.00 momentum=144%,mom
+2026-11-07T17:11:58Z,ENTRY,B2PVGRp4Z5cxadzdP6G6fnGkTF4mjzcvDp64UuZyEntx,PUMP / SOL,0,2.32890631422e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=0%,control
+2026-11-07T17:11:58Z,ENTRY,7bfpTUTW5R41ML648yyoEdDXDsaQ6V4MUdjcTX6ejeUX,$DOGEMAX / SOL,0,2.44898458335e-05,100.0,research_failed,,,472.1,score=0.00 momentum=212%,mom
+2026-11-07T17:13:27Z,ENTRY,8iMepPYm8g5n9CA7FtwCMuBcifgUqgmggTq4aSgaD9GP,shit / SOL,0,8.4581230131e-07,100.0,research_failed,,,472.1,score=0.00 momentum=35%,mom
+2026-11-07T17:13:27Z,ENTRY,9Pse2jMJ3dziBNCLsNAQkEh3gAtsxYCJGNRQiY4cotJ2,ALON / SOL,0,1.83584359576e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=-8%,control
+2026-11-07T17:14:56Z,EXIT,4cqdSrzrqGwMrEY4yrmXsp1B2MQK6xNPF9Vqp2XwSerq,ELIZABETH / SOL,0,1.07924752457e-05,100.0,timeout,-8.57,-8.57,472.1,exit_bar=2026-11-07T17:13:00Z,control
