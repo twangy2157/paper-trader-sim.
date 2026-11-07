@@ -4875,3 +4875,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T07:28:40Z,ENTRY,5LiX9ncjW48fQ4PSR4xyRkzn8YsUZ74DG7qxHzvyNhDd,TRAUMA / SOL,0,0.000118076513979,100.0,research_failed,,,605.19,score=0.00 momentum=100%,mom
 2026-11-07T07:31:30Z,ENTRY,AQwESsBCXAQUXZFQmLjULiDTGExLrSX3no3hZU63bWps,Alice / SOL,0,8.43610345653e-07,100.0,research_failed,,,605.19,score=0.00 momentum=44%,mom
 2026-11-07T07:31:30Z,ENTRY,G6heieRjNmoE8gjeKTg7sZcitkD7pijkctVCxjb34Mxf,notion / SOL,0,4.69153649089e-05,100.0,research_failed,,,605.19,score=0.00 momentum=30%,mom
+2026-11-07T07:34:30Z,ENTRY,5tmVuzxELjM7jAxj879Ws99Ucn8rtgbk9FJSzHEU333w,UODF / SOL,0,2.05309980961,100.0,proven_pool,,,605.19,age=123min,proven
+2026-11-07T07:34:30Z,ENTRY,7v2B4AH8MBSxQwjGrmTjcfsEqxAbW3qmuR7dBTfDDC7S,Alice / SOL,0,4.7664607423e-05,100.0,research_failed,,,605.19,score=0.00 momentum=19%,mom
+2026-11-07T07:36:06Z,ENTRY,J8UwDBU9JooEBRAtsmC1UBbha6Yrv6q1p5oVe94mroBW,USPT / USDT,0,1.03205034713,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T07:37:27Z,ENTRY,6VVN3YN8y9WDTL7UmwuAUjUJFw9z7W5LBAaGviM5n8qA,FOMOMONEY / SOL,0,1.16864638005e-05,100.0,research_failed,,,605.19,score=0.00 momentum=23%,mom
+2026-11-07T07:38:56Z,ENTRY,DyC7TaC8w2JZzuVbznVdRKiaE2Sw7pb1ccsRb7VvU1NT,BUGDROID / GOOGLx,0,1.86715971918e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=3%,control
+2026-11-07T07:38:56Z,ENTRY,97tas5MKsFguZJAJS88RAruPtWhv1oct5nbpuaRWuM8a,SHP / SOL,0,7.75830907344e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T07:40:24Z,ENTRY,yVcYE3XS6GhxixA9v3iqR5bciCz8vibw5VxoxMfyNXA,PREDICT / SOL,0,5.3830680308e-06,100.0,proven_pool,,,605.19,age=122min,proven
