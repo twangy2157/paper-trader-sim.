@@ -5486,3 +5486,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T21:47:42Z,ENTRY,GLuEkFtxmJhuPXvR5KmVMnHPvVCzWAjQofGh9CYLhjoK,CUSHION / SOL,0,1.01172983945e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-36%,control
 2026-11-07T21:47:42Z,ENTRY,46d7MLD2FX31rPrfJ23kvWxzoJt9JGNkVyN4toapkiKu,GIFH / SOL,0,9.20451555329e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
 2026-11-07T21:49:18Z,EXIT,yLtbWtVT4BdEPgqokXstv78RMHjErJKUqCNYRTRkgK4,José / SOL,0,0.000159988515338,100.0,timeout,-13.35,-13.35,499.4,exit_bar=2026-11-07T21:47:00Z,control
+2026-11-07T21:50:42Z,ENTRY,6Y5tFzuFJdBAQT8mCaV6qBAeMyzNPnqeng7QyNoco3Fm,CLAUDIA / SOL,0,8.35642263758e-07,100.0,research_failed,,,499.4,score=0.00 momentum=51%,mom
+2026-11-07T21:50:42Z,ENTRY,ByLmiVKVbPzTB89syist9jzhbvw9ST7H7Nku1N5D79h,DRAGON / SPCXx,0,1.85172679209e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-4%,control
+2026-11-07T21:53:39Z,EXIT,6HkYyxUY2suQSDsBjH1Yps8Uv7VVstNUs8gm9xL7KFEq,THEOVON / SOL,0,2.6820717821e-05,100.0,timeout,-7.21,-7.21,499.4,exit_bar=2026-11-07T21:52:00Z,control
+2026-11-07T21:53:39Z,ENTRY,7gAXaj3E3691iDCJTE3MApYQ3GnZ5z3zJecXHn9dQHNE,GETPAID / SOL,0,7.07071572634e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T21:55:15Z,EXIT,5juabQVjBwhufMWaVzQon4M2bsd8HhdDvmnpThGTpPR3,USNR / SOL,0,0.12558332751,100.0,timeout,-1.53,-1.53,499.4,exit_bar=2026-11-07T21:54:00Z,proven
+2026-11-07T21:56:30Z,ENTRY,zTTagP9XbNAdQgBQJaakk2HaaUEWJFvXNVhu5XRGVjU,kittylick / SOL,0,7.83505528079e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T21:56:30Z,ENTRY,3o6W4vHoupmpYQqW93reW5bJy9Kjn9A3HqsPkDyLcMao,DiamondGuy / SOL,0,2.59416818558e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=4%,control
+2026-11-07T21:58:06Z,ENTRY,6VF4iwnqaLaCeZiKTFa75qLBaPk1sQGwxCgkTQ278CxU,HEROES / SOL,0,1.79548877996e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-6%,control
+2026-11-07T21:59:28Z,FAILED,FfUDT7qLsZfpRkbrQzAZy6VPHfbtfxDFageJFPeoDqeU,GATO / TTWO,0,2.19440539766e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
