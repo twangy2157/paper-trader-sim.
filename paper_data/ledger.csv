@@ -5364,3 +5364,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T19:38:30Z,ENTRY,59rwvWoAteJaKFxnXGJDVVY8AYxfFw5372pFktEfb6ov,To / SOL,0,1.7708862248e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
 2026-11-07T19:40:06Z,ENTRY,Fhx6EhNZREDVmh3CkSc3oyaFAXaqxBTrSRqMj2rNdBbG,CKG / SOL,0,2.38106257227e-05,100.0,research_failed,,,499.4,score=0.00 momentum=63%,mom
 2026-11-07T19:42:57Z,FAILED,4vRGUAtonHQp6fhCDpnKAfA22DcPvfw2g3Ud7wjbqK47,Democat / SOL,0,2.59235341092e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",mom
+2026-11-07T19:44:28Z,ENTRY,4X3JdYpWMj8hy3C8YKAALJywjYXsG8c25sNHw9HpqRPH,lLY / LUV,0,2.03339204693e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-10%,control
+2026-11-07T19:44:28Z,ENTRY,3ZU1zzK1zpd1Rv5P74D9iPuuTmvMtBv6TtcKoBMFs3NR,PEPEPOL / SOL,0,0.000175993643073,100.0,research_failed,,,499.4,score=0.00 momentum=45%,mom
+2026-11-07T19:45:57Z,ENTRY,6ug6gY7xzCP4hfUh4gfmPLgd4iVzgxdxunesZj7eALKe,TRP / SOL,0,2.56428120463e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=5%,control
+2026-11-07T19:45:57Z,ENTRY,Ew9toAFY9Xxpv23P9a4vaYoLibJgEvuZgDqTXkmeftzh,EISENKOT / SOL,0,2.02010056403e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-9%,control
+2026-11-07T19:47:25Z,ENTRY,GhvqRk2DxsPVdAMfwLjV2M7rmV3Cjiv8munQgMsnNAZ2,SOUVENIR / SOL,0,3.18415649086e-05,100.0,research_failed,,,499.4,score=0.00 momentum=65%,mom
+2026-11-07T19:48:54Z,FAILED,4HCsVezztntRtCmdmpsj5ifLdJAZ3Qj1KJheRmtWmBKo,TRIPLET / FRONTIER,0,1.79527051013e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
+2026-11-07T19:52:58Z,ENTRY,E3jgzrURqJLDwJsjSW1pVu4nnTtqGRxVpCCfTLh3WdKQ,RTR / SOL,0,1.16511609863e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-8%,control
+2026-11-07T19:52:58Z,ENTRY,F4BRDKCXiAhtECbtzpcsoN5JVXC6rf8ftnnFpzqcCkPp,ZOOM / SOL,0,1.76987438624e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
+2026-11-07T19:54:27Z,ENTRY,J7HHC3VkyASvfLz5igYAQrARuij4sTs9FtTscJZ4HasC,A1LON / SOL,0,1.81673592754e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-11%,control
+2026-11-07T19:54:27Z,FAILED,C1archYLA88wLjVrinu5RJdi45mamgzHqYqmJ5K5aXXd,HIGHER / SOL,0,1.23874928496e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
