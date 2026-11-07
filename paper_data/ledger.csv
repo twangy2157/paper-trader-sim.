@@ -5477,3 +5477,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T21:36:25Z,ENTRY,7WGjZXycviyrWwFKc5VnXEk39WU3m1LX7K1VbUtRNkS4,MEOWNERO / wXMR,0,2.10252728996e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
 2026-11-07T21:37:54Z,EXIT,CV64LZY9xV7PnM8fXgBrxdsaKuQ1KeAYvzriVbdnmfTu,SNACKS / SOL,0,1.7495944566e-05,100.0,timeout,-5.16,-5.16,499.4,exit_bar=2026-11-07T21:36:00Z,control
 2026-11-07T21:39:16Z,EXIT,88ipRmhxC3NkUV5N4RianEDvkD3hc2Mfb7E7CpLn2Ccd,$AURA / SOL,0,9.93563247887e-06,100.0,timeout,-7.73,-7.73,499.4,exit_bar=2026-11-07T21:37:00Z,control
+2026-11-07T21:40:33Z,ENTRY,EQMRtnxZCcySh777EdYMvEHo1ptdufXTSVpNENripWUm,wApe / SOL,0,2.5929403791e-05,100.0,research_failed,,,499.4,score=0.00 momentum=95%,mom
+2026-11-07T21:42:09Z,EXIT,EBx782hJoEbcLYse5LQj8HKyYtNokYs96fVekNHg7siS,flow / SOL,0,1.7467537058e-05,100.0,timeout,-7.17,-7.17,499.4,exit_bar=2026-11-07T21:40:00Z,control
+2026-11-07T21:43:23Z,ENTRY,5KL8ELX1VZd2sWEbTqdsp6Edgo48BZ1XRNr11SwSDzEZ,Pnut / SOL,0,4.63186679558e-05,100.0,research_failed,,,499.4,score=0.00 momentum=18%,mom
+2026-11-07T21:44:45Z,ENTRY,4RQQDM35vRXGtNFuvEZsCRSAgaCZYPumnQTYbJipi5oS,MGOAT / SOL,0,8.16186392488e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T21:44:45Z,ENTRY,2TCfZxeBDHkvvcRAoYnnCx86BY4RbFvpkF5LPMe22A3h,ACTI / SOL,0,1.75905570715e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-1%,control
+2026-11-07T21:47:42Z,ENTRY,5LWLo3sJUe7NC7V6zBYmCDAJ57odBNQjgdXrdfaXojCP,FF / SOL,0,1.810368686e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T21:47:42Z,ENTRY,GLuEkFtxmJhuPXvR5KmVMnHPvVCzWAjQofGh9CYLhjoK,CUSHION / SOL,0,1.01172983945e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-36%,control
+2026-11-07T21:47:42Z,ENTRY,46d7MLD2FX31rPrfJ23kvWxzoJt9JGNkVyN4toapkiKu,GIFH / SOL,0,9.20451555329e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T21:49:18Z,EXIT,yLtbWtVT4BdEPgqokXstv78RMHjErJKUqCNYRTRkgK4,José / SOL,0,0.000159988515338,100.0,timeout,-13.35,-13.35,499.4,exit_bar=2026-11-07T21:47:00Z,control
