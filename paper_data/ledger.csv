@@ -4593,3 +4593,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T00:24:21Z,ENTRY,8zmPBmxc3LH73VUhLjh9Cqk7hjFGxiv3p23HuomXvzTg,CRUZ / SOL,0,1.83761535719e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-2%,control
 2026-11-07T00:24:21Z,ENTRY,7EBmGhp2EU9BUCEU3xQFQi5EmWeVxjbsqn25j4DwqmL1,Elon / SOL,0,4.58832949461e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-0%,control
 2026-11-07T00:24:21Z,ENTRY,DxsrBeb2JA43tWpgnSsSaHp8RLdLg1w3cLEuCo68e4Nw,ADA / WBTC,0,1.96204912636e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-3%,control
+2026-11-07T00:25:45Z,ENTRY,7KxQYfmfhqwKFmuA8q4KZCMCKtn42jb4zUxjRjLnx9VN,ADA / SOL,0,4.78205100215e-05,100.0,research_failed,,,606.17,score=0.00 momentum=19%,mom
+2026-11-07T00:25:45Z,ENTRY,5o7qAZtwffZ1J5MsFQQ1uEbH2J5r8zpLpqQMvK4kxHZR,INUX / SOL,0,1.4681713602e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=0%,control
+2026-11-07T00:25:45Z,FAILED,H98PC2ij54dKnpN8YoCCV4Wzc7Fb7JpoAgnd1m1aTznv,BAMBI / SOL,0,1.89156015721e-05,0,tx_failed,-0.5,,606.17,"buy reverted, tip lost",control
+2026-11-07T00:27:20Z,FAILED,Ct8sKv9vttRT3j9TwNqLsP1qJ91vAWDSrH6NYDnBAKJ8,BTCa / WBTC,0,1.88048485987e-05,0,tx_failed,-0.5,,606.17,"buy reverted, tip lost",control
