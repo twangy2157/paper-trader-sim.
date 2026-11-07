@@ -5184,3 +5184,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T15:08:26Z,ENTRY,5bzSCEUaA4MtkuTcHdJcwJftWv2993z38QM7NDEWBnoj,花 / SOL,0,2.06973910376e-05,100.0,research_failed,,,605.19,score=0.00 momentum=205%,mom
 2026-11-07T15:09:55Z,ENTRY,ABmU8jpd7RoW945H27XzznRhsoAQEm7CiPn1VfpmFDZH,TRUMPCOIN / SOL,1,0.000131072739607,100.0,research_passed,,,505.19,score=0.89 momentum=159%,mom
 2026-11-07T15:09:55Z,ENTRY,9dgyTM9MU5uP4gpHDDHuNwNY66wUyafsboYowYuCaCoB,DUGE / USDC,0,0.000228783084021,100.0,control_no_momentum,,,505.19,score=0.00 momentum=-0%,control
+2026-11-07T15:11:26Z,ENTRY,6uHeFaxi832ap8MTgaAJEHoH32g8hWoyNMmvSzguW6M6,NEO / SOL,0,0.000254689916262,100.0,research_failed,,,505.19,score=0.00 momentum=212%,mom
+2026-11-07T15:12:55Z,ENTRY,7h965q4MCjQJXA7i6ju3FyJwH93VAiJsoF18KRcyHXWa,trump / SOL,0,9.74865814449e-06,100.0,control_no_momentum,,,505.19,score=0.00 momentum=0%,control
+2026-11-07T15:12:55Z,FAILED,7Th5ckv5ckCRATs52phtk2xRqShxHjGnqwuZRr1xYTtF,⬆️ / SOL,0,8.99008158571e-06,0,tx_failed,-0.5,,505.19,"buy reverted, tip lost",control
+2026-11-07T15:15:45Z,EXIT,2nrA5nrdAwic1AeKJyMnK9h816XbxLPfJdYtQESm4Dpe,Dog Think / SOL,0,1.15523160544e-05,100.0,timeout,-7.08,-7.08,505.19,exit_bar=2026-11-07T15:14:00Z,control
+2026-11-07T15:15:45Z,ENTRY,78LP1VjWK7HPaucXxpQBvnrsz3jBVS8ThhA1z1WvEE12,inu / SOL,0,4.41025076293e-05,100.0,research_failed,,,505.19,score=0.00 momentum=22%,mom
+2026-11-07T15:18:42Z,FAILED,CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7,BTC / SOL,0,0.000171083379894,0,tx_failed,-0.5,,505.19,"buy reverted, tip lost",proven
+2026-11-07T15:18:42Z,ENTRY,7rGvQAnUYCY81dcwNJpeHuQgywCbWaZTMSkNeZ25yUi4,SFDN / SOL,0,1.99751025897e-05,100.0,control_no_momentum,,,505.19,score=0.00 momentum=-2%,control
