@@ -5265,3 +5265,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T17:13:27Z,ENTRY,8iMepPYm8g5n9CA7FtwCMuBcifgUqgmggTq4aSgaD9GP,shit / SOL,0,8.4581230131e-07,100.0,research_failed,,,472.1,score=0.00 momentum=35%,mom
 2026-11-07T17:13:27Z,ENTRY,9Pse2jMJ3dziBNCLsNAQkEh3gAtsxYCJGNRQiY4cotJ2,ALON / SOL,0,1.83584359576e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=-8%,control
 2026-11-07T17:14:56Z,EXIT,4cqdSrzrqGwMrEY4yrmXsp1B2MQK6xNPF9Vqp2XwSerq,ELIZABETH / SOL,0,1.07924752457e-05,100.0,timeout,-8.57,-8.57,472.1,exit_bar=2026-11-07T17:13:00Z,control
+2026-11-07T17:16:27Z,ENTRY,4rTGNYCxcNEsw7mxBz5qYB2zBEwqvDAvaeSbyy4U6RZ7,BITCHCOIN / WBTC,0,1.93204049217e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=2%,control
+2026-11-07T17:17:56Z,ENTRY,85MuhA4Xzo7cbg5Zwqujxjs5eJEkHFULp7eneRfBSKeN,FERSPE / SOL,0,0.000103855899224,100.0,control_no_momentum,,,472.1,score=0.00 momentum=-0%,control
+2026-11-07T17:17:56Z,ENTRY,yLwFBqvE5JepfHnKmy2WGTJDfWjY76QTq3zPuDWz9Vi,PEPE69 / SOL,0,1.30160253758e-05,100.0,research_failed,,,472.1,score=0.00 momentum=56%,mom
+2026-11-07T17:19:25Z,ENTRY,2uHUiTiWTHWHFiw4ksL39koi5LoYTsGpxgStsaYWgUo1,FP / SOL,0,5.19609650337e-05,100.0,research_failed,,,472.1,score=0.00 momentum=15%,mom
+2026-11-07T17:20:54Z,EXIT,8vhLULGSCZZDfpPD5uTvcaWX56iqVsFkpFgWTNr29KX2,PEPE69 / SOL,0,5.50345735043e-05,100.0,rug,-100.02,-100.02,472.1,exit_bar=2026-11-07T17:19:00Z,mom
+2026-11-07T17:22:16Z,ENTRY,43weV8EtmRctSwYawfBm3tuV1kHcUiu3oo79fPMLCypD,WIFOUT / SOL,0,1.77118517066e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=0%,control
+2026-11-07T17:23:30Z,ENTRY,4FBSYGGfSeskpCM1wMhYtniNWdHduhM79nx1jHdToVCS,e/acc / SOL,0,8.09014928726e-05,100.0,control_no_momentum,,,472.1,score=0.00 momentum=-35%,control
+2026-11-07T17:26:27Z,EXIT,5Nd9SK8nQe3LrRmKoD3d2YetyJiLdu3MEm4hJ2qyAGKz,PEPE69 / SOL,0,1.07286115664e-06,100.0,rug,-100.02,-100.02,472.1,exit_bar=2026-11-07T17:25:00Z,mom
