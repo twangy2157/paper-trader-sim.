@@ -4573,3 +4573,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T23:57:41Z,ENTRY,Aam2fjnZ46g67J936TnpRF8bfE8RNQcVz9EoRWYej9Nu,loom / SOL,0,1.76169867745e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-5%,control
 2026-11-06T23:59:38Z,EXIT,3rXLr5wHFZyTzszWDUivf2Wskdw8MCbj8jQ2o6oDcE9n,WHITE / SOL,0,2.56174605833e-05,100.0,honeypot,-101.0,-101.0,606.17,exit_bar=2026-11-06T23:12:00Z,mom
 2026-11-07T00:01:43Z,EXIT,ExypQ4Dufxa16VK8APQS8gf1dJf7RiVk1UBYRKjW1t7e,Daumen / SOL,0,3.51685248328e-05,100.0,sl,-33.12,-33.12,606.17,exit_bar=2026-11-06T22:57:00Z,mom
+2026-11-07T00:03:36Z,ENTRY,6RFMRvWmELqY16jW2rEqnFiMLBgZmhhJjkKvMyGonmag,ROBINCAT / SOL,0,3.05480068568e-05,100.0,research_failed,,,606.17,score=0.00 momentum=46%,mom
+2026-11-07T00:03:36Z,ENTRY,FXwZASZNZmd8iKMF6uaRCU7uVRUfkTcWiFXzSDRmDTfb,ZY / SOL,0,0.00151136792678,100.0,control_no_momentum,,,606.17,score=0.00 momentum=7%,control
+2026-11-07T00:03:36Z,FAILED,7NVRq7592Nw6tYRnVbjB9gb69N9X8jp2oJRxwEWrt6gt,ZY / SOL,0,1.80216022416e-05,0,tx_failed,-0.5,,606.17,"buy reverted, tip lost",control
+2026-11-07T00:05:19Z,EXIT,FdYD5698ULTaxz6kDFBhuDUstSxh1uzMQXF1vrBYojDK,Jose / MUSK4,0,0.000136471770847,100.0,rug,67.36,67.36,606.17,exit_bar=2026-11-07T00:03:00Z,mom
+2026-11-07T00:06:55Z,EXIT,HPZ426bRii1Np6XCCaD6gRAjghj9YxNeZjXuRLhnhi5z,ch / SOL,0,8.21616425649e-06,100.0,timeout,-8.69,-8.69,606.17,exit_bar=2026-11-07T00:03:00Z,control
+2026-11-07T00:08:31Z,EXIT,3chaYfrUFmMsgbmtWEDfmeeKAj5oftErox7hgaM6gFcG,JOSE / MUSK4,0,1.8293824255e-05,100.0,timeout,-10.19,-10.19,606.17,exit_bar=2026-11-07T00:05:00Z,control
+2026-11-07T00:08:31Z,FAILED,6LvZvmGDezqzVyg65j5crTBcPVxH7Rv1EauEygTUEBTq,RUSH / SOL,0,2.9519478319e-05,0,tx_failed,-0.5,,606.17,"buy reverted, tip lost",mom
+2026-11-07T00:10:36Z,EXIT,CmeSujVc41CTh6yVgbm8XU98Ff4crdYFi2CM5NNhBVGd,Jose / MUSK4,0,1.804653634e-05,100.0,timeout,-5.44,-5.44,606.17,exit_bar=2026-11-07T00:09:00Z,control
+2026-11-07T00:10:36Z,ENTRY,8MZs8kUA6vbuBRNowzbgsj7TVpd5CCvRNg9nrZHZQ6Ga,OFC / SOL,0,1.77868612851e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-0%,control
+2026-11-07T00:10:36Z,FAILED,D7dzVRQVUmCcF2QnKvhFDVjQh1KBtcNd1HNYBcfUgEGY,USDF / SOL,0,0.187515903429,0,tx_failed,-0.5,,606.17,"buy reverted, tip lost",control
+2026-11-07T00:12:41Z,ENTRY,D6rnepSSsfdh8k1x8hf3GAispy8MwCuUDR3DsESdRe15,emote / SOL,0,8.29301632802e-06,100.0,control_no_momentum,,,606.17,score=0.00 momentum=0%,control
+2026-11-07T00:12:41Z,ENTRY,Avn5fThnqwx2kWZF4dhPmA87Y4MoyB1wGygCmzgfFJcQ,TESTICLE / SOL,0,1.06119557559e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=0%,control
