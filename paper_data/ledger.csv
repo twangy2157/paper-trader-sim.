@@ -4894,3 +4894,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T08:04:29Z,EXIT,2yJwFiAqLSbzJvWu5hgKaaz24B5B2Ei7TirXSgfd9w5t,Heisto / SOL,0,3.24548994822e-05,100.0,rug,-100.02,-100.02,605.19,exit_bar=2026-11-07T08:03:00Z,mom
 2026-11-07T08:05:58Z,EXIT,4vfLPVv9xNHJcvxpv8kWhS4ECboXrENHghjGfFeN32BW,Alice / SOL,0,4.00439110153e-05,100.0,tp,-100.01,-100.01,605.19,exit_bar=2026-11-07T07:06:00Z,mom
 2026-11-07T08:07:26Z,EXIT,CTnEpPzGn1eJcNXSJB5GqFT3y5k6GurNKaNWXmzWMpRe,CT / SOL,0,1.76132398358e-05,100.0,timeout,-6.32,-6.32,605.19,exit_bar=2026-11-07T08:04:00Z,control
+2026-11-07T08:08:57Z,EXIT,9FUpjR6kjU5HU3DXvGbBDNWvTd4UebAC4GUSXUorJJ4a,ZEC / SOL,0,3.61219366597e-05,100.0,rug,29.57,29.57,605.19,exit_bar=2026-11-07T08:07:00Z,control
+2026-11-07T08:10:26Z,FAILED,5MSE3JSGZpLT9SgD9uMGFe8pEydAouzDHJ1jPMeJBFCP,non / SOL,0,1.75133759653e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",mom
+2026-11-07T08:11:55Z,ENTRY,66EX468vMT2vCNS8YWAq5Zowzp6TxjyAPAKtfansLjVs,FLOAT / SOL,0,8.45853309382e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=8%,control
+2026-11-07T08:13:16Z,ENTRY,H4xNjU1WH2kgcdnLiZKt4twTSCNmAw4Aa6F8fbf1LS8G,USDF🚀 / SOL,0,0.169199209733,100.0,proven_pool,,,605.19,age=122min,proven
+2026-11-07T08:14:30Z,EXIT,6SK9pM95V1NdgWod7tMqSJ8fvCFEzGTPFihD5KCyiYDR,ZEC / SOL,0,6.1241211436e-05,100.0,tp,-100.01,-100.01,605.19,exit_bar=2026-11-07T07:54:00Z,mom
+2026-11-07T08:14:30Z,ENTRY,6UpjEDS1LEZtx6cx3wLQ9ggbnLhnq69n9Lo2NiphhPjc,Pibblemas / SOL,0,4.05547052963e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-0%,control
+2026-11-07T08:14:30Z,ENTRY,4wCZHfTnBGjG1gPaBbhtf3rhtGSFoktcbrVDeFzZf2kd,NADF / SOL,0,0.129191968328,100.0,control_no_momentum,,,605.19,score=0.00 momentum=3%,control
+2026-11-07T08:16:06Z,ENTRY,7VXWLEuiZSu1zjFpnGq7hThiZB15wZaiqt1ESo6Mk9Rg,INUX / SOL,0,8.7224857668e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T08:17:27Z,ENTRY,747voyCH3mRbVbY89CNzsbEqpJBrnQRZLYcfDoXjKQmk,ᵐᶜ / SOL,0,4.23144809947e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=4%,control
+2026-11-07T08:17:27Z,ENTRY,9cPcsjHgHPEPQotc1v3bSc76RoT9QSpXRNtSw6P5xb36,INUX / SOL,0,7.29729822329e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T08:18:55Z,ENTRY,Cfbw4WY1SzyDmraHbVJjTqoEEcx9bX3LfWVJ96p9ZwMW,LUCK / SOL,0,1.84039244518e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T08:18:55Z,ENTRY,8wV9owMdtEigYoK8myWtpivokRHJxNsSTvhXnCUyxCed,HXBT / USDT,0,1.00695445307,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
