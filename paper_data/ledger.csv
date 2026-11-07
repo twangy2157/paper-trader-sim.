@@ -4830,3 +4830,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T06:05:46Z,EXIT,4n4vAeKacngzAgNjasKhLbQ8wPcadMMg8uNdwWzMTrbu,花 / SOL,0,1.08436787545e-05,100.0,sl,-100.02,-100.02,605.19,exit_bar=2026-11-07T05:04:00Z,mom
 2026-11-07T06:07:14Z,ENTRY,He3REcKxqGyx7qtFh1Xy145pcqzpXzYsng6MPeYGGzWd,$MFRG / SOL,0,8.30167990062e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-0%,control
 2026-11-07T06:08:29Z,ENTRY,HuGrNuc9dqcZMdAyftpDzGfqP5jgUSukzDyHFRpApy5h,mem / CHILLGUY,0,1.9490720647e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T06:12:57Z,ENTRY,BFCQD15Nv5F6DqX64DpnMmmMCn5mriE4WqufvxdS9x5u,COGE / SOL,0,1.18635479588e-05,100.0,research_failed,,,605.19,score=0.00 momentum=47%,mom
+2026-11-07T06:14:25Z,ENTRY,CXZRzhd81nfHxcrg1dKX9rVA7Ajt1KKgezDy4nfCvE2a,HODL / SOL,0,4.57849319964e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=6%,control
+2026-11-07T06:19:57Z,ENTRY,BZZLxAmXNJ1kA3EQN9kCAD5g3byJZverzFnvEmKpgiXH,CAT / SOL,0,9.95121299854e-05,100.0,proven_pool,,,605.19,age=121min,proven
+2026-11-07T06:19:57Z,ENTRY,9wCoePKMhtNpzQtRt1ji6wnWzKx33WxWfDZ31Lf7MViw,DICE / SOL,0,1.64436716413e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T06:21:26Z,ENTRY,8JAky9Pbtcg2pnJWy5kxxoYdNK3VEaurQPFjBnRXJZRQ,ANONCULT / SOL,0,1.83401568976e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-2%,control
