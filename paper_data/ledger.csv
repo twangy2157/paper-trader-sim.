@@ -5131,3 +5131,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T13:53:20Z,EXIT,GtjH53wrQdejVw9EdQ1WzmeSHsU5GxzKWpzqG9sC6yJW,BORDERLESS / SOL,0,4.44593217004e-08,100.0,rug,-100.72,-100.72,605.19,exit_bar=2026-11-07T12:54:00Z,mom
 2026-11-07T13:54:42Z,ENTRY,3ZLZ3L8zbbFnhpvg5wMHmJytoNQfb72nahnaQZ6cd7he,LMC / SOL,0,6.05854009792e-06,100.0,research_failed,,,605.19,score=0.00 momentum=41%,mom
 2026-11-07T13:56:18Z,EXIT,A8b6RKH7pvRboBwyVUBXM52saC1vYJC7Y1iEY2eKS3fV,duge / SOL,0,0.000658304739041,100.0,tp,-100.01,-100.01,605.19,exit_bar=2026-11-07T12:55:00Z,mom
+2026-11-07T13:57:42Z,ENTRY,5HdhHXuPJijswjashXu4T8qADpySfwHpNxJC57Gr4UbD,CHIMP / SOL,0,1.63548756513e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-45%,control
+2026-11-07T13:57:42Z,ENTRY,Ehzq41bhU57YhZt8bMhShC37EK1pu27yp758ZakNbFyw,PROP / USDC,0,5.20525148401e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-0%,control
+2026-11-07T13:59:18Z,EXIT,2u8Ntd1ksKazgYdGYCfHb2Lfcu7pLykaFYx31X1TwaUx,duge / SOL,0,5.80106079492e-05,100.0,rug,-100.02,-100.02,605.19,exit_bar=2026-11-07T13:57:00Z,mom
+2026-11-07T14:00:40Z,ENTRY,62w9dVpwcvPLWR8MUoeDvoEnmM4fUiPrUp4WemxEaff2,Flash / SOL,0,4.82499663682e-05,100.0,research_failed,,,605.19,score=0.00 momentum=40%,mom
+2026-11-07T14:02:16Z,EXIT,J8ykLRJzFN4nuMqAC3afbsPihBnjVh2py3qcxon8ScVb,BILLY / SOL,0,1.69779777605e-05,100.0,timeout,-5.34,-5.34,605.19,exit_bar=2026-11-07T14:00:00Z,control
