@@ -4999,3 +4999,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T10:18:01Z,EXIT,7JmJx9Htdg4QwxQUoWYqkcT8DqWhWDoye9aUzQnGVZVE,trauma / SOL,0,5.08828627074e-06,100.0,rug,-100.15,-100.15,605.19,exit_bar=2026-11-07T09:17:00Z,control
 2026-11-07T10:20:29Z,ENTRY,6BjNETYb4NsssEwg6AXZNBAhkn3SK73359nGxUuKudmB,UDTF / SOL,0,0.152908855732,100.0,proven_pool,,,605.19,age=126min,proven
 2026-11-07T10:20:29Z,FAILED,9fCF9CkJTa5F52WihLkGj5RCyn25bRwDVBYo7apcTGgE,GTA6 / SOL,0,1.72444859942e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",mom
+2026-11-07T10:27:33Z,ENTRY,839uRoHsbyTzGL7gekDYHFRT7GPkTkwh2HarDXTKJfdR,Kraken / SOL,0,4.44541774595e-05,100.0,research_failed,,,605.19,score=0.00 momentum=22%,mom
+2026-11-07T10:27:33Z,ENTRY,EUhEEQGxmL6kM3wYnkd9cgbke9cLReDnTWdSRjqv8cyU,OKKZ / USDT,0,1.002113296,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T10:31:44Z,ENTRY,nHSQvtGjmVSTCrSWEWLzzAjAD7dnpPxW7oA8f6z5xnz,Winged cat / SOL,0,2.75729163884e-05,100.0,research_failed,,,605.19,score=0.00 momentum=41%,mom
+2026-11-07T10:31:44Z,ENTRY,6DEn3NNrFRYsHwJ6QS928pQ3WHVNtHhieJiZkX6o2PYA,scamsem / SOL,0,8.51014393711e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=10%,control
+2026-11-07T10:34:42Z,ENTRY,HupoUvBtuz1gq47SKmjg7Wuckt12kKN2Gz9i7QQHzGSd,trauma / SOL,0,4.73036774705e-05,100.0,research_failed,,,605.19,score=0.00 momentum=19%,mom
+2026-11-07T10:36:18Z,EXIT,5tmVuzxELjM7jAxj879Ws99Ucn8rtgbk9FJSzHEU333w,UODF / SOL,0,2.48880756931,100.0,timeout,17.8,17.8,605.19,exit_bar=2026-11-07T10:35:00Z,proven
