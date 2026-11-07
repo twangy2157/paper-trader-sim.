@@ -5043,3 +5043,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T11:24:39Z,ENTRY,H1GNJQi1D3FjZ7tszEyvbmyu6yW7gyVmAwKxN3rFjFbM,duge / SOL,0,8.2106788824e-07,100.0,research_failed,,,605.19,score=0.00 momentum=42%,mom
 2026-11-07T11:24:39Z,ENTRY,A13QoHRZfj8tGhVG53e38Utqe7pfSjC6jeHTZBJ9ESrT,Chick / SOL,0,6.90502185536e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
 2026-11-07T11:27:29Z,ENTRY,fWdPfFprtFE5733CYbF5aJZjfrKhYy64Ae3ALkm175u,VADER / SOL,0,2.72343236678e-05,100.0,research_failed,,,605.19,score=0.00 momentum=123%,mom
+2026-11-07T11:29:00Z,EXIT,839uRoHsbyTzGL7gekDYHFRT7GPkTkwh2HarDXTKJfdR,Kraken / SOL,0,4.7648236667e-05,100.0,rug,-100.02,-100.02,605.19,exit_bar=2026-11-07T11:28:00Z,mom
+2026-11-07T11:30:22Z,EXIT,EUhEEQGxmL6kM3wYnkd9cgbke9cLReDnTWdSRjqv8cyU,OKKZ / USDT,0,1.0020920536,100.0,timeout,-2.99,-2.99,605.19,exit_bar=2026-11-07T11:28:00Z,control
+2026-11-07T11:31:43Z,ENTRY,4bTfEPcsbUYPLErrdJd8Mp537Jm41cqxi2pTziGHSLVz,duge / SOL,0,2.08020117276e-05,100.0,research_failed,,,605.19,score=0.00 momentum=47%,mom
+2026-11-07T11:33:19Z,EXIT,nHSQvtGjmVSTCrSWEWLzzAjAD7dnpPxW7oA8f6z5xnz,Winged cat / SOL,0,1.91355763896e-05,100.0,sl,-100.02,-100.02,605.19,exit_bar=2026-11-07T11:05:00Z,mom
+2026-11-07T11:34:41Z,EXIT,6DEn3NNrFRYsHwJ6QS928pQ3WHVNtHhieJiZkX6o2PYA,scamsem / SOL,0,9.80112052279e-05,100.0,timeout,11.13,11.13,605.19,exit_bar=2026-11-07T11:32:00Z,control
+2026-11-07T11:34:41Z,ENTRY,c9pVaK36uU66mSNHqYMZqPtnS22N3cw7XPhiPFKCNJ7,duge / SOL,0,9.8785958454e-07,100.0,research_failed,,,605.19,score=0.00 momentum=59%,mom
+2026-11-07T11:36:17Z,EXIT,HupoUvBtuz1gq47SKmjg7Wuckt12kKN2Gz9i7QQHzGSd,trauma / SOL,0,6.08036273453e-05,100.0,timeout,23.33,23.33,605.19,exit_bar=2026-11-07T11:35:00Z,mom
+2026-11-07T11:37:38Z,ENTRY,CTzYofVH2teRnyodyG8mdeyFuL7MbE3qwihNvjXX1brs,MNC / SOL,0,1.69711048567e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T11:37:38Z,FAILED,4kDYQKMciSweQ3nGWcMn7z7ncMwALxHCDKNdjjw6HZRY,DIGGD / SOL,0,1.97637981036e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",mom
