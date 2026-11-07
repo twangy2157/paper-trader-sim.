@@ -5466,3 +5466,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T21:27:29Z,FAILED,DHmbt2svmrjVTbWh2fQs613WZQWKaSd32dPcbW9MpSN9,HABIBI / SOL,0,1.77304348356e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
 2026-11-07T21:28:58Z,EXIT,EySW2RpPW91z2oBKQm4M84Jo2TgENGXWiD3tZd57S3wz,Michal / SOL,0,1.73604904929e-05,100.0,timeout,-5.18,-5.18,499.4,exit_bar=2026-11-07T21:27:00Z,control
 2026-11-07T21:28:58Z,FAILED,BZinpnEis9oKEupLVt39rBdrvV3n1aboKnENdLex9r7p,GOOBLO / SOL,0,4.35985096502e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
+2026-11-07T21:30:29Z,ENTRY,4i9fFwdCKQtGo4hmFdyiZzoQAWQtzBU1CT4AGpcbuAyM,belly / SOL,0,1.75440462932e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-0%,control
+2026-11-07T21:30:29Z,ENTRY,CjgyrhNedKwuBix2zN3sRRevajsP9sqUx3FdFpgNxG2E,LIQUID / SOL,0,9.13884238106e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=9%,control
+2026-11-07T21:30:29Z,ENTRY,GomypsAYmirxZseeE7UChhVH6eX1j3w6oCQqFunwd3Gy,MEW / SOL,0,1.7554280162e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
+2026-11-07T21:31:58Z,EXIT,9Yhas1zR25XstsxAprP7nxip4Q8KSbR4ipjWu8aM4wj7,pattern / SOL,0,4.52045093236e-05,100.0,timeout,-4.08,-4.08,499.4,exit_bar=2026-11-07T21:30:00Z,control
+2026-11-07T21:33:27Z,EXIT,5VsJS2LzXgvkwZ3bcLHPQYmAG4pwqu1QbQo6ZxUgaGZn,RIPTRUMP / TRUMP3,0,1.72915838557e-05,100.0,timeout,-10.45,-10.45,499.4,exit_bar=2026-11-07T21:30:00Z,control
+2026-11-07T21:34:56Z,EXIT,9mG4VohPtKnGrBoF1Pe73Sv1mYazgzWvPNDKCwmAv8aZ,FLOAT / SOL,0,5.88533270809e-05,100.0,rug,-100.02,-100.02,499.4,exit_bar=2026-11-07T21:31:00Z,mom
+2026-11-07T21:34:56Z,ENTRY,8XQhddC2LQJrmg7Jgy7BAb5MU7weEzTVu9y7atfAX5L1,Musks / MUSK4,0,1.87935397739e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-11%,control
+2026-11-07T21:36:25Z,EXIT,CtmC8Facz8SZ3aJjBuBicxtk9458bsaxwS6F7aS9peGL,BILL / SOL,0,2.62953367562e-05,100.0,tp,-100.01,-100.01,499.4,exit_bar=2026-11-07T20:37:00Z,mom
+2026-11-07T21:36:25Z,ENTRY,7WGjZXycviyrWwFKc5VnXEk39WU3m1LX7K1VbUtRNkS4,MEOWNERO / wXMR,0,2.10252728996e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T21:37:54Z,EXIT,CV64LZY9xV7PnM8fXgBrxdsaKuQ1KeAYvzriVbdnmfTu,SNACKS / SOL,0,1.7495944566e-05,100.0,timeout,-5.16,-5.16,499.4,exit_bar=2026-11-07T21:36:00Z,control
+2026-11-07T21:39:16Z,EXIT,88ipRmhxC3NkUV5N4RianEDvkD3hc2Mfb7E7CpLn2Ccd,$AURA / SOL,0,9.93563247887e-06,100.0,timeout,-7.73,-7.73,499.4,exit_bar=2026-11-07T21:37:00Z,control
