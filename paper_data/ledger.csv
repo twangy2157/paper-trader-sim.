@@ -4563,3 +4563,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-06T23:49:55Z,ENTRY,8ohBxUVJfeM1mCbhJW4ccoYAUnzNQmrBURZW7EtqfTSq,SKYNET / ANTHRP,0,2.26172239894e-05,100.0,control_no_momentum,,,706.17,score=0.00 momentum=7%,control
 2026-11-06T23:49:55Z,FAILED,ECxeFsdCwoNKeP3XqWCzZFL4BTDT2Hzj7Gp68nuwD7ES,José / SOL,0,8.48070809448e-05,0,tx_failed,-0.5,,706.17,"buy reverted, tip lost",control
 2026-11-06T23:51:24Z,EXIT,4DBnyfPviWaDCNS8kXUt7yVH2LWRoUb5cf5YMtdgVSCn,NORTHKOREA / SOL,0,2.86970749647e-05,100.0,timeout,-8.16,-8.16,706.17,exit_bar=2026-11-06T23:49:00Z,control
+2026-11-06T23:53:02Z,ENTRY,DxTgcfq51sQe5FQNiwHARxjtLy95JJXjSMqYesKnMggj,Starlink / SOL,0,1.81845672514e-05,100.0,control_no_momentum,,,706.17,score=0.00 momentum=-11%,control
+2026-11-06T23:53:02Z,ENTRY,6EjN1AdAp6HfgernkxZARGaHDpQoLkjHzf6siok2kW83,José / SOL,0,0.000102367927481,100.0,research_failed,,,706.17,score=0.00 momentum=11%,mom
+2026-11-06T23:54:38Z,ENTRY,9oJ2iuFy28GWeEtzP1d9CJxbUt9dgzbRYpedpnVwVWT5,Ponzu / SOL,1,0.000424552360509,100.0,research_passed,,,606.17,score=0.84 momentum=79%,mom
+2026-11-06T23:54:38Z,ENTRY,99zBxpokH2dF5FQdh5GRMABWXbCBRBmJehHHmBnKoxt7,Sahil / SOL,0,4.91767740589e-05,100.0,research_failed,,,606.17,score=0.00 momentum=20%,mom
+2026-11-06T23:55:36Z,ENTRY,2mETnLex3qMAZLcMnnK8RxUs7Djjfnc3a214WP1FcqYK,VUK / SOL,0,3.51270462186e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-13%,control
+2026-11-06T23:55:36Z,ENTRY,E3jYaJJV4Gba569BdxwuLksTtxEXQRHYEvq4Kjj2PQfb,PNCN / SOL,0,2.76662400577e-06,100.0,control_no_momentum,,,606.17,score=0.00 momentum=0%,control
+2026-11-06T23:57:41Z,EXIT,BLoaV8CnxfpWrWkcXyNC8RRZe7BMuSbFmWF8UBZy7t53,Sahil / SOL,0,5.4960276277e-05,100.0,timeout,20.61,20.61,606.17,exit_bar=2026-11-06T23:55:00Z,mom
+2026-11-06T23:57:41Z,ENTRY,Aam2fjnZ46g67J936TnpRF8bfE8RNQcVz9EoRWYej9Nu,loom / SOL,0,1.76169867745e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-5%,control
+2026-11-06T23:59:38Z,EXIT,3rXLr5wHFZyTzszWDUivf2Wskdw8MCbj8jQ2o6oDcE9n,WHITE / SOL,0,2.56174605833e-05,100.0,honeypot,-101.0,-101.0,606.17,exit_bar=2026-11-06T23:12:00Z,mom
+2026-11-07T00:01:43Z,EXIT,ExypQ4Dufxa16VK8APQS8gf1dJf7RiVk1UBYRKjW1t7e,Daumen / SOL,0,3.51685248328e-05,100.0,sl,-33.12,-33.12,606.17,exit_bar=2026-11-06T22:57:00Z,mom
