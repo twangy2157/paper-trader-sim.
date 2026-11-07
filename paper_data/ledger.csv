@@ -5195,3 +5195,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T15:24:40Z,FAILED,9gx83krFyvQQHfSqQFe3xMeAUDzGdGoLiEMZsuqyrPTm,duge / SOL,0,8.47012644678e-05,0,tx_failed,-0.5,,505.19,"buy reverted, tip lost",mom
 2026-11-07T15:27:30Z,EXIT,9uRy337sMncxTyWZF9yPT6SnjZRYe399wNRLEHrFFf8p,ELONARDO / SPCXx,0,1.85868465653e-05,100.0,timeout,-5.04,-5.04,505.19,exit_bar=2026-11-07T15:26:00Z,control
 2026-11-07T15:29:07Z,FAILED,CVQ2R73PJoaFJq3egrkoL6XeJL4b8WZUvdizZ5CwosgA,OKKB / USDT,0,1.00224483463,0,tx_failed,-0.5,,505.19,"buy reverted, tip lost",control
+2026-11-07T15:31:59Z,EXIT,HYDE1X57Ka1jv4HXjgxbD3uKAhiQJM98k2aPEXwRnxwk,EVIL / SOL,0,1.18953756907e-05,100.0,timeout,-9.78,-9.78,505.19,exit_bar=2026-11-07T15:30:00Z,control
+2026-11-07T15:31:59Z,FAILED,EwkNAk8pJPhi7G9WECVcWnqt6ZrJvJpT6eNufWRXzUnc,duge / SOL,0,1.14734612977e-05,0,tx_failed,-0.5,,505.19,"buy reverted, tip lost",mom
+2026-11-07T15:33:28Z,EXIT,EVjZwbtrLxSQ5iMwY4tRpgLYUGdDUdzTtYh6TWQcVqeE,BOB / SPYx,0,3.80324540809e-05,100.0,sl,-34.76,-34.76,505.19,exit_bar=2026-11-07T14:30:00Z,mom
+2026-11-07T15:33:28Z,ENTRY,FrRktB3YEDWXTtcQ8jMpcMmmSWQ4V7kz15MgkASFK26q,LaMisery / SOL,0,1.34806271177e-05,100.0,control_no_momentum,,,505.19,score=0.00 momentum=0%,control
+2026-11-07T15:34:57Z,EXIT,Bz5HajBXkWbVwGuL2zUQ48HuT31iy8FtiEMJoSmHnuxL,cet / SOL,0,1.75976480919e-05,100.0,timeout,-5.15,-5.15,505.19,exit_bar=2026-11-07T15:33:00Z,control
+2026-11-07T15:36:26Z,ENTRY,2ZUjbUZL2w6d4ztUDcJudtrJaBwUw7wQQkPRSSxHx5Cj,Elysion Pa / SOL,0,4.76239884723e-05,100.0,research_failed,,,505.19,score=0.00 momentum=20%,mom
+2026-11-07T15:36:26Z,FAILED,7wFJCHPnDtyUaAPEExJmguEci4XkiXDWyfVfwCbyL13e,Democat / SOL,0,2.02338633692e-05,0,tx_failed,-0.5,,505.19,"buy reverted, tip lost",control
+2026-11-07T15:37:55Z,ENTRY,FPZyT12B2hKDoK8EqNiQnAYLRzesiUFThvGYbKLZedYk,メメ / SOL,0,1.54427014218e-05,100.0,research_failed,,,505.19,score=0.00 momentum=49%,mom
+2026-11-07T15:40:45Z,EXIT,422t4siZ5xBYpLoyvVvmsyc4c6g31YCgH713xNHa4cSg,CASHDUCK / SOL,0,1.76271790263e-05,100.0,timeout,-5.15,-5.15,505.19,exit_bar=2026-11-07T15:39:00Z,control
+2026-11-07T15:40:45Z,ENTRY,EpRE1Ga5oWPc8e9sSwf12tmeSUtaqBwhGRH7DFXyMQ1T,Koop / SOL,0,3.0165400199e-05,100.0,research_failed,,,505.19,score=0.00 momentum=47%,mom
