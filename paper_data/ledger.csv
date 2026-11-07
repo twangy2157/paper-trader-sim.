@@ -4798,3 +4798,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T05:22:27Z,ENTRY,2i4UaK3UFApQGmcNY9vqnbzGNBmU4FvSCiwXFyg6h3Nt,scamsem / SOL,0,8.64881680709e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=8%,control
 2026-11-07T05:23:56Z,EXIT,BjFDpVXzsUJDZEjN4pStYw3AbP7HBEc4psACeeH1tUbo,SOOTS / SOL,0,1.05054044382e-05,100.0,timeout,-6.74,-6.74,605.19,exit_bar=2026-11-07T05:22:00Z,control
 2026-11-07T05:23:56Z,ENTRY,kRiDXPUT5tRZFZTbyU2aFvyLiHEGQornggq2sGC1cLR,PIC / WLFI,0,9.31058574574e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T05:25:27Z,FAILED,3y9LmGTwuHA2LTrNXfUQiQHRrcGKJqSPDqBM4w4imgR6,CLEFT / SOL,0,2.40681705352e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",mom
+2026-11-07T05:26:55Z,ENTRY,8ChFScWwjecb5QaFLhLofi7ihTArB6nPCvKXco1qno7p,EUER / USDT,0,1.16430468344,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T05:26:55Z,ENTRY,QaTRiux5x8wFja3hsext6eumanw7CT1YjnoXcEqoHKH,ORGASM / SOL,0,6.94119279247e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-1%,control
+2026-11-07T05:28:24Z,EXIT,DHnVuiUtWjRZFWdo62c7NmEpCdSTgBFUWPCE88otcvJH,ABTC / WBTC,0,0.00788858743802,100.0,timeout,0.84,0.84,605.19,exit_bar=2026-11-07T05:27:00Z,control
+2026-11-07T05:32:28Z,EXIT,6HG5vi1N4Y33WU6fpk3Fc4qKKVFTLBzW4QfrSxykvB4U,Microsoft / SOL,0,5.25205238146e-05,100.0,tp,-100.01,-100.01,605.19,exit_bar=2026-11-07T04:52:00Z,mom
+2026-11-07T05:33:57Z,EXIT,AdHdwzCCFycUoNagN4jW4ydFapkZborFRzTXsHTXFScE,INUX / SOL,0,1.0289440641e-05,100.0,timeout,-7.55,-7.55,605.19,exit_bar=2026-11-07T05:31:00Z,control
+2026-11-07T05:33:57Z,FAILED,GrWH97Jx8bvyH9mrBExnyZ5vTjUUAcTq5LHNGqP25Rd9,Mechazilla / SPCXx,0,1.88027169061e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",control
+2026-11-07T05:35:26Z,EXIT,A5D1yu3zAAAZXV97KfjQ9ktJkdqEWnpN7jBW6yn52XtH,Capiboo / SOL,0,3.34128684627e-05,100.0,rug,-7.84,-7.84,605.19,exit_bar=2026-11-07T05:34:00Z,mom
