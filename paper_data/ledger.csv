@@ -4585,3 +4585,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T00:10:36Z,FAILED,D7dzVRQVUmCcF2QnKvhFDVjQh1KBtcNd1HNYBcfUgEGY,USDF / SOL,0,0.187515903429,0,tx_failed,-0.5,,606.17,"buy reverted, tip lost",control
 2026-11-07T00:12:41Z,ENTRY,D6rnepSSsfdh8k1x8hf3GAispy8MwCuUDR3DsESdRe15,emote / SOL,0,8.29301632802e-06,100.0,control_no_momentum,,,606.17,score=0.00 momentum=0%,control
 2026-11-07T00:12:41Z,ENTRY,Avn5fThnqwx2kWZF4dhPmA87Y4MoyB1wGygCmzgfFJcQ,TESTICLE / SOL,0,1.06119557559e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=0%,control
+2026-11-07T00:14:40Z,FAILED,CUW4JZdz7xJkCv1YdebtqXsDUq9GEWtzr6snnkpTY4d9,asdasdads / Bonk,0,1.83672236573e-05,0,tx_failed,-0.5,,606.17,"buy reverted, tip lost",control
+2026-11-07T00:16:15Z,EXIT,215f9MRZ6Zg1F6tXLHKtgzSMyBUrJDU1cpCtSvkD3vQv,GROKBOT / USDC,0,6.42395991906e-06,100.0,timeout,-12.63,-12.63,606.17,exit_bar=2026-11-07T00:14:00Z,control
+2026-11-07T00:16:15Z,ENTRY,EnNEYpDsn4QjVxjf9uFNYF8XksG2M9Fxu3gMfhEMAeqE,ELON / SOL,0,8.15459489032e-07,100.0,research_failed,,,606.17,score=0.00 momentum=60%,mom
+2026-11-07T00:18:27Z,FAILED,FZU1dpadC77sg5KH3NfB26azedV2Vbn1ZW5hCh8HjcJ8,X / SOL,0,4.39894763521e-05,0,tx_failed,-0.5,,606.17,"buy reverted, tip lost",mom
+2026-11-07T00:22:45Z,EXIT,9mWLUNe2TNWtBZiBReBAH4nzMH7PBdcRw5Zh1E6WcKGM,Alice / NVDAx,0,1.7547625416e-05,100.0,timeout,-5.38,-5.38,606.17,exit_bar=2026-11-07T00:21:00Z,control
+2026-11-07T00:24:21Z,ENTRY,8zmPBmxc3LH73VUhLjh9Cqk7hjFGxiv3p23HuomXvzTg,CRUZ / SOL,0,1.83761535719e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-2%,control
+2026-11-07T00:24:21Z,ENTRY,7EBmGhp2EU9BUCEU3xQFQi5EmWeVxjbsqn25j4DwqmL1,Elon / SOL,0,4.58832949461e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-0%,control
+2026-11-07T00:24:21Z,ENTRY,DxsrBeb2JA43tWpgnSsSaHp8RLdLg1w3cLEuCo68e4Nw,ADA / WBTC,0,1.96204912636e-05,100.0,control_no_momentum,,,606.17,score=0.00 momentum=-3%,control
