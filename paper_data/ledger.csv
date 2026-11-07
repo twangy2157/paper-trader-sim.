@@ -5355,3 +5355,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T19:29:57Z,ENTRY,4YWRMDjAq7XUon7R3ZQtMtZYGJ2U9vvZ34gHcRQiCMng,Trenchlon / MUSK4,0,1.88427002301e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-1%,control
 2026-11-07T19:31:26Z,ENTRY,4AFkNor78L5LmRLihDfp6QqWrjwZSYrCZu9uxGFWwT9u,BISON / SOL,0,2.01590075472e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
 2026-11-07T19:31:26Z,ENTRY,H187NskS7V8E5GsAqbjrA3CAJ7mRm23f9s2yntyk6YiS,tacocat / SOL,0,1.79589080916e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-40%,control
+2026-11-07T19:32:58Z,ENTRY,6FQpFUz3dMHdWCdKe775utt26XWUWDcHzRUZpS3tu91q,TACOCAT / SOL,0,2.01402261704e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T19:34:26Z,ENTRY,6gw4tBKRVNMFpPxtbQ2t7dYGPk1F5v1LshwWvKAxWBH1,MUSK4 / SOL,0,4.56310863749e-05,100.0,research_failed,,,499.4,score=0.00 momentum=16%,mom
+2026-11-07T19:34:26Z,ENTRY,8cimfhZR7GtKsaddh6peQrfhSw4e2pMdU2vpXuyNVjqu,2 / SOL,0,2.08221459731e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T19:37:16Z,ENTRY,HX6oB5RW8bwdK8N6tPnKHaX5KDHkxVJUqnpDJxYcbGkN,limitIess / SOL,0,1.77390637262e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
+2026-11-07T19:38:30Z,ENTRY,GhCE9jTJSScWjYmVrJhtpRkSBzRrSnV5JmCp3FCkBZdh,PIXELORA / CARDS,0,1.8722904765e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-0%,control
+2026-11-07T19:38:30Z,ENTRY,9SFdK3s4e29f33H3fP5iueppySrfK9JsQRnik8w5Jkiq,WIN / SOL,0,2.29391425933e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T19:38:30Z,ENTRY,59rwvWoAteJaKFxnXGJDVVY8AYxfFw5372pFktEfb6ov,To / SOL,0,1.7708862248e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
+2026-11-07T19:40:06Z,ENTRY,Fhx6EhNZREDVmh3CkSc3oyaFAXaqxBTrSRqMj2rNdBbG,CKG / SOL,0,2.38106257227e-05,100.0,research_failed,,,499.4,score=0.00 momentum=63%,mom
+2026-11-07T19:42:57Z,FAILED,4vRGUAtonHQp6fhCDpnKAfA22DcPvfw2g3Ud7wjbqK47,Democat / SOL,0,2.59235341092e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",mom
