@@ -5340,3 +5340,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T19:07:16Z,EXIT,7McvjmWX9o1xuJ7DgEMUPBnJN6Gd5S5GrwW95V6nBBG5,TA500 / SOL,0,4.74100949253e-05,100.0,rug,-100.02,-100.02,499.4,exit_bar=2026-11-07T19:06:00Z,mom
 2026-11-07T19:08:31Z,ENTRY,Ehow1TGJHzhQEcrpQFtucktqD5bvmHtJYZv3MvbyKh5e,$trump / SOL,0,2.09993967261e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
 2026-11-07T19:08:31Z,ENTRY,8JMbkM3C67fmMDNV21kboqgaCzTrxXQyyFbnESSftqG1,JOS / MUSK4,0,1.97106836427e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-42%,control
+2026-11-07T19:10:10Z,EXIT,Fhzbxx7g694mp54EKp5u1FWKwPNMkfVotaznyanKnLu2,GTA 6 Coin / SOL,0,0.000286149632544,100.0,tp,56.93,56.93,499.4,exit_bar=2026-11-07T18:39:00Z,mom
+2026-11-07T19:11:31Z,EXIT,Fr5bAht9YHtqcWVNXiJbrQmZ71QFbN6D5qjwQ1W9uqGq,MOM / SOL,0,1.85754454722e-05,100.0,timeout,-8.32,-8.32,499.4,exit_bar=2026-11-07T19:09:00Z,control
+2026-11-07T19:14:14Z,EXIT,B7VTwmheqZK19kyJ5VyCjtSxZ2kvrQfrXWathT5EFgsT,Chimigo / SOL,0,1.75109087985e-05,100.0,timeout,-14.05,-14.05,499.4,exit_bar=2026-11-07T19:13:00Z,control
+2026-11-07T19:15:29Z,ENTRY,EtxyDquWWvziZWjsUzijPpFqTRGQLzJcNg3w7sfAWafd,CNH / USDC,0,0.163132515396,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T19:16:58Z,ENTRY,E49CZnyqJgciN8dD6F26JYWZxFRFLvhnXtByEcARhZBp,José / SOL,0,4.96370274844e-05,100.0,research_failed,,,499.4,score=0.00 momentum=33%,mom
+2026-11-07T19:19:56Z,FAILED,Hv1fr4XrcqT7N2wvwZUMhBUk3fCGRiZbnTagd5o53Ds5,Alice / SOL,0,2.61956239271e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",mom
+2026-11-07T19:19:56Z,ENTRY,AF6LFmZUPqZpku9CL4Rzvkv1SCEpxbT9f1xCFXw1dofY,STLT / SOL,0,1.77057390287e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-3%,control
