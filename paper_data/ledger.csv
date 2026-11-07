@@ -5395,3 +5395,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T20:10:40Z,ENTRY,2uYGFFXBc3h8QbqG5JsSdx21hp6JZjNKHM1xC3im887S,Jose / SOL,0,4.80203738092e-05,100.0,research_failed,,,499.4,score=0.00 momentum=19%,mom
 2026-11-07T20:12:16Z,EXIT,8JMbkM3C67fmMDNV21kboqgaCzTrxXQyyFbnESSftqG1,JOS / MUSK4,0,1.83646450078e-05,100.0,timeout,-10.58,-10.58,499.4,exit_bar=2026-11-07T20:09:00Z,control
 2026-11-07T20:15:06Z,ENTRY,5uSpDhNSLUi4mfBAjob2Vvo7EncAunkkmTYoL74sZGEW,CLAUDIA / SOL,0,2.99357253758e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-18%,control
+2026-11-07T20:16:30Z,ENTRY,5qxd4WMWVbq8AXQAaQ5R8YzaC1sNWzGrCP4dHJKU1Dyo,PBB3.0 / SOL,0,2.98648188689e-05,100.0,research_failed,,,499.4,score=0.00 momentum=50%,mom
+2026-11-07T20:16:30Z,ENTRY,3FyziqKGX7ACxvwdEUh66taLtqWGdTvVYFrCPEFnV6Zp,DOOROC / SOL,0,6.67601725801e-06,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-07T20:18:06Z,EXIT,EtxyDquWWvziZWjsUzijPpFqTRGQLzJcNg3w7sfAWafd,CNH / USDC,0,0.152367099768,100.0,timeout,-12.72,-12.72,499.4,exit_bar=2026-11-07T20:16:00Z,control
+2026-11-07T20:19:28Z,EXIT,E49CZnyqJgciN8dD6F26JYWZxFRFLvhnXtByEcARhZBp,José / SOL,0,5.4842587266e-05,100.0,rug,-100.02,-100.02,499.4,exit_bar=2026-11-07T20:17:00Z,mom
+2026-11-07T20:22:25Z,EXIT,AF6LFmZUPqZpku9CL4Rzvkv1SCEpxbT9f1xCFXw1dofY,STLT / SOL,0,1.7507606225e-05,100.0,timeout,-5.16,-5.16,499.4,exit_bar=2026-11-07T20:20:00Z,control
+2026-11-07T20:23:54Z,ENTRY,BXcb18gzKWyyPeDRpquR2mHbMbbaJK64mzhy3vv18hay,Pilly / SOL,0,4.37493031147e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-0%,control
+2026-11-07T20:25:15Z,ENTRY,5A8qnJrcqEwaVkVvTqWLJhsULWUCCJE3o5QbnU4kkonD,GENNY / SOL,0,1.82025067409e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
+2026-11-07T20:26:30Z,FAILED,2sRGsVAHnp5nqKkY8uAFVLoUD8eNGN8oo6943B8Gx6c9,PRlVACY / PRIVACY,0,1.87544662621e-05,0,tx_failed,-0.5,,499.4,"buy reverted, tip lost",control
+2026-11-07T20:26:30Z,ENTRY,EySW2RpPW91z2oBKQm4M84Jo2TgENGXWiD3tZd57S3wz,Michal / SOL,0,1.75583411927e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-4%,control
