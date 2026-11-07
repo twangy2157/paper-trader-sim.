@@ -4740,3 +4740,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T04:04:27Z,ENTRY,9RDoqMGbKrM6xCjEcoKaP9rqkEhpL4jHo12Er51RtBSg,NOBELL / SOL,0,8.42654375346e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-1%,control
 2026-11-07T04:07:23Z,ENTRY,3LxXBTZvVMgRy97oMSR8KhKDvrQHw2hXF5C1P66SU9F1,pebble / SOL,0,1.7843984791e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-4%,control
 2026-11-07T04:08:44Z,ENTRY,AAR29bbvdsyv56CdggmHgM4L5BfmRHjVDuHkpoMEH3Pg,scamsem / SOL,0,9.01836135015e-05,100.0,research_failed,,,605.19,score=0.00 momentum=18%,mom
+2026-11-07T04:11:43Z,ENTRY,Cuhpvv9pkYH8Ptu2twS28B7HFsviHRQH8ggw9bcRKufh,Final / SOL,0,4.70513049588e-05,100.0,research_failed,,,605.19,score=0.00 momentum=19%,mom
+2026-11-07T04:11:43Z,ENTRY,V3gToZi4ZBsbRnLbMfJVLU5U1jpNiqmxSoCwL1r8Edt,Funny / SOL,0,8.78536457592e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=9%,control
+2026-11-07T04:13:19Z,EXIT,9SXGi1WcxgA68gX3Xscm6PXPJyfQKsiHPdESNQRbNSbT,Dragon / SOL,0,1.44163959126e-05,100.0,sl,-100.02,-100.02,605.19,exit_bar=2026-11-07T03:32:00Z,mom
+2026-11-07T04:14:41Z,ENTRY,9xewfHp1cQNeyGVPxjBzP2WARR5cQTiNr29UXaiMYeFg,ZEC / USDT,0,1321.39772319,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T04:16:16Z,EXIT,6aSXxumKEK9ujznmToUx2TwP5g3TRM9KNbuvKZ4oTZdw,SwordPepe / SOL,0,6.71725926579e-06,100.0,timeout,-9.81,-9.81,605.19,exit_bar=2026-11-07T04:14:00Z,control
+2026-11-07T04:17:31Z,ENTRY,ErYXmEirjaq2QbqxUGKcUMuKo8U1VQuD3pWhoVBtQwHj,Alice / SOL,0,2.63430802938e-05,100.0,research_failed,,,605.19,score=0.00 momentum=84%,mom
+2026-11-07T04:20:28Z,ENTRY,ArCmcURKeTGJ9f8uU7ybP2SeAZowMbdFqqLEtV2VM476,Slingfolio / SOL,0,0.000108927353872,100.0,research_failed,,,605.19,score=0.00 momentum=174%,mom
+2026-11-07T04:20:28Z,FAILED,7QQATfp81riBQAzW9UDZ1vnBuCTL34CJPpR2GYhh26di,Slingfolio / SOL,0,1.75015045096e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",control
