@@ -5067,3 +5067,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T11:57:42Z,ENTRY,9dtuCUHsneZqPFJeUdJjQVdA3t9Ti66J9nozK6utqTTn,INUX / SOL,0,7.37582203851e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
 2026-11-07T11:57:42Z,ENTRY,3eTUxSeos2xRyHFYn36yWUaLpbcKLJP5FZG5UZzGqMKj,DACITY / SOL,0,8.79438623883e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=10%,control
 2026-11-07T11:59:17Z,EXIT,6t2LkA5PbN5ESD1vdAvuQKdqrBAqy9dU7QVyBw1KEQTm,Alice / SOL,0,2.70023704578e-05,100.0,tp,-100.01,-100.01,605.19,exit_bar=2026-11-07T11:16:00Z,mom
+2026-11-07T12:00:41Z,ENTRY,41F6aZ2C8F7Hf6epgnnuJK12jgWutfXk2RbPxX853tmf,duge / SOL,0,9.37192346713e-07,100.0,research_failed,,,605.19,score=0.00 momentum=53%,mom
+2026-11-07T12:00:41Z,ENTRY,Dz6zpE4EonjWMnrsdadQB7wpbeqgv42e9mhYcwRt5dww,USPR / SOL,0,0.140301836977,100.0,control_no_momentum,,,605.19,score=0.00 momentum=2%,control
+2026-11-07T12:02:17Z,ENTRY,4oNDPNJ6XG61upTxPxo8GBxnBFecan41VAwQt92mKD1L,DACITY / SOL,0,3.61188928868e-05,100.0,research_failed,,,605.19,score=0.00 momentum=324%,mom
+2026-11-07T12:06:28Z,ENTRY,2zHe3E6mo7JhuvePuxN3rMCDM6CcsYSGyyaTBqet6nim,FERSPE / SOL,0,1.14145343144e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T12:07:57Z,EXIT,BsmatR1L6KA2qSEBuwBLUkbYxt8PH7uTnrSBGKfPNJLA,scamsem / SOL,0,9.54123742609e-05,100.0,rug,-100.02,-100.02,605.19,exit_bar=2026-11-07T12:06:00Z,control
+2026-11-07T12:07:57Z,ENTRY,2duMphEoKpxrXH8oUTsB9ydPFsjcZ77MKzUExmRsdNKd,GETPAID / SOL,0,8.07178504944e-06,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
