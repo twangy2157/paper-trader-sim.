@@ -5568,3 +5568,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T23:22:17Z,EXIT,6EBQcxiKC7kVVNayipKmarepVPZZA5kEpGEH9yBwXsjy,SC / SOL,0,2.04469546814e-05,100.0,timeout,-2.89,-2.89,499.4,exit_bar=2026-11-07T23:20:00Z,control
 2026-11-07T23:23:31Z,ENTRY,2Mq8aFkdoTxdvWH2wpWd4qq5dUuU6L5widEkeMke37Jk,Beakers / SOL,0,1.76530148008e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
 2026-11-07T23:25:00Z,EXIT,CgEWQCPuRMPWp9MfVaeJdgAFSQnrYmBtXWz5Bo8dXyYK,PEP / SOL,0,1.74097701689e-05,100.0,timeout,-5.16,-5.16,499.4,exit_bar=2026-11-07T23:23:00Z,control
+2026-11-07T23:27:31Z,EXIT,GfqZXBVnMYYWreQdUuZ9Hc8nS4sdy3gg3rDB2xsqf1jF,MEMECOIN / SOL,0,1.74494940989e-05,100.0,timeout,-5.07,-5.07,499.4,exit_bar=2026-11-07T23:26:00Z,control
+2026-11-07T23:30:14Z,EXIT,BX6yfZqhBhSMQeTiyjcbzDK6ks86TcvvaDsiqsPyM2kH,Pilly / SOL,0,1.7440320976e-05,100.0,timeout,-7.0,-7.0,499.4,exit_bar=2026-11-07T23:29:00Z,control
+2026-11-07T23:32:57Z,ENTRY,6FLifM7tFxAaUJdKt5AtRVcpQp2wpwJUPUBy95xsCtuM,herris / SOL,0,3.55084169764e-05,100.0,research_failed,,,499.4,score=0.00 momentum=327%,mom
+2026-11-07T23:34:26Z,EXIT,8ZkxvRN6WHoBKLbemc3mjejZ2tzKAY4XHHn1UfmFDPJc,FLOATARD / SOL,0,1.74612603003e-05,100.0,timeout,-7.06,-7.06,499.4,exit_bar=2026-11-07T23:32:00Z,control
+2026-11-07T23:35:55Z,EXIT,BPF1A3C6xzyxzGAyekZiSNtXAj6rxdUDcMfp8kCaBNnf,USMS / SOL,0,1.74376584341e-05,100.0,timeout,-7.92,-7.92,499.4,exit_bar=2026-11-07T23:32:00Z,control
