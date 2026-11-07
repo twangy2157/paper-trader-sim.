@@ -4652,3 +4652,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T02:13:57Z,ENTRY,4pmPxcLxTkzoCusPE3VWQUoiisveGYv6CrC5euRsoAm4,Scamcoin / SOL,0,1.69272928392e-05,100.0,research_failed,,,605.19,score=0.00 momentum=56%,mom
 2026-11-07T02:15:26Z,ENTRY,55KTUwhZYdgzF8msjqUkNWDw5VNDGZAauF4zHYRJEVNr,scamgoor / SOL,0,4.50364993499e-05,100.0,research_failed,,,605.19,score=0.00 momentum=24%,mom
 2026-11-07T02:15:26Z,ENTRY,BsVnD9TEZSQtJLByL9JUoJfDM29CCGD35ivsU2UfEA4,POMP / SOL,0,1.78805564503e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-8%,control
+2026-11-07T02:18:18Z,EXIT,HRwpBQUSAaraoXzmWzs5BWWUhcLGSTXFjRzxyGEuFjed,pink / SOL,0,6.50968718311e-06,100.0,timeout,-10.1,-10.1,605.19,exit_bar=2026-11-07T02:17:00Z,control
+2026-11-07T02:19:39Z,ENTRY,Hm5kdhMBL7aKDSxtYjXHehT8FMDa644iHU4nKMzJUeYz,SCAMCHI / SOL,0,1.78662579966e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-3%,control
+2026-11-07T02:19:39Z,ENTRY,DTvM5hV3LJ8fKswYkvz8bZByAowctXyH3GRvXzwBc3Ra,SCAMCHI / SOL,0,1.82318966688e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=2%,control
+2026-11-07T02:22:29Z,FAILED,3fiXFh9osuBAynJjfUq5tWTTek7EvbasRhGYYcsDnqcb,BOB / SOL,0,1.92700928836e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",control
+2026-11-07T02:23:58Z,ENTRY,13DRpJsAdcJJWJY95iQzuYzzjfL4nmGMns3xwjsFq4af,scamsem / SOL,0,2.65084568593e-05,100.0,research_failed,,,605.19,score=0.00 momentum=29%,mom
+2026-11-07T02:23:58Z,ENTRY,ArBmnyoiMePj9ENR4ytEY1ZJPfTmT6hrhP3kZw5LywMQ,BOB / SOL,0,1.94854116247e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T02:25:27Z,EXIT,8ym1yAMqCrc6j6HJpnhpPAj5Bdkx7yQPLNb3GZBy2fei,$AURA / SOL,0,1.42416736758e-05,100.0,timeout,-6.8,-6.8,605.19,exit_bar=2026-11-07T02:23:00Z,control
+2026-11-07T02:26:55Z,ENTRY,9zPNnuY4TRd3eeuC4GfViaMnmjjDD43sp7g8KGRDcxkv,scamlon / SOL,0,4.57149340656e-05,100.0,research_failed,,,605.19,score=0.00 momentum=15%,mom
