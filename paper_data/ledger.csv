@@ -4640,3 +4640,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-07T01:49:45Z,ENTRY,Ey8LB56yRGKcoFBAKJpqrB2xRQQfUppK7aqa53AXGk5g,guy / SOL,0,1.78854961269e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-2%,control
 2026-11-07T01:51:20Z,FAILED,CzztmbdXZGMDMQAtvP8GALePXfrPP5QQBJxuxNe1G1yB,KILROY / SOL,0,1.74297547957e-05,0,tx_failed,-0.5,,605.19,"buy reverted, tip lost",control
 2026-11-07T01:52:42Z,ENTRY,38PgxR5ALdujf9D55o7Wtw7sdPsuo6A39dassM5oEFpN,ODDS / SOL,0,4.5037069541e-05,100.0,research_failed,,,605.19,score=0.00 momentum=25%,mom
+2026-11-07T01:55:41Z,ENTRY,JDKDKVw4u8vVB7shWVYdnw9wuUVvNpGeWSAAjVhMmh8y,SAI / SPCXx,0,1.87992919078e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=-5%,control
+2026-11-07T01:58:31Z,ENTRY,D9a7RVdU1GQj5rzWnF5J56MQGyz3iRN5LxDyVA38YDM8,José / SOL,0,8.56974330925e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=10%,control
+2026-11-07T01:58:31Z,ENTRY,EAiU6wGBQNRHoAApDJhuBTWc3NwazFKzU5TPG83CpZQ2,bitpanda / WBTC,0,2.01400782022e-05,100.0,control_no_momentum,,,605.19,score=0.00 momentum=0%,control
+2026-11-07T02:03:56Z,ENTRY,qRdx2LYfNzbGu5uZdDYeB8gUdzTtFyh6TGUUacQmgpu,XT O / SOL,0,0.0219309351096,100.0,control_no_momentum,,,605.19,score=0.00 momentum=1%,control
+2026-11-07T02:03:56Z,ENTRY,LLhy5vYXey8JAPTSGxjWEtKgqbL5yMopJGgoE4RWCB2,DREAMCAST / GMEx,0,8.80334092832e-06,100.0,research_failed,,,605.19,score=0.00 momentum=19%,mom
+2026-11-07T02:05:25Z,ENTRY,5JUJtj8xfUQLC3NhN5ZRDUGhAPBTUtoXSUjpbcgMPbC6,scamsem / SOL,0,4.77349027099e-05,100.0,research_failed,,,605.19,score=0.00 momentum=20%,mom
