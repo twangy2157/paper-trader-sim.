@@ -5668,3 +5668,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T02:23:56Z,ENTRY,5GjZNnXovpUyAYRgqWdWUYzSogsWqZi4Eper7fHiritS,BM / SOL,0,1.00338889761e-05,100.0,control_no_momentum,,,399.45,score=0.00 momentum=0%,control
 2026-11-08T02:23:56Z,ENTRY,C5jdSia2ER6mMHAzni3aRUjJLvzRdByrrso9SP1ixgyj,DogeX / SPCXx,0,1.87555945344e-05,100.0,control_no_momentum,,,399.45,score=0.00 momentum=-3%,control
 2026-11-08T02:23:56Z,ENTRY,2grMv4x4D9pEtjSwSjrf3aJc1SKsYLbnkbw4heDjJJrD,fihbot / SOL,0,1.75534683098e-05,100.0,control_no_momentum,,,399.45,score=0.00 momentum=-4%,control
+2026-11-08T02:25:26Z,ENTRY,9eF6s8HYSkpNZcg3TNtc2c4mwzeWgNqgEVkmvY4MUK2v,EVE / SOL,0,3.26155085994e-05,100.0,research_failed,,,399.45,score=0.00 momentum=80%,mom
+2026-11-08T02:26:55Z,ENTRY,Bnx8SXAi1UFJGhhumUbHmew8Lsk7kxeogFYqjjzpQ3K2,Buffaloess / SOL,0,1.80993893341e-05,100.0,control_no_momentum,,,399.45,score=0.00 momentum=-2%,control
+2026-11-08T02:28:16Z,ENTRY,7rwb2JGs5nZaTnDrxkM9JD2bnddv5PuUKRVFXr1msZig,ch / SOL,0,8.99025811527e-06,100.0,control_no_momentum,,,399.45,score=0.00 momentum=0%,control
+2026-11-08T02:29:30Z,ENTRY,FF3QTxjaEFRfGAqECUaSb8F7c57Zj8WrUSbKKwdhVgic,HABIBICAT / SOL,0,1.82070958778e-05,100.0,control_no_momentum,,,399.45,score=0.00 momentum=-4%,control
+2026-11-08T02:29:30Z,ENTRY,5fJmoDiVdSpWSnLJdFBrJR7xEWGXgSNwsNtKt3zscxLx,BARRON / SOL,1,0.000139128476312,100.0,research_passed,,,299.45,score=0.81 momentum=28%,mom
+2026-11-08T02:31:06Z,ENTRY,E3KXDhJGp1yQDNWahNMPTdKDKa7SYxzrjy1W1PguBbFb,dirtycoin / SOL,0,2.64776085425e-05,100.0,control_no_momentum,,,299.45,score=0.00 momentum=-0%,control
+2026-11-08T02:31:06Z,ENTRY,DKXmqzz3gJcWv8RnggEqMJ5unap6kvk4RYygEx3zefDG,LAUNCH / RAY,0,2.1853250342e-05,100.0,control_no_momentum,,,299.45,score=0.00 momentum=-3%,control
+2026-11-08T02:31:06Z,ENTRY,8GZsw2UrLqC1HeLkQJRcg2dSDRFL2yH1udkkpTH95uB3,Launchinu / SOL,0,1.76031416839e-05,100.0,control_no_momentum,,,299.45,score=0.00 momentum=-2%,control
+2026-11-08T02:33:11Z,ENTRY,AXHWUreLuHuMQ1Ji28uNmTf3a6RCNS85uTEH3y8LeBPy,ANDADAM / EVE,0,5.8584860686e-06,100.0,control_no_momentum,,,299.45,score=0.00 momentum=-34%,control
+2026-11-08T02:33:11Z,ENTRY,F9eTtvis3ia8e1pEJA5D8P6KRoXh2HdrbVkBajKvkF6z,FlOATITIS / SOL,0,1.7587756779e-05,100.0,control_no_momentum,,,299.45,score=0.00 momentum=-5%,control
+2026-11-08T02:35:16Z,ENTRY,ELSkKmd5YxdqJTtAetUZTKfeiNZyvEX5xeR3tTjJAzEi,TAOLF / SOL,0,0.000164197124894,100.0,research_failed,,,299.45,score=0.00 momentum=164%,mom
