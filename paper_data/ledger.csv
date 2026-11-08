@@ -5634,3 +5634,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T01:25:15Z,EXIT,9qDZQSQJWAMBWobHpyrD8cLgbWMNQ5Jg6iSrAeNCcHzM,Spacex / SPCXx,0,1.8491816616e-05,100.0,timeout,-9.74,-9.74,399.45,exit_bar=2026-11-08T01:16:00Z,control
 2026-11-08T01:26:29Z,EXIT,7TRBcKpUpHt87SLkS1zs1ajoCzpAEYP3tPKtd5ZjtaWN,DIF / SOL,0,1.88590640012e-05,100.0,timeout,-5.01,-5.01,399.45,exit_bar=2026-11-08T01:16:00Z,control
 2026-11-08T01:27:57Z,EXIT,2Fmnu1wx9Wifg3o8xaf2yNK1PDWWAJkMqBP1YQf4RCtF,Respect / SOL,0,1.64152585543e-06,100.0,rug,-100.13,-100.13,399.45,exit_bar=2026-11-08T00:26:00Z,mom
+2026-11-08T01:30:57Z,FAILED,87KR7x1VuC8NmEopB3iytGtZ2EPWQi2oe6P8Vgr5yVg6,invest / SOL,0,0.000112434607424,0,tx_failed,-0.5,,399.45,"buy reverted, tip lost",mom
+2026-11-08T01:33:54Z,FAILED,66pp3G8ut3sNEiBpWZ28MMw5jyrziPUgQJde5iYzZuM2,GTA6 / SOL,0,0.000129642749294,0,tx_failed,-0.5,,399.45,"buy reverted, tip lost",mom
+2026-11-08T01:35:16Z,ENTRY,956Ff93nikoKPZaCGawZGsWZikzgbHSPZsdpXRG4oBHp,Moohan / SOL,0,1.81682478048e-05,100.0,control_no_momentum,,,399.45,score=0.00 momentum=-2%,control
+2026-11-08T01:36:30Z,ENTRY,59uZeyamaNMJYKn3LxqbAzTXy6YFUVZqB2x29xDi1Md4,USAR / SOL,0,0.129913175742,100.0,control_no_momentum,,,399.45,score=0.00 momentum=1%,control
+2026-11-08T01:36:30Z,ENTRY,EPCpwPTX9xzgiKbXL5YXYXWWTByo3ngudoBej22mYQ3b,EVE / SOL,0,0.000164980489533,100.0,research_failed,,,399.45,score=0.00 momentum=141%,mom
+2026-11-08T01:38:06Z,ENTRY,8RM2GfaJP1ec7CRA1mm5MeAKwJWWXSn4gV5JwZsXGSYm,invest / SOL,0,2.89834646823e-05,100.0,research_failed,,,399.45,score=0.00 momentum=44%,mom
