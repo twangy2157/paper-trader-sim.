@@ -5841,3 +5841,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T06:01:15Z,EXIT,CUnMjHYW7LqdKVw5fXiktk5zxBWwcEgvw43esQqo2jTx,trench / SOL,0,9.65351204893e-06,100.0,timeout,-7.9,-7.9,456.4,exit_bar=2026-11-08T06:00:00Z,control
 2026-11-08T06:05:26Z,EXIT,4hSkqo3WwDBwiqDdTV6mu3zHpX44N8bxe1aHH3p1JR53,OTC / SOL,0,1.99714920863e-06,100.0,timeout,-4.57,-4.57,456.4,exit_bar=2026-11-08T06:03:00Z,control
 2026-11-08T06:08:23Z,EXIT,82bqH3bDD5vSSHWs1YebCG4TteQhKWiAHBZFgYemuokE,AIPR / MSFTx,0,6.48752948818e-06,100.0,timeout,-8.62,-8.62,456.4,exit_bar=2026-11-08T06:07:00Z,control
+2026-11-08T06:09:48Z,ENTRY,2kALqMJqUMup93UbF2rw6DaBSnYeJkj65vSXE3UBvaWj,MARS / SOL,0,0.000150265601851,100.0,research_failed,,,456.4,score=0.00 momentum=220%,mom
+2026-11-08T06:12:30Z,ENTRY,FUTkhWYTjax4MKYdpRjZ6prwi9gQyKZiQ4KjYx7jSeV,MARS / SOL,0,0.000117669299343,100.0,research_failed,,,456.4,score=0.00 momentum=72%,mom
+2026-11-08T06:15:27Z,ENTRY,BWF7pSHJEi6xajKsDyDnBYPs5xL2y2szRmdFrJexq2ei,ROT / SOL,0,1.04418483336e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T06:16:56Z,EXIT,BvbTEchcB3Ey526znqHimyMZ2PFyVSEVThLdWMWkzwbR,dоg™ / SOL,0,6.13157727354e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-08T06:15:00Z,mom
