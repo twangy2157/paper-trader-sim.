@@ -5941,3 +5941,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T09:03:56Z,EXIT,8LpDW3zbuycgjVBmioV7AnbXhTPBcBxto3g7AMUtA8uC,RINGCAT / SOL,0,1.20565283457e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-08T08:59:00Z,mom
 2026-11-08T09:05:24Z,ENTRY,72mHGZPZecAL6hCq563tN92JPue41QPWXQbtNDbVUZNv,yarl / SOL,0,2.61559838599e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
 2026-11-08T09:06:46Z,FAILED,37NzoozdtZZbmRouPEyfqDgGC5HcCpR1bcHpa8d5aeUh,EVE / SOL,0,1.98477076009e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T09:12:27Z,ENTRY,CEZZ8Wds67CYc5B94T9ReLtZ6a6jGNXqX1GoLd1bB5ar,Titcoin / SOL,0,0.000107033528754,100.0,research_failed,,,456.4,score=0.00 momentum=60%,mom
+2026-11-08T09:13:55Z,ENTRY,dZG8myj63BhhBiYzYB6cebRTf2BNQs1bKtP2Y5QRbe1,FLOAT / SOL,0,4.69654384649e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-08T09:16:45Z,ENTRY,6J3Fvh9RHdmZaB2SjrAspLb3Todpvsh568m6ec5ehERS,HAN / SOL,0,4.63792460282e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-08T09:18:21Z,ENTRY,2AFkCFp9GZLU7tNYDHLgVUhTNZ4DnQLxuX7ssBtQehFn,KOCH / USDC,0,9.80290882531e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T09:19:42Z,EXIT,Bef1jt4iFqZbbBi4eNPjAMBQ4HW638ztC8zfNcDtDBYj,YARL / SOL,0,2.19469912624e-05,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-08T08:19:00Z,mom
+2026-11-08T09:21:18Z,EXIT,3ecb3TAs6zyE7nErhqCvvxVJG9s221TM7jGXo7PJyyhn,BKFP / SOL,0,1.97487475441e-05,100.0,timeout,-4.92,-4.92,456.4,exit_bar=2026-11-08T09:19:00Z,control
