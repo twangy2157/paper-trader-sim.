@@ -6440,3 +6440,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T21:03:57Z,FAILED,WbkHePTcYGPX9Yooxi2gCuhektbpUFPLv89yDmKW82s,FELON / SOL,0,4.28845094533e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-08T21:05:26Z,ENTRY,2aMHUcA7PwByNRUa2nZesuSovUF9VJxmW8ik5tk5WYE8,PUSSY / SOL,0,1.61508940406e-05,100.0,research_failed,,,456.4,score=0.00 momentum=25%,mom
 2026-11-08T21:05:26Z,ENTRY,UfXVGYa93xhHVcRdjtAbHRm7u3LFAexwv8er5dxDXA8,🌙 BUCK / SOL,0,9.25103801525e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T21:08:27Z,EXIT,4dYpzYHojPFLM8qhgZmouQSjQEjNZe4LDaMtfX5xEPoX,GOAT / SOL,0,1.97091993619e-05,100.0,timeout,-4.92,-4.92,456.4,exit_bar=2026-11-08T21:07:00Z,control
+2026-11-08T21:08:27Z,ENTRY,3rYxQd1Z1W7fJXEgHFWreWQ3BpyMhdVGdGs6UktNyzUh,DUNESDAYS / BABA,0,2.29621149502e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-08T21:09:56Z,ENTRY,9VpEUauNk4ducH1NBm2GbC4aadUprwLaazxRzmJLzHE9,TAGNEXT9 / SOL,0,1.79565855311e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T21:09:56Z,ENTRY,9SsQkD7qu7WXE15CFQq2QEVMn4S4Gj6LKbxWFJcBjE2E,PUSSY / SOL,0,0.000151774583972,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
+2026-11-08T21:11:25Z,EXIT,G62sr516i2sWevYRSw6NrgztsmuSh4dQbAwukPHaX1KC,Tesla / SOL,0,4.74560690829e-05,100.0,sl,-56.95,-56.95,456.4,exit_bar=2026-11-08T20:11:00Z,control
+2026-11-08T21:14:24Z,EXIT,EmZYQjUi2nTTFFhVTeXBj2ChcZ47sWRvBp32535iRVbx,GROKIA / SOL,0,5.49890081253e-05,100.0,timeout,3.42,3.42,456.4,exit_bar=2026-11-08T21:13:00Z,mom
+2026-11-08T21:15:46Z,ENTRY,E9WA74kPVczmgnxEDQgLeJe1pozaj2at2Shg5Hz2KFRw,PUSSYDIA / NVDAx,0,1.69966285723e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-08T21:15:46Z,ENTRY,8LmcWHKyYHAqNPd7tjJ6J2hnYMXg9LCUiqQrkkq7Mdg1,SAIKA / NVDA,0,3.23941368507e-05,100.0,research_failed,,,456.4,score=0.00 momentum=60%,mom
