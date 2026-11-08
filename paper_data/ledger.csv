@@ -5973,3 +5973,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T09:55:32Z,FAILED,9f16a9eHxr2JGEjBFMt8SLCKwG5WSjk1T7WkNXRvDqEn,BUGIO / SOL,0,1.74232653801e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-08T10:02:25Z,ENTRY,39p8HxRrV7GrSPCVWcBNWVhKVMp6bNvo5Qmc5Gmw5SfZ,VAMP🧛 / SOL,0,5.56506899878e-07,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-97%,control
 2026-11-08T10:03:54Z,ENTRY,4YNkoCJ1j8Dqg38cwqb3i2VgrbVGXz2q4qUJgMq7KQeE,GATO / SOL,0,2.97892131944e-05,100.0,research_failed,,,456.4,score=0.00 momentum=333%,mom
+2026-11-08T10:06:32Z,ENTRY,J1CFmcKRjy7XZCX1BoEwXRrxhB7kGSzGA4ob9uYq6ahC,BENJIEZ / SOL,0,9.87089404208e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T10:06:32Z,ENTRY,FQc8xRPGi9FcuBNuCsxN5BMnxmDv2MBH1peNHiYDh4Gy,BINU / STONK,0,2.07472125336e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-08T10:08:01Z,EXIT,72mHGZPZecAL6hCq563tN92JPue41QPWXQbtNDbVUZNv,yarl / SOL,0,2.66525562635e-05,100.0,timeout,-1.96,-1.96,456.4,exit_bar=2026-11-08T10:06:00Z,control
+2026-11-08T10:10:29Z,ENTRY,7uMzr1ibCVSh2smvy4e17KojrSrsMQ5rKwG2vUBMkcUN,LMC / SOL,0,1.42831638174e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T10:11:57Z,ENTRY,7rwus7jFjXP2ND5vcCnSigBBZqKaNhSjXx7GjhSBUv2x,BTC / SOL,0,4.99321750419e-05,100.0,research_failed,,,456.4,score=0.00 momentum=38%,mom
+2026-11-08T10:13:25Z,ENTRY,82cR1nu9FHW2AeMW4GxNtWHkheEu184FLPPiysMmM6uZ,ZOOM / STONK,0,2.11083316195e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T10:13:25Z,ENTRY,Am2XyPt219RVaEz9woerxfB4ac3FjfoiDuA576mhEibW,GrenCAT / SOL,0,6.90010393126e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T10:14:54Z,EXIT,CEZZ8Wds67CYc5B94T9ReLtZ6a6jGNXqX1GoLd1bB5ar,Titcoin / SOL,0,9.06056406039e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-08T10:13:00Z,mom
+2026-11-08T10:16:15Z,EXIT,dZG8myj63BhhBiYzYB6cebRTf2BNQs1bKtP2Y5QRbe1,FLOAT / SOL,0,5.79331463277e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-08T10:14:00Z,mom
