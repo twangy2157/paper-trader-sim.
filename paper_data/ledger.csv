@@ -5999,3 +5999,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T10:35:46Z,ENTRY,GdoDF7QFSuTmvHF7KypmXdfMngdk7Mb3jBnEZKDQCsKg,CBTC / WBTC,0,1.89331481606e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-08T10:37:14Z,ENTRY,H2E7KEjocKEH2Les7uLs7DkwN3a42dorMXstvFadsfSb,USDG / USDC,0,0.999353713161,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-08T10:38:28Z,ENTRY,6Ud7hsSbXsgFa6tLUG6QQr4VZPqt9Ykuuj95y1npU2pq,CTRUMP / TRUMP,0,1.49027815951e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T10:39:59Z,ENTRY,CUV3FM8e9PLfdrwznKBdAWg8Umtzx29sQDConejhkP94,BUDDY / SOL,0,3.36158650534e-05,100.0,research_failed,,,456.4,score=0.00 momentum=260%,mom
+2026-11-08T10:42:55Z,FAILED,Ebjtmm7Xk6bnwnKBQs65aekNs56UWuFUCoYovWnbKN6K,FIAT / SOL,0,3.55209222932e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-08T10:44:24Z,EXIT,9gqcEfvEWXKDwYi6y9ubqjf5iBkMqdF3xmo6erZEkxC3,MASK / SOL,0,5.06920413728e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-08T09:55:00Z,mom
+2026-11-08T10:45:45Z,ENTRY,F1kqX9Du52fMuoSEqJcZTKC1fMbjbpnxf4doPragD4hd,犀望 / SOL,0,2.49881614685e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-39%,control
+2026-11-08T10:45:45Z,ENTRY,tPSea23BkUpkzicxiSSkUF98FKeZSRy7APXTQpfNyUW,$PANIC / SOL,0,1.54530816253e-05,100.0,research_failed,,,456.4,score=0.00 momentum=36%,mom
+2026-11-08T10:47:21Z,EXIT,7umE9G6iq6bpS5haMEtPKSELyNLQRgmZdhYLHMUMzvre,同花顺 / SOL,0,2.66362927635e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-08T09:57:00Z,mom
+2026-11-08T10:48:42Z,ENTRY,A4YiA79an9w2GuJEt2TA2ytPfRc2n1xkqZ6pG6RHGsA1,CAT / SOL,0,2.94072369378e-05,100.0,research_failed,,,456.4,score=0.00 momentum=46%,mom
