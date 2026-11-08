@@ -6392,3 +6392,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T20:09:30Z,ENTRY,G62sr516i2sWevYRSw6NrgztsmuSh4dQbAwukPHaX1KC,Tesla / SOL,0,9.98721240016e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-15%,control
 2026-11-08T20:11:06Z,EXIT,BamsfUXBuc2MmQnbpqhjdsWq8KXTLU7AZA3LDSWuk6Cp,INUX / SOL,0,6.61047333125e-06,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-08T20:09:00Z,control
 2026-11-08T20:12:28Z,ENTRY,EmZYQjUi2nTTFFhVTeXBj2ChcZ47sWRvBp32535iRVbx,GROKIA / SOL,0,5.1040180325e-05,100.0,research_failed,,,456.4,score=0.00 momentum=41%,mom
+2026-11-08T20:14:00Z,ENTRY,JpfHmB4ioCrHvFuc8or3M2LipuwGb5kKUEoiTEq6hpG,ADYROS / SOL,0,2.56743795966e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-08T20:15:21Z,ENTRY,ucmncQ5sNPXURjFLe1izjxYfeQhQBZtzFAuLDhKQED7,Tesla / SOL,0,9.86727815113e-08,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T20:15:21Z,ENTRY,CinZPUdHHbCyNwR7DXKC6utgnjZkuxstLCS1X2aQuEsW,VAMPLESS / SOL,0,1.92711679624e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-42%,control
+2026-11-08T20:16:43Z,ENTRY,4Dvwwb4TV5PcKRiXU4B1zYQ3R3aXU9f1ghxSeTWug4jE,1SOL / SOL,0,1.81213842015e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T20:16:43Z,ENTRY,G6Gbcv5AAenZht85dnKGvoPfU56EJDs5huXZRt9et5HL,DOOB / SOL,0,9.29816056144e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T20:19:41Z,EXIT,EcLesHuMAjaBm9776SwjD8TmfnvwSVDocWs2ZwUoHfsD,KI / SOL,0,1.67808954022e-05,100.0,timeout,-8.01,-8.01,456.4,exit_bar=2026-11-08T20:18:00Z,control
+2026-11-08T20:19:41Z,ENTRY,CRRe9J2PUaTnxmaMtxqby2xeYfV31UtkCRHf9TXBn5ZY,FRANKIE / SOL,0,1.82988635323e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
+2026-11-08T20:21:17Z,ENTRY,CgfNWmVfiNeXcj9E7qbDkbWMvHXUqJxJwqMkYd5ZSVqg,GTA2026 / TTWO,0,2.2811736808e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-08T20:22:39Z,ENTRY,CAZjZ599zUJ9ot812fjZn5skfpPHEs3Zesc5AVQefQ4H,GROKIA / SOL,0,5.31241540196e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-34%,control
