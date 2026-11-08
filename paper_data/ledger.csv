@@ -6110,3 +6110,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T13:28:06Z,ENTRY,rycextiLuZZZ11cwdu5YssZBPnd4QHdTk8WhjJKXdBe,LILYPAD / SOL,0,1.79696840273e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-18%,control
 2026-11-08T13:29:28Z,ENTRY,HAH3A3dkK4mAxHyn3K7zJCr4mxDmw8U29sGzwYa27eXp,WPK / SOL,0,1.0226604301e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-08T13:30:57Z,ENTRY,BQ2sAVaaoZcEARmHauV3nZx3hqquEFALaDnVEkXRKgaX,GORP / SOL,0,3.59732836022e-05,100.0,research_failed,,,456.4,score=0.00 momentum=64%,mom
+2026-11-08T13:36:34Z,FAILED,AUYaTTTH8SKmPx9DtbLo3bP7ZLKzSxaipnESQdrC6Mej,BTC / SOL,0,6.590383747e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T13:36:34Z,ENTRY,6YH6pPWeATz44vsQzaTBbp47EAX9FoyDvh2onhxbKckE,FLOAT / SOL,0,4.70614080417e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-08T13:39:24Z,FAILED,E8t3xMaMLz39W44JrNd6uUrsg3JNmUPvKmQY7xqBTgBK,MELT / SOL,0,4.27970240231e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T13:39:24Z,ENTRY,GzyzyyFNC9mEwud4NXQ6gJk61LT3ThimAmdxPtjgKUwq,GTAVI / SOL,0,2.44066621481e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T13:40:46Z,ENTRY,7EnBUr82VVbwZP4U5p843oKuemRMQZDoskGdcCRdDAPb,MELANIA / SOL,0,1.99222749759e-05,100.0,research_failed,,,456.4,score=0.00 momentum=98%,mom
+2026-11-08T13:40:46Z,ENTRY,A7xUjQDQiceFbqTRMe2RYgUWoRyLrNoXCGign5xESkfU,Temumcoraç / SOL,0,3.24035525957e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T13:43:29Z,ENTRY,8GLSLP4tdEzWdEDTktUy7jP9p29Ni5wVSZLdrRwMw8iz,INSIDER / SOL,0,1.76807712388e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
+2026-11-08T13:43:29Z,FAILED,Gaag37PrNgrBsuTfLJFaVWxiWAoYJBw3E2aZVN6RQ2xK,XMN / SOL,0,0.00226307134627,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T13:43:29Z,ENTRY,8X8Nvx3Se5kUFyD8hXsFk33tgJ7pUUBWK7ZAdpiAendj,DICE / SOL,0,7.07900130778e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T13:44:58Z,ENTRY,7Uy7YxazWUAwoP5EnpQuBnBndsjKuiYCe4kJrUHFm6My,FBTEST / SOL,0,2.08219377782e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
