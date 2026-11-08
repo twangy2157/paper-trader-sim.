@@ -6006,3 +6006,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T10:45:45Z,ENTRY,tPSea23BkUpkzicxiSSkUF98FKeZSRy7APXTQpfNyUW,$PANIC / SOL,0,1.54530816253e-05,100.0,research_failed,,,456.4,score=0.00 momentum=36%,mom
 2026-11-08T10:47:21Z,EXIT,7umE9G6iq6bpS5haMEtPKSELyNLQRgmZdhYLHMUMzvre,同花顺 / SOL,0,2.66362927635e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-08T09:57:00Z,mom
 2026-11-08T10:48:42Z,ENTRY,A4YiA79an9w2GuJEt2TA2ytPfRc2n1xkqZ6pG6RHGsA1,CAT / SOL,0,2.94072369378e-05,100.0,research_failed,,,456.4,score=0.00 momentum=46%,mom
+2026-11-08T10:50:20Z,ENTRY,eMKx48PJi6PK4ySHxBo7oTXU35hpZMm1YgqUR4xsPv6,MrBeast / SOL,0,0.000148424255551,100.0,research_failed,,,456.4,score=0.00 momentum=41%,mom
+2026-11-08T10:51:41Z,EXIT,FBUNSNg4scyCrYeAxoJ1ryDvZ7biWdDMDoRodzTCy4qH,GTA 6 Coin / SOL,0,1.62390980571e-06,100.0,rug,-99.88,-99.88,456.4,exit_bar=2026-11-08T10:06:00Z,mom
+2026-11-08T10:51:41Z,ENTRY,7VmzALAM9ges25zAATv1CbZxadtkhYEsJ6kw9i4wD1f1,WOFL / SOL,0,8.75762528892e-06,100.0,research_failed,,,456.4,score=0.00 momentum=11%,mom
+2026-11-08T10:54:31Z,FAILED,B6p9zKYGBeMeZUcCpwiHmK6v4s3StDnKyDwfMsFg5hkC,APU Pe / SOL,0,0.000163131050704,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-08T10:56:06Z,ENTRY,12gT7Le7h6wRFabqTY251tBDGFPC97VfQBpktJH9mhcT,NEX Ai / SOL,0,5.89277752037e-05,100.0,research_failed,,,456.4,score=0.00 momentum=213%,mom
+2026-11-08T10:57:28Z,ENTRY,Cg9yi6a796cH6FT1DE4i9D5fn2y2Nuv5SSXXrCpkDtNX,猫子 / SOL,0,1.96213601305e-05,100.0,research_failed,,,456.4,score=0.00 momentum=83%,mom
+2026-11-08T10:58:56Z,ENTRY,AYcRCn3ko8g3BCt74vGLA8oRTgaqqHusmDxim6xXpqgG,犀望 / SOL,0,7.2791840359e-05,100.0,research_failed,,,456.4,score=0.00 momentum=345%,mom
