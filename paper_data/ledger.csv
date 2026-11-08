@@ -5876,3 +5876,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T07:19:55Z,ENTRY,AdfYBWryyvG31q85z6G9unVCh7Z7pwZC8i4E8nsiGgNV,GTA 6 Coin / SOL,0,0.000136177982294,100.0,research_failed,,,456.4,score=0.00 momentum=31%,mom
 2026-11-08T07:21:23Z,ENTRY,9h2ccwm6GmBsyt7PWE3xrh3CzhVhteL3xgWCKX8de6WL,ber / SOL,0,4.6892686234e-05,100.0,research_failed,,,456.4,score=0.00 momentum=297%,mom
 2026-11-08T07:22:45Z,ENTRY,9jxZDWgFZspEf3DAnaQXJ2YyQvhn49AaPXoajFsxf2c7,GATOGLITCH / SOL,0,2.72004498053e-05,100.0,research_failed,,,456.4,score=0.00 momentum=48%,mom
+2026-11-08T07:27:19Z,ENTRY,DgKtsjw1BJhcny1LD7oWnVmAA18pRgFWaUr1XmmvD5p4,HYPER / HYPE,0,1.6862351134e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T07:28:40Z,FAILED,2iXzXeDSXvYmNHc2FU9tdiK5SnARPGbQDue4eZWdTXdn,MAGGIE / SOL,0,4.30856232437e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-08T07:28:40Z,ENTRY,7yV4gXAk71ZHSgYpb9ECdCH7RAupE6fkXzkq74LXEHTe,TRAE / SOL,0,4.54922395278e-05,100.0,research_failed,,,456.4,score=0.00 momentum=12%,mom
+2026-11-08T07:30:16Z,EXIT,EmvwfbmrgQTYCVytqJ1hF1j1jGcGwHS3vjoTGU2w5wi1,SDDSS / AAPLx,0,2.00882738893e-05,100.0,timeout,-4.89,-4.89,456.4,exit_bar=2026-11-08T07:29:00Z,control
+2026-11-08T07:31:30Z,ENTRY,W9D8HV8hpPLfdRbumCdNeDxKNTc2FuchqdHZYevFghs,EVE / SOL,0,2.19742437037e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
