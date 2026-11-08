@@ -6100,3 +6100,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T13:14:40Z,ENTRY,2V48T77E8KuEDwjeuut9cJzrLCjwc9sqeHtfMV1sfJ8r,ZEAL / ZEC,0,2.01625304473e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
 2026-11-08T13:14:40Z,ENTRY,7mdVUx9RvzkeN2RUCMAGR9FoZj6YG85Gjx9T81dMprRe,USAD / USDT,0,1.04443075717,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-08T13:14:40Z,ENTRY,6EXvSFJrfzkerZ9MpvgPn7zgeqwHAkLrETirJ4zWU97F,Percolato / USDC,0,1.94417034865e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T13:17:41Z,EXIT,4nHuX2JW5JBQeXVJcZNoDXVT2bfnVpfAUVpC45n3bJ8g,$RENT / SOL,0,3.76162991642e-05,100.0,timeout,-4.45,-4.45,456.4,exit_bar=2026-11-08T13:16:00Z,control
+2026-11-08T13:17:41Z,ENTRY,5jEVhevhaq8bPSiPmLCULLYRJ5XcaCXhJuBswcFaPFmC,MELT / SOL,0,6.87829475906e-05,100.0,research_failed,,,456.4,score=0.00 momentum=38%,mom
+2026-11-08T13:19:17Z,ENTRY,9Uz5K5W94PfB8pGXrwAWxMs66ZsPNpzk8RvCFyLhippm,BROKE / SOL,0,1.80419396048e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T13:20:39Z,EXIT,8xNG16dDsFmpiWrbricZNAsz1ZP7Y5X2bmAYcCA54GcT,AngryBirds / SOL,0,6.92883541708e-06,100.0,timeout,-9.64,-9.64,456.4,exit_bar=2026-11-08T13:19:00Z,control
+2026-11-08T13:23:29Z,ENTRY,Ba97YDKTUpaMLH88e6NcrVDWaNUmGUeJWb5q4VHKs7xW,PEPTIDE / HIMS,0,1.78016039455e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
