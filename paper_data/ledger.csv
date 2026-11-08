@@ -6487,3 +6487,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T21:57:27Z,ENTRY,125fUBGZFsXCwZ8YYVEy6fdn7w5jN4SWFjmZUd8BfSM6,Soyjak / SOL,0,1.8265631224e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
 2026-11-08T21:57:27Z,ENTRY,4Vsc7Uo1PJDFiTenVWpqUgbCX1H1YXiwqebXQ4r8ndpz,AA / NVDA,0,1.89603107658e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-6%,control
 2026-11-08T21:58:56Z,ENTRY,9pwuUsR7DAj3E6MqqEMYt7wGS9r69Y7NyKZtmBdrDqvG,BELIEF / SPX,0,1.96701509927e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-30%,control
+2026-11-08T22:00:28Z,ENTRY,6uvSKSVogZErdT1VKk7V8oxWbJDr7BgHg3Cj9897Wkno,NHIO / NVDAx,0,1.75902335376e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=3%,control
+2026-11-08T22:01:57Z,EXIT,2qQDBhCgwAPfaKrhvhWdF2yuthTQDyYbiP2K2rJzypBH,PUSSY / SOL,0,5.20680295743e-06,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-08T22:00:00Z,mom
+2026-11-08T22:01:57Z,ENTRY,FgPPZ69hDFuXYCvT3Deio8Tf91hfTUy82LYtxWNrZGst,ORBSIG99 / SOL,0,1.83095368042e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-08T22:03:26Z,FAILED,7fwifyf2B5PJ2Tnwjo6EpQ2eXMxjmovZMg8Z8YXRTUWZ,HONEY / NVDA,0,1.83915665081e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T22:03:26Z,FAILED,5Sz3PGKpXiCQfEei8BGi53EDfbX8EYm3wVNy4JiKS7xz,JensenGate / SOL,0,1.82209390639e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T22:04:55Z,ENTRY,AW85DvCA4XxPAmbxq6GCraiYmgEEw71TzLMWHgyCCDPe,Stabull / USDC,0,2.09867741778e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-32%,control
+2026-11-08T22:04:55Z,ENTRY,dMDvfPzQFyGzkfhxcvtuKWB9WmtbLViHV6z8WDF6jbf,SAFU / SOL,0,2.81115932291e-05,100.0,research_failed,,,456.4,score=0.00 momentum=45%,mom
+2026-11-08T22:06:24Z,ENTRY,AQxrDWuqpU4tGGUeFW5KrvcmWS4d5X4NQXkpHvyazeWm,PUSSY / SOL,0,4.45899254612e-05,100.0,research_failed,,,456.4,score=0.00 momentum=12%,mom
+2026-11-08T22:07:46Z,EXIT,2aMHUcA7PwByNRUa2nZesuSovUF9VJxmW8ik5tk5WYE8,PUSSY / SOL,0,9.80496382958e-06,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-08T21:07:00Z,mom
+2026-11-08T22:09:15Z,EXIT,UfXVGYa93xhHVcRdjtAbHRm7u3LFAexwv8er5dxDXA8,🌙 BUCK / SOL,0,8.95128563105e-06,100.0,timeout,-9.2,-9.2,456.4,exit_bar=2026-11-08T22:06:00Z,control
