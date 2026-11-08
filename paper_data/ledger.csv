@@ -5600,3 +5600,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T00:07:31Z,ENTRY,HQYm2Bz5Xid7rFxDcKNXQcGV6A3Rs5YDsxjpdWbddwpH,UPA / SOL,0,1.8288795387e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-1%,control
 2026-11-08T00:07:31Z,ENTRY,3N5ZDfY15WoNvMkBPQVBTdZpmbTRTKBkjps8oBoGJFN5,KWEEZY / SOL,0,1.77311961409e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=-2%,control
 2026-11-08T00:09:00Z,EXIT,3yBsY45Z8dcYbkfNRtVz8MBXb4Ezrvu78FQXaYYkEWRP,HORMUZ / SOL,0,4.41680974153e-05,100.0,rug,-2.82,-2.82,499.4,exit_bar=2026-11-08T00:07:00Z,control
+2026-11-08T00:10:17Z,EXIT,BPAaG25XbdvcotSSGE2syomRXRATmsVSbdHHXFVKZ1Wr,DANA / SOL,0,1.77098163627e-05,100.0,rug,-100.02,-100.02,499.4,exit_bar=2026-11-08T00:08:00Z,mom
+2026-11-08T00:11:39Z,ENTRY,26Z59VwMNUuDj32K25qafqxNMAeuuEjGjSXoF85JwqWd,AB / TSLAx,0,1.85558256888e-05,100.0,control_no_momentum,,,499.4,score=0.00 momentum=0%,control
+2026-11-08T00:11:39Z,ENTRY,ARYLhopopQcnjLfYUFQYHhS5WB1bDPC8Xzc4xKPXgsAm,GTA 6 Coin / SOL,1,0.000150590651324,100.0,research_passed,,,399.4,score=0.61 momentum=38%,mom
+2026-11-08T00:13:15Z,EXIT,4aoAPLE6qDLwpw6QfqUKgXoDFHNLaNbZygRbrpduHKs1,CHILLGUY / SOL,0,1.72669542338e-05,100.0,timeout,-5.18,-5.18,399.4,exit_bar=2026-11-08T00:11:00Z,control
+2026-11-08T00:14:29Z,ENTRY,HkjdofkgM9c41JMYF4LPQkhEF1LYjBT412FVp6nXN9Bk,MAGGIE / SOL,0,1.81912618002e-05,100.0,control_no_momentum,,,399.4,score=0.00 momentum=-3%,control
+2026-11-08T00:14:29Z,ENTRY,5SUq4mSBgwk3MwDe6aVcm5upxuTLZfcXjRg7BEg4AbT9,asdas / SOL,0,1.86268978348e-05,100.0,control_no_momentum,,,399.4,score=0.00 momentum=0%,control
+2026-11-08T00:15:58Z,ENTRY,9qDZQSQJWAMBWobHpyrD8cLgbWMNQ5Jg6iSrAeNCcHzM,Spacex / SPCXx,0,1.96619354828e-05,100.0,control_no_momentum,,,399.4,score=0.00 momentum=0%,control
+2026-11-08T00:15:58Z,ENTRY,7TRBcKpUpHt87SLkS1zs1ajoCzpAEYP3tPKtd5ZjtaWN,DIF / SOL,0,1.90574044612e-05,100.0,control_no_momentum,,,399.4,score=0.00 momentum=-2%,control
+2026-11-08T00:17:27Z,ENTRY,2Fmnu1wx9Wifg3o8xaf2yNK1PDWWAJkMqBP1YQf4RCtF,Respect / SOL,0,0.000185568599496,100.0,research_failed,,,399.4,score=0.00 momentum=27%,mom
