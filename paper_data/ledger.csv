@@ -6105,3 +6105,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T13:19:17Z,ENTRY,9Uz5K5W94PfB8pGXrwAWxMs66ZsPNpzk8RvCFyLhippm,BROKE / SOL,0,1.80419396048e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-08T13:20:39Z,EXIT,8xNG16dDsFmpiWrbricZNAsz1ZP7Y5X2bmAYcCA54GcT,AngryBirds / SOL,0,6.92883541708e-06,100.0,timeout,-9.64,-9.64,456.4,exit_bar=2026-11-08T13:19:00Z,control
 2026-11-08T13:23:29Z,ENTRY,Ba97YDKTUpaMLH88e6NcrVDWaNUmGUeJWb5q4VHKs7xW,PEPTIDE / HIMS,0,1.78016039455e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-08T13:26:30Z,ENTRY,BVt4ug62wtkXURr8qnP9FM3Q854UiqSxtQkeVkBHys2g,KIMMANI / SOL,0,0.001942396606,100.0,research_failed,,,456.4,score=0.00 momentum=149%,mom
+2026-11-08T13:28:06Z,EXIT,CUEgnuWCz1aeau2UB2X69V4rVSDpziQitBcBKNYkdK7c,BTC Bank / SOL,0,2.61483227998e-05,100.0,tp,91.83,91.83,456.4,exit_bar=2026-11-08T12:43:00Z,mom
+2026-11-08T13:28:06Z,ENTRY,rycextiLuZZZ11cwdu5YssZBPnd4QHdTk8WhjJKXdBe,LILYPAD / SOL,0,1.79696840273e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-18%,control
+2026-11-08T13:29:28Z,ENTRY,HAH3A3dkK4mAxHyn3K7zJCr4mxDmw8U29sGzwYa27eXp,WPK / SOL,0,1.0226604301e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T13:30:57Z,ENTRY,BQ2sAVaaoZcEARmHauV3nZx3hqquEFALaDnVEkXRKgaX,GORP / SOL,0,3.59732836022e-05,100.0,research_failed,,,456.4,score=0.00 momentum=64%,mom
