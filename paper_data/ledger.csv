@@ -6013,3 +6013,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T10:56:06Z,ENTRY,12gT7Le7h6wRFabqTY251tBDGFPC97VfQBpktJH9mhcT,NEX Ai / SOL,0,5.89277752037e-05,100.0,research_failed,,,456.4,score=0.00 momentum=213%,mom
 2026-11-08T10:57:28Z,ENTRY,Cg9yi6a796cH6FT1DE4i9D5fn2y2Nuv5SSXXrCpkDtNX,猫子 / SOL,0,1.96213601305e-05,100.0,research_failed,,,456.4,score=0.00 momentum=83%,mom
 2026-11-08T10:58:56Z,ENTRY,AYcRCn3ko8g3BCt74vGLA8oRTgaqqHusmDxim6xXpqgG,犀望 / SOL,0,7.2791840359e-05,100.0,research_failed,,,456.4,score=0.00 momentum=345%,mom
+2026-11-08T11:00:27Z,ENTRY,8Vr91E9Et976RtJk1oWERcZPCnkSwn9esnNEvh4yZ3ze,income / SOL,0,1.70851669813e-05,100.0,research_failed,,,456.4,score=0.00 momentum=529%,mom
+2026-11-08T11:01:56Z,ENTRY,2q1u3CDtWK7EbmDrwWdkfwyDPCgbPyEmqJUQ7UGTnG68,HXBT / USDT,0,1.00378461041,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T11:03:24Z,ENTRY,9nyXmt6vBNuCGjKgCdrbAtqdHqJWWghnVdLjZsxQHLZb,jeet / SOL,0,1.76115586935e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-08T11:04:45Z,EXIT,39p8HxRrV7GrSPCVWcBNWVhKVMp6bNvo5Qmc5Gmw5SfZ,VAMP🧛 / SOL,0,5.54070514979e-07,100.0,timeout,-3.84,-3.84,456.4,exit_bar=2026-11-08T11:03:00Z,control
+2026-11-08T11:04:45Z,ENTRY,J6gzNYH2f7GNXNELEdE9sQhC4Mp31TmqhUtnvgfdnaRH,ANCHOR / SOL,0,2.32850973048e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=7%,control
+2026-11-08T11:04:45Z,ENTRY,57itA9C9JuCjG3pQWbMcmJUXKkusp4CKrSai41DsgvdX,DEBAG / SOL,0,3.6243574177e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
+2026-11-08T11:06:21Z,EXIT,4YNkoCJ1j8Dqg38cwqb3i2VgrbVGXz2q4qUJgMq7KQeE,GATO / SOL,0,7.69266026254e-06,100.0,rug,-75.76,-75.76,456.4,exit_bar=2026-11-08T10:12:00Z,mom
+2026-11-08T11:07:42Z,FAILED,ExC4nShKocYV8s22bYDnPaxPAmS8vbPxtYfqD7HkwEjQ,$PANIC / SOL,0,9.79732777178e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-08T11:07:42Z,ENTRY,5tBK3z7AEaMFcHaCSkXKbYcfuRVkoRamBaKqJLwGFAwq,TERSO / SOL,0,2.29004613586e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=7%,control
+2026-11-08T11:09:18Z,EXIT,J1CFmcKRjy7XZCX1BoEwXRrxhB7kGSzGA4ob9uYq6ahC,BENJIEZ / SOL,0,9.30549435457e-06,100.0,timeout,-11.14,-11.14,456.4,exit_bar=2026-11-08T11:07:00Z,control
