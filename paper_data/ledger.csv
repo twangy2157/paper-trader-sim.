@@ -6524,3 +6524,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T22:30:39Z,ENTRY,A3stbHDspBiVErjh2SarvtaGXRG6xJPZVQRS4hzh5Sfq,CMAO / USDC,0,1.74834952492e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-7%,control
 2026-11-08T22:30:39Z,ENTRY,21YNToK4oxKVq4ijK7kFZVyMQXean4jZutpKfgyuNqVW,Flying Pig / SOL,0,4.51257309075e-05,100.0,research_failed,,,456.4,score=0.00 momentum=140%,mom
 2026-11-08T22:30:39Z,ENTRY,TBL6bDp8Cv1tBXbeQycgspkUnY5ybE5t4aDZKfue4og,DOOB / SOL,0,7.59976163374e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T22:32:19Z,ENTRY,8zCkYBadXHXnrUVuodGELm46gw9QvFi3NfkKNyBsPpUY,ZEC / SOL,0,4.36017223941e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-08T22:33:41Z,EXIT,9NwxRyd4vHeRxBQ7ttLQri34Jk1EYBcfm2KFdscFVnwo,ASSLE / AAPLx,0,1.95941753284e-05,100.0,timeout,-7.51,-7.51,456.4,exit_bar=2026-11-08T22:32:00Z,control
+2026-11-08T22:35:17Z,ENTRY,ES76T63RQHd4EEfroRFKwKN3XkmCsokAGBs6uoWcNEZr,alb / WBTC,0,1.90193413167e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-08T22:36:39Z,ENTRY,HwC1k7npVJcuUt9jT9kif9RLjPV8JpozsjL4T5SGjZFp,Dacity / TTWO,0,2.27751118085e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-36%,control
+2026-11-08T22:38:15Z,EXIT,GhKBLxBURTDsAmzgA9jVmbTp7PqMoCLXrnasLG75SAZT,韩国人会飞 / SOL,0,1.96895729025e-05,100.0,timeout,-4.03,-4.03,456.4,exit_bar=2026-11-08T22:36:00Z,control
+2026-11-08T22:39:29Z,EXIT,5g8xYykqxMW1kFUXvywSD5EsfqzD99pBrNnMKbQCzr8S,PPU / NVDA,0,1.77352671468e-05,100.0,timeout,-10.34,-10.34,456.4,exit_bar=2026-11-08T22:37:00Z,control
+2026-11-08T22:39:29Z,FAILED,8P6V5KHEnye1h3WnJRCZNJMTBkJ71SXbU2ANsVcuASeA,ART / Fartcoin,0,1.80025014823e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T22:41:06Z,EXIT,Hk56uKyMxuqj38CdBH65qt8wzVKnW2WjCEhi9jWqQwMU,EARN / SOL,0,8.4684673123e-06,100.0,timeout,-8.55,-8.55,456.4,exit_bar=2026-11-08T22:37:00Z,control
