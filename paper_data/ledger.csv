@@ -5970,3 +5970,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T09:48:29Z,EXIT,72sGVoqP51oNHt8NCgredN3TD4PbMAjgcX51yTuXMbeC,BENJIEZ / SOL,0,7.91930271852e-06,100.0,timeout,-8.83,-8.83,456.4,exit_bar=2026-11-08T09:47:00Z,control
 2026-11-08T09:49:58Z,ENTRY,FBUNSNg4scyCrYeAxoJ1ryDvZ7biWdDMDoRodzTCy4qH,GTA 6 Coin / SOL,0,0.000141535665608,100.0,research_failed,,,456.4,score=0.00 momentum=30%,mom
 2026-11-08T09:52:54Z,EXIT,CHcXDAeanufjq2X4SRzn9L67KFayNvmpfHz9tq41BEvE,José / SOL,0,1.03923411168e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-08T09:51:00Z,mom
+2026-11-08T09:55:32Z,FAILED,9f16a9eHxr2JGEjBFMt8SLCKwG5WSjk1T7WkNXRvDqEn,BUGIO / SOL,0,1.74232653801e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T10:02:25Z,ENTRY,39p8HxRrV7GrSPCVWcBNWVhKVMp6bNvo5Qmc5Gmw5SfZ,VAMP🧛 / SOL,0,5.56506899878e-07,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-97%,control
+2026-11-08T10:03:54Z,ENTRY,4YNkoCJ1j8Dqg38cwqb3i2VgrbVGXz2q4qUJgMq7KQeE,GATO / SOL,0,2.97892131944e-05,100.0,research_failed,,,456.4,score=0.00 momentum=333%,mom
