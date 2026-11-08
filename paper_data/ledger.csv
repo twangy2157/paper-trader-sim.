@@ -6254,3 +6254,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T16:44:17Z,ENTRY,4jxjCqTmb3E83mGSKCBs8ekuaoArK8FCaz3JE2WZMHvB,Kona / SOL,0,1.83413816646e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-6%,control
 2026-11-08T16:45:31Z,ENTRY,GvBj2RS7ZGUtAmziDn5aRBj2o4999Qr5PxvWW2CkzbSJ,MELT / SOL,0,2.67678178411e-05,100.0,research_failed,,,456.4,score=0.00 momentum=36%,mom
 2026-11-08T16:45:31Z,ENTRY,7H9YGF24H8YbsewxZ3B7rkuesFWPZ6iJddwzHsD7i6Hb,STOKE / SOL,0,2.87805797634e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-08T16:47:03Z,ENTRY,bbt3nEVaJTe7DTxceurYZATXa6crLs28prnCsfDnnPa,Fih / SOL,0,3.03557105848e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-15%,control
+2026-11-08T16:49:54Z,EXIT,EDHbeM2T37Sr7ucotynfCRJ3XShep124hFNiHAfmfTPK,TRK / SOL,0,4.29443248938e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-08T15:49:00Z,mom
+2026-11-08T16:52:30Z,ENTRY,7zfAoRom1NozLSD5gyfq1sMdDdiJpMg89YWMuVpAAkMC,MOVE4 / SOL,0,5.87000472277e-05,100.0,research_failed,,,456.4,score=0.00 momentum=41%,mom
+2026-11-08T16:54:06Z,ENTRY,4272TD9bcU7CoqeSNv81stCNpebqmHWqM8Hy3H8FSjBj,USRD / USDT,0,0.997873037122,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T16:56:56Z,FAILED,3KhDgUciXNUAggTeUoW5xxPtJpSfbKH49Myqry1Gc4BL,FloatV2xyz / SOL,0,1.82452618264e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
