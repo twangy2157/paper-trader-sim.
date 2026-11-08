@@ -6330,3 +6330,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T18:45:26Z,ENTRY,EHm9qvXUdmypQBNkKLj2wyRCPuZq8VgzP8Sgsf4h2NDE,CLAUDIA / SOL,0,1.80798913223e-05,100.0,research_failed,,,456.4,score=0.00 momentum=88%,mom
 2026-11-08T18:46:55Z,EXIT,5BobMGeyvP5QBYfbCHvASBZj6XLb8aEUa6gVUQdJEzmE,BTC / SOL,0,1.77524516838e-05,100.0,timeout,-5.12,-5.12,456.4,exit_bar=2026-11-08T18:32:00Z,control
 2026-11-08T18:48:24Z,EXIT,4vivBd2BvZuKfe9qLMu2E54CMpPGhaY6Luz7g2fCAEwF,FloatOS / SOL,0,1.74460651433e-05,100.0,timeout,-7.88,-7.88,456.4,exit_bar=2026-11-08T18:39:00Z,control
+2026-11-08T18:49:49Z,EXIT,7AeMwZNep2KStb6Fu1HnjfdfhLvLqr4cy2dVH5oyKjNz,BTC / SOL,0,6.48860667803e-06,100.0,timeout,-10.03,-10.03,456.4,exit_bar=2026-11-08T18:46:00Z,control
+2026-11-08T18:49:49Z,ENTRY,DFhhhRFiZXN5SsNpRhjLhyXV3gupevjA2ihJWHeLcvK1,M2 / SOL,0,1.82367268334e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-7%,control
+2026-11-08T18:51:25Z,FAILED,7ro2Z1QsZzWCdQ2xfc4hsQCRzKeLzGBds8FRq7G34M5h,bob / SOL,0,1.75804690823e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T18:51:25Z,ENTRY,3DcnZpngMwPxSaMPosppqdAkV97snd5yJxJ9xdCxsrAg,STOKE / SOL,0,0.000176478231962,100.0,research_failed,,,456.4,score=0.00 momentum=178%,mom
+2026-11-08T18:52:55Z,ENTRY,r9SUZ71PezDazSHJxDujJXQ1x1o4EPJDmbnWBwqJUn8,BRAINROT / SOL,0,1.14481737545e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T18:55:31Z,ENTRY,2qDCXtKBUKuGyz5sBVFhTenxyDkASBjg3t7ctPuZvrBL,Doodlebug / SOL,0,5.7236729816e-08,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-99%,control
+2026-11-08T18:55:31Z,ENTRY,BYfLS4ET7yaeSqpbC6n6isEKHbzsEGt2aH2SeyiuT5WV,Grok Bot / SOL,0,0.000118826997368,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-08T18:57:07Z,ENTRY,3qRawpngQQLh3joQT9en1jCrPdpnpnV5tNMViTyDyKsK,ARTCOIN / SOL,0,8.52975159617e-07,100.0,research_failed,,,456.4,score=0.00 momentum=56%,mom
