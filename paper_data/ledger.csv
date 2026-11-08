@@ -6401,3 +6401,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T20:19:41Z,ENTRY,CRRe9J2PUaTnxmaMtxqby2xeYfV31UtkCRHf9TXBn5ZY,FRANKIE / SOL,0,1.82988635323e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
 2026-11-08T20:21:17Z,ENTRY,CgfNWmVfiNeXcj9E7qbDkbWMvHXUqJxJwqMkYd5ZSVqg,GTA2026 / TTWO,0,2.2811736808e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
 2026-11-08T20:22:39Z,ENTRY,CAZjZ599zUJ9ot812fjZn5skfpPHEs3Zesc5AVQefQ4H,GROKIA / SOL,0,5.31241540196e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-34%,control
+2026-11-08T20:25:39Z,ENTRY,H1paXj86x5AgfWfkbYTk7BkxTz2PuE4VScLUERwq6v1k,BPCATE / SOL,0,8.29949384199e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T20:25:39Z,ENTRY,BHfzrC5zWMv5rf7qnRkg1kVk5Kjyfj6jWpaUWTceDyy5,奶蛙 / SOL,0,1.86380522424e-05,100.0,research_failed,,,456.4,score=0.00 momentum=74%,mom
+2026-11-08T20:27:16Z,EXIT,7hV5DnyeBsvY7kBpeBueRiU7EsHjH4qzuzt3bkuzT91o,GTA 6 Coin / SOL,0,0.000310640425296,100.0,tp,57.06,57.06,456.4,exit_bar=2026-11-08T19:50:00Z,mom
+2026-11-08T20:28:30Z,EXIT,2wQPsD1xcnjcK5jJK2CchnM7Weuu1cAQHUNpnUHGGMnF,TESTINGG / CODEC,0,1.69880815439e-05,100.0,timeout,-5.22,-5.22,456.4,exit_bar=2026-11-08T20:25:00Z,control
+2026-11-08T20:28:30Z,FAILED,4VzAY4yiiVEmGqMHQcz8e3KGWi7rR6i7eUNocdUMZq5q,Promise / SOL,0,1.92486956735e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T20:30:07Z,EXIT,8fs6my7ZAvZyTKp6qYYqc3twkxfap2ULDCYKWJpJ6KwB,sol / SOL,0,2.08433575486e-05,100.0,timeout,-8.48,-8.48,456.4,exit_bar=2026-11-08T20:29:00Z,control
+2026-11-08T20:31:28Z,FAILED,3FxXybmVoSGtxLmvtxhbZYksMwL6gyhqvw3CbqWvpJKx,CC / SOL,0,1.92516543839e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T20:31:28Z,ENTRY,5XtocMUD3sGidJ8UCq1bqdt1k18hWiUNjpEwBN9TG9sP,SLINGOOR / SOL,0,4.68980474518e-05,100.0,research_failed,,,456.4,score=0.00 momentum=21%,mom
+2026-11-08T20:32:57Z,EXIT,FoCKpqGU1YnoahQujCJ6wpgbQ5NAnAcHWGZ7cukUBcJZ,FLOTRS / SOL,0,1.7580445067e-05,100.0,timeout,-5.15,-5.15,456.4,exit_bar=2026-11-08T20:31:00Z,control
+2026-11-08T20:32:57Z,ENTRY,HFKVeUFoF8cTGCM2HSbqSLkK7c46H8WRnyDNvumycRGt,BTCR / WBTC,0,1.87005576658e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-08T20:32:57Z,FAILED,BJxzAA3gaZW7Z53sSnZpoY1tDF5vAEpN9xZdpQQJaDQs,AliceHuang / NVDA,0,1.70499378325e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
