@@ -6469,3 +6469,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T21:36:56Z,ENTRY,5g8xYykqxMW1kFUXvywSD5EsfqzD99pBrNnMKbQCzr8S,PPU / NVDA,0,1.89733198288e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-08T21:36:56Z,ENTRY,Hk56uKyMxuqj38CdBH65qt8wzVKnW2WjCEhi9jWqQwMU,EARN / SOL,0,8.71950168108e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-08T21:38:25Z,EXIT,Hz38mkr6oNZJTQRTPWXLRKjNJCmdsyTyir5GYxZuWX7Q,NEX Ai / SOL,0,7.59575711925e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-08T21:06:00Z,mom
+2026-11-08T21:39:57Z,EXIT,4vm4t4uTzYf3Kw9i9ipGWEXFwYhXabyhncatC6uUZRjE,USOR / SOL,0,2.02124533523e-07,100.0,rug,-100.7,-100.7,456.4,exit_bar=2026-11-08T20:41:00Z,mom
+2026-11-08T21:39:57Z,FAILED,BsXAZAo4W4grKeKB7ZpSz6EGm54juVkMS6Nta8NnUYwn,Groklet / MUSK4,0,1.80849004672e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-08T21:41:26Z,EXIT,EpXdyVHwgu8NRENTKABBiQD1A9YS3QF3BECd3YdVVbYo,NVIDIA / NVDA,0,1.81200034304e-05,100.0,timeout,-1.73,-1.73,456.4,exit_bar=2026-11-08T21:39:00Z,control
+2026-11-08T21:41:26Z,ENTRY,9fP5CB2jRgbrkTdxAjynjaCZ87sGDhF8f9xsHkdSFFMB,PEPEPE / PEPE,0,2.11176310726e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-19%,control
+2026-11-08T21:42:55Z,ENTRY,BwZ8sNrj1JKrgQ5kmAna2T2gnrtt9CyMNJ1Htt1ZTXPn,Jensen / NVDA,0,1.75790417203e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T21:42:55Z,ENTRY,4bWXWy5JHwDMsPm3xosRMGLPiTDrdNVYvai6pkiLw68w,DICE / SOL,0,1.70612700591e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T21:45:46Z,ENTRY,9e6yXqd7RREd5aDbPeyuvo1yRHCJJ7V3Yysx6t98GFNr,DECEIVE / NVDAx,0,1.72530154258e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T21:47:15Z,EXIT,7hc6BgCPeJmHq6M63D4jHGSQmMfYCmCcy7YZo9v25i2E,Alice / SOL,0,6.01625994115e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-08T21:45:00Z,mom
+2026-11-08T21:48:30Z,ENTRY,Ff9TMuDbiEVTw9erJgbhtnPCHiSHxCrNCT15KsjVFBPE,CPU / SOL,0,8.24095407365e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
