@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. Fixed rules, 0.30% round-trip costs, hourly bars.
 
-Live since 2026-11-02 03:00 UTC. Updated 2026-11-07 23:00 UTC.
+Live since 2026-11-02 03:00 UTC. Updated 2026-11-08 01:00 UTC.
 
 | rule | closed | win | avg | open now |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ Open positions (marked at the last closed hour):
 
 | coin | rule | opened | return so far |
 |---|---|---|---|
-| DOGE | momentum | 2026-11-04 15:00 | -7.1% |
+| DOGE | momentum | 2026-11-04 15:00 | -7.2% |
 | SHIB | momentum | 2026-11-04 16:00 | -6.6% |
 | PEPE | trend | 2026-11-06 16:00 | -5.2% |
 
