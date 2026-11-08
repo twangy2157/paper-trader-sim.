@@ -6509,3 +6509,18 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-08T22:17:29Z,ENTRY,5xTsQfGTo59zTTpVH9u92sJQqsMDFv9ebdGcXUtEEHxX,VIDA / NVDAx,0,1.73766785068e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
 2026-11-08T22:19:06Z,EXIT,8LmcWHKyYHAqNPd7tjJ6J2hnYMXg9LCUiqQrkkq7Mdg1,SAIKA / NVDA,0,2.13858379411e-05,100.0,sl,-36.71,-36.71,456.4,exit_bar=2026-11-08T21:26:00Z,mom
 2026-11-08T22:20:28Z,EXIT,FMHcn2U9d23mmtSvVky1XoKfd3FtVpf5pnXMVc5khZeX,300FPS / NVDAx,0,1.69835804954e-05,100.0,timeout,-7.34,-7.34,456.4,exit_bar=2026-11-08T22:19:00Z,control
+2026-11-08T22:22:00Z,ENTRY,Erwu5XAQJLemj8PPX4PfbqJxk2vonivd95dAqSE1adV5,LMC / SOL,0,7.89641357258e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T22:22:00Z,ENTRY,61Yr4d2k3q98bTMD8HUZi7t5oHqh8V7mAaSfTdiENrze,Debtcoin / WBTC,0,1.91225614266e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-08T22:23:21Z,EXIT,H2ka3hYw63Hs81rp1cnT9wqPhgdMrq6Xsq7Vo5YqY6U7,HUANGLES / NVDAx,0,1.68367206153e-05,100.0,timeout,-10.21,-10.21,456.4,exit_bar=2026-11-08T22:22:00Z,control
+2026-11-08T22:24:43Z,ENTRY,Bxsi6jHy3fDjGQj47A5Dxw4REXQFor4fbAC6Yy59RvMF,Inbox / SOL,0,1.71326961507e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-08T22:24:43Z,ENTRY,79LbXNpmqmYvSMxUeFdGFPZrQVhw6xNp9qLURxAf2zTK,SOBBING / SOL,0,1.79694454804e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T22:24:43Z,ENTRY,HWZ1vpgGuY1csNPA14G8WS2TgojLgQCQJKEN8GAUc53,ch / SOL,0,6.99740369475e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-08T22:26:19Z,ENTRY,9TsExcS9ovmGfcZJ6YgXJwy3ExPMkYsx7oMGD88VrM9b,Tardigrade / SOL,0,1.74629256725e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-08T22:26:19Z,ENTRY,BBNVMaaksgkph8Z2nN4PWjedrfEvrF4dDSsqTomJZpip,MetaMask / SOL,0,5.00294984945e-05,100.0,research_failed,,,456.4,score=0.00 momentum=44%,mom
+2026-11-08T22:27:41Z,EXIT,7ReFjEP7qz2ENTxrvDJL4kbvHv6o3qq3qUn9YK7TdnES,NVIDIH / SOL,0,3.25187908091e-07,100.0,rug,-100.6,-100.6,456.4,exit_bar=2026-11-08T21:40:00Z,mom
+2026-11-08T22:29:18Z,ENTRY,5BzEz2J4EvTiwYtVPjcqawwhjc95pFf22FEEbdZbJtta,NEX Ai / SOL,0,3.71470169299e-05,100.0,research_failed,,,456.4,score=0.00 momentum=76%,mom
+2026-11-08T22:29:18Z,ENTRY,4YF22sRgTPFWWYn67XAeTG345zJKQPZxj3RH9RXseW4h,Trillions / DJT,0,1.40083599754e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-08T22:30:39Z,ENTRY,MYHNXph63WStY3yYmbeSeVfcwFmJVAwBUhUurptmYnW,DLSS / NVDAx,0,1.69658709719e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-08T22:30:39Z,ENTRY,A3stbHDspBiVErjh2SarvtaGXRG6xJPZVQRS4hzh5Sfq,CMAO / USDC,0,1.74834952492e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-7%,control
+2026-11-08T22:30:39Z,ENTRY,21YNToK4oxKVq4ijK7kFZVyMQXean4jZutpKfgyuNqVW,Flying Pig / SOL,0,4.51257309075e-05,100.0,research_failed,,,456.4,score=0.00 momentum=140%,mom
+2026-11-08T22:30:39Z,ENTRY,TBL6bDp8Cv1tBXbeQycgspkUnY5ybE5t4aDZKfue4og,DOOB / SOL,0,7.59976163374e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
