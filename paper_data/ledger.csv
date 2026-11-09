@@ -7189,3 +7189,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T14:24:17Z,EXIT,ES4Y4KE1vojtecYAficrXS7HzY4bbcitG5FTa3gZwNWj,PUSSY / SOL,0,2.5669761733e-05,100.0,rug,-1.72,-1.72,456.4,exit_bar=2026-11-09T14:23:00Z,control
 2026-11-09T14:25:32Z,ENTRY,4kzytAbgPYcKg7kXoyU1mVjkwaTnNYUCMhAoth8u43Wt,queef / USDC,0,9.21141876415e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T14:27:00Z,EXIT,AjSqn3V3ef89c5JnVVwhm51M7xAx5eh51FNzerTcAfEJ,shiken / SOL,0,0.000110751810595,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-09T13:25:00Z,mom
+2026-11-09T14:29:33Z,ENTRY,2yBNU1pbjYTgpSRUAwtXPqEMTYNu3n8xB7B5CPnHCQ3q,Percolator / SOL,0,4.34285231692e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
+2026-11-09T14:29:33Z,ENTRY,8LfCUR2t5fJ6Z6fJ1s5Aw9sgHjKWRcqjL28QDWHQ8j69,GASCOIN / SOL,0,4.56850053085e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-09T14:32:25Z,ENTRY,3zhDMuSzRgruGqunMK5XiuGrxCLK1kALdzxd7BbTaa7U,lexi / USDC,0,9.09783430601e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T14:33:46Z,EXIT,5DztRggzagvX68mn2titYX7Q8oKMSWzcXWHUMe6kfaXf,PUSSY / SOL,0,1.58701342959e-06,100.0,rug,-98.57,-98.57,456.4,exit_bar=2026-11-09T13:33:00Z,control
+2026-11-09T14:35:15Z,EXIT,4p3h1NGN4Gx2vhiQaMMfqEF41E5ZWy9PRr99twwakNyC,SI / SI,0,1.67277203738e-05,100.0,timeout,-5.25,-5.25,456.4,exit_bar=2026-11-09T14:33:00Z,control
+2026-11-09T14:36:31Z,FAILED,7J4aud4PWvMUkW3t3wn4Kx8RypDQmY4SLcM9BheM3wgW,Trump / SOL,0,8.52040661633e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T14:38:06Z,EXIT,AfDSLAcKaAWuF7rfUUK6hPgB78mDwXd3Jezc1p9p52gB,GTA 6 Coin / SOL,0,1.56244548302e-06,100.0,rug,-99.77,-99.77,456.4,exit_bar=2026-11-09T13:38:00Z,mom
+2026-11-09T14:39:28Z,FAILED,8kmrdMQkvmUszxSFMqba6jgnpvD68dxcJEpzbgterFQw,HABIBI / SOL,0,8.20318425966e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T14:39:28Z,ENTRY,AeVyw6mpCexAmfsSpKMWivEdVZ4KVhtBoC6cMCaBD3bf,SCHWAB / SCHH,0,2.11240333348e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
+2026-11-09T14:39:28Z,ENTRY,DidvJVfjW3fozLeXrrkHhh3YBY39DbssoCZpTMpB7kj7,spyless / SOL,0,1.993645105e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=6%,control
