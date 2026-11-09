@@ -7222,3 +7222,17 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T15:09:59Z,FAILED,4KKypvZ5d98gPyHSZrEYZjDkLEwd8L9kSK4kE1v9tYx4,INUX / SOL,0,8.22568722054e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T15:09:59Z,ENTRY,8jhuvS769YVi44ZNJ7NQ1rhFAnWyUGWxW51ve4hZWSRr,GTAIFY / TTWO,0,2.17419013319e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T15:11:27Z,EXIT,F3axrJptsJKP8PvTqcJFpG8YK7VmDi7LpLHKnXwRrgxg,GAS / SOL,0,2.19415618581e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T15:10:00Z,mom
+2026-11-09T15:13:00Z,EXIT,4EU125A9ruqAvMSNWAuFc5GHEdB3Jt3bS3keB6EMiuu5,UODF / USDC,0,0.0400017041231,100.0,timeout,4.71,4.71,456.4,exit_bar=2026-11-09T15:10:00Z,control
+2026-11-09T15:13:00Z,ENTRY,35q1xZsWgjFSJPXam7hXLnro3eGg6seHhcGJVADDgqB6,GFE / NVDA,0,1.72364339903e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-10%,control
+2026-11-09T15:14:22Z,EXIT,2kxed8zVPLoFUEmegUVYqyCoywp9UuwFw5672LhTr5os,POLARIS / SOL,0,1.81486425841e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-09T14:17:00Z,mom
+2026-11-09T15:15:44Z,ENTRY,ELyUHNuzjRGHuQFxMSP2twWDgB5HnYNvpaFeaXEy1rjJ,UNI / SOL,0,4.55908389464e-05,100.0,research_failed,,,456.4,score=0.00 momentum=12%,mom
+2026-11-09T15:15:44Z,ENTRY,9h9hxWHPd9RA2uniPxtBGJALRW7eEkd9ofer7vvFyNRL,NEAR / wNEAR,0,1.69777066291e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:17:20Z,ENTRY,GuSH5285mFQmVVM7itYqfBhu5sgJSZwj31Wk3Rs3U4TP,CPU / SOL,0,3.8962097889e-05,100.0,research_failed,,,456.4,score=0.00 momentum=100%,mom
+2026-11-09T15:17:20Z,ENTRY,5814EhgwAnfaMk9MLUZAmm4XRZ2XhpzLowqLYS9CLtMq,Pepetide / SOL,0,8.16985939281e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-09T15:18:41Z,ENTRY,BxprnU3MjruEFjTwc5gX7Za1YfTpRixU2oDJoxTt54PB,INU / SOL,0,1.89090189293e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:18:41Z,ENTRY,BuAkUsoErXnE43QpsrFJv2XThPLVe1m7fxNRLDXrPPAD,lexi / USDC,0,1.74148666354e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T15:18:41Z,ENTRY,B1DHxp1xhdfWAAsCadnB684rVcM6xSDBtsBJCDgi7ghD,spyless / SOL,0,5.21665022722e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-10%,control
+2026-11-09T15:20:17Z,EXIT,4FWxwzg6zjfnPeYjkjPPqLjEdX1sayPwoTceDDhNiSpy,Danke / SOL,0,8.14193083745e-06,100.0,timeout,-8.86,-8.86,456.4,exit_bar=2026-11-09T15:19:00Z,control
+2026-11-09T15:21:39Z,FAILED,25q8HUKgZw4V2toRDnRBQE82bmxzoijMKJkTqofGyA1q,PUSSY / SOL,0,4.49730214247e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T15:21:39Z,FAILED,31fyrZ5V8YkT3bxye9JtsCBSDsoMxq9YLoy2Qx2syG47,HUNG / NVDA,0,1.64789096472e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T15:21:39Z,ENTRY,D75x2whY2HfzNaNA5UAbnXg6Qptc9WeufD7vghaKtwiv,DIH / SOL,0,1.77067712214e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
