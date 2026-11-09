@@ -6924,3 +6924,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T08:28:06Z,ENTRY,8td2de5JfnaXXpFJmbFAvMpqB3aaKfmiv2RNRewGCskd,FLACKO / SOL,0,3.23355013033e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
 2026-11-09T08:30:56Z,ENTRY,FHLXvCV6i3ToUWGkvpFsf3gG3GkHSQbACtPR8y8iJAiT,NVIDIA / SOL,0,7.25822951498e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T08:33:54Z,EXIT,7bBmMYR4UdPx4e96Bvc91FKnKpabsdUgoDJ1aKi6P6Ez,JUMP / SOL,0,6.52826990499e-06,100.0,timeout,-10.03,-10.03,456.4,exit_bar=2026-11-09T08:32:00Z,mom
+2026-11-09T08:36:40Z,ENTRY,6LykTZtsDdHbJPtk2hcYjyetmrdUPPAZwRcqTutEq7F5,Jensen / NVDA,0,1.64906090461e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-09T08:36:40Z,FAILED,8YTQV5zfatuLLbUq2AgNwM2HLGa3ShsgDLkpZB2sRANJ,GORP / SOL,0,2.78296505243e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T08:39:31Z,ENTRY,63iFMv7AL6MHrj8MquYDNfJ3rC5aNE5VdMhTAAteKwMF,PUSSY / SOL,0,0.00673445083412,100.0,proven_pool,,,456.4,age=134min,proven
+2026-11-09T08:41:06Z,EXIT,5T9qk9iagp2uZ91nuUdKAi6pgWXom8Dm3shTLmHArfE7,CEO / FRONTIER,0,1.87376343783e-05,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-09T08:39:00Z,control
+2026-11-09T08:42:28Z,ENTRY,3xscA61nb38bXBZRcCEjVPxNJcBXThWbdsr6pR7DuiWA,Steve / SOL,0,4.49390010949e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-09T08:43:57Z,EXIT,2dY4KCMqVmYnGDYa7fn4FXXWcT4jZndw8Z1qD5kZqFxs,CEO / SOL,0,1.72830515277e-05,100.0,timeout,-5.17,-5.17,456.4,exit_bar=2026-11-09T08:42:00Z,control
