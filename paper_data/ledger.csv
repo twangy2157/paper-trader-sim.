@@ -7166,3 +7166,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T13:51:25Z,ENTRY,2DEm7vjhrSMmYf8XSqziKfEF8HpdMrgErn6kTS3Svmmr,UODF / SOL,0,0.489767562921,100.0,proven_pool,,,456.4,age=126min,proven
 2026-11-09T13:52:55Z,ENTRY,EoihdHNLNmCnBCcHh2Ga6kFo5GJJEq8xnYrEoiVUpDu7,XTO / SOL,0,0.523547211307,100.0,proven_pool,,,456.4,age=126min,proven
 2026-11-09T13:54:16Z,EXIT,4TMZBVMefnx8WtENh3ScyE49uWyGQ1zQsh3KbrVLsER7,JEFUR / SOL,0,3.06238213645e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T13:53:00Z,control
+2026-11-09T13:57:03Z,ENTRY,YzzfGueLFQ2eKByMouSvSRwLg8QErSnthujWYAueusT,FOTF / SOL,0,0.179877912302,100.0,proven_pool,,,456.4,age=128min,proven
+2026-11-09T14:02:30Z,ENTRY,g9kUZKvHGEQcvq8scs9f1hPLbud6NmCtGtrfu1iqw5t,PUSSY / SOL,0,4.56803582383e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-09T14:04:07Z,ENTRY,8kpAynQenuAsCKZCRQDphNws96yfq1CyocJVmURBFhXN,NIOC / SOL,0,3.86927170689e-05,100.0,research_failed,,,456.4,score=0.00 momentum=100%,mom
+2026-11-09T14:05:28Z,ENTRY,HNHWmvm1N4ygo5MeHbqRuuNxWbKurpwnhHrJ7qYnS2ZA,INCOME / HODL,0,7.61049266411e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T14:06:57Z,FAILED,ScoVu4trpDPLCidenhCrFD32dTrP9LePeKu3ANNCmzr,STENKS / SOL,0,8.08284204071e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
