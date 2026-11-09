@@ -7469,3 +7469,18 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T19:30:19Z,ENTRY,DQVwcfH3sTuyX7T4mdug1nqfCvp6Ms4PDfaKAqpNVdC6,HeDantong / SOL,0,1.74743628159e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T19:31:40Z,EXIT,F6L5zj2kDdZGQRQnfZUvdn39GUn9kqiMD7DsYroi3BTz,SI / SOL,0,1.87390005623e-05,100.0,timeout,-5.03,-5.03,456.4,exit_bar=2026-11-09T19:25:00Z,control
 2026-11-09T19:33:17Z,EXIT,9yobopsyga5Hesu4RKsWNJFsi6zeMUNkM4TQC5pe7XMz,Tramp / SOL,0,1.74426585206e-05,100.0,timeout,-5.17,-5.17,456.4,exit_bar=2026-11-09T19:29:00Z,control
+2026-11-09T19:34:34Z,EXIT,2uZ1pUXhdLLUfqCAvHQPWmUZd28XRAMZtmavntnQUMJF,TOEY / SOL,0,1.72478090263e-05,100.0,timeout,-5.2,-5.2,456.4,exit_bar=2026-11-09T19:29:00Z,control
+2026-11-09T19:34:34Z,ENTRY,2KhiCy58si6m3Z8nWiZARxKvjeCkZezwYsXR7Mqa3uSK,sdasdasda / ANTHRP,0,1.85255238315e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:34:34Z,ENTRY,HwCFZMZR714FdDptTVqD51DVZp2H6aB4Q1UuF1jCw9Gm,MEGACUM / HYPE,0,1.60274954585e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-09T19:36:10Z,EXIT,D3rAcPW9pY3vYmSur94v5fyj6iKFcTmM5VAAiyNpqPZw,VAGINACOIN / WETH,0,1.89481785449e-05,100.0,timeout,-8.21,-8.21,456.4,exit_bar=2026-11-09T19:32:00Z,control
+2026-11-09T19:37:25Z,FAILED,FbKx8BhGTJesauxWh28p6GytrXni4aXnsJYTpDRP3xHf,中国人牛逼 / SOL,0,3.26127947533e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T19:38:54Z,FAILED,3KwQQQbNGBndzpBHXE2MsFh5WboypBQxUj4etLmaUbAR,Frank / ANTHRP,0,1.86887667382e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T19:40:16Z,EXIT,8XxfEAazA7gSn9Nm2jt4snCHc6GRat55XYPnA6MzvLfk,MATI / SOL,0,1.6978841855e-05,100.0,timeout,-7.97,-7.97,456.4,exit_bar=2026-11-09T19:38:00Z,control
+2026-11-09T19:41:30Z,ENTRY,TDdCTXsjaQuTXZbqGtVjtPJDRHWvp7KiW6ZoTES8R8h,Tremp / SOL,0,1.85658864912e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:41:30Z,ENTRY,8Jinkp2jKshdyqMYeVoKPRmbJNrhM45tCQn6vRcbMc4Z,FRANK / SOL,0,1.89441385053e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:43:06Z,EXIT,GXyHnrchZMf4aEckzwsY3GPKoNTN4BbZHK6w1itaydNp,SlNU / wNEAR,0,1.69995275273e-05,100.0,timeout,-17.44,-17.44,456.4,exit_bar=2026-11-09T19:42:00Z,control
+2026-11-09T19:43:06Z,ENTRY,9S133gyBSLEoZbhVo1TyDBcBwbEcEqxNLgk1KzqV2SeL,FAIRPAIR / SPY,0,2.01064788386e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:44:28Z,ENTRY,Ddmp59BT2y9LmHjXdzvpnNijj3xSyP1pcCsyEnFvRkBH,DOOYET / SOL,0,1.49180876721e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:44:28Z,ENTRY,BMEgaWTwfFbvDxqLcPP52gwGNP49547LQTfNQFfbwGQn,FLOATER / FLOAT,0,1.67994820472e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-10%,control
+2026-11-09T19:44:28Z,FAILED,F79e62G8X8GweFBL7ojy2XyYp6DMtrRVQEMmt6dBfYtg,STP / USDC,0,5.0027466385e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T19:44:28Z,FAILED,8goMXwWYRhnE4PbmJweEKdvDTV6S5CkmpbcCUxTyPGWd,NGrs / ANTHRP,0,1.82490923042e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
