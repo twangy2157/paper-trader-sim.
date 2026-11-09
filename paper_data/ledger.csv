@@ -7376,3 +7376,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T17:49:30Z,EXIT,EAZwXKqJ4siSCNkzuYZ7ksAZz7TQzjtJzh4b7T97shz6,SEPPUKU / WETH,0,1.77005635508e-05,100.0,timeout,-7.99,-7.99,456.4,exit_bar=2026-11-09T17:48:00Z,control
 2026-11-09T17:49:30Z,ENTRY,12vszpyuGjsjZgiH83iYDQAzPvpxURnhMShsv4PYQyAx,TREMP / SOL,0,1.88605508303e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T17:51:06Z,ENTRY,FPdzytv7Wm1EqzEqspGbUxghMwPHsUM1T7xLSBFjyVwc,OSARU / SOL,0,1.16717078035e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:52:32Z,ENTRY,9m1BiKxcotqh1ZsbhqtAx7STKw2SRmNEviM4shagMvpR,USRP / SOL,0,0.00471838876844,100.0,control_no_momentum,,,456.4,score=0.00 momentum=4%,control
+2026-11-09T17:54:00Z,ENTRY,6SSuPyXGUWhPvxik713f7zRoDzb931YADZryJa4RHVbA,2 / 1,0,1.74951439905e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-8%,control
+2026-11-09T17:55:15Z,ENTRY,AFp7ToMTQfR94X9gfnQg6bqwyaMQDoxJXPwbYW6UN2JT,USOE / SOL,0,0.127542238264,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-09T17:56:29Z,EXIT,CQt58gPiJiWtRrvrnyjE1BG9FfSHdRT1P6XsrwkjLpjV,USOE / SOL,0,8.71708111955e-06,100.0,rug,-100.91,-100.91,456.4,exit_bar=2026-11-09T17:33:00Z,proven
+2026-11-09T17:56:29Z,ENTRY,8uMwbwfY58LVAyjub9jRuiFiDNqxy7Ka4EuMuaztuVns,PUSSY / SOL,0,4.48766448871e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-09T17:56:29Z,ENTRY,F7KWCKqXA6p9eVvK3cNHVQdCgJocuEqWdyNyW7bQwbtg,NVIDIOT / SOL,0,4.20364452801e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T17:58:06Z,ENTRY,GMaLBmKipweJbiXbCXZYXbKrbzJhR1oapBLSjoQHyQq7,NVIDIOT / SOL,0,1.37530081894e-05,100.0,research_failed,,,456.4,score=0.00 momentum=60%,mom
+2026-11-09T17:59:28Z,ENTRY,7dT1JW6FPUEcmxQupnAu7mUfmYdsLKFeSaC73LmqrMsj,USDP / SOL,0,0.0156102031772,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-09T17:59:28Z,ENTRY,J1Eiw6DkCX2qNxEk8hWmncQwSZ28CBgQ1N7uhybsbrts,WUNG / NVDA,0,1.75361958516e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T18:00:57Z,ENTRY,8EXtBtt1mgDBv3D5nNZVNvg3JzYCyHfQ5CqgtLHKFsCW,桜 / SOL,0,3.15826215326e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-41%,control
+2026-11-09T18:00:57Z,ENTRY,FXzGGKT1FLvZoyTEF2shepXUw9vevBEdgSCV6JeVjrbY,FRAUD / USD1,0,2.00541051368e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T18:02:26Z,EXIT,HqPqH5CKvbPonKLMwJA9QTxAmg9i2sapyRKWRYenmoxX,KRYPTON / GOOGL,0,1.79483796504e-05,100.0,timeout,-7.0,-7.0,456.4,exit_bar=2026-11-09T18:01:00Z,control
