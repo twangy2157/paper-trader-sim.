@@ -6952,3 +6952,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T09:05:39Z,EXIT,95S92pCzedRu2aE5fjAvUhxLYvvxxYXuRWARjAhnSTXW,花 / SOL,0,2.45257271493e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-09T08:20:00Z,mom
 2026-11-09T09:05:39Z,ENTRY,8Y4AdTEvjHBrrXVWrgX6zgKUr66g21axUKftnapqNJf4,WET / PTN,0,3.12952053161e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-13%,control
 2026-11-09T09:05:39Z,ENTRY,7ckL63BwZyUCRatWNUwfipHn3G75y7ho5G6YgJFmcA7e,SI / SOL,0,1.27465048604e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-09T09:07:18Z,EXIT,6Mcn7bkTpDJ3dG4UHULExV3hqKCLU3yFBy3mLztqVNtH,THENIG / SOL,0,3.87223083183e-05,100.0,timeout,-4.07,-4.07,456.4,exit_bar=2026-11-09T09:05:00Z,control
+2026-11-09T09:08:39Z,EXIT,92PtTb5U9zMN1JzA1eRtb6cmqkd4wAhjzVkbBXJKYyA7,1UP / SOL,0,2.55192206381e-05,100.0,timeout,-7.18,-7.18,456.4,exit_bar=2026-11-09T09:07:00Z,mom
+2026-11-09T09:08:39Z,FAILED,EZE9ro2QsW3PyDkPTVKBTULTVTDHwGRZGjdJG6U9k5Wh,Robinhood / SOL,0,0.000135024440366,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T09:11:30Z,ENTRY,Acho4ZmTgCXhBLgJGTKaHHRFCHFKZ7AsevfgUES5wRwD,HABIBI / SOL,0,9.06274357188e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T09:11:30Z,ENTRY,FpG8hzEBm3AifeasKdiwDjE8PAexdsBLDbLnbfb13x2J,Robinhood / SOL,0,1.26122654166e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T09:12:58Z,ENTRY,9Xp489xPxPNLSQUu7u6h4vcmFjZrcgNZ6A1zZQArUaEw,Robinhood / SOL,0,8.21716157728e-05,100.0,research_failed,,,456.4,score=0.00 momentum=508%,mom
+2026-11-09T09:12:58Z,ENTRY,FhmSBYsx27ye2VAFBysNTD9HGE1oZseXoyBx3fzyrLhf,HONEYPOT / SOL,0,6.6524369171e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T09:14:27Z,ENTRY,DYWxF6CPesTW14MuFMVXvELZPfMTnNpprT8x5MijrqTQ,SI / SOL,0,4.53901939122e-05,100.0,research_failed,,,456.4,score=0.00 momentum=30%,mom
+2026-11-09T09:15:56Z,EXIT,AmP3enXv7D9nbYicyK6ZoyA2M7YwdzHYhKQz8Gw5NVC3,pruple / SOL,0,6.60751971865e-06,100.0,timeout,-8.67,-8.67,456.4,exit_bar=2026-11-09T09:14:00Z,control
+2026-11-09T09:15:56Z,ENTRY,6S6HLB5h8uspcZy6n9k2ABdVArx8xNeCDoQgqbnpwh4A,Luciaa / AAPL,0,2.05171290179e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
