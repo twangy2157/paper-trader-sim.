@@ -7034,3 +7034,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T10:59:30Z,ENTRY,BWYsVwNR4uojAv1X4uYgAycuaYxzJtsdD9bM54Q64x2T,Cock / TSLAx,0,2.14117405229e-05,100.0,research_failed,,,456.4,score=0.00 momentum=10%,mom
 2026-11-09T11:00:58Z,ENTRY,37yW2danUB5AA2jr99gKPKUTxrkcZLHd4vjecqaKLNym,CURVDCAT / SOL,0,2.0618626052e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
 2026-11-09T11:02:27Z,ENTRY,7cgKGzf72tocoVSnophGcCXzsG33hEnKT61dfuYXLe8i,SI / SOL,0,2.89010697041e-05,100.0,research_failed,,,456.4,score=0.00 momentum=149%,mom
+2026-11-09T11:03:59Z,ENTRY,8LSxrygrWyAbGdeCYqdTGCmhdegYK3xfSJgCzqFP1RaW,PETE / SOL,0,1.22562244904e-05,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
+2026-11-09T11:05:28Z,ENTRY,H723q3EPnzPSP7qmoRxbx3dd5krEqJeEJf4EukRAgUKP,BANK / COINx,0,2.55516282434e-05,100.0,research_failed,,,456.4,score=0.00 momentum=322%,mom
+2026-11-09T11:05:28Z,ENTRY,8yyYRQHHtHu6D4zaP1epukTQQNixVmmcfhZrRuAouo4A,CURVD / SOL,0,1.58448855542e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T11:06:56Z,FAILED,CGyUNSWjD3HfSkn8TLUEA4CE2w4W9ZnCEB5uxKvUTHFU,DLSS / SOL,0,4.44731731556e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T11:08:25Z,EXIT,DoUbom7fD1zRvAD1qy9F868r8aDXD9jarfxj5hL57jkq,STONKERS / SOL,0,1.36052053923e-05,100.0,timeout,-6.61,-6.61,456.4,exit_bar=2026-11-09T11:07:00Z,control
+2026-11-09T11:08:25Z,ENTRY,Hjd2TcbXxnKpSAqw7gcCTFFSDE4B3LxBuKBqyiZ7hZ4,GORP / SOL,0,3.1806245418e-05,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
+2026-11-09T11:12:30Z,EXIT,5hAAs7ez9RA32rV163rhsN1J9d5qVEnxfWowNSxf1ud9,$SLJK / SOL,0,1.08301788704e-05,100.0,timeout,-8.44,-8.44,456.4,exit_bar=2026-11-09T11:11:00Z,control
+2026-11-09T11:12:30Z,ENTRY,GCSeFqayurUqCde2sTHSBXMQbVBXBvBWuu8NJ3WY8gPp,mmrich / SOL,0,1.32408438427e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T11:13:58Z,FAILED,5Gnjw5XHnkThtbJXLBAdJaLoqh9RwF3wvLdhemos3TWv,CRY / SOL,0,7.09443202786e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
