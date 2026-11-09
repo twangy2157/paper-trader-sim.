@@ -6919,3 +6919,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T08:20:40Z,ENTRY,GFp88KDDhBHN1FNofUgZg2RHHuUa6QBSXFEEc9cJUNkf,FLACKO / SOL,0,1.0588626098e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-70%,control
 2026-11-09T08:23:30Z,ENTRY,H96jonMjVzms5b9hALdKmPHTHqYN9sByrvnFrn51K4Up,STONK / SOL,0,4.31004641063e-05,100.0,research_failed,,,456.4,score=0.00 momentum=26%,mom
 2026-11-09T08:23:30Z,ENTRY,JCB5Yyks1a6SgyZWZawvF8hd65diK91xpW8wAtTJGtH3,BUIDL / SOL,0,8.19359721003e-05,100.0,research_failed,,,456.4,score=0.00 momentum=11%,mom
+2026-11-09T08:25:09Z,ENTRY,4jwoLRmvRUcHj5S3jPn7dDxBynZhStDeXFghdqbqArak,牛逼 / SOL,0,0.000182877937958,100.0,research_failed,,,456.4,score=0.00 momentum=78%,mom
+2026-11-09T08:26:30Z,FAILED,m6rqR2zHY4a9GgzpLiqNjSxBawKkcRfT8W1C9p3rs9g,XT O / SOL,0,0.181277558786,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T08:28:06Z,ENTRY,8td2de5JfnaXXpFJmbFAvMpqB3aaKfmiv2RNRewGCskd,FLACKO / SOL,0,3.23355013033e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
+2026-11-09T08:30:56Z,ENTRY,FHLXvCV6i3ToUWGkvpFsf3gG3GkHSQbACtPR8y8iJAiT,NVIDIA / SOL,0,7.25822951498e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T08:33:54Z,EXIT,7bBmMYR4UdPx4e96Bvc91FKnKpabsdUgoDJ1aKi6P6Ez,JUMP / SOL,0,6.52826990499e-06,100.0,timeout,-10.03,-10.03,456.4,exit_bar=2026-11-09T08:32:00Z,mom
