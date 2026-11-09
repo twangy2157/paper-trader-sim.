@@ -7249,3 +7249,18 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T15:31:30Z,ENTRY,4xGjX5KH7dZH4imQXp2ZuaL4vyD69rjzS3KTwpjHbqYZ,CHAINCHOMP / SOL,0,2.73967497388e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-32%,control
 2026-11-09T15:33:07Z,EXIT,8LfCUR2t5fJ6Z6fJ1s5Aw9sgHjKWRcqjL28QDWHQ8j69,GASCOIN / SOL,0,6.05512129193e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T15:30:00Z,mom
 2026-11-09T15:33:07Z,FAILED,A9DgeZVhjQGpGY2Ps7TUCeHyM3dRLYJ8iLa6mXV1yqbV,LLM / SOL,0,1.71649336222e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T15:34:39Z,EXIT,3zhDMuSzRgruGqunMK5XiuGrxCLK1kALdzxd7BbTaa7U,lexi / USDC,0,8.8478508038e-06,100.0,timeout,-8.21,-8.21,456.4,exit_bar=2026-11-09T15:33:00Z,control
+2026-11-09T15:34:39Z,FAILED,9d2HkCeM7AuFuv6fU9vm1fZ4Nr3ZK5jYouSXp1K4Aqbw,AVAX / USDC,0,8.8513555745,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T15:36:16Z,ENTRY,GZKtedk4V6dEArS9ukynaj3JrYL1acaRo9B5JAXf7KGb,Max / SOL,0,7.39591546188e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-25%,control
+2026-11-09T15:37:31Z,ENTRY,3ZkdgjJiNbBtV19C7nJjcBeXZHKhs37jZJrpeGm2z6Kn,Suncoin / TSLAx,0,1.90408582368e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-09T15:37:31Z,ENTRY,H1UHwcPYJqFpQdKKGek2v5ST1nU29HYYUSAdcY2dAb5U,$Max / SOL,0,2.43477715427e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:37:31Z,ENTRY,A2iFeQSfD7prLB6vE4DvQxP3FkqwWRV3X8NR4Bt5a7iD,SUN / SOL,0,1.8982845166e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:37:31Z,FAILED,CNWQunvxgsguY24zorQTfnAJf7RW72Di1ncqf945Lyyi,ELE / SOL,0,1.46824364719e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T15:39:07Z,ENTRY,FCCCAu2GwEnc9mWF4SyCh2fKK7gRF3MYJ3CavHBbaQr6,CRYSTAL / SPCX,0,4.24391906436e-05,100.0,research_failed,,,456.4,score=0.00 momentum=527%,mom
+2026-11-09T15:40:29Z,ENTRY,EHgaMtSyhUtKKTzbfhqXe1a8j5M14PZv8BPjSKHmSUP1,PI / SOL,0,1.95189635424e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:40:29Z,ENTRY,8TmUfmybPjJGu1VQu9dhjJRhczjoMPhC2NuXUFCf6Lg3,RasimOza / SOL,0,1.00434657961e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:41:58Z,EXIT,AeVyw6mpCexAmfsSpKMWivEdVZ4KVhtBoC6cMCaBD3bf,SCHWAB / SCHH,0,2.1092868842e-05,100.0,timeout,-4.04,-4.04,456.4,exit_bar=2026-11-09T15:40:00Z,control
+2026-11-09T15:41:58Z,ENTRY,FUBr6AwzJywsDWsjsKz8xmnQX82mY8pGcj98trezEqzU,SA / AAPLx,0,2.10331600497e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-09T15:41:58Z,ENTRY,8gQNS1WvevWUnkTag7aSK8jXe5stLxp7FuCMQZDUBKyr,NYSE / AVAX,0,2.00585641441e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-09T15:43:27Z,EXIT,DidvJVfjW3fozLeXrrkHhh3YBY39DbssoCZpTMpB7kj7,spyless / SOL,0,1.81025742688e-08,100.0,rug,-100.92,-100.92,456.4,exit_bar=2026-11-09T14:43:00Z,control
+2026-11-09T15:43:27Z,ENTRY,85YpXf4fxXZ7joubJupVWdCTU47XuZYwKcxjfqdU4uoF,MAX / MUSK4,0,1.96281479645e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
