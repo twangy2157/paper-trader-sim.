@@ -7125,3 +7125,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T12:55:26Z,EXIT,3ezHwWiKLLZrzCzJFkrTvn8c7t6otwXJZ1g5qW7fydKn,pink / USDC,0,1.0585831217e-05,100.0,timeout,-7.48,-7.48,456.4,exit_bar=2026-11-09T12:54:00Z,control
 2026-11-09T12:56:55Z,EXIT,maetrNqj2Cp1H3GsPuXQoV9zTGjhEaqFvnDgWVXZ69Q,牛逼 / SOL,0,9.67359920585e-07,100.0,rug,-99.01,-99.01,456.4,exit_bar=2026-11-09T12:03:00Z,control
 2026-11-09T12:58:24Z,EXIT,9BmeiftaAsinxTuatHmghWG9YTpi5tq9wFSS3eidKT4H,11.11 / SOL,0,4.46551186895e-09,100.0,rug,-100.99,-100.99,456.4,exit_bar=2026-11-09T11:56:00Z,mom
+2026-11-09T12:59:49Z,EXIT,9apTGioPFG2XeFpRwNeik5w1kWkCDX9XMJk1rfJyCbC5,USPR / SOL,0,0.563992319044,100.0,timeout,-0.68,-0.68,456.4,exit_bar=2026-11-09T12:57:00Z,control
