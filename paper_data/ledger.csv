@@ -7264,3 +7264,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T15:41:58Z,ENTRY,8gQNS1WvevWUnkTag7aSK8jXe5stLxp7FuCMQZDUBKyr,NYSE / AVAX,0,2.00585641441e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
 2026-11-09T15:43:27Z,EXIT,DidvJVfjW3fozLeXrrkHhh3YBY39DbssoCZpTMpB7kj7,spyless / SOL,0,1.81025742688e-08,100.0,rug,-100.92,-100.92,456.4,exit_bar=2026-11-09T14:43:00Z,control
 2026-11-09T15:43:27Z,ENTRY,85YpXf4fxXZ7joubJupVWdCTU47XuZYwKcxjfqdU4uoF,MAX / MUSK4,0,1.96281479645e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:44:59Z,ENTRY,8kQhNhdRxX6yf3c3xpdxhv3AE95CJ7Ckr3h7hRz2T6wJ,SpongeBob / SOL,0,4.33918512517e-05,100.0,research_failed,,,456.4,score=0.00 momentum=21%,mom
+2026-11-09T15:46:28Z,FAILED,8jmcTavDcfa2cV9ZEiBvywNwk7ZxwqupudopMpbjPA33,MIMU / SOL,0,1.87670122512e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T15:46:28Z,ENTRY,HmZ2TndCHKrvUKUf6BkWf7TX2Kc1FMrobdLNNxWuwTy2,XTO / SOL,0,3.02687376154e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T15:47:57Z,ENTRY,87rs3VMdVRCqjjo3fW8K9MSkf5w9LXprNf6RM5DjjPjY,SpongeBob / SOL,0,4.43366100873e-05,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
+2026-11-09T15:49:26Z,EXIT,y3XDNHoHFnT4Q98DcnPQCJYfvsmMue67219ni3edRwj,HYPEPE / SOL,0,2.34819187997e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-09T14:48:00Z,mom
+2026-11-09T15:49:26Z,ENTRY,EpQWY858ikKmBoSFh8u8dqLotxpX1sJkbUSi3QWMNFsa,CRYSTAL / NVDAx,0,2.00465932043e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:51:03Z,FAILED,8AVSQ6cWQv2AFCy2hhV6v5j4Q5RX4RnASWNpxTMbW9fe,GrokSchool / SPCXx,0,1.97750173138e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T15:51:03Z,ENTRY,71vancKEEDQozw34aa6mT9x6vkdxR7PdLfU7jD5A8Rse,SPCX28K / SOL,0,1.54034810298e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=5%,control
+2026-11-09T15:52:25Z,FAILED,5ibHygLqcYvmHedGAat3K16m2S58yHoKC1ML3yqB4iWb,Max / SOL,0,5.54845008955e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
