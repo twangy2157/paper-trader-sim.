@@ -6900,3 +6900,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T07:47:30Z,ENTRY,E12Hvc45NRLjfixuey4PtuKTVgA2EozvyFDBQ69cA4mK,Froggy / SOL,0,2.11988757649e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T07:49:06Z,ENTRY,Fm8Sv7RdhvKDNWVhk5xh1JY3m43myzXhnzYBHGBjT9oj,TWAAAHNG / SOL,0,4.37746381704e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
 2026-11-09T07:50:27Z,FAILED,BaeFuPgi2DCGAnvcx2epy4Kvzd6fysVz42X3UATYUDVX,PUSSY / SOL,0,4.46212204504e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T07:51:58Z,ENTRY,DuhghU9bhQaswMeSz3rYbmGZUoWcdiqEFHy6tP46DJY5,FOTF / SOL,0,0.703451954515,100.0,proven_pool,,,456.4,age=145min,proven
+2026-11-09T07:53:27Z,ENTRY,2JSsBaFdMf2SGLoEQA8XPe1YXKTzDraNVECoCDAJR3wD,GATO / SOL,0,1.30496440684e-05,100.0,research_failed,,,456.4,score=0.00 momentum=56%,mom
+2026-11-09T07:53:27Z,ENTRY,AJhJYM8fsqQZYuR87q2C1BWP939ibf1V5R4zhCCeDgdj,CHICKEN / SOL,0,1.89253974228e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T07:54:56Z,ENTRY,HYyvA8q9dfpSdTc5oE1JGZvYoP5vgwniSx2zPGr9wHfE,MUBBO / SOL,0,1.18759650616e-05,100.0,research_failed,,,456.4,score=0.00 momentum=61%,mom
+2026-11-09T07:56:24Z,FAILED,Bs9Hx68RuyiTycBZBMNvwkQ61cdZH46g4JXaqDjo7LmB,FOTF / SOL,0,0.129958059052,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",proven
+2026-11-09T07:57:46Z,ENTRY,AuKbABWddvWv2XQLtEdt3RfdKsw4mYCAHejnTphpJaqJ,CEO / SOL,0,2.11330282336e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T08:00:29Z,ENTRY,8G9di1mcUNtseu1hRVS6WNJbUt3d5bVT64oqCQsaoHpw,Memes / SOL,0,2.11022955531e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T08:00:29Z,ENTRY,Ct2YS897twiGrKYAW1FJjEMQDqNd2CofKSnJVtqcBWGC,MEMES / SOL,0,2.58790786492e-05,100.0,research_failed,,,456.4,score=0.00 momentum=187%,mom
+2026-11-09T08:01:58Z,ENTRY,95S92pCzedRu2aE5fjAvUhxLYvvxxYXuRWARjAhnSTXW,花 / SOL,0,1.22628635747e-05,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
