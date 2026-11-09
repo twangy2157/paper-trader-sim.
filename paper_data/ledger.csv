@@ -7051,3 +7051,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T11:21:26Z,ENTRY,HU8xNUEMUrVsB89W73C7wWJSNhQJ8cqp1APqZDTxaueR,SUI / SOL,0,2.97972149134e-05,100.0,research_failed,,,456.4,score=0.00 momentum=171%,mom
 2026-11-09T11:22:55Z,ENTRY,7PwkbQX695qMu8F3nyqs5ucDyPAtYijmoJvBQP3RsHcs,GrenCAT / SOL,0,2.97120638676e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-09T11:24:16Z,ENTRY,8ezPK4tvJHqTA5YwvDsYtCo3jFuDSQHGfpBJ1L1kRNxz,LOOONG / NVDA,0,1.64811994656e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-09T11:25:33Z,EXIT,BxytVe8BRuBZ2NLkhpijtkpo9ejaSk5KDf6hh6sCTJR2,Coinbank / SOL,0,2.89547778292e-05,100.0,timeout,-4.32,-4.32,456.4,exit_bar=2026-11-09T11:24:00Z,control
+2026-11-09T11:27:09Z,ENTRY,J1Uac5X7XTCRRaaevpziR9fJa4JaGdYya6d9y17BVL6q,Sheep / SOL,0,4.45203639752e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
+2026-11-09T11:28:24Z,EXIT,6P4DBvLNsB3QH6JXDP96Yapix4ypC5Zwi4BYXBfe9qy2,ROCKET / SPCXx,0,1.89032284669e-05,100.0,timeout,-4.99,-4.99,456.4,exit_bar=2026-11-09T11:27:00Z,control
+2026-11-09T11:29:45Z,ENTRY,AbeqUp52HjDpVs6UPPsJxoszEHNkSuqYGZZLRsUv38cb,UODF / SOL,0,0.121386937718,100.0,control_no_momentum,,,456.4,score=0.00 momentum=3%,control
+2026-11-09T11:29:45Z,ENTRY,FqE68HJeTRsZGsKW9PrsskCqUXQ8ZqrcZFMnAs25AyYf,FOMO / SOL,0,8.94419605956e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-8%,control
+2026-11-09T11:31:21Z,FAILED,Cz8LJpEAenhMz3tip5VNfqRh3VXpPnaRATCjj5BYYxn7,Fartcoin / SOL,0,4.27144224257e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T11:32:43Z,EXIT,Dpu6GMfuk2xZs6fm95HhZMmzvGMTx5qcANAJGmHJz7xz,ROCKET / SOL,0,2.99203567537e-05,100.0,timeout,-4.26,-4.26,456.4,exit_bar=2026-11-09T11:31:00Z,control
