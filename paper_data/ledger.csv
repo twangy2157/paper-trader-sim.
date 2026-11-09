@@ -7236,3 +7236,16 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T15:21:39Z,FAILED,25q8HUKgZw4V2toRDnRBQE82bmxzoijMKJkTqofGyA1q,PUSSY / SOL,0,4.49730214247e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-09T15:21:39Z,FAILED,31fyrZ5V8YkT3bxye9JtsCBSDsoMxq9YLoy2Qx2syG47,HUNG / NVDA,0,1.64789096472e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T15:21:39Z,ENTRY,D75x2whY2HfzNaNA5UAbnXg6Qptc9WeufD7vghaKtwiv,DIH / SOL,0,1.77067712214e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-09T15:23:18Z,FAILED,CZyazZ9iKWfei6YgiLMCMH4PYE783xr9GDkY7TvEcxbJ,POTATCHI / SOL,0,4.32944739587e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T15:23:18Z,ENTRY,HvfmvzLxqSfCi6TVjERJGTB6gjzCBT98mZsdyLh3t7QA,ELE / SOL,0,2.10697195182e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:24:40Z,EXIT,8QNQz55JT1fbZjr4wAi3jDVXYFBri7ZPWHenmRtAVVkJ,GORP / SOL,0,6.01942451388e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-09T14:44:00Z,mom
+2026-11-09T15:24:40Z,ENTRY,y8C7zs8rSgrsz2ywfftTVhVhAZNwsAhz1EKeWTz18ag,SKRtt / USDT,0,0.780106412165,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T15:24:40Z,FAILED,9uL2UDh3jxjTGUvMdSeopkHXMbApmraMjXDyfdUYUoVm,HI / HODL,0,9.94076246407e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T15:27:31Z,EXIT,4kzytAbgPYcKg7kXoyU1mVjkwaTnNYUCMhAoth8u43Wt,queef / USDC,0,8.6934272261e-06,100.0,timeout,-10.93,-10.93,456.4,exit_bar=2026-11-09T15:26:00Z,control
+2026-11-09T15:29:00Z,ENTRY,9WinVgSpCAaeCGZZ22493zDNmq6gM2XTDPMrQi2Z4FVz,KI / SOL,0,1.96204110575e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T15:30:15Z,FAILED,2jjvzx1AeZLepuufYHZ6jxAhcs4xgoeNcwiVDoACJnfD,ELON2028 / SOL,0,6.7052707079e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T15:31:30Z,EXIT,2yBNU1pbjYTgpSRUAwtXPqEMTYNu3n8xB7B5CPnHCQ3q,Percolator / SOL,0,5.826984095e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T15:30:00Z,mom
+2026-11-09T15:31:30Z,ENTRY,8FWYCGufhUsf5gxWLU5g8TwvJMaJbpW8Vjc9k8KK26Uf,Doomerlon / SPCXx,0,2.01184872311e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T15:31:30Z,ENTRY,4xGjX5KH7dZH4imQXp2ZuaL4vyD69rjzS3KTwpjHbqYZ,CHAINCHOMP / SOL,0,2.73967497388e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-32%,control
+2026-11-09T15:33:07Z,EXIT,8LfCUR2t5fJ6Z6fJ1s5Aw9sgHjKWRcqjL28QDWHQ8j69,GASCOIN / SOL,0,6.05512129193e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T15:30:00Z,mom
+2026-11-09T15:33:07Z,FAILED,A9DgeZVhjQGpGY2Ps7TUCeHyM3dRLYJ8iLa6mXV1yqbV,LLM / SOL,0,1.71649336222e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
