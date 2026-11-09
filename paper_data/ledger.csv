@@ -6858,3 +6858,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T06:13:18Z,ENTRY,6AdyVGRP2xJL7AiM8KyWoWBGrV4yxo7ydrMv6xpjxHQU,GrenCAT / SOL,0,1.30354205275e-05,100.0,research_failed,,,456.4,score=0.00 momentum=10%,mom
 2026-11-09T06:14:40Z,ENTRY,CK7KACtpiDyQEXuJS48bphhcHM8afAnZFT8i6pE4SwxD,IF / SOL,0,2.30010022682e-05,100.0,dip_after_drop,,,456.4,score=0.00 momentum=-37%,dip
 2026-11-09T06:16:16Z,EXIT,8Lyh7st5TXZAxB6b8Fx3RnFdVJQFHLjEbERimZi8SWRg,Rooster / SOL,0,1.70598150515e-05,100.0,timeout,-7.54,-7.54,456.4,exit_bar=2026-11-09T06:14:00Z,control
+2026-11-09T06:17:34Z,ENTRY,8P9m4aMLS4xEQEkRegfj4QKHiQqM7BUHYSaSWjFDmnuT,KAME / SOL,0,4.31220586929e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T06:17:34Z,ENTRY,3uf6smjYp6nhv5Guxha1aByfAScZy48PhgKNKBp7uTXS,PUSSY / SOL,0,8.24033735522e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
+2026-11-09T06:19:10Z,EXIT,6rAfQNCejKMGNjrr7xYShJpJr9vRZSva2o5VReCE6Dfn,Gemini / SOL,0,0.000113400800853,100.0,sl,-42.89,-42.89,456.4,exit_bar=2026-11-09T05:34:00Z,mom
+2026-11-09T06:20:25Z,ENTRY,ExfRYsnAzJcd3V6r7yne7EVv2RWyFDWbFRAPtAyyHryg,Democat / SOL,0,2.39847639477e-05,100.0,research_failed,,,456.4,score=0.00 momentum=32%,mom
+2026-11-09T06:21:54Z,FAILED,5EhuGqj7Demp1c7ZaLWZdWEX9AGAveewAcDPTYnBBpHu,DEYES$ / SOL,0,7.73944806194e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T06:23:16Z,ENTRY,HJjcB7RQLYbAsRmBDWCAdRE4cB6JXeDBWVx3capT66Wn,COCAINU / SOL,0,1.89053369424e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T06:24:30Z,ENTRY,9kVii6JBaBwVm3XkNEbYYgPRprq6JbwV24ZEKkpL3mi4,Horned cat / SOL,0,4.0524736262e-05,100.0,research_failed,,,456.4,score=0.00 momentum=94%,mom
+2026-11-09T06:24:30Z,ENTRY,DD33im4GAzvh7qrotxoTjFwLbfsYX9hywhhqfT6KmGTo,queef / USDC,0,1.0583655043e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T06:26:07Z,ENTRY,4rB9yQAQzhqWHhtU6c4n4Rsjprv6fCZkZxjtdRKoP5k1,GOKU / USDC,0,2.03069965233e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T06:26:07Z,FAILED,HBnCU1mD4QMw9yTdgKkKrb3xLXv8rYKeD5wc8DhfFFbS,MASK / SOL,0,2.08684075085e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T06:27:28Z,ENTRY,FcnzpdgVbFAbiNG4NsTGeAa14kS8NYW7mi4n3sd3sR6B,牛逼 / SOL,0,5.55170627093e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
