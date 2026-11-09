@@ -7484,3 +7484,17 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T19:44:28Z,ENTRY,BMEgaWTwfFbvDxqLcPP52gwGNP49547LQTfNQFfbwGQn,FLOATER / FLOAT,0,1.67994820472e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-10%,control
 2026-11-09T19:44:28Z,FAILED,F79e62G8X8GweFBL7ojy2XyYp6DMtrRVQEMmt6dBfYtg,STP / USDC,0,5.0027466385e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T19:44:28Z,FAILED,8goMXwWYRhnE4PbmJweEKdvDTV6S5CkmpbcCUxTyPGWd,NGrs / ANTHRP,0,1.82490923042e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T19:45:30Z,ENTRY,CeGcHggoezccMZUmDG64DcAFag1Kibo4FsTcXCEYT4Hg,DUMPSEY / SOL,0,1.76310458641e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-09T19:45:30Z,ENTRY,8viRB3KE5Vt9XMZYVzdRLVhRJ9mcBTx7gmaDkG1bEzsT,pemper / SOL,0,1.70957043615e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-09T19:46:44Z,ENTRY,AmBiH8VCQpHHk8KzZMHtUQQFqGtTWYdB2Fq6sjzr9Kk8,ELE / SOL,0,1.24680648599e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:46:44Z,ENTRY,5aR8aC5ScMPNzUSyhhYcUN3X9gDkitQUa8DgfWSq8eRS,mihao / SOL,0,3.65847647724e-05,100.0,research_failed,,,456.4,score=0.00 momentum=264%,mom
+2026-11-09T19:47:42Z,ENTRY,46mZT7ttCvrFqTYCPapncsLhAqAgwPm9x9xtY8wBH4ux,Floatbaton / SOL,0,1.71619159776e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:47:42Z,ENTRY,4BiaZqsEecxUU7ScgkeWgno97b3h8JgAWPfZAroCp45R,FLOATBATON / FLOAT,0,1.65229735948e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:50:01Z,ENTRY,GoyrnqxmPgVmLxnh2zqidVGdiy7WU22coRDCWuRuMkTY,WILL / SOL,0,1.93145578776e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:50:01Z,ENTRY,9Jpbi6abEjrfSZ1NpcMfDDw3AuxYPX1vCLs8NcytMmWs,Fable / ANTHRP,0,1.8866244583e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-09T19:51:30Z,ENTRY,81a8AsAXeDJ2NLvaU4FwwBrFgeaES33qswF47hNWhVm4,FLEPE / FLOAT,0,1.65381454781e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:51:30Z,FAILED,LrzrLC7H9e4Fkk6Dy1v9dgiUdmpkNeowQBV3FkA6SMx,SEPE / STONK,0,1.97625393125e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T19:51:30Z,ENTRY,B1JYoiZFUKBeZi7o3kYxYoBVFcegbPFCxdPRGzVTd8MT,DUMPED / SOL,0,1.93234777554e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:51:30Z,ENTRY,2PfuNEqmnEi19KY4td9tVvJnqpEpHehbDw2FcW7xBRNj,SEPE / SOL,0,1.72212240576e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T19:52:28Z,FAILED,5qymGQZAKS6PhUSzn2p6TErnsbXrSksAb12Q9v8h2UwU,WILL / SOL,0,6.03234197319e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T19:54:41Z,FAILED,4X9VFfHiS9dRpkjCuFh85NGXKM5yqHRJNb54fpKcSN75,USDF / SOL,0,0.000182597554192,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
