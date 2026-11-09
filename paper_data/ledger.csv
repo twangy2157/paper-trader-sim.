@@ -6723,3 +6723,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T03:23:28Z,EXIT,AUm6WPgK7EGrj9q1svQ4kUkMcGFNnZfYLDu1tQEJiSJx,LLINU / SPCXx,0,1.87694863148e-05,100.0,timeout,-7.5,-7.5,456.4,exit_bar=2026-11-09T03:20:00Z,control
 2026-11-09T03:24:57Z,EXIT,EAAdrxbMxAWPfhvusZydWqSW4vopduZuHz1ebnN3kV6k,$SOL / SOL,0,8.06979498773e-06,100.0,timeout,-9.35,-9.35,456.4,exit_bar=2026-11-09T03:23:00Z,control
 2026-11-09T03:26:27Z,EXIT,2MXbKaXetmir96iF9G1qPQ5WoJsiQ9jeMgUrWZ84Z9Z7,CASINO / FRONTIER,0,1.83709395653e-05,100.0,timeout,-5.06,-5.06,456.4,exit_bar=2026-11-09T03:24:00Z,control
+2026-11-09T03:27:59Z,ENTRY,4cp9nGJYJMaay7Dm7op36JCe6hfe6FACxuK5JACGdVjS,牛逼 / SPCX,0,3.15068557236e-05,100.0,research_failed,,,456.4,score=0.00 momentum=323%,mom
+2026-11-09T03:27:59Z,ENTRY,BZfmxtWsk6fxRMSJzpBbzoH1Hhj3MTnKzpdb6Me5UguC,CI / SPCXx,0,2.0302181319e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-09T03:29:28Z,ENTRY,7MF1ezJeVYhanpdZVgS4v5do4rYbQ99sMdrHV64h58Xx,ANSEM / SOL,0,0.000141994811514,100.0,research_failed,,,456.4,score=0.00 momentum=36%,mom
+2026-11-09T03:29:28Z,ENTRY,CrcGeC6u5qdVwF7CwiZrjxyCmKysft3SfaEMWHuEaxFp,HENTAI / SPCXx,0,1.92110940119e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T03:30:58Z,ENTRY,3xd2c8jEbVRFV4fQRxTBk5Up889cmCdoimCj6zcWenyE,SILICON / SOL,0,2.0004858705e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-7%,control
+2026-11-09T03:32:26Z,FAILED,6MD4nqgcoWwZ4zFKou1bwKSpVNwMifgbidYZ9uztUpWH,JENSEN / SOL,0,4.77751741101e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T03:32:26Z,FAILED,BBDJqRrpJ3DnaMvCyCqXoXn4LZYHzN23QPQewMVemnH6,X / SOL,0,1.71465022854e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T03:35:24Z,EXIT,Ef19HPwE5JFJjQZL9AnmsLPmU52k4MtnPzj2WeKuYT4r,CIRCLEJERK / FRONTIER,0,1.75946506446e-05,100.0,timeout,-7.99,-7.99,456.4,exit_bar=2026-11-09T03:33:00Z,control
+2026-11-09T03:36:46Z,EXIT,FqR3hK8kamBhgZxAYQLQz4YkXxyGbqJXfBybYEtgkkmi,ddskskd / SOL,0,1.71937462344e-05,100.0,timeout,-5.2,-5.2,456.4,exit_bar=2026-11-09T03:35:00Z,control
