@@ -7273,3 +7273,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T15:51:03Z,FAILED,8AVSQ6cWQv2AFCy2hhV6v5j4Q5RX4RnASWNpxTMbW9fe,GrokSchool / SPCXx,0,1.97750173138e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T15:51:03Z,ENTRY,71vancKEEDQozw34aa6mT9x6vkdxR7PdLfU7jD5A8Rse,SPCX28K / SOL,0,1.54034810298e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=5%,control
 2026-11-09T15:52:25Z,FAILED,5ibHygLqcYvmHedGAat3K16m2S58yHoKC1ML3yqB4iWb,Max / SOL,0,5.54845008955e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T15:57:31Z,EXIT,8m1kzArGtPkKsAU16jyrK96U4svm28pdvMWwWoBzPq27,Cousins / SOL,0,5.08474852139e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T15:53:00Z,mom
+2026-11-09T15:57:31Z,ENTRY,2upNTyRntjCh2Hgb4aojN9LnKZFKEmtwtToFitULCScX,DOUG / LMT,0,1.94997770986e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-09T16:00:15Z,EXIT,AbPRPGcHnkyKEBG4QUqzaeqZ2tK7faXBdjKTYCxJAxvo,GASCOIN / SOL,0,7.78355738861e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T15:59:00Z,control
+2026-11-09T16:01:30Z,EXIT,AMeP9pgGZDVsbK1ph3ptWkiTPdN6RfyYxNaLrTkyFbSk,spyless / SOL,0,2.84786113223e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-09T15:01:00Z,mom
+2026-11-09T16:03:06Z,EXIT,A7KUhwggGB7kqJ2HQ4MTSQsoxbtTcG8GPJd8nowj1wGe,ELON2028 / SOL,0,3.13619148265e-08,100.0,rug,-100.84,-100.84,456.4,exit_bar=2026-11-09T15:02:00Z,mom
+2026-11-09T16:04:28Z,ENTRY,DrP1fYRN2gyq6rxtUtWoUdhWdFRSxXJdLJBJtLY5ddaE,HUSSSHUSSH / SOL,0,1.90417532713e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
