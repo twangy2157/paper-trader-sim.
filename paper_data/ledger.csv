@@ -7058,3 +7058,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T11:29:45Z,ENTRY,FqE68HJeTRsZGsKW9PrsskCqUXQ8ZqrcZFMnAs25AyYf,FOMO / SOL,0,8.94419605956e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-8%,control
 2026-11-09T11:31:21Z,FAILED,Cz8LJpEAenhMz3tip5VNfqRh3VXpPnaRATCjj5BYYxn7,Fartcoin / SOL,0,4.27144224257e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-09T11:32:43Z,EXIT,Dpu6GMfuk2xZs6fm95HhZMmzvGMTx5qcANAJGmHJz7xz,ROCKET / SOL,0,2.99203567537e-05,100.0,timeout,-4.26,-4.26,456.4,exit_bar=2026-11-09T11:31:00Z,control
+2026-11-09T11:35:43Z,ENTRY,6XDExuewmwXtod6Fh6YASsbPqP6r9DvaSxjsZktSJ7eX,牛逼 / SOL,0,8.1649064885e-07,100.0,research_failed,,,456.4,score=0.00 momentum=59%,mom
+2026-11-09T11:35:43Z,ENTRY,CKkf7CAMU3mXckG8rbsAFCoQN8S7qybBC8C5iB4FVpwf,BANK / SOL,0,0.000110895385761,100.0,research_failed,,,456.4,score=0.00 momentum=122%,mom
+2026-11-09T11:37:20Z,ENTRY,DGaHhZjmJee7mkv1gbHi73oRBR8oMUHUUGNQWDPY4ghf,牛逼 / SOL,0,8.95718903603e-07,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
+2026-11-09T11:38:41Z,ENTRY,AQ5w4TwykUhCPWSAiQXK7nwmfgCe6qh6U7Tshseu7bbT,ROCKET / SOL,0,0.00172639202318,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
+2026-11-09T11:40:17Z,EXIT,Ds3a2C9QjKNFqowZJbc6PnBJhnv5HyhmeNS78zBWRyUY,Gifli / SOL,0,0.000101144983575,100.0,timeout,-6.33,-6.33,456.4,exit_bar=2026-11-09T11:38:00Z,mom
+2026-11-09T11:41:39Z,EXIT,63iFMv7AL6MHrj8MquYDNfJ3rC5aNE5VdMhTAAteKwMF,PUSSY / SOL,0,1.55066559387e-06,100.0,rug,-100.98,-100.98,456.4,exit_bar=2026-11-09T10:54:00Z,proven
+2026-11-09T11:41:39Z,ENTRY,3TeeFMj5mKNVNikq1Yrc9zU8r57woASQ2nYEPrC3SXnA,SI / SOL,0,1.88361729156e-05,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
+2026-11-09T11:43:15Z,FAILED,6WUbUwXVgvNuJ8kvv75QYNkWjvMr5jVHF3r4CG4pR56Z,SLINGOOR / SOL,0,1.43006598382e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T11:44:29Z,ENTRY,HGbJ4763nUYwFqRZ2WMEcRifZmb7DNBBdzbSREr6eUhp,CEX / COINx,0,3.53570481964e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
