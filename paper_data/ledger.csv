@@ -7067,3 +7067,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T11:41:39Z,ENTRY,3TeeFMj5mKNVNikq1Yrc9zU8r57woASQ2nYEPrC3SXnA,SI / SOL,0,1.88361729156e-05,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
 2026-11-09T11:43:15Z,FAILED,6WUbUwXVgvNuJ8kvv75QYNkWjvMr5jVHF3r4CG4pR56Z,SLINGOOR / SOL,0,1.43006598382e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T11:44:29Z,ENTRY,HGbJ4763nUYwFqRZ2WMEcRifZmb7DNBBdzbSREr6eUhp,CEX / COINx,0,3.53570481964e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-09T11:46:01Z,EXIT,Gzqz3ADQnFqpsFCPc4jFpWbqNUL3BFeE6zQ5eSsT9Tuu,Pepetide / SOL,0,0.000535114185186,100.0,timeout,24.38,24.38,456.4,exit_bar=2026-11-09T11:44:00Z,mom
+2026-11-09T11:47:23Z,EXIT,qqmPPusLcafgf53UVuPURCFLUXdHrknuGzzCgHmzDp1,Temu / USDC,0,3.56164766177e-05,100.0,timeout,4.76,4.76,456.4,exit_bar=2026-11-09T11:44:00Z,control
+2026-11-09T11:48:45Z,ENTRY,4ry8qpXEyi2aXhvUaZxvz1gLv2qJXA85mK7u5KrakVf1,GTAVII / TTWO,0,2.26559354583e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-20%,control
+2026-11-09T11:50:20Z,ENTRY,65nB4LU8i3rz5tjkYbad2xuBRskH4BP7gVLWCKJ6f4Xt,SOOTS / SOL,0,5.21235866888e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T11:51:42Z,ENTRY,4WqugyY5ekwEPEdh43tuTQj7NjATFdsnb6rumdkFX56w,AODF / SOL,0,0.00455070328416,100.0,control_no_momentum,,,456.4,score=0.00 momentum=5%,control
+2026-11-09T11:51:42Z,FAILED,AeoYGSobtCmCSENZrWZn6G6UrhEy1Q7wZpUWckytHTy3,USPR / SOL,0,0.122694711128,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T11:53:18Z,EXIT,EC6rC1z8Xeac2MxpPZnH5NPEngEEcKc5FgmK6DCx2ome,HUANG69 / NVDAx,0,1.66401468842e-05,100.0,timeout,-6.61,-6.61,456.4,exit_bar=2026-11-09T11:51:00Z,control
+2026-11-09T11:53:18Z,ENTRY,3ezHwWiKLLZrzCzJFkrTvn8c7t6otwXJZ1g5qW7fydKn,pink / USDC,0,1.08403611735e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T11:54:39Z,ENTRY,maetrNqj2Cp1H3GsPuXQoV9zTGjhEaqFvnDgWVXZ69Q,牛逼 / SOL,0,4.76966842545e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-20%,control
+2026-11-09T11:54:39Z,ENTRY,9BmeiftaAsinxTuatHmghWG9YTpi5tq9wFSS3eidKT4H,11.11 / SOL,0,3.0415184531e-05,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
