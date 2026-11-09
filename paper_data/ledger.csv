@@ -6647,3 +6647,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T01:37:25Z,ENTRY,Ac7thbwCXMhgjQA3ixjrFyQ7viwSRjwBLgt29deMSL7g,Kuma / NVDAx,0,1.71450408337e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T01:37:25Z,FAILED,5sQEUaqqcKFwvK7sTeysF1XhFgdwWEGLFQXa69Z9FfB6,TOMPEARL / SOL,0,1.86353153958e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T01:38:54Z,ENTRY,8TMRPF4kAJG9UxJ4oQTQCjJ8Wr1k4xP4JyC3PczCh6oi,CBUCKS / SOL,0,4.58202504052e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-09T01:41:34Z,ENTRY,FQnxN3d56Ar7nsrXmnsiUrWe6tW8bQG1gG6WzDA6Jx5x,VAMP🧛 / SOL,0,3.0843515724e-05,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
+2026-11-09T01:41:34Z,ENTRY,BvD9c7vewCVJHMGjBNKPzUdMu48xQrriFHv5gAvt5ifC,BTC / SOL,0,1.14231369835e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-94%,control
+2026-11-09T01:44:25Z,ENTRY,BgbNTAScPkSrpcJMAxL129k1NGkFfWyyUFGzY42fNU6z,APPLEPAID / SOL,0,2.50927561151e-05,100.0,research_failed,,,456.4,score=0.00 momentum=39%,mom
+2026-11-09T01:45:54Z,FAILED,FNUaimeMAYPmBGuybTEdiHcZFwtmT39MfPtX3yEsGaDf,GOOFY / SOL,0,1.75111578854e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T01:48:30Z,ENTRY,9v2V8UgF9jNmWfyHTwKcDHzXqsRComj8x2v6VPEknCcX,FT / SPCXx,0,1.89021704962e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-09T01:51:27Z,ENTRY,3ee84RvmCCBVBgDTH1KfCDwM9s6mCofE87oJh32RGK1a,BetOnBlak / SOL,0,8.85307174979e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
