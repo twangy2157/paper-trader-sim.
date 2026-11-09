@@ -7363,3 +7363,16 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T17:38:24Z,EXIT,A7CghWAv6mjM7odbj3q7THpHVMvnx8F1D8z81FmSd7pM,UODF / USDC,0,0.0321866624217,100.0,timeout,-3.18,-3.18,456.4,exit_bar=2026-11-09T17:36:00Z,control
 2026-11-09T17:39:46Z,ENTRY,CqBY6LmmLKDbu85T2KnPv7Ls3YXdCASQCQc2ruh1RZWc,USD1 / SOL,0,2.08516295173e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T17:39:46Z,FAILED,12Rmi9KuFmYT2CBvCtcEhBFdmgY2eGT6wW1qkRfALSZf,USOE / SOL,0,0.13124238029,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T17:41:18Z,EXIT,377PyY6qK5cN9vshqaJc28AvM9XdLSzKAvY9NSGXRVNh,pink / USDC,0,7.64125968888e-06,100.0,timeout,-11.63,-11.63,456.4,exit_bar=2026-11-09T17:40:00Z,control
+2026-11-09T17:42:40Z,ENTRY,9AeYsg9n7qGzBmc6Rgupabh8h1r49p7JERASaXjK4UCV,DKX / USDT,0,1.0057407603,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T17:42:40Z,ENTRY,CmxhcwHW7YHphkikphqicM3eCsAp5UtfZqj7Udmfp1WZ,FI / SOL,0,1.75054939498e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:42:40Z,ENTRY,9jFfehPJpSyvmPsYXqNxoT1tbaGZwcryjzVVsYNELD3J,LASTTRUCK / TSLAx,0,1.94083855265e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T17:42:40Z,ENTRY,2wSNtkd9C2gBASHco8Fr1ahNvTfedE6v6BQtKyZg24Kz,TESINU / SOL,0,1.94371243566e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:44:16Z,EXIT,J5h89ogTvMF9kXKwAvAkFeFdirKkbEiC8TJpfbZHik57,GB / AMD,0,1.94372481743e-05,100.0,timeout,-5.93,-5.93,456.4,exit_bar=2026-11-09T17:43:00Z,control
+2026-11-09T17:45:31Z,EXIT,ASLqvdGEobmDmNGP4SoWsb8MN6vs13H6CijTVAeykxwR,UDTF / SOL,0,0.00721029141106,100.0,sl,-37.96,-37.96,456.4,exit_bar=2026-11-09T16:24:00Z,proven
+2026-11-09T17:45:31Z,ENTRY,HNTnVzXUQBqPdM82BUiwByT5pP1KKUrHZVwrHBoazPAj,LAMPORT / SOL,0,1.69297432842e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-09T17:47:00Z,EXIT,6r6PQsMGmzp6bXuYQrwtEZmRMcdGxFhFLRaNnp9rKgEP,HODL / HODL,0,8.66777406944e-06,100.0,timeout,-10.95,-10.95,456.4,exit_bar=2026-11-09T17:43:00Z,control
+2026-11-09T17:48:15Z,EXIT,2aR6WHZu1kDzUUUpb5jxhh3rmfoASuKLiyrgiYBtLq3u,USOE / SOL,0,0.00905170651623,100.0,timeout,-18.06,-18.06,456.4,exit_bar=2026-11-09T17:47:00Z,proven
+2026-11-09T17:49:30Z,EXIT,EAZwXKqJ4siSCNkzuYZ7ksAZz7TQzjtJzh4b7T97shz6,SEPPUKU / WETH,0,1.77005635508e-05,100.0,timeout,-7.99,-7.99,456.4,exit_bar=2026-11-09T17:48:00Z,control
+2026-11-09T17:49:30Z,ENTRY,12vszpyuGjsjZgiH83iYDQAzPvpxURnhMShsv4PYQyAx,TREMP / SOL,0,1.88605508303e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:51:06Z,ENTRY,FPdzytv7Wm1EqzEqspGbUxghMwPHsUM1T7xLSBFjyVwc,OSARU / SOL,0,1.16717078035e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
