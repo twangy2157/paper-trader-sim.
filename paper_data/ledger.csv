@@ -7342,3 +7342,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T17:15:28Z,ENTRY,6Zi58cDKNr4Gs6vNXKWo21y4ZyHr7dfcEmReJVMEWHPA,WIFE / SOL,0,4.31095953766e-07,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-96%,control
 2026-11-09T17:17:01Z,EXIT,3W2xzT3U7YR8zsLbGnLckyFVUGGbA3Fit2VRN9ELFbcp,USPD / USDT,0,0.996800483394,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-09T17:15:00Z,control
 2026-11-09T17:18:16Z,ENTRY,BCaVsqk7tVpePozqF8pb87wEwkromGZ9wpUQjqqhzDYN,LMC / SOL,0,1.00286182509e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:21:11Z,ENTRY,7YvxxJ9j2seNV8XsxRevK9WfkdMdf4pQjdvkU7sN8K4t,SWAN / SOL,0,1.89659607266e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:22:26Z,EXIT,F39AkTaTNuW68pu5qCXPrYjhhJRXKEHbBnjEFgndNJGd,ELON2028 / SOL,0,3.49975155067e-05,100.0,timeout,-7.37,-7.37,456.4,exit_bar=2026-11-09T17:21:00Z,mom
+2026-11-09T17:22:26Z,ENTRY,2gd8yG5ogAHnVfUrVDcu9RdBWtKDQsszfLFFnaL2HWXk,SINU / SOL,0,4.52248999933e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
+2026-11-09T17:23:55Z,EXIT,72mC72pLXHncNX6C3wLXs1jZa71NDPsQyzaGhgX2yPRx,UODF / SOL,0,8.89397073999e-06,100.0,rug,-100.99,-100.99,456.4,exit_bar=2026-11-09T14:55:00Z,proven
+2026-11-09T17:23:55Z,ENTRY,6JT9r5GiKKNsjExxqCVDYFh2FHd6UR4ZkrieQLzhj4kJ,WIN / SOL,0,8.7197203414e-05,100.0,research_failed,,,456.4,score=0.00 momentum=412%,mom
+2026-11-09T17:25:25Z,EXIT,6rC59noUavYE5whW1YcLNEkqKoEZGBesWaAdNerPYhi3,POOPSEY / SOL,0,1.86556415696e-05,100.0,timeout,-5.04,-5.04,456.4,exit_bar=2026-11-09T17:24:00Z,control
+2026-11-09T17:26:47Z,ENTRY,C5WBoYdYJiTJVQoF6dVVUgLTijhaPo7feGz1hzV2bzM6,TBR / SOL,0,1.76876643924e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:26:47Z,ENTRY,CAZQudJJxgHYwdemHsDEnUTDZA7EXuZZEHLknNamV7jG,TOMFOOLERY / WLFI,0,9.45723395828e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:28:15Z,FAILED,4xv8e3DiM3fhyXJEgA9waxDsoeghrW3jpYsTvUuZAVgr,ELE / SOL,0,9.64302115016e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T17:29:30Z,ENTRY,9A8oyz95YfPe2PAigB3PeqxZjKze7AkX53WjSQpbtXUD,AINU / WLFI,0,8.60234584194e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
