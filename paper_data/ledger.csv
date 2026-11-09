@@ -6664,3 +6664,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T02:04:41Z,ENTRY,3hiZHWWAgLigNh3dwcvUtgkPShUCP67PenB8Tbp8EgM3,DIH / SOL,0,1.79245784933e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-09T02:07:39Z,ENTRY,NiBFQj4ARY2jeGJ94yRALpLCY22pqSGXGGdjXSmSFgF,BYRON / SOL,0,4.86327623492e-05,100.0,research_failed,,,456.4,score=0.00 momentum=38%,mom
 2026-11-09T02:12:06Z,ENTRY,EkqbMQFkkZqEoBJcrco1eRGAaauUUiks44jFwnoZgUHZ,GrenCAT / SOL,0,1.32948017045e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T02:13:31Z,ENTRY,7RgQW8b1M43Qo8c4AJih5Qgr9kvaWqwYoF4MAvK5j4uR,Polymarket / SOL,0,4.34228570708e-05,100.0,research_failed,,,456.4,score=0.00 momentum=22%,mom
+2026-11-09T02:15:07Z,EXIT,B2UiRct8pUX8hEPSyjo4NKaVW2omM7q4FLZRhD8h2wnx,JK / TRUMP,0,1.4168999266e-05,100.0,timeout,-8.39,-8.39,456.4,exit_bar=2026-11-09T02:13:00Z,control
+2026-11-09T02:16:29Z,ENTRY,HXyBStBaHJVbMqWdXntE6vJn9L7ta3MRbDdZrBhokghs,Mischio / SOL,0,3.7442888282e-05,100.0,research_failed,,,456.4,score=0.00 momentum=269%,mom
+2026-11-09T02:16:29Z,ENTRY,GX7edJbxpZwcddbSTsL7caBxU5MSXSZenhUzYyNAn7hm,csinu / SPCXx,0,2.0140274237e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T02:18:06Z,ENTRY,9M7yosV8rJRJqJot1mGXEtVdyjsZV7558F16eDg4jT5D,CLARUS / AAPLx,0,1.38326409546e-05,100.0,research_failed,,,456.4,score=0.00 momentum=49%,mom
+2026-11-09T02:19:28Z,ENTRY,GhGRpLZvvLDRz2SZSkAP9s8pnSXNMyewm67it9aARPwU,TAOLF / FLOAT,0,1.7287035531e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-09T02:19:28Z,ENTRY,AUm6WPgK7EGrj9q1svQ4kUkMcGFNnZfYLDu1tQEJiSJx,LLINU / SPCXx,0,1.94760207389e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-10%,control
+2026-11-09T02:20:57Z,EXIT,2tDnbTi84yvRpv4pCWkbawAmBrGBGeiVjKyy9JFyANYU,TJRENTOS / SOL,0,1.74883502466e-05,100.0,timeout,-7.96,-7.96,456.4,exit_bar=2026-11-09T02:19:00Z,control
+2026-11-09T02:22:26Z,ENTRY,EAAdrxbMxAWPfhvusZydWqSW4vopduZuHz1ebnN3kV6k,$SOL / SOL,0,8.37484201648e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
