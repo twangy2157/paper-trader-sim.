@@ -6869,3 +6869,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T06:26:07Z,ENTRY,4rB9yQAQzhqWHhtU6c4n4Rsjprv6fCZkZxjtdRKoP5k1,GOKU / USDC,0,2.03069965233e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T06:26:07Z,FAILED,HBnCU1mD4QMw9yTdgKkKrb3xLXv8rYKeD5wc8DhfFFbS,MASK / SOL,0,2.08684075085e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T06:27:28Z,ENTRY,FcnzpdgVbFAbiNG4NsTGeAa14kS8NYW7mi4n3sd3sR6B,牛逼 / SOL,0,5.55170627093e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
+2026-11-09T06:29:01Z,ENTRY,DbT7xayz1QRzkWbg8G9q8VoZGdxeUcobQ9nYe5GK8if3,VAMP🧛 / SOL,0,3.76175270735e-05,100.0,research_failed,,,456.4,score=0.00 momentum=80%,mom
+2026-11-09T06:31:44Z,FAILED,3anyfwFkdg6ubk5wHmxvFPT1rY9r2b6ADUduKsEbTvTj,牛逼 / SOL,0,0.000107743209914,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T06:33:20Z,ENTRY,Z3vDgcVf87ULDQ12FFVzVif9gJFdwqHRh27qNm5RKYE,牛逼 / SOL,0,8.22887024619e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-09T06:34:43Z,EXIT,5gneVBme9wWxqzfxiZ4h57gWUn2FhhaZCVSrEpFfuZVM,FLYGOKU / SOL,0,1.7027810605e-05,100.0,timeout,-5.23,-5.23,456.4,exit_bar=2026-11-09T06:33:00Z,control
+2026-11-09T06:36:19Z,EXIT,EQtNUpsF1jLyPnvKYFhd4272ExRyo8BpubBjFzRf8bJQ,Trump / SOL,0,0.000254870799296,100.0,tp,93.33,93.33,456.4,exit_bar=2026-11-09T06:16:00Z,mom
