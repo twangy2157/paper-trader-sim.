@@ -7144,3 +7144,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T13:18:20Z,ENTRY,FD14smfQSREWYR6NpoTgiuSzkvWNcW9rzrBsoeRNaebm,UCI / SOL,0,0.0119868169,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
 2026-11-09T13:19:41Z,ENTRY,B5Edgsn2KchsGHNLen1cu81x7At3Bib6pLejmpAQWbK7,牛逼 / SOL,0,0.0466690876545,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
 2026-11-09T13:22:39Z,ENTRY,ES4Y4KE1vojtecYAficrXS7HzY4bbcitG5FTa3gZwNWj,PUSSY / SOL,0,2.51328421831e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=4%,control
+2026-11-09T13:24:19Z,ENTRY,AjSqn3V3ef89c5JnVVwhm51M7xAx5eh51FNzerTcAfEJ,shiken / SOL,0,0.000158216872278,100.0,research_failed,,,456.4,score=0.00 momentum=357%,mom
+2026-11-09T13:30:01Z,EXIT,5qX2T4ZyVDyd6LePFCNZACbixpbwyYK8aEBeQT5zSusG,shiken / SOL,0,3.75178421864e-05,100.0,tp,91.18,91.18,456.4,exit_bar=2026-11-09T12:30:00Z,control
+2026-11-09T13:31:16Z,ENTRY,5DztRggzagvX68mn2titYX7Q8oKMSWzcXWHUMe6kfaXf,PUSSY / SOL,0,6.3749677598e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-63%,control
+2026-11-09T13:32:30Z,EXIT,8j1kh1iYRaTkbTvgdLhs6aNKnMhzFj7Ym6MveqpPAYZv,Steve / SOL,0,6.00164191519e-05,100.0,sl,-33.01,-33.01,456.4,exit_bar=2026-11-09T11:23:00Z,proven
+2026-11-09T13:32:30Z,ENTRY,4p3h1NGN4Gx2vhiQaMMfqEF41E5ZWy9PRr99twwakNyC,SI / SI,0,1.69255113333e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-09T13:34:06Z,EXIT,AEaRqg3Y5YMUTg5EJB1bsZFa5LDYrwdiSn99mw3qGyti,CHIP / NVDA,0,1.91258207352e-05,100.0,timeout,-6.26,-6.26,456.4,exit_bar=2026-11-09T13:31:00Z,control
