@@ -6709,3 +6709,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T03:01:56Z,ENTRY,bJsWw4tXTkUkCKc4id5ZtLvV9gr2KhiqGhCsonGRjS7,JENSEN / SOL,0,0.000130697567585,100.0,research_failed,,,456.4,score=0.00 momentum=69%,mom
 2026-11-09T03:03:25Z,EXIT,DrzjSsvandfXAASEhd7QoWz5vjFrb9Cr948FNzdYUc9U,SI / SOL,0,5.34754020937e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-09T02:02:00Z,mom
 2026-11-09T03:04:54Z,FAILED,8AoyJWSxhRjfeKt8CjpFHBTDMY4S3LSYQbf19wbgtr61,DBVR / USDC,0,5.02035550408e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T03:06:19Z,EXIT,3hiZHWWAgLigNh3dwcvUtgkPShUCP67PenB8Tbp8EgM3,DIH / SOL,0,1.7580595037e-05,100.0,timeout,-5.92,-5.92,456.4,exit_bar=2026-11-09T03:05:00Z,control
+2026-11-09T03:07:41Z,ENTRY,FroyR3CzFAm19GvateyFunpS2Vgkotnn2aYcdVS5PVXN,HUNG / NVDAx,0,1.504529996e-05,100.0,research_failed,,,456.4,score=0.00 momentum=191%,mom
+2026-11-09T03:09:17Z,EXIT,NiBFQj4ARY2jeGJ94yRALpLCY22pqSGXGGdjXSmSFgF,BYRON / SOL,0,7.68346760306e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T03:08:00Z,mom
+2026-11-09T03:10:39Z,ENTRY,2jFpkz6KQEVoqy5FYfjYLRyY78tZdYS5LAjdLR6UG7em,ELON / SOL,0,1.61842320601e-05,100.0,research_failed,,,456.4,score=0.00 momentum=25%,mom
+2026-11-09T03:13:30Z,ENTRY,3ShuLN9JsPRqgUbRH4d5dnpBafbYKhyJ9GT7EyaupwQA,PingPong / SOL,0,2.60585252301e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-09T03:15:06Z,EXIT,EkqbMQFkkZqEoBJcrco1eRGAaauUUiks44jFwnoZgUHZ,GrenCAT / SOL,0,1.30445663375e-05,100.0,timeout,-6.61,-6.61,456.4,exit_bar=2026-11-09T03:13:00Z,control
