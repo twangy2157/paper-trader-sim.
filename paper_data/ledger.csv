@@ -7026,3 +7026,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T10:48:06Z,FAILED,C29zFZBoqNyevRVgtJ2zd9GHadxWrssVBR6w15Rm2qGx,BANKCOIN / SOL,0,3.64765364473e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T10:49:27Z,FAILED,AntaRwcacGzSyHQkMnhW5rGnEAAaWPJzQWmCe3DmHDBG,Alpha / TAO,0,1.82425535985e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T10:50:56Z,ENTRY,EC6rC1z8Xeac2MxpPZnH5NPEngEEcKc5FgmK6DCx2ome,HUANG69 / NVDAx,0,1.70791021724e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T10:52:27Z,EXIT,FE98AKvwU1guuskWyqb2my3d6tuBcqkr9nh2L9ntJ6no,Dakota / USDC,0,9.02363118979e-06,100.0,timeout,-9.25,-9.25,456.4,exit_bar=2026-11-09T10:51:00Z,control
+2026-11-09T10:53:56Z,EXIT,DuhghU9bhQaswMeSz3rYbmGZUoWcdiqEFHy6tP46DJY5,FOTF / SOL,0,0.0242927185366,100.0,rug,-97.62,-97.62,456.4,exit_bar=2026-11-09T10:50:00Z,proven
+2026-11-09T10:55:25Z,EXIT,5CVVP9nFGEBnmnki2VFnTJHanYqx2RAfUSZUYQPyRsdf,StonksPay / SOL,0,9.39692486497e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T10:52:00Z,control
+2026-11-09T10:56:54Z,EXIT,BzuybDj26ezxhWrMq5DGqrcRpZrB2it8MHnbvdWDafPi,NEX Ai / SOL,0,7.17303462468e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-09T10:05:00Z,mom
+2026-11-09T10:58:15Z,ENTRY,3Hz32UM3af5paJE993cqFCtSFTMsvvuGFZZ8h4vrHuyL,PUSSY / SOL,0,2.33005210508e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-09T10:59:30Z,ENTRY,BWYsVwNR4uojAv1X4uYgAycuaYxzJtsdD9bM54Q64x2T,Cock / TSLAx,0,2.14117405229e-05,100.0,research_failed,,,456.4,score=0.00 momentum=10%,mom
+2026-11-09T11:00:58Z,ENTRY,37yW2danUB5AA2jr99gKPKUTxrkcZLHd4vjecqaKLNym,CURVDCAT / SOL,0,2.0618626052e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-09T11:02:27Z,ENTRY,7cgKGzf72tocoVSnophGcCXzsG33hEnKT61dfuYXLe8i,SI / SOL,0,2.89010697041e-05,100.0,research_failed,,,456.4,score=0.00 momentum=149%,mom
