@@ -7352,3 +7352,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T17:26:47Z,ENTRY,CAZQudJJxgHYwdemHsDEnUTDZA7EXuZZEHLknNamV7jG,TOMFOOLERY / WLFI,0,9.45723395828e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T17:28:15Z,FAILED,4xv8e3DiM3fhyXJEgA9waxDsoeghrW3jpYsTvUuZAVgr,ELE / SOL,0,9.64302115016e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-09T17:29:30Z,ENTRY,9A8oyz95YfPe2PAigB3PeqxZjKze7AkX53WjSQpbtXUD,AINU / WLFI,0,8.60234584194e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
+2026-11-09T17:31:13Z,EXIT,8ydXvy82dugBs3tYCJCBhQf6kizkiaq8xAwYAdnaQXKj,CUPSEY / SOL,0,1.86422512732e-05,100.0,timeout,-5.04,-5.04,456.4,exit_bar=2026-11-09T17:30:00Z,control
+2026-11-09T17:31:13Z,ENTRY,8P4CHS6nbHPLAGigPvUsZ3BvWPp8hd1u11w2DBGdp2sr,AI / USD1,0,2.07896411279e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-18%,control
+2026-11-09T17:32:35Z,ENTRY,CcULf3P7pnUrSEZHwF2ZcMk6hWgVwyQ8ybTGarSi1j5m,AI / SOL,0,9.20905930658e-05,100.0,research_failed,,,456.4,score=0.00 momentum=44%,mom
+2026-11-09T17:34:11Z,EXIT,EtbdwHpMB71eKVaus5kWxZzXbocL6oTA6xx8g8WGoYUK,READAMD / SOL,0,1.86249824402e-05,100.0,timeout,-5.04,-5.04,456.4,exit_bar=2026-11-09T17:33:00Z,control
+2026-11-09T17:35:26Z,ENTRY,8yoqfD5KAnEmPynbzUpMJTZw5aiMVMXYEVSktxMUstSw,DOGE / USD1,0,2.05528944021e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:35:26Z,ENTRY,26N2tWUwJXWDZJidLb11GWBsjBmRApbg5dj2yXDDBh6H,TRUMP / USD1,0,9.51781994194e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:36:55Z,ENTRY,t5wsQ88JBpYwpPSW6bAtez1RdWxPjNkfQVohtg6qZ8Z,MLC / SOL,0,4.64593467583e-05,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
+2026-11-09T17:36:55Z,ENTRY,9UPmyT86zgFBjxbjYHeyRY3SwAm93hU39zLJPVeYaPqm,AI / SOL,0,8.48804476774e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-09T17:38:24Z,EXIT,A7CghWAv6mjM7odbj3q7THpHVMvnx8F1D8z81FmSd7pM,UODF / USDC,0,0.0321866624217,100.0,timeout,-3.18,-3.18,456.4,exit_bar=2026-11-09T17:36:00Z,control
+2026-11-09T17:39:46Z,ENTRY,CqBY6LmmLKDbu85T2KnPv7Ls3YXdCASQCQc2ruh1RZWc,USD1 / SOL,0,2.08516295173e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-09T17:39:46Z,FAILED,12Rmi9KuFmYT2CBvCtcEhBFdmgY2eGT6wW1qkRfALSZf,USOE / SOL,0,0.13124238029,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
