@@ -6909,3 +6909,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T08:00:29Z,ENTRY,8G9di1mcUNtseu1hRVS6WNJbUt3d5bVT64oqCQsaoHpw,Memes / SOL,0,2.11022955531e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-09T08:00:29Z,ENTRY,Ct2YS897twiGrKYAW1FJjEMQDqNd2CofKSnJVtqcBWGC,MEMES / SOL,0,2.58790786492e-05,100.0,research_failed,,,456.4,score=0.00 momentum=187%,mom
 2026-11-09T08:01:58Z,ENTRY,95S92pCzedRu2aE5fjAvUhxLYvvxxYXuRWARjAhnSTXW,花 / SOL,0,1.22628635747e-05,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
+2026-11-09T08:04:58Z,ENTRY,6Mcn7bkTpDJ3dG4UHULExV3hqKCLU3yFBy3mLztqVNtH,THENIG / SOL,0,3.88983148322e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-09T08:06:27Z,ENTRY,92PtTb5U9zMN1JzA1eRtb6cmqkd4wAhjzVkbBXJKYyA7,1UP / SOL,0,2.64757992672e-05,100.0,research_failed,,,456.4,score=0.00 momentum=71%,mom
+2026-11-09T08:07:56Z,FAILED,G5fvGTUXpArNXrKXmTfPy6s19hisGDQB9DQnB29nYCTj,中国人牛逼 / SOL,0,1.88021651881e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-09T08:13:29Z,ENTRY,AmP3enXv7D9nbYicyK6ZoyA2M7YwdzHYhKQz8Gw5NVC3,pruple / SOL,0,6.76098242755e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
