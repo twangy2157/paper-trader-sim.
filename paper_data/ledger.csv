@@ -7020,3 +7020,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-09T10:37:42Z,EXIT,B8btcWUZxzALqLoWg2tAoiiSoVkLdoHHugMYvi1f4YJn,牛逼 / SOL,0,0.000425416498814,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-09T09:35:00Z,mom
 2026-11-09T10:37:42Z,ENTRY,Ds3a2C9QjKNFqowZJbc6PnBJhnv5HyhmeNS78zBWRyUY,Gifli / SOL,0,0.000104449939933,100.0,research_failed,,,456.4,score=0.00 momentum=1517%,mom
 2026-11-09T10:39:18Z,EXIT,6AaU6p9YMCgkSxUaLVAvnS54b3DjPDPuEizGVyU5bivQ,CSPOON / TSLA,0,1.76542710791e-05,100.0,timeout,-7.98,-7.98,456.4,exit_bar=2026-11-09T10:36:00Z,control
+2026-11-09T10:43:40Z,ENTRY,Gzqz3ADQnFqpsFCPc4jFpWbqNUL3BFeE6zQ5eSsT9Tuu,Pepetide / SOL,0,0.000416417473067,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-09T10:43:40Z,ENTRY,qqmPPusLcafgf53UVuPURCFLUXdHrknuGzzCgHmzDp1,Temu / USDC,0,3.26808171574e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-09T10:46:30Z,EXIT,553SsnM7vn5Ahy3Ncam1asmnMxxb1KT458frJUEWkHwd,牛逼 / SOL,0,8.86412305708e-07,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-09T10:45:00Z,mom
+2026-11-09T10:48:06Z,FAILED,C29zFZBoqNyevRVgtJ2zd9GHadxWrssVBR6w15Rm2qGx,BANKCOIN / SOL,0,3.64765364473e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T10:49:27Z,FAILED,AntaRwcacGzSyHQkMnhW5rGnEAAaWPJzQWmCe3DmHDBG,Alpha / TAO,0,1.82425535985e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-09T10:50:56Z,ENTRY,EC6rC1z8Xeac2MxpPZnH5NPEngEEcKc5FgmK6DCx2ome,HUANG69 / NVDAx,0,1.70791021724e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
