@@ -8383,3 +8383,17 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T13:39:09Z,ENTRY,4HzHB7Rdn4ooPv7qAdDSZjQymztCPVPQDoUJpyc4Qrnu,FOMO / SOL,0,2.20967039122e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-10T13:39:09Z,ENTRY,BeC5JaUyJzCHCnC7sAega8Gn4rbuDQ1esJbTtsGpih8y,FOMOCAT / SOL,0,5.94973232236e-05,100.0,research_failed,,,456.4,score=0.00 momentum=615%,mom
 2026-11-10T13:39:09Z,ENTRY,4CQGn5hfeTHAZ5XGXqyCYMvJk6GKxoPvenbffnwpjDYM,trench / SOL,0,4.69766201152e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T13:40:42Z,ENTRY,v9QQJ4UhidLhcJrRF5yyUcPQVV97bNuvZbmE1HDYBo2,OMOF / SOL,0,1.92903312157e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T13:43:10Z,ENTRY,H2cPQ77KeGt73rci3NXP6Njs5u4AhoCYzbWrPEmyq2DW,MEMECOIN / SOL,0,2.27272032097e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T13:43:10Z,ENTRY,3Xno6kXrp3qpDv5hAC5bSFvCRAcFFTdz3sa7EXsYzyJV,memecoin / SOL,0,8.08952233101e-08,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-99%,control
+2026-11-10T13:44:09Z,ENTRY,W9UH2Ld4nEQCGEFSyjFGL1doK4mc7DLXCsHBZNce2k7,ok / SOL,0,1.70528476988e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T13:44:09Z,ENTRY,DHkUB9pALzDGwD54PBUGCtXiS7UWTK8Dc1oHNL4sf3D7,income / USDC,0,7.00187505322e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
+2026-11-10T13:44:09Z,ENTRY,8myUgqs67isXJZJNoJgcK7ydN3u85f8KVe2NKc4GMZqa,Apple / SOL,0,0.00013221237547,100.0,research_failed,,,456.4,score=0.00 momentum=38%,mom
+2026-11-10T13:45:45Z,ENTRY,AQWcfyA52oTaaPqjSxeiJjdU8YAHw6hRKBGBjwYmHhLa,BLACKSWAN / SOL,0,2.18408449693e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T13:45:45Z,FAILED,3ZqXFx5GicG6wUHQm3WTw8LA5YDK66X145w4VCcj2ZeN,fomo / SOL,0,1.9159201434e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T13:45:45Z,ENTRY,BpvHNoGv8Yf1rhEUH27g9E5BBUDvMmzrQzRZnKQUtsgz,NUGGET / SOL,0,2.24668684335e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T13:46:43Z,ENTRY,7SRooQS7JT4X4F9ztuhon9UtsMi1mJsjUMQKSjyS2RXy,X / SOL,0,7.69895242084e-07,100.0,research_failed,,,456.4,score=0.00 momentum=44%,mom
+2026-11-10T13:46:43Z,ENTRY,7ZqYXMGvTafQ87zgRX9ZFBj14YAdmzHtwcbvavJv5UEp,h1t / SOL,0,7.2291141576e-05,100.0,research_failed,,,456.4,score=0.00 momentum=28%,mom
+2026-11-10T13:47:42Z,ENTRY,5yAWLJBvUB2GrYLsP91ZdNJAV4E53aNmA6wyY6EEE7AP,NASA / SOL,0,0.000125826578718,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
+2026-11-10T13:49:11Z,FAILED,GciVNF6nQ2v2RmNCiLJrDPQjvVKXoYuQSvLHn3FiYbao,FOMO / SOL,0,1.90684133828e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T13:50:40Z,ENTRY,3eXySpWtbacGUqQzmq2iyUyRLWXwDJCvomWmMgSG3hJN,밈코인 / SOL,0,4.37723520558e-05,100.0,research_failed,,,456.4,score=0.00 momentum=413%,mom
