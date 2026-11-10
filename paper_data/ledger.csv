@@ -7844,3 +7844,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T00:24:43Z,ENTRY,6qH66gLFY52En2j3zpokeNogiveoa28FHaDWXZ6ZVWCp,PERPULATOR / SOL,0,7.81903390136e-07,100.0,research_failed,,,456.4,score=0.00 momentum=61%,mom
 2026-11-10T00:24:43Z,ENTRY,FhCbJbzZvBG3FRSQPR3ME146NUB9DidiZjwg2sMuLJWx,IMPEACE / SOL,0,1.76299491967e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
 2026-11-10T00:24:43Z,ENTRY,2Uc1SFLNjb4EsxeVjSfjXNEMKXGEfkzkJmtqPJkLnEE5,PUSSY / SOL,0,4.25044213526e-06,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
+2026-11-10T00:26:38Z,ENTRY,4o1vboRdEJMsbQjZXYiDiXV4SNWGz92QkqoF5sNwHhAK,BTC / SOL,0,8.91050501821e-06,100.0,research_failed,,,456.4,score=0.00 momentum=14%,mom
+2026-11-10T00:26:38Z,ENTRY,F7yyfKvgii9iVZgEfvLGasaxnaFDtkAGtzo7VjKDTDmN,PEPEPUMP / SOL,0,7.42261744253e-06,100.0,research_failed,,,456.4,score=0.00 momentum=57%,mom
+2026-11-10T00:28:43Z,EXIT,AegQuuQE2j69XGYxfyfMdPcdzn8kf8C2s55ts2nR9k5c,Awinn / SOL,0,1.69818934466e-05,100.0,timeout,-7.98,-7.98,456.4,exit_bar=2026-11-10T00:26:00Z,control
+2026-11-10T00:30:34Z,EXIT,BzV94LiFBr7MBwsLXxGPeJChJNdc7MMB2wqRDrsSWgQK,OpenClaw / SOL,0,2.22700061271e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-09T23:37:00Z,mom
+2026-11-10T00:30:34Z,ENTRY,6Ywp1QYKuWRzmCNpDNdaiKaDCT7GmEdNdcoCneGhJKL7,FERSPE / SOL,0,7.73341422064e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-10T00:30:34Z,ENTRY,6hNxXHSLY8ZT4zebrtpSoCzSWkicF5Y7QrsMYo38dpiU,RACC / RAY,0,2.16287774817e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
