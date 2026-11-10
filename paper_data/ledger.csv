@@ -8842,3 +8842,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T20:28:28Z,ENTRY,4dswmqVXT432Lbdn11Yuney1L1UKy9GLefBk6yP11to2,BOXCAT / SOL,0,4.2226423175e-05,100.0,research_failed,,,456.4,score=0.00 momentum=22%,mom
 2026-11-10T20:31:26Z,EXIT,Dw6RzWk3ZgGb8CZVx7vEofft4QaHmVJUg7dSn2v9vihc,HCAT / SOL,0,8.76479003946e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-10T20:30:00Z,control
 2026-11-10T20:32:55Z,ENTRY,68Sw1VCpQY3mNAs42LHXL4P31yoh6ZntgnbB9hUKdQmP,PVE / SOL,0,9.2224812641e-06,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-10T20:34:27Z,EXIT,A16Fn1xpAuoBqcQssupy2BKngUuisGZ4K7VqUWafoaLR,Boxcat / SOL,0,1.7807121856e-05,100.0,timeout,2.34,2.34,456.4,exit_bar=2026-11-10T20:32:00Z,control
+2026-11-10T20:34:27Z,ENTRY,2bei1rK67fKdut5SryuyXxEqqR2mPi7SKhcTBPumm8ao,MMLI / SOL,0,8.93760159815e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-10T20:34:27Z,ENTRY,HJrF8qoiTEvjs5Cugduh7Moxwaz9pgMbdjPiMpr549QF,PARACHUTE / SOL,0,1.70480768253e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-10T20:34:27Z,FAILED,7rH2KfgKWzNErhcccnZtPMCxAnoyJxpqmsjV3sWaCsaf,bro / SOL,0,7.8772833566e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T20:36:25Z,ENTRY,KGH4JHJP7C6MxNgnC1gEAqugnPvr6xiuBvCyZwnZV3S,FLOAT / SOL,0,6.22692106451e-05,100.0,dip_after_drop,,,456.4,score=0.00 momentum=-44%,dip
+2026-11-10T20:39:31Z,ENTRY,66t1vXhmNZ6JCV3L1SpQgyrygCxgj8P26fQNruvyEcPq,JACKAT / JENSEN,0,2.07984000099e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-10T20:39:31Z,ENTRY,38yhPNRLEFZA8VeBjLoGtSnwqCdnjAok9Tsac4yRvZ4L,GDOR / SOL,0,2.68508339375e-05,100.0,research_failed,,,456.4,score=0.00 momentum=50%,mom
+2026-11-10T20:39:31Z,ENTRY,ESA7PGqZEPfvKYVP9i2f133uPj9k5bbeM8SxY7JYQg7H,IphoneDuo / SOL,0,0.000120714134538,100.0,research_failed,,,456.4,score=0.00 momentum=141%,mom
+2026-11-10T20:41:15Z,EXIT,ByjHrNcftg2a5DubFcqiqCyQissw821GeNxjHfKTZCu5,MURRY / SOL,0,5.32212744471e-07,100.0,timeout,-10.1,-10.1,456.4,exit_bar=2026-11-10T20:39:00Z,control
+2026-11-10T20:42:37Z,ENTRY,92edxFrm19nz651imHtKu3UuNRQofPDmxRgiBPpqRq1S,ORGASM / USDC,0,9.65229803015e-06,100.0,research_failed,,,456.4,score=0.00 momentum=71%,mom
+2026-11-10T20:44:13Z,EXIT,B35RLod9kp8Ny9gVvRCGdbK5KovFW9AWpi4STvKQDBcL,TAOLF / FLOAT,0,1.16535123833e-05,100.0,timeout,-6.2,-6.2,456.4,exit_bar=2026-11-10T20:43:00Z,control
