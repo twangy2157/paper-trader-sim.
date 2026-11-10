@@ -7995,3 +7995,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T04:12:18Z,ENTRY,9xR3G8x9Ryf7oiJ5bfe6Zx9SpKQMBrEHr9DEYdZhuXbh,ASCII / SOL,0,1.69600856129e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
 2026-11-10T04:13:40Z,ENTRY,DShrq1tijYsUMPcVGvdB8Ej6a9ozKKWPpWapMrwGrcnu,DEADCAT / SOL,0,1.76737279993e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-10T04:13:40Z,ENTRY,H1raiLPuNcDafR8HXWwfiwboQEEfxMWWuUbfh5Ln9n3a,Memelord / ANTHRP,0,2.04193480078e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=5%,control
+2026-11-10T04:16:34Z,EXIT,79evRPNn5TRQx33DfZeJQGQP76iJHw3UZkFDAjeQhG9s,COTC / SOL,0,7.50133752163e-06,100.0,timeout,-9.41,-9.41,456.4,exit_bar=2026-11-10T04:15:00Z,control
+2026-11-10T04:16:34Z,ENTRY,14jpkpTmyPeZvoTxD78ojUpajnbHpuN4f1BowBohjN3N,VIBE / SOL,0,0.000140165513198,100.0,research_failed,,,456.4,score=0.00 momentum=104%,mom
+2026-11-10T04:19:26Z,ENTRY,FfTDUEfveh9STdfotooY3ui2y4Zh2aXY9iNvBzSVzJoz,ELON2028 / SOL,0,2.86803159593e-05,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
+2026-11-10T04:20:56Z,ENTRY,3pYatmm6xz9q6wychg4rpUXV6kLUHpuRHDYc1DU4nsX4,AETHER / SOL,0,4.49452162416e-05,100.0,research_failed,,,456.4,score=0.00 momentum=30%,mom
+2026-11-10T04:23:55Z,ENTRY,F5p8YSiutCjaPsRajW3pUPZj4T4hyRzACvKheYC1Z3oq,MONKEGIRL / SOL,0,4.22776179714e-05,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
+2026-11-10T04:23:55Z,ENTRY,A5FGjLW5zKajDRckQ2RpDJaBoKYfQCvk76JnsLBPTvw4,VIBECAT / PUMP,0,1.69261147377e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
