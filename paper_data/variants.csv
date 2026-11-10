@@ -19029,3 +19029,13 @@ BGihBTF2QnhTxpaozHdA35Cpzui4mLvk6E75MtXez1wL,control,0,no_stop_tp100,timeout,-6.
 71fjupbhLuf2rM1HoL2QaRK2zHciRDQCnLJZPFypraWa,control,0,sl30_tp50,timeout,-6.38
 71fjupbhLuf2rM1HoL2QaRK2zHciRDQCnLJZPFypraWa,control,0,sl50_tp50,timeout,-6.38
 71fjupbhLuf2rM1HoL2QaRK2zHciRDQCnLJZPFypraWa,control,0,no_stop_tp100,timeout,-6.38
+G7imxWJbTWRHB5DTA45w8GzzqmansL3EVYDm4t8yUkGi,control,0,base_sl30_tp100,timeout,-13.19
+G7imxWJbTWRHB5DTA45w8GzzqmansL3EVYDm4t8yUkGi,control,0,wide_sl50_tp100,timeout,-13.19
+G7imxWJbTWRHB5DTA45w8GzzqmansL3EVYDm4t8yUkGi,control,0,sl30_tp50,timeout,-13.19
+G7imxWJbTWRHB5DTA45w8GzzqmansL3EVYDm4t8yUkGi,control,0,sl50_tp50,timeout,-13.19
+G7imxWJbTWRHB5DTA45w8GzzqmansL3EVYDm4t8yUkGi,control,0,no_stop_tp100,timeout,-13.19
+DfZ7FprAovim4sYS1LfsayBdcMhMWqCCFXbmDXByeEgv,mom,0,base_sl30_tp100,timeout,-0.59
+DfZ7FprAovim4sYS1LfsayBdcMhMWqCCFXbmDXByeEgv,mom,0,wide_sl50_tp100,timeout,-0.59
+DfZ7FprAovim4sYS1LfsayBdcMhMWqCCFXbmDXByeEgv,mom,0,sl30_tp50,timeout,-0.59
+DfZ7FprAovim4sYS1LfsayBdcMhMWqCCFXbmDXByeEgv,mom,0,sl50_tp50,timeout,-0.59
+DfZ7FprAovim4sYS1LfsayBdcMhMWqCCFXbmDXByeEgv,mom,0,no_stop_tp100,timeout,-0.59
