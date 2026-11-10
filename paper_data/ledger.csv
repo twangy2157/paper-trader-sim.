@@ -8397,3 +8397,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T13:47:42Z,ENTRY,5yAWLJBvUB2GrYLsP91ZdNJAV4E53aNmA6wyY6EEE7AP,NASA / SOL,0,0.000125826578718,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
 2026-11-10T13:49:11Z,FAILED,GciVNF6nQ2v2RmNCiLJrDPQjvVKXoYuQSvLHn3FiYbao,FOMO / SOL,0,1.90684133828e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-10T13:50:40Z,ENTRY,3eXySpWtbacGUqQzmq2iyUyRLWXwDJCvomWmMgSG3hJN,밈코인 / SOL,0,4.37723520558e-05,100.0,research_failed,,,456.4,score=0.00 momentum=413%,mom
+2026-11-10T13:51:42Z,ENTRY,FuQF6Z6hR6UXDXpZdrxPSJVXFMTSQ3pwyuApVgmSBBgb,Run / SOL,0,1.68598265679e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-10T13:51:42Z,FAILED,B4DKQCxR2YkjFZ6pDBoQNDyjsEY1NvAomAK8pPrbkR9V,X / SOL,0,4.37546714581e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T13:53:34Z,ENTRY,GarEnZ3jqDnu5jD6bW9EtttypWnDJTw7jpEgQpz27rZY,COOK / SOL,0,1.71397645432e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T13:53:34Z,ENTRY,7fmnJ7me35DBHL4G6xGPfieDJ5ePVRHGH2Q9BBPX3GFk,GTA 6 / SOL,0,0.000143706272318,100.0,research_failed,,,456.4,score=0.00 momentum=37%,mom
+2026-11-10T13:53:34Z,ENTRY,3bP5GLsS4bveuhnTkDo7Wh2zedFYMxra9u7RpZzeoMb2,MAO / SOL,0,5.17924180419e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T13:55:54Z,ENTRY,FUfpm7PxxRLH2XuCUTp1e1cQ52cRmfvmzK59WGNZkixa,XOGE / SOL,0,1.4262055951e-05,100.0,research_failed,,,456.4,score=0.00 momentum=35%,mom
+2026-11-10T13:55:54Z,ENTRY,3DN97CwoDEStsPS6kJHDRekZBTywaSHsqweCicThy6Z1,CASINO / Leonida,0,4.57655549661e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-10T13:59:00Z,ENTRY,JAYtY9z2BnfJpv1b8JD2MMqTHNMRazBYcQc9mgRrDUdA,COOK / SOL,0,8.66066286173e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-96%,control
+2026-11-10T13:59:00Z,ENTRY,4TiTfwPzzagnG5CCx2uBYcaH9m2HNbXetWTnRHwLtMfd,UODF / SOL,0,1.82775763463e-05,100.0,research_failed,,,456.4,score=0.00 momentum=30%,mom
