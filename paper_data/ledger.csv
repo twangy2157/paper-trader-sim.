@@ -8160,3 +8160,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T08:19:42Z,ENTRY,Gkx5UVXHbJ3bGMmZ57pXcs8FshULcQrPh57d42gFe2pi,Matrix / SOL,0,0.000131591253329,100.0,research_failed,,,456.4,score=0.00 momentum=31%,mom
 2026-11-10T08:22:40Z,ENTRY,2j2CEf3G6py2JgvaQthCaJ3iXRWuSEycu6MFPmSqAoBR,NB / SOL,0,9.58819628929e-06,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
 2026-11-10T08:24:16Z,ENTRY,B1TuBZiZM7cGrhCY84TW4ELgYPmdGd6VpYo7T1rSGCH5,CHIMP / SOL,0,8.95253188706e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-10%,control
+2026-11-10T08:25:34Z,EXIT,EML11hUMMsgomAzck9Qj7gNM7FFLJaaFMktcmtwFbzf9,VIBI / SOL,0,3.06700386965e-05,100.0,rug,-96.91,-96.91,456.4,exit_bar=2026-11-10T08:24:00Z,control
+2026-11-10T08:28:25Z,ENTRY,7uKF79yaJmfic8b9GZiWWkTMHB9cY4Eqqq7Qsf8URDpY,NEXUS / SOL,0,1.77566511313e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-10T08:28:25Z,ENTRY,CtvJra5GJ9rgzgvj7NGkKggJnhV1eJGGoBo4GyGKPwab,Solana / SOL,0,9.84584974401e-06,100.0,research_failed,,,456.4,score=0.00 momentum=43%,mom
+2026-11-10T08:31:17Z,ENTRY,E6ws33ZvPvXBAfHBSy85ahFJrNc9iHbaojNE8WiY4cm3,PUSSY / SOL,0,8.17533069189e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
+2026-11-10T08:32:38Z,ENTRY,CXwomexzVwjoo4pW4Bhd4YWokq65dVffqwzhrZ6j1U2m,ST / SOL,0,1.27225818327e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T08:35:29Z,EXIT,4SQUAFVgGDL4hnLk4Xd1vJTQzVRVhqbT7BKxAVMZd89W,OpenAI / SOL,0,0.000173513965418,100.0,tp,55.96,55.96,456.4,exit_bar=2026-11-10T08:05:00Z,control
+2026-11-10T08:35:29Z,ENTRY,3W4TeX365YWokFYFG5oqBbESijrrYEowvkBYCQ9x7cas,WEIRDCAT / SOL,0,8.492227966e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
