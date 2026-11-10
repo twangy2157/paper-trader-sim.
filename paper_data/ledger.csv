@@ -8804,3 +8804,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T19:42:58Z,ENTRY,FFVohvHDPg7Pqp597D6d5oLRM58tjtNq8RL96FowFAgs,NEWJACKET / SOL,0,5.55089536634e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-13%,control
 2026-11-10T19:45:55Z,ENTRY,95YkyKd1w2jUEa5XSosGT77ZCXBYhG9535VTVZMyN9pY,QQQ / SOL,0,699.036644671,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-10T19:47:31Z,FAILED,GYym2WW5kNfQgadusLiH85kgV5nubDbTSwzwP6WwyU2a,head / SOL,0,2.22193891979e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T19:50:47Z,ENTRY,3x5KdMSgceoDePMfSQSqvz9BqqfcrDQ5LbST2nVNmcF7,AUDCTY / TTWO,0,2.05218777116e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T19:52:16Z,EXIT,3wwdr8roBK1yuvdBbR2YD7yyAyqVqDSBuKsKEStSwyXr,RAIN / SOL,0,3.77585455785e-05,100.0,tp,93.79,93.79,456.4,exit_bar=2026-11-10T19:35:00Z,control
+2026-11-10T19:53:45Z,EXIT,CC6HA3MJhqkPkB2rKTBV3MZfGH5DHknsNChvKWDYcnn4,PIRATE / SOL,0,6.69000398132e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-10T19:08:00Z,mom
+2026-11-10T19:53:45Z,ENTRY,77WgDpkWKHgzN5aCrL21G8Zm41K3b5K29JvsLtc4ZPtv,UODF / SOL,0,3.27857652635e-05,100.0,research_failed,,,456.4,score=0.00 momentum=92%,mom
+2026-11-10T19:55:29Z,EXIT,3sfdqQsyRAuHD3gRGdTTezuGRPQonSaVgD3eggKEW7ic,SPACEBAR / SOL,0,3.45686115947e-05,100.0,timeout,-4.69,-4.69,456.4,exit_bar=2026-11-10T19:54:00Z,mom
+2026-11-10T19:55:29Z,FAILED,BJJrbFup8wzeSQQzPr8Dwc8mQRo6KN8gs7qEdt7Wd3J3,AICoin / SOL,0,3.18898773287e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T19:57:20Z,ENTRY,HVz7fRRG2EJwHxHnzeDrhX9A8UmMbU424cxFT2nmLxzj,Democat / SOL,0,2.76064938826e-05,100.0,research_failed,,,456.4,score=0.00 momentum=60%,mom
+2026-11-10T19:58:42Z,ENTRY,EwCzWzM3Q48pUhfuFY24chyA9JvfS9yRkufmTN2xt5Yk,MEME / SOL,0,1.63093656244e-05,100.0,research_failed,,,456.4,score=0.00 momentum=93%,mom
+2026-11-10T20:00:18Z,FAILED,HD5kSe4gnSLayZ3tvixHsQPH634Xo2HrpsstcdehZN1D,pepeinu / SOL,0,4.19720515725e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
