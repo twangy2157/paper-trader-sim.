@@ -8318,3 +8318,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T12:07:20Z,EXIT,CQ5vGzNjtcfR7ASZPQZyWc2eYTwf2Pzy1rJxSfrDyCKw,Claude / SOL,0,0.000168434987113,100.0,tp,56.66,56.66,456.4,exit_bar=2026-11-10T11:25:00Z,control
 2026-11-10T12:11:41Z,EXIT,DcqbEhscCNrrk7Yf5dgT55CCaTJGeZX9owncUtrU9PGY,LaMisery / SOL,0,7.61147506816e-06,100.0,timeout,-9.15,-9.15,456.4,exit_bar=2026-11-10T12:10:00Z,control
 2026-11-10T12:11:41Z,ENTRY,2pdYsxswPqb74Sm8GWuoxtN1NUEdBfe3x8MRKdkPfrPH,Rockstar / SOL,0,0.000146713157267,100.0,research_failed,,,456.4,score=0.00 momentum=56%,mom
+2026-11-10T12:13:21Z,EXIT,E92QcszaiLjiaCMwYqVwfiY6VEbvp62WeuRSBM22k4Yj,MEOW / SOL,0,7.89762132468e-06,100.0,timeout,-11.58,-11.58,456.4,exit_bar=2026-11-10T12:11:00Z,control
+2026-11-10T12:14:43Z,EXIT,H6qqqeQkp6X9mesuqRvmV4hyqGNbphCePAx4g5CAPntZ,$SLJK / SOL,0,1.63413963878e-05,100.0,timeout,-8.69,-8.69,456.4,exit_bar=2026-11-10T12:12:00Z,control
+2026-11-10T12:14:43Z,ENTRY,21X597QPRimEZ4PcnWWGN6qpdVAX2BtnjoCJw9BtBUWQ,LaMisery / SOL,0,1.03120459198e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T12:16:19Z,ENTRY,EnbQLqTuanyosFnA2qmw9yet6XemYW2pB8YYkKnPZ4E5,GTA 6 / SOL,0,9.88786498104e-06,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
+2026-11-10T12:17:41Z,FAILED,56GnwZqcvd4MhK765geZ6tnCmEm2nMkRCotBe2FUcCzK,PIRATE / SOL,0,1.98694222153e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T12:17:41Z,ENTRY,6uLypnFcsBgGafApvB5RwtSt9YCj4mP2Qyhb2CUtVwxa,COOK / SOL,0,9.20311424078e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T12:20:40Z,FAILED,8SRAtx9MN5WU7nQkusUyV46fQLNNr9gy2Zw3C43Gk7Fh,머스크 / SOL,0,7.87961849904e-07,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
