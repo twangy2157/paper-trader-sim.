@@ -8001,3 +8001,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T04:20:56Z,ENTRY,3pYatmm6xz9q6wychg4rpUXV6kLUHpuRHDYc1DU4nsX4,AETHER / SOL,0,4.49452162416e-05,100.0,research_failed,,,456.4,score=0.00 momentum=30%,mom
 2026-11-10T04:23:55Z,ENTRY,F5p8YSiutCjaPsRajW3pUPZj4T4hyRzACvKheYC1Z3oq,MONKEGIRL / SOL,0,4.22776179714e-05,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
 2026-11-10T04:23:55Z,ENTRY,A5FGjLW5zKajDRckQ2RpDJaBoKYfQCvk76JnsLBPTvw4,VIBECAT / PUMP,0,1.69261147377e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-10T04:26:50Z,EXIT,8wG9qNDUdULqWmHyqFmU8zZ3JzsH9VKBjXbXhLGqrXNE,ASS / AAPLx,0,2.38452345396e-05,100.0,timeout,-25.34,-25.34,456.4,exit_bar=2026-11-10T04:25:00Z,control
+2026-11-10T04:28:27Z,ENTRY,6z2FvDU7WZ6CzMk9T7E7oQ56jjAB12wCsKAVZt3fhdmQ,AICoin / SOL,0,1.25917887081e-05,100.0,research_failed,,,456.4,score=0.00 momentum=103%,mom
+2026-11-10T04:32:55Z,ENTRY,Dp78WmJPra8HBeyYQWTkDgsAK2Qq1H4ydn7Hbg9zW1c3,Capybara / SOL,0,3.19270798047e-05,100.0,research_failed,,,456.4,score=0.00 momentum=58%,mom
+2026-11-10T04:35:32Z,ENTRY,2nMKH35tD9WD6wRikkFu2GJcXSFR48Y2KNHcCmXiKoku,OTTER / SOL,0,7.11611339624e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
