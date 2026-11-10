@@ -8144,3 +8144,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T07:57:46Z,ENTRY,8rASPQFEQ9PCMTWcFtEGn2D8sD2zpXrhNzPQufjvHNex,KYTRO / SOL,0,2.90876139802e-05,100.0,research_failed,,,456.4,score=0.00 momentum=52%,mom
 2026-11-10T08:00:30Z,FAILED,DwUE7jCG1VHicLZQBPVuBPYDZkDqir8JQ4LBTqnCUFbB,BUFO / SOL,0,8.56070187248e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-10T08:03:29Z,ENTRY,3vgtnK6MnZrWAjNJppD6Mb5iMTmWmAiTZCtfjRjoP44W,Solana / SOL,0,7.02036163514e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T08:06:23Z,ENTRY,HbGkHbLRu14gXSn9mPMcKUo3JsFCf6P9kuqvyf9unwLg,WEIRDCAT / SOL,0,7.8388606084e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T08:07:45Z,ENTRY,4DaiYRdSUsP7raeJCxwobvkwNSaScVetMokxHFJjwU7c,STENKS / SOL,0,5.41267886777e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T08:07:45Z,FAILED,HxWqRq4mqs9Jv4gfbzCp4JTwJP2G35SPyHWo44nciTvr,BLUE / SOL,0,1.23140110996e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T08:07:45Z,ENTRY,BQjy6to24NHv7VduW57LHDe65GFBLQetYnezTwEEhEJR,Solana / SOL,0,1.38211173934e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=6%,control
+2026-11-10T08:10:43Z,ENTRY,FM43axrvHNUtXJxg6pZRYDZGXbgriWP8MFAmabHNmRJ3,ETHEL / SOL,0,7.53552617145e-05,100.0,proven_pool,,,456.4,age=121min,proven
+2026-11-10T08:10:43Z,ENTRY,FRW4YpKx5uGzQbkfVSrbu5NFn1nxFaBLwz7QNuhWUf7C,MONTRA / SOL,0,1.06585730494e-06,100.0,research_failed,,,456.4,score=0.00 momentum=70%,mom
+2026-11-10T08:12:19Z,ENTRY,3jXXT7PTWyhk6YV8KBwU7fcoVx3QCqrQBaVYAYAhFAzB,AMPED / SOL,0,0.000215258001254,100.0,research_failed,,,456.4,score=0.00 momentum=112%,mom
+2026-11-10T08:13:41Z,EXIT,2gx5VGc4bUq4wbDJZ1gX88sQqpwnQf4vKQLQJAHjU1V6,Rocco / SOL,0,5.52690850099e-05,100.0,timeout,17.18,17.18,456.4,exit_bar=2026-11-10T08:12:00Z,mom
+2026-11-10T08:13:41Z,ENTRY,HXpReHBWW4qpFbfAEpS1dGYTgh3BBEgec8jRL63AvuVz,PVE / SOL,0,1.951696385e-05,100.0,research_failed,,,456.4,score=0.00 momentum=88%,mom
