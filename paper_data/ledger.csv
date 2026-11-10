@@ -8128,3 +8128,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T07:26:24Z,FAILED,CeAagm9r3sCD355WHbM9qdnhiVGKYFR6iFGBRZzbMKd6,$BTCVI / SOL,0,2.92332249087e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-10T07:29:15Z,EXIT,2aoJVbBpYV3t15fcT9gdF64uJYU7GjzFFJJFSrfnx8sz,POLY / POLYMARKET,0,1.85943770721e-05,100.0,timeout,-5.03,-5.03,456.4,exit_bar=2026-11-10T07:27:00Z,control
 2026-11-10T07:30:30Z,EXIT,joL5suk9BYokCUHwAY6VzWhNYBPRDKhumfVEBsZUfuf,uinhim / SOL,0,1.58281210788e-06,100.0,rug,-83.19,-83.19,456.4,exit_bar=2026-11-10T06:31:00Z,control
+2026-11-10T07:33:32Z,ENTRY,4SQUAFVgGDL4hnLk4Xd1vJTQzVRVhqbT7BKxAVMZd89W,OpenAI / SOL,0,8.67569827092e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-17%,control
+2026-11-10T07:33:32Z,ENTRY,BygbhKj1fwtEmN8cihkXBLRCRCFZV1iAvHZjdDnHA7Uu,LJ / SOL,0,1.702131545e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-10T07:36:15Z,ENTRY,DZoRNG4khPgFF4BUckSfrLqzoC9THFeSNb974sJMefEc,$CAT / SOL,0,7.02832510154e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T07:37:30Z,ENTRY,6wPkRpsfXUugCsmWQrmRcV3rtrKgM94V77ea55jViLbZ,1SOL / SOL,0,4.44802096645e-05,100.0,research_failed,,,456.4,score=0.00 momentum=27%,mom
+2026-11-10T07:40:28Z,ENTRY,5izBnmkFAy2tKQtpHSUTPJZY2K7budcxY7i69uHRjvMZ,1SOL / SOL,0,4.72652694422e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-10T07:41:57Z,ENTRY,3pJJb36aghS24GP3smLFcNeqmCSteedVUokb5GJTkxt2,hedge / SOL,0,2.46487796328e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
