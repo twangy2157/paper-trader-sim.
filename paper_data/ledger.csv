@@ -8923,3 +8923,16 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T22:03:33Z,ENTRY,FnsnuXsZokm8g5SAh9UAnzjPL5RiEjWYXhzwxjgsWQ81,BUY / SOL,0,1.68242849939e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
 2026-11-10T22:05:18Z,ENTRY,ETmqbCpTM6ukbLE8fuYQzpYNpkSGZCsTm1D2aRFsgGZe,CELON / SPCXx,0,1.97099814174e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-10%,control
 2026-11-10T22:06:40Z,EXIT,GyA1hprUZ3tRFbP9q3y8NrsFbccQShCH3Bkh7bMtscc9,test / SOL,0,1.6691450427e-05,100.0,timeout,-5.26,-5.26,456.4,exit_bar=2026-11-10T22:05:00Z,control
+2026-11-10T22:09:34Z,EXIT,6vZqhepo9W7VvC6ocNAjA46cTuV9A7vXLHktKMG2ZAC7,RWA / OPNW,0,7.57200114255e-06,100.0,sl,-35.55,-35.55,456.4,exit_bar=2026-11-10T22:05:00Z,control
+2026-11-10T22:09:34Z,ENTRY,9fXqxdJ6iLHHpN59SpvfnehUPa1tptuqGSpSUJJLjNSq,SAFLOAT / SOL,0,1.65472704869e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T22:09:34Z,ENTRY,6qsHKKsYcWw2Txdzm6Wsm8d5uKQz9oiH8UnaMQqG1Scw,BANDANA / SOL,0,6.47245449395e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-12%,control
+2026-11-10T22:09:34Z,ENTRY,HjVaoBPYVXHRuUBU81vUoNrErUy1VaQ4aKPMaxxLi1dt,OTTER / SOL,0,1.29953660883e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-10T22:11:25Z,EXIT,7UcYiUQVxhoTTAhD1zUkvNfHNQvoERE8FvXrsaLEJW1o,RWA / OPNW,0,1.92449503573e-05,100.0,timeout,-9.64,-9.64,456.4,exit_bar=2026-11-10T22:08:00Z,control
+2026-11-10T22:11:25Z,ENTRY,Aw7vYoPJWWe6E7kFtb8N4hctXjg3WZ9f9PYgE4jbeP9w,HUMANSHIT / SOL,0,1.70277407685e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-10T22:11:25Z,FAILED,7dbwdn8GrANbuxevU2GAo7nZ1ruhJYvvB5tQwFmj78Rq,FL0T / SOL,0,1.66485593523e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T22:12:54Z,EXIT,5stba27L5XGJ6dPSPN9Rw5mVna2Fo8aze7U3S7sdo45B,ShieldPump / SOL,0,1.627602822e-05,100.0,timeout,-5.49,-5.49,456.4,exit_bar=2026-11-10T22:11:00Z,control
+2026-11-10T22:14:31Z,ENTRY,77QBxLfDf8zbNwGuWLkHvYUf3rKnR6JLsZ1TM5YwjH17,USMS / SOL,0,3.87652393606e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-52%,control
+2026-11-10T22:14:31Z,FAILED,5Q6ub3uDKnfKysZLDKN3PNiy7N5ne1VLToDQjGF38SBK,BANDANA / PRIVACY,0,1.91668454941e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T22:16:15Z,EXIT,CuJ4P4sXcttAMApvsSZt2Ync4UwonCoLErR7LN163EVh,BOXCAT / SOL,0,5.30180576752e-05,100.0,sl,-64.77,-64.77,456.4,exit_bar=2026-11-10T21:49:00Z,mom
+2026-11-10T22:17:37Z,FAILED,daRwTdsoSkfingmz5xUvzbRCZpNBxiPPgUsY6J3SFhu,work / SOL,0,2.57807814555e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T22:19:20Z,EXIT,A6Wfc9r29GFVWWRC2GhgPNFqxVDRhAdYAn7pmBZ3uoxd,XCAT / SOL,0,0.000417257570891,100.0,rug,-3.08,-3.08,456.4,exit_bar=2026-11-10T22:17:00Z,control
