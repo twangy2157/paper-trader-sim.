@@ -8944,3 +8944,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T22:25:42Z,ENTRY,AqWL2eCudYF4ayMgmNKkM85KUSvzibPe2sgGVbTp6mp4,BRR / SOL,0,8.73021526209e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-39%,control
 2026-11-10T22:28:39Z,ENTRY,6uSDXCgiB4MeFesDbqK3zQswjhYwiks8Vziz6eJ1LHTd,MUSKX / SOL,0,0.00020755379848,100.0,research_failed,,,456.4,score=0.00 momentum=92%,mom
 2026-11-10T22:28:39Z,FAILED,8TMphQRJvrwhZnPbyUZDcCRbV8EUcsqVz4LFFBZTvrug,nothing / SOL,0,2.90463276176e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T22:31:34Z,EXIT,9qeVmqMAYoJnCK32KUGWgasJZYJBirnACfRJsYHBbzpU,X Cashtags / SOL,0,3.26447764696e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-10T22:30:00Z,control
+2026-11-10T22:31:34Z,FAILED,95RhDk7aUHasYbWJoq713UgE1g2WZHBHTHgbVNC8KPms,REDNECK / SOL,0,4.35838245098e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T22:31:34Z,ENTRY,7cYq45d9N7ECKB7eEazcf3FAgFwoHLZwrKUHPhox9LA9,100001 / SOL,0,1.19000590429e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T22:34:39Z,ENTRY,5vw6TkhiESnMxiR4n476P6B1Cur4Mct4XA86t9bqgTax,CELON / SOL,0,1.223885595e-05,100.0,research_failed,,,456.4,score=0.00 momentum=39%,mom
+2026-11-10T22:34:39Z,ENTRY,81DJ9nmMRYNfaUZpd64jk31JwHH1ZUXVp7gNeWLtAAuf,花 / SOL,0,1.16721303748e-05,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
+2026-11-10T22:37:30Z,EXIT,G4jKm6rnWhveXnvXTEQBRA96EWfNCRD3Yfr7FGsEVM32,GIF / SOL,0,3.04140340851e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-10T22:36:00Z,mom
+2026-11-10T22:37:30Z,ENTRY,142YfzL2N3vCAy9yHNH7Y6bheYncWjoRiAdFmG9Qp6fE,PCAT / SOL,0,5.04411399513e-05,100.0,research_failed,,,456.4,score=0.00 momentum=50%,mom
+2026-11-10T22:39:06Z,ENTRY,FNywyNAjvA2QxxwrmG75jD4sibStisXvLJ1Fh6EqwbKz,BANDANA / SOL,0,1.08377512294e-06,100.0,research_failed,,,456.4,score=0.00 momentum=105%,mom
+2026-11-10T22:40:42Z,EXIT,4wJ3fykTFDySFbLnMEGX2MRudCocbZAteH8aTedzDJJt,UPSIDE / SOL,0,2.28860992255e-05,100.0,timeout,-24.57,-24.57,456.4,exit_bar=2026-11-10T22:39:00Z,mom
+2026-11-10T22:40:42Z,ENTRY,7Fo2JcBzCUnEPd6XgnQXC89QpUGdJsd1iuBSr83jTd1b,GARGOLA / SOL,0,6.88530275424e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
