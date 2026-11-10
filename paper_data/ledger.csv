@@ -8005,3 +8005,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T04:28:27Z,ENTRY,6z2FvDU7WZ6CzMk9T7E7oQ56jjAB12wCsKAVZt3fhdmQ,AICoin / SOL,0,1.25917887081e-05,100.0,research_failed,,,456.4,score=0.00 momentum=103%,mom
 2026-11-10T04:32:55Z,ENTRY,Dp78WmJPra8HBeyYQWTkDgsAK2Qq1H4ydn7Hbg9zW1c3,Capybara / SOL,0,3.19270798047e-05,100.0,research_failed,,,456.4,score=0.00 momentum=58%,mom
 2026-11-10T04:35:32Z,ENTRY,2nMKH35tD9WD6wRikkFu2GJcXSFR48Y2KNHcCmXiKoku,OTTER / SOL,0,7.11611339624e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T04:37:04Z,EXIT,BQeNMfyw5q5hT689LMcowsx1MM8otzxrojwZqNXd5KDN,TST1 / SOL,0,1.96558996447e-05,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-10T04:35:00Z,control
+2026-11-10T04:37:04Z,ENTRY,EuMDNVDFmXsBvZogCM8q59wcWv4d224Pj6L2eWega7dA,DINGA / SOL,0,1.7527518391e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-10T04:38:26Z,ENTRY,8LpN8KoJGif1bQEra5NtygHKQUszR8Y15e5wpBJEX3uT,FAIR / SOL,0,2.41098825806e-05,100.0,research_failed,,,456.4,score=0.00 momentum=200%,mom
+2026-11-10T04:39:56Z,ENTRY,HXrfpSUN7US633qfDGXjQ88r7kozxaeu92G8W8wumUC3,TITIES / SOL,0,1.63852001583e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T04:39:56Z,ENTRY,22LYpotbeBXSW1BVqNpyjkxr6kMWdyR7sXFe7hi8QFXJ,KYTRO / SOL,0,3.00367999258e-05,100.0,research_failed,,,456.4,score=0.00 momentum=43%,mom
+2026-11-10T04:41:25Z,EXIT,GiiV3yem3q2iGKSBinqpCJe6UdYXD4NpDetNniAJMhfU,spungebub / SOL,0,1.67329420505e-05,100.0,timeout,-5.25,-5.25,456.4,exit_bar=2026-11-10T04:40:00Z,control
+2026-11-10T04:42:54Z,ENTRY,3JN5T15YZtgcWs5FzNUAiEfzx2zHGrWUk4JYRsMzyTeE,Baibo / SOL,0,1.79849044578e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-62%,control
+2026-11-10T04:44:16Z,ENTRY,HoyWXhxArR4Qfdo62yfmDL2wV1WXV55J4y4ZQ6Vh7BtN,ANSEM / SOL,0,0.000191287303323,100.0,research_failed,,,456.4,score=0.00 momentum=82%,mom
+2026-11-10T04:45:31Z,ENTRY,7AhbHnwa1ULYoHaKSfffwQm1JWtFDamLTzcUxCFyqm2F,JOH / TTWO,0,2.29051911925e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-10T04:45:31Z,ENTRY,5nx51XqswLBiyKLchz8gTNhYXS9pbyjmAAERHzejyddu,WIENER / SOL,0,4.60362694368e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
+2026-11-10T04:45:31Z,ENTRY,DFi8RY1EBdaDUyb4d72aYRASVGJzN6bJuLpwwRaySMvB,Google AI / SOL,0,9.93583025335e-06,100.0,research_failed,,,456.4,score=0.00 momentum=28%,mom
