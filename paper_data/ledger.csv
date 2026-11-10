@@ -7925,3 +7925,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T02:37:25Z,FAILED,33tfxhRB8fbdGXVoV7PCU7XFd3Ejf3zGhxdkWKoy2cbU,AICoin / SOL,0,4.12953401937e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-10T02:38:55Z,ENTRY,AgHgYTrcnVsWPLBQMheMPYDYeFHCoPmNqYm81MMPhqxX,10k / SOL,0,1.02545158169e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-10T02:40:17Z,ENTRY,9j6QDoz4N4nFgojbV1hdEyES1SyUNQJt5vJrNo6Byjm,BPCATE / SOL,0,1.41806660912e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T02:41:35Z,FAILED,EFAQykaLSJo4yuDD8drBxGE1G1k5f4aGDgYse4PoSJg1,ELON2028 / SOL,0,2.99253744935e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T02:43:11Z,ENTRY,FDVTeW7u7Zs9BMn55pUh1kekkkeeEct6a6TLiFHWhuSR,FAIR / SOL,0,1.24241718622e-05,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
+2026-11-10T02:44:26Z,EXIT,8t7wnYX1riiwgQFm8fqwF5gZZUxu9BjgFEa5hHDaN77D,Cuh / SOL,0,1.67657143965e-05,100.0,timeout,-8.95,-8.95,456.4,exit_bar=2026-11-10T02:43:00Z,control
+2026-11-10T02:44:26Z,ENTRY,8kK1Q3hx88fVu8NZQ7S8STxTGrpM1euXnL8Stefr6VF8,SPBB / SOL,0,2.69747085478e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-30%,control
+2026-11-10T02:45:56Z,FAILED,28GRkrgq1NqnWVHBtLL8A3mzwweRMkviUqNM6SiRKjSf,花 / SOL,0,1.72350246811e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T02:47:25Z,FAILED,8Nrfk3v6NJRg3xvrrgoSSqwe2pvhNeLLdM7BMyhD9cKJ,GTABABY / SOL,0,0.000159398228583,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T02:48:55Z,ENTRY,F4cuhsdiYphDCiTJwpmmwULstUhHhRFiw3Eymyp5Fc2R,RING / SOL,0,4.97630164876e-05,100.0,research_failed,,,456.4,score=0.00 momentum=41%,mom
+2026-11-10T02:48:55Z,FAILED,D97hTfV2ZTcn7VYCUHuBU6opXAWSdQ8iseQZ9F9oYwP1,FWR / NVDA,0,1.75881564229e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T02:50:24Z,ENTRY,C3t5WXZczb2Yr8eCkTsmbaG5R7u9fYBibbxqtR1Q2i4U,Claude AI / SOL,0,0.000116224495005,100.0,control_no_momentum,,,456.4,score=0.00 momentum=6%,control
