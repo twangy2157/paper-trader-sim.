@@ -8016,3 +8016,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T04:45:31Z,ENTRY,7AhbHnwa1ULYoHaKSfffwQm1JWtFDamLTzcUxCFyqm2F,JOH / TTWO,0,2.29051911925e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-10T04:45:31Z,ENTRY,5nx51XqswLBiyKLchz8gTNhYXS9pbyjmAAERHzejyddu,WIENER / SOL,0,4.60362694368e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
 2026-11-10T04:45:31Z,ENTRY,DFi8RY1EBdaDUyb4d72aYRASVGJzN6bJuLpwwRaySMvB,Google AI / SOL,0,9.93583025335e-06,100.0,research_failed,,,456.4,score=0.00 momentum=28%,mom
+2026-11-10T04:47:11Z,FAILED,2ebvwtk6UVQffgrmvhDjkrdNYFNcatGxp25C47iDA389,WEINER / SOL,0,1.67761091534e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T04:47:11Z,ENTRY,hAQaLJmsvDED5e4S92rou8aw1qMAGCPb9v589Znw8Bk,FOTF / SOL,0,0.000211528457087,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-100%,control
+2026-11-10T04:48:33Z,EXIT,BUd4Qq37bAhw8yi88ELtokPGKSvM68STX61kUfBgxuVU,FWOG / SOL,0,1.69597435951e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-10T04:47:00Z,mom
+2026-11-10T04:48:33Z,ENTRY,A3xUioh8vTXZaEW1Z9wBK477HT9fohdtqRU1Mvei4rDX,Cornell / SOL,0,1.24075869257e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T04:48:33Z,FAILED,6rA8UQwZ8QrRkpQaHeEFfL1qQPsn1LhK1uaT2GTUhXY4,wApe / SOL,0,6.92696293839e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T04:50:10Z,ENTRY,F7wNdkNjcuSyQVusyqs5VwMsTkVQhPoavZFQyKTAkWeu,Cornell / SOL,0,9.15728980592e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T04:51:25Z,EXIT,4xoeXAGw8FboLp4uUdABE9nVqWabnpFQm24EN8CoyGaY,VAMP🧛 / SOL,0,5.93594493308e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-10T04:20:00Z,mom
+2026-11-10T04:51:25Z,ENTRY,3AZfHAtJn3YkDG3i75S6Un5GXWByfoNvTyxTpx6YC8tz,AICoin / SOL,0,4.91343316817e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-10T04:52:55Z,FAILED,6TFxVEaonuTpsG5vGLnFoVY55er7iQkUmprZ1ZgpZvnD,DINGA / SOL,0,6.07122931922e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T04:54:17Z,EXIT,H3yJzX92xszXYweBBDkejXFicoo1D7efRpUa88xxK2dh,GTA 6 / SOL,0,0.000149433796499,100.0,tp,57.12,57.12,456.4,exit_bar=2026-11-10T04:10:00Z,dip
+2026-11-10T04:57:01Z,EXIT,GBVqNxb98sAqh4E4ZEN8xLq3rq8m3v3jw6KesFY5DbPU,34% / SOL,0,1.27258215936e-05,100.0,timeout,-6.95,-6.95,456.4,exit_bar=2026-11-10T04:56:00Z,control
