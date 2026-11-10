@@ -8216,3 +8216,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T09:37:56Z,EXIT,3W4TeX365YWokFYFG5oqBbESijrrYEowvkBYCQ9x7cas,WEIRDCAT / SOL,0,7.97569003925e-06,100.0,timeout,-11.79,-11.79,456.4,exit_bar=2026-11-10T09:36:00Z,control
 2026-11-10T09:37:56Z,ENTRY,2EQRiU5j1Hruan1uK6P5ZVGcAcMF6wyrrspMjGwHWBnk,FOMO / SOL,0,5.25898406169e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-48%,control
 2026-11-10T09:40:54Z,ENTRY,7yCPANAqxeDbdoN6ddqtD7K9QBjmVVyqpfSwQkMEBwAS,AICoin / SOL,0,8.02463206579e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
+2026-11-10T09:43:41Z,EXIT,7QQwXZ5MK8BZFJFVZyBt86BXZ16yhjyTZZGx8wnVvcK4,大A / SOL,0,4.01883244729e-09,100.0,rug,-100.97,-100.97,456.4,exit_bar=2026-11-10T08:43:00Z,mom
+2026-11-10T09:43:41Z,ENTRY,94tNXVauYvUzxTChrKyPXMFwmZopzMoTUKgRJB5Hyv93,OpenClaw / SOL,0,2.94803098816e-05,100.0,research_failed,,,456.4,score=0.00 momentum=54%,mom
+2026-11-10T09:45:18Z,EXIT,9nkEbqr4JcV8hKBKaLzZ3SH6GS12azbNdYbXMC8vXjdR,NEX Ai / SOL,0,2.79501472788e-05,100.0,sl,-80.38,-80.38,456.4,exit_bar=2026-11-10T09:09:00Z,mom
+2026-11-10T09:46:40Z,FAILED,CYdqzn95FPe6jxr2mA4mkr1eEpKNiW5WcaMvrBpaZPXi,心跳女友 / SOL,0,6.12647876378e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T09:48:16Z,EXIT,79K3oMucoVtugi5BpQKm34gQaVViiYm7NWw6accuEvm5,FOMO / SOL,0,2.93750738945e-05,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-10T08:48:00Z,mom
+2026-11-10T09:49:31Z,ENTRY,3UmzZZP1mkBJVZbuAuN98i1dVN2vZbDtp2RrWRcnRTdu,HANS / SOL,0,1.21758536265e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T09:49:31Z,ENTRY,8gLpqLcmoiAYYDWhHqaWWzc4kdht9ZdZ1nSM7nHMUn63,$DOG / SOL,0,3.88054016078e-05,100.0,research_failed,,,456.4,score=0.00 momentum=385%,mom
