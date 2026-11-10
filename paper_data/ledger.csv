@@ -8134,3 +8134,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T07:37:30Z,ENTRY,6wPkRpsfXUugCsmWQrmRcV3rtrKgM94V77ea55jViLbZ,1SOL / SOL,0,4.44802096645e-05,100.0,research_failed,,,456.4,score=0.00 momentum=27%,mom
 2026-11-10T07:40:28Z,ENTRY,5izBnmkFAy2tKQtpHSUTPJZY2K7budcxY7i69uHRjvMZ,1SOL / SOL,0,4.72652694422e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
 2026-11-10T07:41:57Z,ENTRY,3pJJb36aghS24GP3smLFcNeqmCSteedVUokb5GJTkxt2,hedge / SOL,0,2.46487796328e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-10T07:44:57Z,ENTRY,Et5mFQnQ2aD3kUe68zmWkPN1MYCsrpGuez2oyFmNRkzV,POST / SOL,0,4.98672375051e-05,100.0,research_failed,,,456.4,score=0.00 momentum=302%,mom
+2026-11-10T07:46:26Z,ENTRY,EoTQ5c1HGfub9T9Xcm9wGEd4SgUSnLfcw6PNe67pH8K,SPCX / SOL,0,1.14631586048e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-94%,control
+2026-11-10T07:47:55Z,FAILED,5dGYMhhfzgEn6gEMGtjY4xVCUEAaWDd3jR9GAwB7PQWm,bufocoin / SOL,0,2.01362101914e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T07:49:25Z,FAILED,HUZ95zFhqZSGBki9iXgtsfE2ddXdmSv9cddD3sdqUP1S,$FMT / SOL,0,1.55052638232e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T07:50:47Z,ENTRY,525EDkAEiDxN8qDNNPhdJCE3R466uvtqMxcPyXcmzdKt,TurkeyDay / SOL,0,1.67754806764e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
+2026-11-10T07:52:16Z,ENTRY,5MRnbWHB6HcM6nm9zAWy7w9CsjdU5aJ444r9GSRomiJA,PAIRLESS / SOL,0,4.28695400326e-05,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
