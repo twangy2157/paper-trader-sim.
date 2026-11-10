@@ -8105,3 +8105,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T06:26:56Z,ENTRY,2aoJVbBpYV3t15fcT9gdF64uJYU7GjzFFJJFSrfnx8sz,POLY / POLYMARKET,0,1.87925573371e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-10T06:28:25Z,ENTRY,joL5suk9BYokCUHwAY6VzWhNYBPRDKhumfVEBsZUfuf,uinhim / SOL,0,8.48749453434e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-10T06:32:31Z,EXIT,CrYFciq5kabLhvfBNMCMangcnYYvaekxJdifXyiE6Y3C,MONY / SOL,0,1.81146565907e-05,100.0,timeout,-6.3,-6.3,456.4,exit_bar=2026-11-10T06:31:00Z,control
+2026-11-10T06:34:04Z,EXIT,7A8L1TC8GYxXFuFJq7jed4t2NjyJAZhaYJ6R1jupJwvH,AICoin / SOL,0,1.14485626508e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-10T06:09:00Z,control
