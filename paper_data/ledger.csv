@@ -8831,3 +8831,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T20:19:27Z,ENTRY,7L7ychmL6eHSSfU5bKknYs5Kiq6jzojzVdFzZjsf6RLz,100001 / SOL,0,5.95366479631e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-10T20:19:27Z,ENTRY,62gfWdnfna2giLccGqUP39EyAdVfcTSQNdk737AiPxF1,NEX Ai / SOL,0,1.91609847913e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
 2026-11-10T20:21:25Z,EXIT,2HoyqCkwQVjgnua2gN2GT2z5i5tM4L5qYFtrWDZSt5pk,ALICE / JENSEN,0,1.98660184934e-05,100.0,timeout,-4.91,-4.91,456.4,exit_bar=2026-11-10T20:19:00Z,control
+2026-11-10T20:22:57Z,EXIT,CmycCcgRfq3drQD1brEAtKTBG2HHZVEYyw9coMvDkEgH,34% / SOL,0,2.87638206521e-05,100.0,timeout,-5.09,-5.09,456.4,exit_bar=2026-11-10T20:21:00Z,control
+2026-11-10T20:22:57Z,ENTRY,6w9U7DMzZSkAfc6q7d2N97N8iwmZ8EorrF15gxnoCE2q,Duckcoin / SOL,0,3.25356482849e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-21%,control
+2026-11-10T20:23:56Z,EXIT,AY5QKkKVo5U2SaAPP3cudK3hPm6spVr62L2jU2vioXTQ,Hakong / SOL,0,1.62485502104e-05,100.0,timeout,-4.86,-4.86,456.4,exit_bar=2026-11-10T20:22:00Z,control
+2026-11-10T20:23:56Z,ENTRY,B1FgirVoKfhsowMKwMEi5HQkGZBuUu6u2RUbkeC9zMP6,GROTTI / TTWO,0,1.84611898642e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-8%,control
+2026-11-10T20:23:56Z,ENTRY,8BYqM5tWhaiVod9CgdtaHfQ8SZRiR94XqWaLS5ZhBry5,Grotti / SOL,0,0.000164375041179,100.0,research_failed,,,456.4,score=0.00 momentum=142%,mom
+2026-11-10T20:24:54Z,ENTRY,48gPQNN3LaRFLWcaZWUesVR7Bz7N1Vtr1Z53WqFrkQfG,ABUNDASS / MUSK4,0,1.85117995184e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-10T20:25:53Z,ENTRY,Azp89qZTdXwmqdLTPLbRnnW5jD8F8XZMXn2HGfoScTrs,LEXUR / SOL,0,2.796279391e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-42%,control
+2026-11-10T20:27:14Z,ENTRY,FqNkFXe9NRdT6pZEFrUFGJ2Toof2VGdqkkBB1NuZJQKH,STOKER / SOL,0,1.64886085604e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-10T20:28:28Z,ENTRY,4dswmqVXT432Lbdn11Yuney1L1UKy9GLefBk6yP11to2,BOXCAT / SOL,0,4.2226423175e-05,100.0,research_failed,,,456.4,score=0.00 momentum=22%,mom
+2026-11-10T20:31:26Z,EXIT,Dw6RzWk3ZgGb8CZVx7vEofft4QaHmVJUg7dSn2v9vihc,HCAT / SOL,0,8.76479003946e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-10T20:30:00Z,control
+2026-11-10T20:32:55Z,ENTRY,68Sw1VCpQY3mNAs42LHXL4P31yoh6ZntgnbB9hUKdQmP,PVE / SOL,0,9.2224812641e-06,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
