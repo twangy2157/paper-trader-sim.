@@ -8140,3 +8140,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T07:49:25Z,FAILED,HUZ95zFhqZSGBki9iXgtsfE2ddXdmSv9cddD3sdqUP1S,$FMT / SOL,0,1.55052638232e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-10T07:50:47Z,ENTRY,525EDkAEiDxN8qDNNPhdJCE3R466uvtqMxcPyXcmzdKt,TurkeyDay / SOL,0,1.67754806764e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
 2026-11-10T07:52:16Z,ENTRY,5MRnbWHB6HcM6nm9zAWy7w9CsjdU5aJ444r9GSRomiJA,PAIRLESS / SOL,0,4.28695400326e-05,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
+2026-11-10T07:53:33Z,ENTRY,Huyyv1WuDs9n6XstBFsjgzsQehi71wHZpHYvn2b6Q1RF,Rockstar / SOL,0,0.000171582071281,100.0,research_failed,,,456.4,score=0.00 momentum=51%,mom
+2026-11-10T07:57:46Z,ENTRY,8rASPQFEQ9PCMTWcFtEGn2D8sD2zpXrhNzPQufjvHNex,KYTRO / SOL,0,2.90876139802e-05,100.0,research_failed,,,456.4,score=0.00 momentum=52%,mom
+2026-11-10T08:00:30Z,FAILED,DwUE7jCG1VHicLZQBPVuBPYDZkDqir8JQ4LBTqnCUFbB,BUFO / SOL,0,8.56070187248e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T08:03:29Z,ENTRY,3vgtnK6MnZrWAjNJppD6Mb5iMTmWmAiTZCtfjRjoP44W,Solana / SOL,0,7.02036163514e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
