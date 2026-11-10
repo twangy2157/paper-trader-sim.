@@ -7830,3 +7830,17 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T00:12:01Z,ENTRY,nLEeYyVzPugKbLTSGa4gvxEXL4J5y3KSgCWMsAjYrKE,PERPULATOR / SOL,0,5.6379323525e-05,100.0,research_failed,,,456.4,score=0.00 momentum=10%,mom
 2026-11-10T00:13:45Z,ENTRY,2zoLZDFWBZPjFVXSRqwYVePVhvGMY5eUtngdWkCrS1ja,PERPULATOR / SOL,0,8.24434354268e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
 2026-11-10T00:13:45Z,ENTRY,6erHbxaLDSMyvYQFksfFebBvF4vo2WgGJMLzdUnoEhtd,HIV / GRND,0,2.10149685534e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-10T00:15:54Z,EXIT,5tpo8k5K7Ax6sC7KPHLQd2hXgbBx4rK6w1gH2Zmzga4M,Pump Farm / SOL,0,4.01305953984e-05,100.0,timeout,-4.22,-4.22,456.4,exit_bar=2026-11-10T00:14:00Z,control
+2026-11-10T00:15:54Z,ENTRY,Aq8Lrmx2fFdhvQRRnd7H52AoXW2fXtM8KZhk4J2xjhSb,PERPULATOR / SOL,0,1.71306385494e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T00:17:31Z,FAILED,EMxMVvZmHaV1pjoPoskwvBpRWmcVopPuTWjG5Vi8Gfnn,Pepetide / SOL,0,1.81792041159e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T00:17:31Z,ENTRY,CCbxP2bo7waHUMf5QD4G7QpUtg4hXibizecXN6EJm3No,Carolyn / SOL,0,1.74915984026e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-10T00:17:31Z,ENTRY,Fu9pYSWesEo3gvKNgpPmG997ecF6cQRMecmfPbC5JCbe,CHIL / USDC,0,5.20055309542e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T00:20:34Z,EXIT,351Pbi7tkZfaR4waJnoYF3TrfmdcBB7eQSdmCidzWDM5,Scammer / SOL,0,2.07808487663e-05,100.0,timeout,-4.82,-4.82,456.4,exit_bar=2026-11-10T00:19:00Z,control
+2026-11-10T00:20:34Z,ENTRY,TC3DBFimQpxjs92NaqDMcRHyb9zuR1MPt8KKWfQRZBK,OnlyCats / SOL,0,0.000583075810879,100.0,research_failed,,,456.4,score=0.00 momentum=153%,mom
+2026-11-10T00:21:33Z,EXIT,Gakv1iL4atFMQxQembnxLDdKoVo78bAQv8Wu2J49ScSE,CCP / SOL,0,0.000155692082013,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-10T00:20:00Z,mom
+2026-11-10T00:21:33Z,ENTRY,BLoAcQTe2Pkm3igYoJ7mEeaSCTLgcKF2cMNB6g1M1cCu,Peace / SOL,0,7.49255180897e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-78%,control
+2026-11-10T00:23:45Z,ENTRY,3yuAZyGPU8hehu7gTxsGk1KJPbAoDkETdMEGPfbmD9wm,PERPULATOR / SOL,0,0.000112244912671,100.0,research_failed,,,456.4,score=0.00 momentum=59%,mom
+2026-11-10T00:23:45Z,ENTRY,HgVzmdPfkc7qKRCS7UAUuxNz7mk4GcU9JTtnAninJw5q,PERPULATOR / SOL,0,0.000124931616331,100.0,research_failed,,,456.4,score=0.00 momentum=171%,mom
+2026-11-10T00:24:43Z,ENTRY,6qH66gLFY52En2j3zpokeNogiveoa28FHaDWXZ6ZVWCp,PERPULATOR / SOL,0,7.81903390136e-07,100.0,research_failed,,,456.4,score=0.00 momentum=61%,mom
+2026-11-10T00:24:43Z,ENTRY,FhCbJbzZvBG3FRSQPR3ME146NUB9DidiZjwg2sMuLJWx,IMPEACE / SOL,0,1.76299491967e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-10T00:24:43Z,ENTRY,2Uc1SFLNjb4EsxeVjSfjXNEMKXGEfkzkJmtqPJkLnEE5,PUSSY / SOL,0,4.25044213526e-06,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
