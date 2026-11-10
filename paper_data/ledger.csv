@@ -8954,3 +8954,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T22:39:06Z,ENTRY,FNywyNAjvA2QxxwrmG75jD4sibStisXvLJ1Fh6EqwbKz,BANDANA / SOL,0,1.08377512294e-06,100.0,research_failed,,,456.4,score=0.00 momentum=105%,mom
 2026-11-10T22:40:42Z,EXIT,4wJ3fykTFDySFbLnMEGX2MRudCocbZAteH8aTedzDJJt,UPSIDE / SOL,0,2.28860992255e-05,100.0,timeout,-24.57,-24.57,456.4,exit_bar=2026-11-10T22:39:00Z,mom
 2026-11-10T22:40:42Z,ENTRY,7Fo2JcBzCUnEPd6XgnQXC89QpUGdJsd1iuBSr83jTd1b,GARGOLA / SOL,0,6.88530275424e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T22:42:23Z,EXIT,Btxp8f7mr3Z1boqdkaUJarGgeFgZi2V7Nun9eE4yMmPd,Pump Farm / SOL,0,1.22467998165e-05,100.0,timeout,-8.27,-8.27,456.4,exit_bar=2026-11-10T22:41:00Z,control
+2026-11-10T22:43:45Z,ENTRY,3uCkJNo22c7JJBHLPRsZQFYJ2NdfoxsrXMmNRZPFKmAT,PVE / SOL,0,4.15145623361e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
+2026-11-10T22:46:42Z,EXIT,FCDe8zLWm3PteYU4oBt15Yr5DMFr8zfa4V5jhQ8jGYEQ,CR7 / SOL,0,1.50597957072e-06,100.0,rug,-99.7,-99.7,456.4,exit_bar=2026-11-10T22:02:00Z,mom
+2026-11-10T22:46:42Z,ENTRY,496wFv3hMfeKyatSrkSPRRHRerULG8q9ZwGEaRu21ZdL,POOL / SOL,0,3.11123395108e-05,100.0,research_failed,,,456.4,score=0.00 momentum=28%,mom
+2026-11-10T22:48:18Z,FAILED,2uCUShVWsJpcMybdpkNE73U9GQ4cQ2Ncj41FncPHjskv,DD / USDC,0,2.95944144818e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T22:49:40Z,ENTRY,Ft4HdGTRLcH8tu335J4aDpr8k99vQyXYZcuHscADa86e,HCAT / SOL,0,4.37419360529e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
