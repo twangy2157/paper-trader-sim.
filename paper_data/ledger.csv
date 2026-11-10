@@ -8985,3 +8985,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-10T23:19:44Z,ENTRY,68vJyurVZKdySazBZAQYXRo7Lu48qH4TtzAky6M2hKZU,RWA / SOL,0,4.34533600069e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
 2026-11-10T23:21:43Z,ENTRY,EjY527G7vgxQYpRNQfWJgysSpVcxjyGtga1VQyj9Tfyg,RWA / SOL,0,4.50480328336e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
 2026-11-10T23:21:43Z,FAILED,6MuwRFH1i8HgNvKYg3HQFH6AjwbZd1CqYEj8TC7KKtpT,Horned cat / SOL,0,2.43060122872e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T23:23:43Z,FAILED,CT5kj1KqN3x7Uccokfu6RBwiDyVMLyhiSw3JR4LduG3e,WANGHAO / SOL,0,0.000147589657096,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-10T23:23:43Z,ENTRY,27rA99hhnXSvKwbDErqkVYxGVwKi6Bkwr3hp86DAcVgA,GORP / SOL,0,3.65602510784e-05,100.0,research_failed,,,456.4,score=0.00 momentum=72%,mom
+2026-11-10T23:24:41Z,ENTRY,BwoxaLwcDC5knKxUYjYm5P6xUVkXbxgrQr8hR5DjLqBu,BUMBA / SOL,0,1.39926994022e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T23:24:41Z,ENTRY,5GkSVmEshJ1Bfm7cMVKgHYkeW1XtKZzWVwhFHsgLo1PC,Superdog / SOL,0,2.76105216972e-05,100.0,research_failed,,,456.4,score=0.00 momentum=34%,mom
+2026-11-10T23:24:41Z,ENTRY,Ar6U4JLJAg49nKLP8W7T69oUdx6EybBJH4Vqx43333ys,mihao / SOL,0,2.3694625996e-09,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-100%,control
+2026-11-10T23:26:18Z,ENTRY,BjJgbif1aj8Jdg9trKQx5tru5S2gaPXBe1caC6EMGNg3,FLOAT / SOL,0,2.27737885802e-05,100.0,research_failed,,,456.4,score=0.00 momentum=230%,mom
+2026-11-10T23:27:39Z,EXIT,AqWL2eCudYF4ayMgmNKkM85KUSvzibPe2sgGVbTp6mp4,BRR / SOL,0,8.47620933157e-06,100.0,timeout,-8.54,-8.54,456.4,exit_bar=2026-11-10T23:26:00Z,control
+2026-11-10T23:27:39Z,ENTRY,EpE5BsXFH3Po8EMZKSo6zaJ5ziKJPiHiEheJpodgfVLi,hSOL / SOL,0,5.06333711582e-05,100.0,research_failed,,,456.4,score=0.00 momentum=55%,mom
+2026-11-10T23:29:15Z,ENTRY,F3uVfeF6hYb8v6hBoq9ATeLaMV7tAp2Cd6nhokLmZNPg,Worldwar3coin / SOL,0,8.2708002639e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-10T23:30:30Z,EXIT,6uSDXCgiB4MeFesDbqK3zQswjhYwiks8Vziz6eJ1LHTd,MUSKX / SOL,0,5.94611845154e-05,100.0,sl,-73.93,-73.93,456.4,exit_bar=2026-11-10T22:34:00Z,mom
+2026-11-10T23:30:30Z,FAILED,AtorsbrSw6AWeQTNMBcrq17t5jCcjJF3mioJ3hDz8qzE,SUNNY / SPCXx,0,2.00643047293e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-10T23:30:30Z,ENTRY,DfA7CU3XbzveKpe4eqGkhdjxTqns3VbsaYqY9AkX2x9d,SCNDL / SOL,0,1.70103120428e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
