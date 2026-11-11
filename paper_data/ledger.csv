@@ -9536,3 +9536,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T13:42:39Z,ENTRY,AgRyP5T7Qi791vZrEsxEYXvKCeyi6vyUHC9FVtjHBvST,CACU / SOL,0,3.60141345873e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
 2026-11-11T13:42:39Z,ENTRY,7HdozKCHuggcKA4XNs72fSk14svugAi5GkdhyZ6A1REe,NiZhe / SOL,0,3.75405971628e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
 2026-11-11T13:42:39Z,ENTRY,5TnxqEFswpK18sABe73SoKtkvXwp4Hh9zxaNZyzYF9ez,NIHAO / SOL,0,5.73885844743e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-78%,control
+2026-11-11T13:48:40Z,ENTRY,8hg1Y4Xwr83rY8bunWbFoQ3Z6BTi8ry4m21qCdYrLtsR,Fomo / SOL,0,1.61406494668e-07,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-99%,control
+2026-11-11T13:51:39Z,ENTRY,ComPwTwQsXxxxx24LSk9yrgk6mGmzRGYcNi4Butj2ESM,SPCX / SOL,0,3.62614331488e-08,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T13:51:39Z,ENTRY,5NkwCtzer1Ve57dfDuvZdWBKSHswuGgj2UeqMWff6ckk,POLYCAT / SOL,0,4.14978566585e-05,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
