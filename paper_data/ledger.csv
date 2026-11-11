@@ -9075,3 +9075,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T01:41:25Z,ENTRY,DhFw3fPimUG1RYxPTLGVmkNovpHgV5LcXTJPg1LhtPPZ,MBGA / SOL,0,1.65516105834e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-11T01:42:54Z,ENTRY,3Gjf6XFHouAYSqstLciK6CAguALFkj2Wxo7QKRK4MFJe,LUCKY / SOL,0,8.721127572e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-11T01:45:31Z,FAILED,GyAuNujssrkfSM5V7N5DzAZpZECEzGZw6k6g35eq1GEp,LSOUL / SOL,0,2.29768918088e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-11T01:49:34Z,ENTRY,7bowtULSFRK4runirKxk1YAoijaF677tHgkk7LHKeddo,X / SOL,0,7.90351449809e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
+2026-11-11T01:51:10Z,ENTRY,HegJN9uYJu8L8vRYhQjez77uBpu4Zkh1yqv2YVm22cAe,KoriMu / SOL,0,0.000274374896818,100.0,proven_pool,,,456.4,age=127min,proven
+2026-11-11T01:52:25Z,ENTRY,8EptrUDpraAKxryZnjjjneYcjTWPrE47hWhRwDUhd7Dy,BAGWORK / SOL,0,2.49491725714e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
