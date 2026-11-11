@@ -9654,3 +9654,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T17:04:43Z,EXIT,GrDuM1zdRvULGVoaS7WJmpSPQSCfJXEw66jaPBKiyiBa,Mask / SOL,0,6.55196038231e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-11T16:12:00Z,mom
 2026-11-11T17:04:43Z,ENTRY,sJt1seghmTDqV3MkFMoHo65ruQAxLQLiWYxA5Gtbgpd,Speed / SOL,0,0.00040082427046,100.0,proven_pool,,,456.4,age=122min,proven
 2026-11-11T17:04:43Z,ENTRY,HdRxy1QAZZ4XLQkEk1Y9Dc86omjMFqNYhemE38KDWaBa,ABIGAIL / SOL,0,3.03141696921e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-11T17:07:46Z,ENTRY,BKZti7yke1gHkAoYQRbizZXPyE43srJBkeP4Z9g7aBp8,Māo / SOL,0,4.43449716466e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-11T17:09:15Z,ENTRY,AEdaoBUauHf12kBekLWUDDsxmxAjnD52vainA9E3ZRBg,ElonMusk / SOL,0,1.16747165827e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T17:10:30Z,ENTRY,G8osgHpvmzJZcC81pHEZxh6muHj1Gn3uYm9th2Xe2n2q,VI / SOL,0,4.44746362068e-05,100.0,research_failed,,,456.4,score=0.00 momentum=27%,mom
+2026-11-11T17:12:06Z,EXIT,Bf1TdrPBtZRfPBvp1mVLpPyc3c81N4C87MKx7iZqvBP,MN9 / SOL,0,3.42059626492e-05,100.0,timeout,-4.11,-4.11,456.4,exit_bar=2026-11-11T17:11:00Z,control
+2026-11-11T17:13:29Z,ENTRY,DkuHx29NZX7ZwyCj858sfbNhZKpMocMdp39cfjWE446V,HYDRANT / SOL,0,5.24826220661e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T17:14:58Z,ENTRY,HaiJ1SHoLQsuVyZqjT1aZ5uNLHAoQBnYEeRkqSmvHqNu,34% / SOL,0,1.50867115699e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T17:14:58Z,ENTRY,AKSGRCb7rE1boRb1hwrgNaSjWa55VARKaij9ggWZaqC9,CASHTAG / SOL,0,1.44317914373e-05,100.0,research_failed,,,456.4,score=0.00 momentum=104%,mom
