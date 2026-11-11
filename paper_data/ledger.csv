@@ -9071,3 +9071,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T01:31:40Z,ENTRY,GemWc3kfW4oFEu4FbeTrK72qrFQeM3zv9dbwnSuL3Fiw,mihao / SOL,0,7.83906314021e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
 2026-11-11T01:34:32Z,ENTRY,Fxwi1v8p5UfJbFab7cdEvYV1gsGYnvhrCWF4LhkAWDEe,MIHAO / SOL,0,1.04183612712e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
 2026-11-11T01:34:32Z,FAILED,HE9VreQZk1H1HbMnuy4iZXvJV9escxPH7SvfnpMpitmq,Robinhood / SOL,0,0.000108198402799,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T01:38:34Z,ENTRY,3u1oiqu1xseLqzvNg4csmvuFhFzRmewpxjmn5BHLpo68,mmrich / SOL,0,4.78342863382e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T01:41:25Z,ENTRY,DhFw3fPimUG1RYxPTLGVmkNovpHgV5LcXTJPg1LhtPPZ,MBGA / SOL,0,1.65516105834e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-11T01:42:54Z,ENTRY,3Gjf6XFHouAYSqstLciK6CAguALFkj2Wxo7QKRK4MFJe,LUCKY / SOL,0,8.721127572e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-11T01:45:31Z,FAILED,GyAuNujssrkfSM5V7N5DzAZpZECEzGZw6k6g35eq1GEp,LSOUL / SOL,0,2.29768918088e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
