@@ -9676,3 +9676,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T17:35:26Z,EXIT,6ub86tQLqdFG6KVVvAA89REKTdSLb5RUmGM6R9aYCCjA,NIHAOSET / SOL,0,1.69839195141e-06,100.0,sl,-70.07,-70.07,456.4,exit_bar=2026-11-11T16:33:00Z,control
 2026-11-11T17:36:55Z,ENTRY,DB9etRKsevoA9DHvjiQjooNrhKHedFonu7p1kPYvJRcW,BEAVER / SOL,0,1.83368247875e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-33%,control
 2026-11-11T17:36:55Z,ENTRY,A66LZGdZaHk5vsKUjHmA1xRzi6rQZQaqgdxzzzsHuCua,CULT / SOL,0,4.67685908656e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-11T17:38:29Z,EXIT,4XvGUaPYGvghw4XxNR3Lhi2sdEpURDhRuM39A2XGffGm,WhiteWhale / SOL,0,5.19061406675e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T17:36:00Z,mom
+2026-11-11T17:39:59Z,ENTRY,GCYcy72a8PL5ZYtQbop6rrfUabk7LsRASGFiHHW2mbM7,Float5 / SOL,0,1.70128885357e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-20%,control
+2026-11-11T17:39:59Z,ENTRY,8mYYvVDGKjApysuYtZGc8tfsHRprRyiafDpafeKHZtTX,BRAIN / SOL,0,2.16491791807e-05,100.0,research_failed,,,456.4,score=0.00 momentum=97%,mom
+2026-11-11T17:41:28Z,EXIT,5YdE8DWuwPKpxmNVykbeGpZcrzcG3ckAeqwQ2ccXNfE5,LEHU / SOL,0,3.43157873676e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T17:40:00Z,control
+2026-11-11T17:42:58Z,FAILED,AxWjPwAdK6kcqqKVUv7vp8rD9MqvRExeJRPuzkaXJS3x,CHEEBS / SOL,0,9.18268484347e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-11T17:44:27Z,ENTRY,AUN7sYL3he1VVKtXc6vujYSBxbVZm9Ytx9eJimgswgmp,YOLO / SOL,0,1.68981618029e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-11T17:44:27Z,ENTRY,4NeAFiKqEySUUeu1RWBr5NEvcNjuMzBmGqjAvSbBypB4,boner / SOL,0,6.58399823124e-05,100.0,research_failed,,,456.4,score=0.00 momentum=32%,mom
+2026-11-11T17:45:57Z,ENTRY,6GVmiTkebonzoqPPiNvYBz8Hz7jzCVQzPxDhxNQxvNCE,AIRCOIN / SOL,0,2.11863154162e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T17:45:57Z,ENTRY,5ZhhkAyT6NTqRQ9HsjjRGc7NssSEADBkvF7VXcum8YhQ,KEMI / SOL,0,3.64856585309e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-11T17:47:26Z,ENTRY,CJw6SwUHx2w9Jnm1aHNqhZcYEXxJ7a9CD1ZTceryHEjK,FINESHYYT / SOL,0,1.70195973733e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
