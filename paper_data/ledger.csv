@@ -9189,3 +9189,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T04:52:30Z,ENTRY,7eVjVSNSikLFckni4G7sqi95JcrGcGQ4DPbkEhvNe2nj,mihao / SOL,0,1.2287354451e-05,100.0,research_failed,,,456.4,score=0.00 momentum=72%,mom
 2026-11-11T04:54:07Z,EXIT,HegJN9uYJu8L8vRYhQjez77uBpu4Zkh1yqv2YVm22cAe,KoriMu / SOL,0,0.000185508253004,100.0,sl,-39.48,-39.48,456.4,exit_bar=2026-11-11T02:11:00Z,proven
 2026-11-11T04:55:29Z,FAILED,9RWSThX5uYkAixgs1HCV6HTa6wEamie1VvZqkiLkt95P,WinCoin / SOL,0,1.8144820571e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-11T04:57:02Z,ENTRY,6Bew1GEGGiBDcyiqotz5A9tZaEkNzXFmVnM7BbVGz7og,bdhdb / USDC,0,1.16867120328e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T04:57:02Z,ENTRY,3mbQsmTiANEevKwv5Q7qYMz5GfKPCANN1HNxQQneT3u8,Maneki / SOL,0,2.1997725556e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T04:59:46Z,ENTRY,2yByFMEK7cEv2AqEGrntDQmw85VHQggis3YTT2JYGX3x,PEMPFUN / SOL,0,1.69430615093e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-15%,control
+2026-11-11T04:59:46Z,ENTRY,D8HwzidtwKnEnDUyQKJpHq5WYKdPMHM8Ff5xEwGeoJYn,$honor / SOL,0,1.37991879904e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T05:01:15Z,FAILED,8odUuWoNsmu4eKuGtshZM7vSNupqzo1JCE2pjAsfQJto,精美瓷器 / SOL,0,2.46182914962e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T05:02:30Z,FAILED,76Nw88G9hkRWGr9BVjo5xotZMEc563KWmLxh4XKmB82U,Tired / SOL,0,4.88671891152e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-11T05:04:07Z,ENTRY,GLnFAiZjmsTq6oVyq52Fnm1F6JhQfmS1DrzwStQnn719,DOOM / SOL,0,3.2537905501e-05,100.0,research_failed,,,456.4,score=0.00 momentum=12%,mom
