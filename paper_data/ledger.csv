@@ -9506,3 +9506,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T12:33:46Z,ENTRY,2WYg1WNJhcpcPPy5V1s6GfYcHcgrbyhrPAwNdk2utc8w,XAUTN / USDT,0,1.00648559484,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-11T12:35:15Z,EXIT,ACRwpRPNXBbyued9KCJzhyu5dpx6sku8GdD1jFeqVV1v,34% / SOL,0,7.61338049772e-06,100.0,timeout,-9.06,-9.06,456.4,exit_bar=2026-11-11T12:34:00Z,control
 2026-11-11T12:36:30Z,ENTRY,Ed9uiJ55LrJ4Cp2xZsrDAEGpgBznGEXisneEzYSjaFW2,猫螂 / SOL,0,6.91645924915e-05,100.0,research_failed,,,456.4,score=0.00 momentum=56%,mom
+2026-11-11T12:38:10Z,EXIT,6oZFFWA5Gmghwx1csfqJpqswFF9X2pmwDprtTcsf87mP,PUMPSALE / SOL,0,5.49610387187e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T12:36:00Z,mom
+2026-11-11T12:39:33Z,ENTRY,7AxFc1bM5aEpj8z1ZGKCnfbScnbPZ2ay92eM511hoJKZ,uinhim / SOL,0,2.69583093565e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-38%,control
+2026-11-11T12:41:09Z,EXIT,2he5ighywG6PUkm7z8PromtCFPXJc4ehkVjriirmwAtk,TRENCHER / SOL,0,2.37708459103e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T12:39:00Z,mom
+2026-11-11T12:43:46Z,EXIT,H5zoGFLX5zKJFM2WqyU66iiKkx9EkKs2Gs8pfRuf7qe,trench / SOL,0,9.83906994164e-06,100.0,timeout,-7.83,-7.83,456.4,exit_bar=2026-11-11T12:42:00Z,control
