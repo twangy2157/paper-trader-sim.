@@ -9875,3 +9875,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T23:01:31Z,ENTRY,CAatxViaJJkm14vsWSgRc2EiEvyiN7SBi3mZiFF6M78q,att / SOL,0,2.77876419003e-05,100.0,research_failed,,,456.4,score=0.00 momentum=34%,mom
 2026-11-11T23:03:08Z,EXIT,5N5FmZwYozzQ1jzhhDPtdm5E35dRmLS5qhNVoRMbwzrM,EG / SOL,0,5.35875569271e-06,100.0,timeout,-9.77,-9.77,456.4,exit_bar=2026-11-11T23:01:00Z,control
 2026-11-11T23:04:30Z,EXIT,G42nTic7SxjixKq6dLM9Awbax3gT98DbGgXo2cs8nvbb,Auda / SOL,0,6.60474435407e-06,100.0,timeout,-10.0,-10.0,456.4,exit_bar=2026-11-11T23:02:00Z,control
+2026-11-11T23:06:10Z,EXIT,GNpRqpynqAJe6ToRTmom8ZL3tK9DYvRft7ZKS1jeNYEZ,trench / SOL,0,2.76940005596e-05,100.0,timeout,-7.55,-7.55,456.4,exit_bar=2026-11-11T23:02:00Z,control
+2026-11-11T23:07:33Z,EXIT,6mNVdQs4NjY63Q2tuwB62XMZcDZj4ETB53DqkiYS8VPr,Max / SOL,0,8.9506221917e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T23:04:00Z,control
+2026-11-11T23:07:33Z,ENTRY,DEGSSLCG7aF1hYWWdir1Gt7jiU5QQE9HHnvvHkAFjz1U,PLAYBOY / NVDAx,0,1.47584002316e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-11T23:07:33Z,ENTRY,8neX5B2rwTGdCbHxcwF8bpusFdjkhfoEomZyMERVZT2s,DacityCoin / SOL,0,6.88140943114e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=3%,control
+2026-11-11T23:09:09Z,EXIT,DxuARvKZURfzgGDqNdkFYYCkRzxr1F8YDoJ3qaUQk2eL,Dog Think / SOL,0,8.14633678216e-06,100.0,timeout,-8.72,-8.72,456.4,exit_bar=2026-11-11T23:08:00Z,control
+2026-11-11T23:10:25Z,EXIT,Gqm1YHPfE2UACTyxmvdEH9H1fYgRncKVEs7f4tovN4P7,NVIDHAO / NVDAx,0,1.63401086702e-05,100.0,timeout,-5.32,-5.32,456.4,exit_bar=2026-11-11T23:08:00Z,control
+2026-11-11T23:11:55Z,ENTRY,5VCw9WCUxMc6nfErD5Z3wqTFVD8HZ2WYkdH56jQy5pSq,wagmihao / mihao,0,1.38948999331e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-11%,control
+2026-11-11T23:13:17Z,EXIT,4wFEeMRu8JEkRNUrYJD2tZPEp8UdkKmcPdibfYagbD9B,TITTY / NVDAx,0,1.55161356918e-05,100.0,timeout,-5.45,-5.45,456.4,exit_bar=2026-11-11T23:11:00Z,control
+2026-11-11T23:14:39Z,ENTRY,WSWYJo2A9TqNP6NXULdu2gSn2churyFvNEAvJ1h8vwe,DTC / SOL,0,6.75034173167e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=6%,control
+2026-11-11T23:14:39Z,ENTRY,2F1dRhhWKKvTek1ErckDJg5q3zdcAdWxM7Djd14n11oQ,$CAT / SOL,0,7.60856953687e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T23:14:39Z,ENTRY,73597uBKWqiJVcPm541Eg5CvM2YBZAt6GbybhBWq1NFm,GONE / SOL,0,1.5937602639e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-42%,control
