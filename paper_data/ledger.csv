@@ -9210,3 +9210,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T05:25:30Z,ENTRY,AbKu9GJ2k7MSkUmp4H6jEuDrjyoaFsUkyatXmKkRofAd,FOMOINU / SOL,0,1.6663340456e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
 2026-11-11T05:28:29Z,EXIT,65Nzs165Kt8NTXoDgbmE1dT3VjfZpCD3udA3d7FGcL35,GTA / SOL,0,1.96399551492e-05,100.0,timeout,-4.9,-4.9,456.4,exit_bar=2026-11-11T05:27:00Z,control
 2026-11-11T05:29:58Z,EXIT,6mrySEb6qE5gg7cSpRnSL9GsCoxvyUVv7MMAkutBkT5s,Tired / SOL,0,7.09983425108e-05,100.0,tp,87.19,87.19,456.4,exit_bar=2026-11-11T04:35:00Z,control
+2026-11-11T05:31:31Z,ENTRY,6N4sd1h8H94Pa9wJJ2gqC3HGVstqw9goyiV3MgnRB9L9,DRUSKI / SOL,0,3.30780470792e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-11T05:33:07Z,FAILED,35yHeToLUfiRjXm5EkpULSk58m7P5DVHUAAcwLsGKGEL,VICECITY / SOL,0,8.38237246378e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T05:34:29Z,ENTRY,DHxaQHxhM4neN5Kbf8Cs42NbNUwSeGqoFwE6qWCW32hh,XOGE / SOL,0,4.65416624708e-05,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
+2026-11-11T05:35:58Z,EXIT,29bTtjkz6VkrrcUktNSHdSDgmjtgATrsn9pRzNsg4EcX,HONEY / SOL,0,6.93496979924e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T05:34:00Z,mom
+2026-11-11T05:37:28Z,EXIT,9YbCogqkZUkC7taUKyB9KUhib4LmbX9hGbNfYYr6HKY2,chatty cat / SOL,0,6.30183193268e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T05:35:00Z,mom
+2026-11-11T05:38:57Z,FAILED,xfGsGjx2zxhJV59thYa7weBTFqFR86pXsyYdszWSk1T,Rockstar G / SOL,0,8.2092234207e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T05:40:26Z,ENTRY,DkNVGQJLBPXdXpz6Ub9231fwASdScXrE9VgPgUzA8fTo,GTA 6 Coin / SOL,0,9.12064843666e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-13%,control
