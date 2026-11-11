@@ -9078,3 +9078,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T01:49:34Z,ENTRY,7bowtULSFRK4runirKxk1YAoijaF677tHgkk7LHKeddo,X / SOL,0,7.90351449809e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
 2026-11-11T01:51:10Z,ENTRY,HegJN9uYJu8L8vRYhQjez77uBpu4Zkh1yqv2YVm22cAe,KoriMu / SOL,0,0.000274374896818,100.0,proven_pool,,,456.4,age=127min,proven
 2026-11-11T01:52:25Z,ENTRY,8EptrUDpraAKxryZnjjjneYcjTWPrE47hWhRwDUhd7Dy,BAGWORK / SOL,0,2.49491725714e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-11T02:00:33Z,ENTRY,7LGjjXnK5ZpfLqbzMiT4tkPjvKQbBBpqUa5ZPxGrCjcT,Porsche / USDC,0,1.48640932191e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T02:02:10Z,EXIT,HYYHHeFFNvt8yBhqpLEUNr7D5W9PgycJ7Tcgkmbt5KnF,Cupseyyyy / SOL,0,1.62517603295e-05,100.0,timeout,-5.32,-5.32,456.4,exit_bar=2026-11-11T02:01:00Z,control
+2026-11-11T02:04:46Z,ENTRY,5Wa95D3FsY9RQB6o1MNXha3QzSo546wgqH2v9QGSZ2Yp,Bagwork / SOL,0,1.12523531702e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-63%,control
+2026-11-11T02:06:16Z,EXIT,FKspsgELnZyNNEvi4YCbbKF9p53eP6uYBF8hBpp9sRYV,🇬🇷 / SOL,0,9.10374914364e-06,100.0,timeout,-8.3,-8.3,456.4,exit_bar=2026-11-11T02:04:00Z,control
+2026-11-11T02:07:31Z,FAILED,AjwXHSjQ7oH8PZukg1UPCZpXPCJ1cJEgkAx1vpNMcGyY,Backwards / SOL,0,1.33981775814e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T02:07:31Z,ENTRY,DZDP2MfN4czqwFGQzn78pjpYnjWKdLxAj6m2QFjrd55,Vicemas / SOL,0,4.21191841408e-05,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
+2026-11-11T02:10:29Z,ENTRY,6Mc1gGzdK3Mp7trhJ1ZWWhtuEzGmEjecguNDoHqwxmcJ,zPEPE / ZEC,0,3.82011692997e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
