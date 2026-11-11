@@ -9543,3 +9543,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T13:57:34Z,ENTRY,4JvsiuraFATrWHPe16f6tcnzWzY5woTvSEHHrMn2pNHY,Ikigai / SOL,0,1.66867557541e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
 2026-11-11T13:57:34Z,ENTRY,43gW3WJaFSzutSLrTzJp39NcnVQ6kenwygptnBrLUzgb,TOLL / SOL,0,1.06696804569e-05,100.0,research_failed,,,456.4,score=0.00 momentum=95%,mom
 2026-11-11T14:03:17Z,ENTRY,GA2eD3oiNXGhdV3WyLb4oWR3MQiv7rMtg9DxzvCcfJzw,SCRVAN / SOL,0,2.25981255135e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T14:08:56Z,ENTRY,44kCBf3Q88VJwDLTaKJnESrR9iqF96Fb7F4pEqtLJDdA,MEOWDY / SOL,0,4.44154976324e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-11T14:10:25Z,FAILED,3pv2WmW5Uo25N5tYrjeQ2Nwq9D8NSgjd4rQaqrMhpEs4,CLUMZY / SOL,0,1.26377791947e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T14:11:54Z,EXIT,GRG6PQCUj2SV2Q28EJgoeRiS5bG4vkJBD8FQ6YaWm8rq,COL ◯ / SOL,0,0.000125175814102,100.0,rug,-3.3,-3.3,456.4,exit_bar=2026-11-11T14:10:00Z,mom
+2026-11-11T14:14:46Z,ENTRY,7Auvw2TygnyQ2bgSpaqovTJWEKis8Qv1FhyGyuJR39Pj,NIHAO / SOL,0,1.62658826012e-05,100.0,research_failed,,,456.4,score=0.00 momentum=67%,mom
