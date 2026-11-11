@@ -9818,3 +9818,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T21:39:39Z,ENTRY,A59fnV5srdgojYvaATiLH3fjBeTrwqPkyQWs7s8uZyJS,CELON / SOL,0,0.000175920382651,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
 2026-11-11T21:39:39Z,FAILED,3kvJp79wvi3MNwDPFPVp9yWm9LzLoEfjsuhJm3ykm6WQ,usdc / USDC,0,8.934252493e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-11T21:41:16Z,EXIT,2BnDAzFGhfiHeMaR7EHE82NckTuBGZMisoGXNhi2Nmeh,DeepSeek / SOL,0,0.000286201747319,100.0,tp,93.19,93.19,456.4,exit_bar=2026-11-11T21:23:00Z,mom
+2026-11-11T21:42:37Z,EXIT,CfZPTabewtwmPBipVzWSgP5ao3ASiKWLaAxTMB8VayhY,konnichiwa / SOL,0,2.40175341342e-05,100.0,tp,80.67,80.67,456.4,exit_bar=2026-11-11T20:42:00Z,control
+2026-11-11T21:44:15Z,EXIT,EdyDF3umeCpCRwPstXczYcqM6K38gfUnvfZEDapGU6iA,HANS / SOL,0,8.10627684739e-06,100.0,timeout,-8.87,-8.87,456.4,exit_bar=2026-11-11T21:42:00Z,control
+2026-11-11T21:45:30Z,ENTRY,HPNENR4TkLmtRwPgTBSEUoaDkQxftfeK4ufYfFSx61Sv,Max / SOL,0,4.19278046851e-05,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
+2026-11-11T21:47:07Z,EXIT,CT9BseSuFbtGoPZaStwExsUcbPBBQ26bUkJmFhMzGfSh,SELONMUSK / SOL,0,4.89500414671e-05,100.0,sl,-39.05,-39.05,456.4,exit_bar=2026-11-11T20:54:00Z,mom
+2026-11-11T21:48:29Z,ENTRY,A6SFHNjj6QFtEjgrM6QnbvwK84mciv7PWXXKGZHBVxkE,Eywa / SOL,0,1.06659879793e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T21:49:59Z,ENTRY,CPSGrT3BW7eYsm65Ez6v6HutzH1urpfQ9trFJdqayTBg,Penthouse / SOL,0,3.3007135225e-05,100.0,research_failed,,,456.4,score=0.00 momentum=82%,mom
+2026-11-11T21:51:29Z,ENTRY,Lte4yaWgFh9u1sWCSs2Y56h6PmF9u1Je9SPvWhcELVq,META / SOL,0,3.37402590009e-05,100.0,research_failed,,,456.4,score=0.00 momentum=15%,mom
