@@ -9830,3 +9830,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T22:00:25Z,ENTRY,5N5FmZwYozzQ1jzhhDPtdm5E35dRmLS5qhNVoRMbwzrM,EG / SOL,0,5.55703523531e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-14%,control
 2026-11-11T22:01:47Z,ENTRY,G42nTic7SxjixKq6dLM9Awbax3gT98DbGgXo2cs8nvbb,Auda / SOL,0,6.85809042997e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-11T22:01:47Z,ENTRY,GNpRqpynqAJe6ToRTmom8ZL3tK9DYvRft7ZKS1jeNYEZ,trench / SOL,0,2.87870391985e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-11T22:03:20Z,EXIT,DDTGrnUR9cqzgEK8ho4vG2j7S2xxnMJQHoQskb3La4Zx,GIFs / SOL,0,3.3055042555e-08,100.0,rug,-100.91,-100.91,456.4,exit_bar=2026-11-11T21:08:00Z,mom
+2026-11-11T22:03:20Z,ENTRY,6mNVdQs4NjY63Q2tuwB62XMZcDZj4ETB53DqkiYS8VPr,Max / SOL,0,7.92747240093e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
+2026-11-11T22:04:43Z,EXIT,8bWi28vpiFrJdSPkk39gYdFwypCWDp7trfLocHvD7DsP,vgc / SOL,0,1.28094125865e-05,100.0,timeout,-9.39,-9.39,456.4,exit_bar=2026-11-11T22:02:00Z,control
+2026-11-11T22:06:21Z,EXIT,2Pe2URnY4AoSiZG89TRqYuzQwMZWC1fqA2xCBXoozdLc,mihao / SOL,0,0.000100728321767,100.0,timeout,-4.92,-4.92,456.4,exit_bar=2026-11-11T22:05:00Z,proven
+2026-11-11T22:07:43Z,ENTRY,DxuARvKZURfzgGDqNdkFYYCkRzxr1F8YDoJ3qaUQk2eL,Dog Think / SOL,0,8.39747077704e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-11T22:07:43Z,ENTRY,Gqm1YHPfE2UACTyxmvdEH9H1fYgRncKVEs7f4tovN4P7,NVIDHAO / NVDAx,0,1.65381679867e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-11T22:09:20Z,EXIT,5gf1PUURUEN7XHQFmmToRi8KGKdecc7cpf6KVN5jmsn1,vibeshift / SOL,0,1.12438666772e-05,100.0,timeout,-8.06,-8.06,456.4,exit_bar=2026-11-11T22:08:00Z,control
+2026-11-11T22:10:43Z,EXIT,FgvKCVMsihfrCUjBLq9WXdg4tGcNvtTUseZpdKq3JAQQ,updog / SOL,0,5.60075684335e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T22:09:00Z,mom
+2026-11-11T22:10:43Z,ENTRY,4wFEeMRu8JEkRNUrYJD2tZPEp8UdkKmcPdibfYagbD9B,TITTY / NVDAx,0,1.57138042316e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-11T22:12:20Z,EXIT,A5n3tv4QvUcY6UKSwJPksmKNVAgzBKE1XeA5NNX7AtdE,MCH / SOL,0,9.74790295678e-06,100.0,timeout,-7.93,-7.93,456.4,exit_bar=2026-11-11T22:11:00Z,mom
