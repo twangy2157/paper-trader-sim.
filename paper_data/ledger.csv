@@ -9812,3 +9812,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T21:26:39Z,ENTRY,G61dnp1fotzty8Avug3HpUX2z4CPR7XdtYvWm7ATBeHu,Max / SOL,0,3.5794995433e-06,100.0,research_failed,,,456.4,score=0.00 momentum=32%,mom
 2026-11-11T21:26:39Z,ENTRY,D2HPKzjzCUiEc5fagTfJXSNAGAxbq6NEBoMjcwkeM8d1,VIBES / SOL,0,1.74290010932e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-11T21:29:31Z,EXIT,98iFoBstAYPhCHbg8bhdmC3iM3yy9mwsmyQGGFSawKdA,GIFs / SOL,0,4.05282859518e-06,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T21:28:00Z,mom
+2026-11-11T21:32:20Z,ENTRY,GVGkCGsQcAS3i2ztzF11FxwfQ2F4yJR3sNFYdKv51BdX,MAX / SOL,0,9.12563735759e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=3%,control
+2026-11-11T21:33:42Z,ENTRY,93TSfoToehdBiVHDQQfE8EVSVJ3VL3Cnya7L68uSsWfe,Max / SOL,0,4.31373336729e-05,100.0,research_failed,,,456.4,score=0.00 momentum=12%,mom
+2026-11-11T21:38:17Z,ENTRY,6TaLpEBp8suneP4V18ZnCQ9hArfawh8sJuaE36o1rvCg,ch / SOL,0,7.5016465737e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T21:39:39Z,ENTRY,A59fnV5srdgojYvaATiLH3fjBeTrwqPkyQWs7s8uZyJS,CELON / SOL,0,0.000175920382651,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
+2026-11-11T21:39:39Z,FAILED,3kvJp79wvi3MNwDPFPVp9yWm9LzLoEfjsuhJm3ykm6WQ,usdc / USDC,0,8.934252493e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T21:41:16Z,EXIT,2BnDAzFGhfiHeMaR7EHE82NckTuBGZMisoGXNhi2Nmeh,DeepSeek / SOL,0,0.000286201747319,100.0,tp,93.19,93.19,456.4,exit_bar=2026-11-11T21:23:00Z,mom
