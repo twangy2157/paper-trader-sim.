@@ -9492,3 +9492,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T12:14:17Z,ENTRY,81798unGsGwZkGt2U1AnWtwXSLgH1Y5fRKRXhG71UM7P,Muskrat / SOL,0,7.93544685694e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
 2026-11-11T12:15:39Z,EXIT,878jQVyNPneQQz1EYgkoApb7pY5nhL1JzwhSP2DJDyd3,Nvidick / NVDAx,0,1.70131231112e-05,100.0,timeout,-4.18,-4.18,456.4,exit_bar=2026-11-11T12:14:00Z,control
 2026-11-11T12:15:39Z,ENTRY,7smYsSRCpT1fT4tXQJCMHDYZek7kbaXcqWEurKh58aXn,minihao / SOL,0,0.000167358121314,100.0,research_failed,,,456.4,score=0.00 momentum=534%,mom
+2026-11-11T12:17:20Z,ENTRY,4dKKPM5uXU6M7tC7RyjTRYq9gamRU6NW4g8QMb7tkede,CASHTAG / SOL,0,0.000758501815192,100.0,proven_pool,,,456.4,age=123min,proven
+2026-11-11T12:18:42Z,EXIT,5rhv8dKf5No2KYBvMZA1YVgfmgucpTL8sb5z5KVnyBsv,HYPE / SOL,0,1.5272857362e-06,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-11T09:39:00Z,proven
+2026-11-11T12:18:42Z,ENTRY,8G2M2tqiqyesLuMeKSJ7U9dUCiJEPi9twRHZQmX1FvLR,AICoin / SOL,0,8.30561038424e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-11T12:20:19Z,EXIT,9oKRxN7MQj3j19LUrMMDh5J2Dy9fEyBsCFYP2ngQZce2,TIKTOK / USDC,0,3.56167130491e-05,100.0,timeout,4.87,4.87,456.4,exit_bar=2026-11-11T12:17:00Z,control
+2026-11-11T12:21:41Z,ENTRY,FMXyMyKpsLFGFk5FjoVasJbujG54xUvA12fQ9Cam3ynh,Lazarus / SOL,0,2.05839976719e-05,100.0,research_failed,,,456.4,score=0.00 momentum=142%,mom
+2026-11-11T12:21:41Z,ENTRY,2togbgnvcJrYzSdoERd118MqZQYudLCi67qqKMyhtomc,$CCOW / SOL,0,0.000137904713346,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T12:24:39Z,ENTRY,HiUk3Je89kHdYSW6QyCHWUf4S9aQkzH8HLTNAn1ioW9R,Muskratht / SOL,0,0.000119950893577,100.0,research_failed,,,456.4,score=0.00 momentum=65%,mom
+2026-11-11T12:26:24Z,ENTRY,9GwkZRMwBnyQrVxwrosRT1DHKC7PxByQtQ96ey7ujBPs,fomo / SOL,0,4.98791984861e-05,100.0,research_failed,,,456.4,score=0.00 momentum=48%,mom
