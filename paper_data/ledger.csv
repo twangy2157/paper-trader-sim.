@@ -9196,3 +9196,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T05:01:15Z,FAILED,8odUuWoNsmu4eKuGtshZM7vSNupqzo1JCE2pjAsfQJto,精美瓷器 / SOL,0,2.46182914962e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-11T05:02:30Z,FAILED,76Nw88G9hkRWGr9BVjo5xotZMEc563KWmLxh4XKmB82U,Tired / SOL,0,4.88671891152e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-11T05:04:07Z,ENTRY,GLnFAiZjmsTq6oVyq52Fnm1F6JhQfmS1DrzwStQnn719,DOOM / SOL,0,3.2537905501e-05,100.0,research_failed,,,456.4,score=0.00 momentum=12%,mom
+2026-11-11T05:08:31Z,FAILED,27zDu76DxRbuayULKhiEGtZNEREWfAtAF7i7sPcc5h5f,花 / SOL,0,1.19116660604e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-11T05:11:16Z,EXIT,LzNCiENbyM6QEZnuXuGNVEUs5szayp7KAVxa61mLMT5,AODF / USDC,0,0.0321688792027,100.0,timeout,-2.96,-2.96,456.4,exit_bar=2026-11-11T05:10:00Z,control
+2026-11-11T05:12:31Z,EXIT,Ctm3qr28osRp3u7CZX31fwaZivrKoeBTTLtCEfYs3yJS,$MFRG / SOL,0,7.91559667016e-06,100.0,timeout,-9.26,-9.26,456.4,exit_bar=2026-11-11T05:11:00Z,control
+2026-11-11T05:12:31Z,ENTRY,31rDeYPmvs1ddkqy5ktGUP6qRYQKXAyw7ERRPBfM5MKo,EZFARM / SOL,0,0.000122306912521,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-11T05:15:29Z,EXIT,DdQPUeGWLgg7WRBRuDLjqp9RbsRfun9s5f8FYztGU7zL,HOLDEM / SOL,0,1.4964116613e-05,100.0,timeout,-5.24,-5.24,456.4,exit_bar=2026-11-11T05:14:00Z,mom
+2026-11-11T05:16:59Z,ENTRY,DAtgTjSaTZKVa4aeNZgsrBur9GLWSr3dEFLNh1YMahFi,HOLD / SOL,0,8.06310034986e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-11T05:18:28Z,EXIT,FWHw9kWdmBpsVv1HwUjmtEKJyo144Pn5ews97asFShra,HOLDEM / SOL,0,3.05446433674e-06,100.0,rug,-100.35,-100.35,456.4,exit_bar=2026-11-11T04:24:00Z,mom
