@@ -9388,3 +9388,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T09:54:06Z,ENTRY,5kkgPb3N4kC54tJZ9eb5gZGT6G1BG9odubabCM2brLn3,34% / SOL,0,8.90650729887e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-11T09:56:57Z,EXIT,D6hC6U21z9j45kWRzpPfqLvCGqmRZpv5uy6CoT2QXXrm,Mony / SOL,0,5.68975356755e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T09:55:00Z,mom
 2026-11-11T09:58:27Z,EXIT,EvfAnZY84ii2HhYB1wJQMxAY5TKaogugLKuYqFwX9Lgb,‮CF / SOL,0,0.000414506570561,100.0,rug,-3.08,-3.08,456.4,exit_bar=2026-11-11T09:57:00Z,control
+2026-11-11T10:01:28Z,ENTRY,EkM5wdDB9UP1VD51hGM2urjBC2x3svgvU1dPkyD1oPfR,TI / SOL,0,7.86301462332e-07,100.0,research_failed,,,456.4,score=0.00 momentum=46%,mom
+2026-11-11T10:04:26Z,ENTRY,5gX7vC5WtSqwJRankAa13c9Fr7GjwnVXWNqRxHR7A5UT,Mony / SOL,0,3.21522487586e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T10:04:26Z,ENTRY,HhojYMSYnfSpGdgBok6E1KnUiPgM5wARKXWU9yb4XspT,boss / SOL,0,7.50296156614e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T10:05:56Z,ENTRY,BragCGWWJrM8hcBEjLFtxvTULX4GA4WwLeZGen1S5pRD,CASHTAG / SOL,0,1.37232910995e-05,100.0,research_failed,,,456.4,score=0.00 momentum=48%,mom
+2026-11-11T10:08:46Z,EXIT,mAgPYSbChhE5oCJbAnsHGPKj2UaggXpCe6H4jsw5JLK,$JUSSY / SOL,0,8.11337882149e-06,100.0,timeout,-8.73,-8.73,456.4,exit_bar=2026-11-11T10:07:00Z,control
