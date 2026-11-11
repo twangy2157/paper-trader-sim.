@@ -9115,3 +9115,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T02:51:56Z,EXIT,7bowtULSFRK4runirKxk1YAoijaF677tHgkk7LHKeddo,X / SOL,0,8.79580956779e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T02:50:00Z,control
 2026-11-11T02:53:25Z,ENTRY,BQm3598kPVGMBXk9Z3qKcG4m58N15kyHA1Pwxtuzv4GU,X / SOL,0,7.86796119368e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
 2026-11-11T02:53:25Z,ENTRY,DHwDSnAF9hCc625n1nML2UaCxuG1F9Kwax17H5YUA81M,HOLD / SOL,0,4.52138223324e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
+2026-11-11T02:54:58Z,EXIT,8EptrUDpraAKxryZnjjjneYcjTWPrE47hWhRwDUhd7Dy,BAGWORK / SOL,0,3.36540373806e-05,100.0,rug,29.75,29.75,456.4,exit_bar=2026-11-11T02:53:00Z,control
+2026-11-11T02:56:28Z,ENTRY,6KGi2cojtYRixh9JS2n5x3Yp7fssDCvYFDv8n6xX2Tug,HAOBIBI / SOL,0,0.000100879055065,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-16%,control
+2026-11-11T02:56:28Z,ENTRY,A7AvkEyG6eQ8Khzw3MkkaFUdLVxYSTqbEiZhnmEqRDzG,Panda / SOL,0,3.81082148181e-05,100.0,research_failed,,,456.4,score=0.00 momentum=116%,mom
+2026-11-11T02:59:26Z,ENTRY,Gi7Ygbvjdg4y8mZCPQji2PKiYHWv8X3iz3MTozLpm5Di,harold / PUMP,0,9.59567745829e-06,100.0,dip_after_drop,,,456.4,score=0.00 momentum=-22%,dip
+2026-11-11T03:00:56Z,ENTRY,HfaxPh9njfbiYpkKvTZSDp1XERKgYHQ5xVkAv2v9km2Y,Llama2024 / SOL,0,1.65226557868e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-11T03:02:25Z,EXIT,7LGjjXnK5ZpfLqbzMiT4tkPjvKQbBBpqUa5ZPxGrCjcT,Porsche / USDC,0,1.41198849672e-05,100.0,timeout,-9.8,-9.8,456.4,exit_bar=2026-11-11T03:01:00Z,control
