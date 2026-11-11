@@ -9598,3 +9598,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T15:38:15Z,ENTRY,FEDnfEgLT8ZfmGH4wkWZeNB8BVBC8a2UiK3kVNgV3mXc,GTA / SOL,0,0.000100049645629,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
 2026-11-11T15:39:30Z,ENTRY,Fp8tFgarcQ3ZorcdDSbwZ9NPGuTaW3vNcGQwFJhK2PCy,AIRDROPPLS / PUMP,0,1.68591426486e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-11T15:39:30Z,ENTRY,CjpYUfT7CuHXZ4FxJPMwVAJzXz2ZTXeN9hJZXuX2r2SP,Mask / SOL,0,2.11754808281e-05,100.0,research_failed,,,456.4,score=0.00 momentum=27%,mom
+2026-11-11T15:42:33Z,EXIT,EeW5ZpP5vU6eYSDsGYNcJ1uXUVVPpQzJreKciZpQrNt3,SATCAT / SOL,0,8.17090667544e-06,100.0,timeout,-12.03,-12.03,456.4,exit_bar=2026-11-11T15:41:00Z,control
+2026-11-11T15:42:33Z,ENTRY,Gk52rcmHMZJq94dA7UQmbCWt4NBam9HQyesDQop1vg4G,ORGASM / USDC,0,1.36565938384e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T15:44:10Z,EXIT,3YDZzBvv3QjEWBBuMxCwecVUPFKTUNqdYNXSsbvoiauU,Clive / SOL,0,4.46844211873e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T15:43:00Z,mom
+2026-11-11T15:45:25Z,EXIT,EW7kr9uzgCskF5cnKNBLCUTzB6NPgh2G6o5adgjxu1Mf,SYN3A / SOL,0,3.01488656003e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-11T14:55:00Z,mom
+2026-11-11T15:45:25Z,ENTRY,5VvFkGyp73fi6qw2dWG4tXjenoyfRNLgjP5YRGC3BFRk,Tiltum / SOL,0,1.69839320698e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T15:48:26Z,ENTRY,EPb1MxMCmgxyZLo9YRkjShwRzpfd1UoRCXJLeCiWbXc1,FAIR / SOL,0,2.7002320994e-08,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-100%,control
+2026-11-11T15:49:56Z,ENTRY,Bo8gqvgWHPuXnA1sisdvQtNVJ4caNwwqeocWk3THQZX,bro / SOL,0,8.90403140465e-07,100.0,research_failed,,,456.4,score=0.00 momentum=58%,mom
+2026-11-11T15:49:56Z,ENTRY,2j3SZhH8sUMbipo4AkgPBuBL7fjMjE24iDV9pB4KFnEr,QQQ / SOL,0,715.335500492,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
