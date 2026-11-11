@@ -9665,3 +9665,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T17:18:09Z,EXIT,FJvnHptENKhchenFdptevc2ja7KkjW9jdA4dtHuPhtMp,Google AI / SOL,0,8.88374876907e-05,100.0,tp,83.55,83.55,456.4,exit_bar=2026-11-11T16:37:00Z,mom
 2026-11-11T17:20:54Z,ENTRY,DGnKBUBFJ1ejCKrTufYKGULWDYKSZHyjCPxcLLBpL5fG,‮DLIWA / SOL,0,0.000843724166744,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
 2026-11-11T17:22:16Z,EXIT,dAeaLryGKnvikXgkDsWpdSVq2Dr8DgNMe4qEFsAZcZA,daacityy / SOL,0,9.98897682805e-06,100.0,timeout,-8.1,-8.1,456.4,exit_bar=2026-11-11T17:20:00Z,mom
+2026-11-11T17:27:35Z,EXIT,AaotUVaerbfzwVEnyjMXiaTtidQc46cqEoPBqypZFE4a,DANIELA / SOL,0,0.0002684638219,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T17:26:00Z,mom
+2026-11-11T17:27:35Z,FAILED,2h2sPz6sVuUYDagUy9jj1XY3X3m5jbKMTTAKStynzMyy,FLOAT / SOL,0,5.33339514593e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-11T17:27:35Z,ENTRY,BmdSaMiFD5sCZvvFoZWVDPF58M6SteM3ZmDgaQ1iNoJ5,SPSC / USD1,0,1.15092866808e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-11T17:29:27Z,FAILED,6mYKpoVt9VpNg4DGdVo3MPKBCpKBvMXubcqytaUDYJDK,ty / SOL,0,1.67450465729e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T17:29:27Z,ENTRY,AnYqrrhm7iTAcVsZ69Buafum3fabZPxAmDf47KFJZx1k,GTA 6 Coin / SOL,0,0.000166397390986,100.0,research_failed,,,456.4,score=0.00 momentum=57%,mom
+2026-11-11T17:32:26Z,FAILED,73THopwQqwXwbfWxJhZVZDkbrEfnovSbhLz9jDUmqBm2,BRAINROT / SOL,0,1.54760673131e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T17:32:26Z,ENTRY,Hhojdmdu7SPYJKAbzGGru187QnyhyxDyF3xbBQUJ2c8N,FLOATYBARA / SOL,0,5.59332052702e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-11T17:33:56Z,EXIT,FLveSVtTpvcfxvAMx9VzV7q3Wc2NAmhhz8jar2MW4fDF,GMGN / SOL,0,7.79017639618e-06,100.0,timeout,-8.94,-8.94,456.4,exit_bar=2026-11-11T17:32:00Z,control
+2026-11-11T17:35:26Z,EXIT,6ub86tQLqdFG6KVVvAA89REKTdSLb5RUmGM6R9aYCCjA,NIHAOSET / SOL,0,1.69839195141e-06,100.0,sl,-70.07,-70.07,456.4,exit_bar=2026-11-11T16:33:00Z,control
+2026-11-11T17:36:55Z,ENTRY,DB9etRKsevoA9DHvjiQjooNrhKHedFonu7p1kPYvJRcW,BEAVER / SOL,0,1.83368247875e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-33%,control
+2026-11-11T17:36:55Z,ENTRY,A66LZGdZaHk5vsKUjHmA1xRzi6rQZQaqgdxzzzsHuCua,CULT / SOL,0,4.67685908656e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
