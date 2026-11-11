@@ -9799,3 +9799,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T21:07:28Z,EXIT,98GB1MHhj8t1AMVsqa3v5afEH4TcWfzFjMBRFeDPnj5y,DSTR / SOL,0,5.41793738244e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T21:04:00Z,mom
 2026-11-11T21:07:28Z,ENTRY,5gf1PUURUEN7XHQFmmToRi8KGKdecc7cpf6KVN5jmsn1,vibeshift / SOL,0,1.16598047326e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-11T21:08:57Z,ENTRY,FgvKCVMsihfrCUjBLq9WXdg4tGcNvtTUseZpdKq3JAQQ,updog / SOL,0,4.36323735653e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-11T21:10:30Z,ENTRY,A5n3tv4QvUcY6UKSwJPksmKNVAgzBKE1XeA5NNX7AtdE,MCH / SOL,0,1.00062434665e-05,100.0,research_failed,,,456.4,score=0.00 momentum=214%,mom
+2026-11-11T21:12:07Z,EXIT,HoNkmtcggiQUmmR3c79tX8nWo67DHth7SsKqwW4Pmb9X,DOGE PAID / SOL,0,9.75224944974e-06,100.0,timeout,-10.42,-10.42,456.4,exit_bar=2026-11-11T21:10:00Z,control
+2026-11-11T21:13:30Z,ENTRY,6oa6UcHyXMqAwcfJFAysZKpUHuafTQTD4xHvww43yxSe,TSLA AI / SOL,0,3.50641887524e-05,100.0,research_failed,,,456.4,score=0.00 momentum=15%,mom
+2026-11-11T21:13:30Z,ENTRY,4GeUuYGpVCYP7keuHG3TWFJQ1svcfuXu93cQujgLpUsx,WORK / SOL,0,4.21368196566e-05,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
+2026-11-11T21:15:07Z,EXIT,Nih69V2goNFF84uvnWpvhNgHQz2ZLip9W7GeYBo1JFW,Gaff / SOL,0,1.65973658041e-05,100.0,timeout,-5.38,-5.38,456.4,exit_bar=2026-11-11T21:13:00Z,control
+2026-11-11T21:16:30Z,ENTRY,6DwVNi4p6XzZPf7EH8Lno9X8rf1cUHrvtQKdE6rC63Tm,usdc / USDC,0,1.12426516659e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T21:17:59Z,EXIT,EzghGS9UvHJWsrmkk4xrUVbCm23dE8w1dq2NBwz7jd7K,SAVPIR / SOL,0,9.87585870124e-06,100.0,timeout,-7.9,-7.9,456.4,exit_bar=2026-11-11T21:16:00Z,control
