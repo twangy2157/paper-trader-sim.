@@ -9178,3 +9178,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T04:41:16Z,EXIT,HLnE4i1Lzy2PuS3DQnag6hA9MSdcYpqunzGa9uMvWcBc,XIAOMI / SOL,0,2.8717707237e-05,100.0,timeout,-6.29,-6.29,456.4,exit_bar=2026-11-11T04:40:00Z,control
 2026-11-11T04:42:31Z,FAILED,BAWVzRtdHcstRdLKQuBkip9NfthEwBpSbYkLDAenr6T3,UNLIMITED / SOL,0,1.10325300278e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-11T04:44:07Z,EXIT,3htWs7JYsFgNsX8cZ6s5UJFif1EyLMgzXQUQbkLZuQ6X,MSFT / SOL,0,4.34426002961e-05,100.0,timeout,19.51,19.51,456.4,exit_bar=2026-11-11T04:43:00Z,mom
+2026-11-11T04:45:32Z,ENTRY,AzYNvANKKqXts5mWt5X9EizqyP2QEuiUnvCZpN9d3Sed,MADLAB / SOL,0,7.44660074047e-07,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-96%,control
+2026-11-11T04:45:32Z,ENTRY,E3vBB7jstnkBV5jGy2QLLtnG5DuVcoSzaw5DmRSKLUe9,fomo / SOL,0,7.40468953195e-05,100.0,dip_after_drop,,,456.4,score=0.00 momentum=-22%,dip
+2026-11-11T04:47:09Z,ENTRY,G2KwDoaTyY6SKaKnoRVE4mmRkKD2KzRcv5NY6UvhGbt5,community / SOL,0,4.40679140463e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-11T04:48:24Z,ENTRY,Cc2JPXwf2CCY1xRnd5zPv4hvXqDymyjzBsZ9MTkYjLks,XTX / USDC,0,0.00306899794833,100.0,control_no_momentum,,,456.4,score=0.00 momentum=6%,control
+2026-11-11T04:48:24Z,ENTRY,9QYaQhxCtvEXATF4P6grVkmNkSsNHXZd7iT2kiTsHwK3,Tired / SOL,0,7.6936823272e-05,100.0,research_failed,,,456.4,score=0.00 momentum=3228%,mom
+2026-11-11T04:49:46Z,ENTRY,EMHgBTEDHiM7cqUCqKmsYJW1kTEGukUxbKHXfWgqWqxu,UNLIMITED / SOL,0,2.14383539072e-05,100.0,research_failed,,,456.4,score=0.00 momentum=147%,mom
+2026-11-11T04:51:15Z,EXIT,3wFKj4ZG8DHN1gRYZFnrNkK3casEjHsyZH8DNMc5REen,HMK / SOL,0,3.37992274207e-05,100.0,rug,-3.94,-3.94,456.4,exit_bar=2026-11-11T04:50:00Z,mom
+2026-11-11T04:52:30Z,ENTRY,BCtfWtcgWvryHf5MLZpEjhsGKjghRDgVKJvS7UsYc4nU,RWA / SOL,0,3.184781435e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-11T04:52:30Z,ENTRY,7eVjVSNSikLFckni4G7sqi95JcrGcGQ4DPbkEhvNe2nj,mihao / SOL,0,1.2287354451e-05,100.0,research_failed,,,456.4,score=0.00 momentum=72%,mom
+2026-11-11T04:54:07Z,EXIT,HegJN9uYJu8L8vRYhQjez77uBpu4Zkh1yqv2YVm22cAe,KoriMu / SOL,0,0.000185508253004,100.0,sl,-39.48,-39.48,456.4,exit_bar=2026-11-11T02:11:00Z,proven
+2026-11-11T04:55:29Z,FAILED,9RWSThX5uYkAixgs1HCV6HTa6wEamie1VvZqkiLkt95P,WinCoin / SOL,0,1.8144820571e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
