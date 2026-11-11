@@ -9902,3 +9902,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T23:34:19Z,ENTRY,54w5ezsUhP3dAu5jUUUPU2CTMvd2NfgkhreSnoMrye7t,FIRE / SOL,0,3.24417125335e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-6%,control
 2026-11-11T23:35:41Z,EXIT,tdjPwwjtKqrDu6RP5CsYwi4g2RvWXcJZaq4hz6B8cBq,AME / SOL,0,4.35818891329e-05,100.0,tp,94.11,94.11,456.4,exit_bar=2026-11-11T23:15:00Z,mom
 2026-11-11T23:35:41Z,ENTRY,9oUiFw2DoJqJFTX7PFMD9xYjEWVNysaEEizUDgobpDv7,NIO / NVDAx,0,1.46372932564e-05,100.0,research_failed,,,456.4,score=0.00 momentum=62%,mom
+2026-11-11T23:37:21Z,ENTRY,FENprCK1FxnmGUMKVkUscUXrCSZiuHYiFSrnugGVtdF2,SQRL / SOL,0,8.31826268313e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T23:38:44Z,FAILED,BBEWLCc7TEjaEbk55SYStx1XaNuu133YZqTv7xC4DXXU,CHICK / NVDAx,0,1.52514810547e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-11T23:40:20Z,ENTRY,BvqB789Lw26XiT2DKx21k3Qt67Yc5y8W9xbx856HMcTz,Wouldd / NVDAx,0,1.5013257634e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
+2026-11-11T23:41:42Z,EXIT,DHQjsxNURpFZ22AHGUCv7cECVjSB5HjyohiMvTDGTqTD,SACKSON / SOL,0,9.97387891306e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T23:40:00Z,control
+2026-11-11T23:43:19Z,EXIT,Gqqs2iScj1KA6GUBsJ6bdhyhoNZKT2pytBGhGv962oWd,Max / SOL,0,3.81292749097e-05,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-11T22:40:00Z,mom
+2026-11-11T23:44:41Z,ENTRY,HkQLKrUPTFtAyynft5n6NpTN4kAcdFAfCYE3cogr3zdM,YTICADUA / TTWO,0,2.32776309142e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-11T23:46:18Z,EXIT,4NkhJyRUa5AWujujRjBVmNx6HxWmLXeQVytFoo1J1oUi,GONE / NVDA,0,1.43041205442e-05,100.0,timeout,-7.18,-7.18,456.4,exit_bar=2026-11-11T23:44:00Z,control
