@@ -9217,3 +9217,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-11T05:37:28Z,EXIT,9YbCogqkZUkC7taUKyB9KUhib4LmbX9hGbNfYYr6HKY2,chatty cat / SOL,0,6.30183193268e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T05:35:00Z,mom
 2026-11-11T05:38:57Z,FAILED,xfGsGjx2zxhJV59thYa7weBTFqFR86pXsyYdszWSk1T,Rockstar G / SOL,0,8.2092234207e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-11T05:40:26Z,ENTRY,DkNVGQJLBPXdXpz6Ub9231fwASdScXrE9VgPgUzA8fTo,GTA 6 Coin / SOL,0,9.12064843666e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-13%,control
+2026-11-11T05:41:59Z,ENTRY,63kYWoFLodg17jzbYH4fKLsLA1BkW2t74JgCrxxGVfoi,fg / SOL,0,6.84201061574e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T05:41:59Z,ENTRY,2KrvKumdh717hAHeBF8HiAjHDZSfi5siuRezEwu3GRcc,$BWIZ / SOL,0,8.43797355741e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-11T05:43:28Z,ENTRY,BQMAjGWd7aghii1suDN6J3jaGqhvDfwE5vhDZcZ9GnJc,ORGASM / USDC,0,9.69822398989e-06,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-11T05:44:57Z,ENTRY,2E6L4XJVJCG8E48AYrKuGuEdRuKSGv3bkQg9p5ZrRf3U,FOMO / SOL,0,2.53048037326e-05,100.0,research_failed,,,456.4,score=0.00 momentum=130%,mom
+2026-11-11T05:46:27Z,ENTRY,7uUJrxqwTW9esPiibjS8UUn7B2a7tG3SZJMECzjZzYmd,BANDANA / SOL,0,4.32847416018e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-11T05:47:56Z,EXIT,AzYNvANKKqXts5mWt5X9EizqyP2QEuiUnvCZpN9d3Sed,MADLAB / SOL,0,7.18751561492e-07,100.0,timeout,-6.93,-6.93,456.4,exit_bar=2026-11-11T05:46:00Z,control
+2026-11-11T05:49:25Z,EXIT,E3vBB7jstnkBV5jGy2QLLtnG5DuVcoSzaw5DmRSKLUe9,fomo / SOL,0,0.000148093790639,100.0,tp,93.23,93.23,456.4,exit_bar=2026-11-11T05:18:00Z,dip
+2026-11-11T05:50:55Z,EXIT,G2KwDoaTyY6SKaKnoRVE4mmRkKD2KzRcv5NY6UvhGbt5,community / SOL,0,5.39108146688e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-11T05:48:00Z,mom
