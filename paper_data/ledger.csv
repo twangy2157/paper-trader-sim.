@@ -9990,3 +9990,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T02:33:58Z,EXIT,AVYXPk3T9tr5voHz5Sm6LnkUhqorU5bBpVVPiCwgmTAN,X / SOL,0,0.000136532594565,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T02:32:00Z,mom
 2026-11-12T02:35:28Z,ENTRY,3Pyz23fQXgBwEfwQkcSNbHC9LbQiJyNnFDM355SRYtMj,PEDOLON / SOL,0,1.65292634328e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
 2026-11-12T02:35:28Z,ENTRY,HC6i6WkdqU7tEKb3uLRWhS95gMGSmV56DJ8qNyXHXgLX,Mex / SOL,0,4.49443767805e-05,100.0,research_failed,,,456.4,score=0.00 momentum=421%,mom
+2026-11-12T02:37:01Z,ENTRY,Fs6oYQn4oeF3riF9sZqGTZrgXvP1TyUy1PHRNpkLfLms,LOCKED / SOL,0,6.70495877016e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T02:37:01Z,FAILED,29UvkFopzKkSmeTnnq2D9iLh37C6EPqT1FRamy3eaosZ,blackjesus / SOL,0,4.06618091203e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T02:38:23Z,ENTRY,7kcaFi8atNmocS71GnKiKsiZWtp6javxbJWjsHX5FW7F,Mex / SOL,0,1.71144250546e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T02:39:46Z,EXIT,4txdb6vWn13t4xkpxJFYH8eYC6WqC45ERvRte4EfRmHG,hapter / SOL,0,1.73334137304e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T02:38:00Z,mom
+2026-11-12T02:41:15Z,EXIT,822CPGmd7MJcqyE8aesmbgtchXo6JVrLgbLsQjoot49q,X Coin / SOL,0,2.57000250012e-05,100.0,rug,-3.57,-3.57,456.4,exit_bar=2026-11-12T02:38:00Z,mom
+2026-11-12T02:42:31Z,ENTRY,9mRcQtEPgGMLxmUvJcMbu3zdZ6PhvTh7XR5HhLUpVbuX,Scamson / SOL,0,3.41271451895e-05,100.0,research_failed,,,456.4,score=0.00 momentum=465%,mom
+2026-11-12T02:44:07Z,ENTRY,DsBUNAG2NgJsicmccM86Yya4Nuu6UTnAMWZXLWcuU42m,USEFUL / SOL,0,8.38331638472e-05,100.0,research_failed,,,456.4,score=0.00 momentum=75%,mom
+2026-11-12T02:45:30Z,ENTRY,ePKGMq8irycfJBdE8gfSHQZeAXvLYpKpMYNYmKVduw4,mihao / SOL,0,0.0015770854033,100.0,research_failed,,,456.4,score=0.00 momentum=68%,mom
+2026-11-12T02:45:30Z,ENTRY,83bnfNnC4ptienbaFUA6kvpE3WbjMCkPCgpxjKQBzhYg,Jewbots / WLFI,0,6.90229962137e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
+2026-11-12T02:46:59Z,ENTRY,5SHKgtqiZNUAYFt3QumsZRqqa4Ag3ceu62ATJKE1w1FQ,AIB / SOL,0,0.000416659909744,100.0,control_no_momentum,,,456.4,score=0.00 momentum=6%,control
+2026-11-12T02:46:59Z,ENTRY,3SfwD5hQqEiRTudH9MQDaAV1ev8piiwpJo51nCWQNCJg,GTA 6 Coin / SOL,0,0.000127315323157,100.0,research_failed,,,456.4,score=0.00 momentum=28%,mom
