@@ -10536,3 +10536,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T16:21:28Z,EXIT,GkeFC2DWTE2JYmb5tP9j1qnLbbPCaqsHDaq5mR4oc6qj,KRESS / SOL,0,8.56147478637e-05,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-12T16:20:00Z,control
 2026-11-12T16:22:58Z,EXIT,GpEJhGiAARKShDhpRWH5ZskmJoKUESBWA1aREsdpQBi6,黄仁勋 / SOL,0,2.90544820555e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T16:21:00Z,mom
 2026-11-12T16:22:58Z,FAILED,Hwq86SHr1UkvyHLN5JHnymuUu6BMqn1f7a2rdrCcRxTv,AMD / SOL,0,7.57548012882e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T16:24:33Z,ENTRY,2iEijLUpvqEJaGpqfQ5zPGaNeqFmV3Re9KJfDE4my5ye,黑天鹅 / SOL,0,2.42977733e-05,100.0,research_failed,,,456.4,score=0.00 momentum=12%,mom
+2026-11-12T16:27:25Z,ENTRY,8mrjRpVkNKwkn4cgVfvL2pugyYrYZY5sX6bEx7dSFxXT,AMD / SOL,0,0.00018303135495,100.0,research_failed,,,456.4,score=0.00 momentum=167%,mom
+2026-11-12T16:28:55Z,ENTRY,5Sv2jiyfytFAdnvpaKZg1shHXGYL7UV5BHnNbXTiiUaR,Huang / SOL,0,4.05785869154e-06,100.0,research_failed,,,456.4,score=0.00 momentum=37%,mom
+2026-11-12T16:30:25Z,ENTRY,BPS2JJKJSAULKS4T9odRBQvBAGT6t1YoXkgbVsQpRQg3,AMD / SOL,0,4.08450438474e-05,100.0,research_failed,,,456.4,score=0.00 momentum=297%,mom
+2026-11-12T16:33:17Z,EXIT,FydiSwnwgLvF8zKpdYk8jxcp2VPwXXxVf3gucsz3VZhS,PENNY / SOL,0,4.84615844114e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T16:32:00Z,mom
