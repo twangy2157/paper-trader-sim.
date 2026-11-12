@@ -10210,3 +10210,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T08:09:27Z,ENTRY,3ZnWVf9hC4L6Xpwf6Jy2P2wEZfp5CcCLkYFzp4GYWFXc,CLAUDE / SOL,0,4.35448884832e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
 2026-11-12T08:10:56Z,ENTRY,ARUyBz2e3kAZdhBYJKE9fMU5rB9SwvnhsprJd2nJ72oB,HKT / USDT,0,0.305833612212,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-12T08:12:26Z,ENTRY,5JQGT5y1rh7xxohn5NA1hL5TCKc3fbkL1W9v5bGrVQ4w,牛逼猫 / SOL,0,2.46807557497e-05,100.0,research_failed,,,456.4,score=0.00 momentum=37%,mom
+2026-11-12T08:15:28Z,ENTRY,BiH4kEWf2iUTzZtNXP8YE3WRhP1j1ptpvkidvW6cPR9H,CLAUDE / ANTHRP,0,2.96708903418e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-15%,control
+2026-11-12T08:18:26Z,ENTRY,AJp92gbAn4wsJnEFY1AfaNRckSZZfqccP1hJXXfS1tpD,猫仙人 / SOL,0,4.86127283374e-05,100.0,research_failed,,,456.4,score=0.00 momentum=137%,mom
+2026-11-12T08:21:24Z,EXIT,F9P5Pd3kmymdhuH4fW8qS2A14zApsecYKNSsb9m9iQoJ,updog / SOL,0,5.42339235148e-05,100.0,timeout,23.18,23.18,456.4,exit_bar=2026-11-12T08:19:00Z,mom
+2026-11-12T08:22:47Z,EXIT,JC1EiGXBAePNsoVg9GVsRtww6NkeC9TFDZx88EiuE2ke,FLC / SOL,0,9.00512203384e-05,100.0,timeout,13.82,13.82,456.4,exit_bar=2026-11-12T08:19:00Z,control
