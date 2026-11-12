@@ -10082,3 +10082,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T04:39:42Z,ENTRY,ACqM5NH3pGXoRUFdYu235sbcumPhfycWgsmtTbKvMLoi,Dacity / SOL,0,4.34255247328e-06,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
 2026-11-12T04:41:19Z,ENTRY,6YjhwYSt9bPiTY1ADh1vtvqPUNksYLoYjk6XRekQ2bzq,DACITY / SOL,0,2.0376828593e-05,100.0,research_failed,,,456.4,score=0.00 momentum=71%,mom
 2026-11-12T04:42:41Z,ENTRY,8LUUxV54egcYcLgzeRoEWcXiKKdgpQ78jDepxej55Qs7,FI / SOL,0,9.98918675554e-06,100.0,research_failed,,,456.4,score=0.00 momentum=35%,mom
+2026-11-12T04:44:23Z,ENTRY,GJPVz3o4w4arfd4PoremXP9rEJvJF7jujzjAvEzxeTt7,mihao / SOL,0,2.3729587298e-05,100.0,research_failed,,,456.4,score=0.00 momentum=120%,mom
+2026-11-12T04:47:15Z,EXIT,Fq3ZFKS5VCjPQHoKoEBBmQdo4Tt6PanSCoAbnuTL9HDi,POPVAX / SOL,0,4.41211377209e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T04:46:00Z,mom
+2026-11-12T04:48:30Z,FAILED,9dTmNtdkCYNrPLbgAtivYRcqByxaJdQ2EnK3otJ28a3u,DacityCoin / SOL,0,2.44911646868e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T04:50:07Z,EXIT,9EhMLgpCMZrx9qQdTQzcBN6ZvawaxcQRfQmZoLYDxywn,NEX Ai / SOL,0,5.02816137562e-07,100.0,rug,-99.51,-99.51,456.4,exit_bar=2026-11-12T03:55:00Z,mom
+2026-11-12T04:50:07Z,ENTRY,6xfuKsF72QoNtMQN9xF4CrFXaGzUHLfGUriarck8NoLG,ORGASM / USDC,0,8.07183698363e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T04:51:29Z,ENTRY,22y476CgK8QAADv93qnkG3LYisE2BfFuLAcy53j7Jxwk,Democat眉眉 / SOL,0,2.47638343352e-05,100.0,research_failed,,,456.4,score=0.00 momentum=41%,mom
+2026-11-12T04:51:29Z,FAILED,231xZsPGm9Rub3XT5UDdyELMN99gBBcggH2FKHnapefm,TORA / SOL,0,5.01020228677e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T04:52:59Z,FAILED,3dBoWTLPAuUpChRQnxPRhTeDjyVLde6gm45uqCxAmkMP,GANGCAT / SOL,0,2.81704131685e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T04:52:59Z,ENTRY,DSnRduh5WKCEZDtpgKNhkcV5Qqv4t8RodgPWwvsVN6F5,LOM / SOL,0,6.87013236603e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
