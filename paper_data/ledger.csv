@@ -9976,3 +9976,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T02:13:21Z,ENTRY,E8cggvAXqsdU4nh3imQBDLirM41aHs6VJD5HrqwSbWUY,Max / SOL,0,1.88978071951e-05,100.0,research_failed,,,456.4,score=0.00 momentum=174%,mom
 2026-11-12T02:14:43Z,ENTRY,9AAb1jZmC2jYZZxo2oTC1NoKw8QVJeb1sDZdomC6KJSL,CRAYON / SOL,0,8.70809744186e-07,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-12T02:14:43Z,FAILED,J13ihZt84sqQMWWNbXgmqLR91YhCpv1aCgmbdKhTDHNQ,PoS / SOL,0,1.94402831661e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T02:16:25Z,ENTRY,2UU1B8akVjXjGos3ZowePp9htkdzWgeP7wvKSeArKpBT,KITTY / SOL,0,3.64289583185e-05,100.0,research_failed,,,456.4,score=0.00 momentum=181%,mom
+2026-11-12T02:17:55Z,ENTRY,Eaf9JV13iEjRBrHbet3pJCgUGRg5suDPt1XvKo8LcA79,WYRM / SOL,0,1.17651852243e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-50%,control
+2026-11-12T02:19:17Z,EXIT,AoMpRdhFkLM7hxgv2EAVYJAYfBFyNq1uyiU225P3QSFq,Robinhood / SOL,0,0.000204527072266,100.0,tp,56.05,56.05,456.4,exit_bar=2026-11-12T02:03:00Z,control
+2026-11-12T02:20:40Z,FAILED,4rbWrmn1XhDcCoZZWC11UG3zfYK8MKuy1p9f7sjVkwrz,XAU/USD / SOL,0,5.7195916381e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T02:22:16Z,EXIT,9EdgKaN5GPCfL4DJRXYQNnpHEJmQE2To64s26HEZ1K3r,DTC / SOL,0,8.64448718394e-06,100.0,timeout,5.92,5.92,456.4,exit_bar=2026-11-12T02:20:00Z,mom
+2026-11-12T02:23:32Z,ENTRY,4kdD4Guf1R7BT2yJmTD7J58Rk72jxNznyGso1aZupayT,mihao / SOL,0,4.41470967318e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-12T02:25:01Z,EXIT,GSSz3JMXiAyRp8mxdKdrVdKgR5GUX84kTqUytdhq51k9,mihao / SOL,0,5.36738245378e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T02:23:00Z,mom
