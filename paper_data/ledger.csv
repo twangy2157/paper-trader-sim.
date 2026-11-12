@@ -10001,3 +10001,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T02:45:30Z,ENTRY,83bnfNnC4ptienbaFUA6kvpE3WbjMCkPCgpxjKQBzhYg,Jewbots / WLFI,0,6.90229962137e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
 2026-11-12T02:46:59Z,ENTRY,5SHKgtqiZNUAYFt3QumsZRqqa4Ag3ceu62ATJKE1w1FQ,AIB / SOL,0,0.000416659909744,100.0,control_no_momentum,,,456.4,score=0.00 momentum=6%,control
 2026-11-12T02:46:59Z,ENTRY,3SfwD5hQqEiRTudH9MQDaAV1ev8piiwpJo51nCWQNCJg,GTA 6 Coin / SOL,0,0.000127315323157,100.0,research_failed,,,456.4,score=0.00 momentum=28%,mom
+2026-11-12T02:48:32Z,EXIT,6ScRxECZf8gG79p3w7Bvfj79EHZMhgxoPRPsCJ2B6zpD,mihao / SOL,0,2.11756518128e-05,100.0,timeout,-4.81,-4.81,456.4,exit_bar=2026-11-12T02:47:00Z,control
+2026-11-12T02:48:32Z,ENTRY,5iVjk1gEaT5E3Pa1GB5pCG3GiEjyBqmAs8Qd4Nurdf2b,GOON / NVDAx,0,5.08705823195e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-12T02:50:02Z,EXIT,DX6ihxXyemAtwzihgKK4hSRiJnaXt3YGTT4rfyoYw6gs,HALH / SOL,0,6.7283591518e-06,100.0,timeout,-9.81,-9.81,456.4,exit_bar=2026-11-12T02:47:00Z,control
+2026-11-12T02:51:25Z,EXIT,8sUaMBwCn1Z59eDm85udY17dkCYign4YSfKydQ6rUMgB,BEAVER / SOL,0,3.37375897941e-05,100.0,rug,31.14,31.14,456.4,exit_bar=2026-11-12T02:47:00Z,control
+2026-11-12T02:52:55Z,EXIT,B3TWsmtVTYixfvdYAfwok7rrN6Ac5WPpcqV8ZxzFJ9Tc,HALH / SOL,0,9.29266332455e-06,100.0,timeout,-8.02,-8.02,456.4,exit_bar=2026-11-12T02:49:00Z,control
+2026-11-12T02:52:55Z,ENTRY,2FqaKBXwTUZm4p9nyxbqBzX81K3Xa1Dox6t5e3tPaPSc,DacityCoin / SOL,0,1.75827035288e-05,100.0,research_failed,,,456.4,score=0.00 momentum=59%,mom
+2026-11-12T02:54:25Z,EXIT,GNnKmmEwzH9ZJPFC5hGmtWEctLf6PDZQvpQX8h31WdT2,BRR / SOL,0,5.77757856789e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T02:50:00Z,mom
+2026-11-12T02:54:25Z,ENTRY,5GHmvowvyJEiahK3h26Ya2x4aB2awB3vMyhRz6fTYJnT,Scamson / SOL,0,1.03577479818e-05,100.0,research_failed,,,456.4,score=0.00 momentum=56%,mom
+2026-11-12T02:55:56Z,EXIT,6ocdMciiNL8EfWLZnygbByCQCRLYVQSRrcf9NPa79fzK,sol / SOL,0,8.88004552951e-06,100.0,timeout,-8.27,-8.27,456.4,exit_bar=2026-11-12T02:53:00Z,control
+2026-11-12T02:57:26Z,ENTRY,FAeozjPMDZBZam8ywsV37Sk6yks8zxZYngemohn19eU4,DEMODOGY / SOL,0,2.61151768022e-05,100.0,research_failed,,,456.4,score=0.00 momentum=48%,mom
