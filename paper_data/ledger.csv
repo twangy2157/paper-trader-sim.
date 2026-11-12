@@ -10195,3 +10195,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T07:33:27Z,EXIT,FuVNd3UpocLRgVy7kr7wZ82pe7sKMxHS6r4azTGJ19o7,ELON / MUSK4,0,5.92663197197e-06,100.0,sl,-53.55,-53.55,456.4,exit_bar=2026-11-12T06:39:00Z,control
 2026-11-12T07:33:27Z,FAILED,F5NDK6Zjkkp84quAZwyMcVZcXtUPdYWxpaMFKNKXEkLC,Max / SOL,0,4.47937557611e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-12T07:36:25Z,EXIT,4dBvjLKUKGG1eAuHLJ2Rz2ue14fHpQRMUZ8aGuFPL2ag,XomoPay / SOL,0,6.71889413434e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-12T06:35:00Z,mom
+2026-11-12T07:40:35Z,ENTRY,3xXywyzToVBGGrf1fpyC33cm86pKDjnQBVWy4FjJNNKR,mihao / SOL,0,7.87102026993e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-12T07:42:12Z,EXIT,981YfkPqWBQcWWtLraFkKqDG84Shcs8sEgHfJiGWmi6n,CHEAT / SOL,0,4.93865644754e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T07:40:00Z,mom
+2026-11-12T07:47:46Z,FAILED,4RPcVCuNji57B5cGzjSdL8CMGpqNGQN8YN2pFvQCrDiA,NEX Ai / SOL,0,3.1451635364e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T07:49:15Z,ENTRY,GSWrhv3qQLtH5HRbATXhgfS5FStaWduFgiZryunHdA1p,DOS / USDT,0,0.170193151191,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T07:50:30Z,ENTRY,B7DfBktpBtnCShebPUU4w3phSqhSCNGPa7BvMAD8iTew,Ecoin / SOL,0,9.58241693931e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
