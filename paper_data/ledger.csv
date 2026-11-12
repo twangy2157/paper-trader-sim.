@@ -10790,3 +10790,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T23:24:26Z,ENTRY,Fcfn8nRMkzK2D28grwdCBwaXgAxqjErVQCuJXKtWCXHG,mihao / SOL,0,1.11517400688e-05,100.0,research_failed,,,456.4,score=0.00 momentum=41%,mom
 2026-11-12T23:25:56Z,EXIT,8xv7JD3pYR4Q9xVzkUmySeHHAsQsWR46CnufrC7LFM2x,JENSEN / SOL,0,5.64997267749e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-12T22:44:00Z,mom
 2026-11-12T23:27:26Z,EXIT,C4gPPZb8rrGWVNPkYfp65R5eyVqvzz2swkNUNGWxpsux,plumber / SOL,0,8.67007005486e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T23:24:00Z,control
+2026-11-12T23:29:00Z,FAILED,HXKkReqqK9puQu7D9hwjDMDKaExfigHwbj9PhZa253Sp,USOI / USDC,0,0.00169805874463,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T23:33:22Z,EXIT,6MM5a8RyA4XS9ySvoU9BZ3xCDchhfVRMjAGV6kfcMwjF,AI / SOL,0,0.000256150496241,100.0,tp,92.93,92.93,456.4,exit_bar=2026-11-12T23:18:00Z,mom
+2026-11-12T23:34:44Z,ENTRY,8c4RfnfbveED3XiAhzsydAynVnMPLf8eiFpkxjuQuRrx,plumber / SOL,0,1.15102562164e-05,100.0,research_failed,,,456.4,score=0.00 momentum=95%,mom
