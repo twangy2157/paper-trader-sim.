@@ -10329,3 +10329,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T10:48:40Z,ENTRY,35YbWTQP7kVCCZEWPVhnU98r7cqx9xK6zQSgqNx3mEcF,大A / SOL,0,1.9463893108e-05,100.0,research_failed,,,456.4,score=0.00 momentum=148%,mom
 2026-11-12T10:51:31Z,ENTRY,635YN71YJ6peU85kYAD8yYGz2SE3i4jMFPneZ5nrDoBt,Khan / Chinese,0,7.37735974453e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-12T10:51:31Z,ENTRY,FVFTYieaznQHgYRUmy7XxZdMS3WafkkWAjJ66xS3a3Rh,册那曼 / SOL,0,3.37240562579e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T10:55:33Z,FAILED,H1yQ7YLN1nRgPghdCBS8Z4DSgPjxXEmrrpcfSzqFZmCN,Max / SOL,0,4.901284567e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T10:57:11Z,ENTRY,3CXUXpUnxM41rFpia2SFW7HwdHSTozpHDc1RTeEZG3Z7,LMAO / SOL,0,9.85745140964e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T10:59:55Z,ENTRY,HpWTX1aAXLKXXGDmaBeiXoogC4QiWLaDCy3nCQF1i9hr,Ricehat / SOL,0,4.46452417428e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-12T11:02:32Z,ENTRY,CvznTPgs4e133thowMuUHeJFM5tYyRUPU4cABGvcLP9,Shiqi / SOL,0,9.14931879697e-06,100.0,research_failed,,,456.4,score=0.00 momentum=65%,mom
