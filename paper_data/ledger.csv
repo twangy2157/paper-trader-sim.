@@ -10320,3 +10320,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T10:41:31Z,ENTRY,DQPAeusUxM812UTso3Mwgwq4mtEH48AuXkKPqsJ7zgF6,FISH DOG / SOL,0,3.61064776856e-05,100.0,research_failed,,,456.4,score=0.00 momentum=68%,mom
 2026-11-12T10:41:31Z,ENTRY,6FrMwD9YvvK1XiUqaPXeTRo1sLCfesV9eGm5gknKMUHd,dogbaton / SOL,0,6.71112975455e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-12T10:43:01Z,EXIT,7yaJrcs31FbcxnwNaRF1FeNEJYJ8CpYoxb65sqEQt9GX,pfpup / SOL,0,3.34519449802e-05,100.0,rug,26.62,26.62,456.4,exit_bar=2026-11-12T10:41:00Z,control
+2026-11-12T10:44:19Z,EXIT,DZdEADgTJQNDyXVR61B9CXPJnLkSqwHRyo5qT8MucYSM,DOOYET / SOL,0,6.83235654449e-06,100.0,timeout,-9.68,-9.68,456.4,exit_bar=2026-11-12T10:43:00Z,control
+2026-11-12T10:45:42Z,ENTRY,DX39VXd6GHCm4pomvcPwARVT1JYxRovEjwBpbVZRRjLo,dogbaton / SOL,0,3.12094229395e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-12T10:45:42Z,FAILED,Egv6ZE1hWfnwm3aiPBXaCBLxAHvAeXhBNir9oea4G7mt,SCRVAN / SOL,0,1.29102133599e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T10:47:18Z,EXIT,GM5iAFzjdrDA1w1Ffo687FhueY7E1LZj9U2k5DNdW3nx,TRENCHER / SOL,0,2.89641550667e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-12T10:27:00Z,mom
+2026-11-12T10:48:40Z,EXIT,F3qQJ3WAMQPLwjrKxE86gdN6CBG51gL4618H9PMkzwPL,LMC / SOL,0,2.05224737605e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T10:47:00Z,control
+2026-11-12T10:48:40Z,ENTRY,EzBdBvU96cUhnGzzpGZi3pyMs5Fhgs6yxNc3CaPM1Ma8,CookCat / PUMP,0,1.24337509333e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T10:48:40Z,ENTRY,35YbWTQP7kVCCZEWPVhnU98r7cqx9xK6zQSgqNx3mEcF,大A / SOL,0,1.9463893108e-05,100.0,research_failed,,,456.4,score=0.00 momentum=148%,mom
+2026-11-12T10:51:31Z,ENTRY,635YN71YJ6peU85kYAD8yYGz2SE3i4jMFPneZ5nrDoBt,Khan / Chinese,0,7.37735974453e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T10:51:31Z,ENTRY,FVFTYieaznQHgYRUmy7XxZdMS3WafkkWAjJ66xS3a3Rh,册那曼 / SOL,0,3.37240562579e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
