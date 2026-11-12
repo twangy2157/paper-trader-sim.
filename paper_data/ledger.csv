@@ -10464,3 +10464,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T14:43:44Z,ENTRY,EVwmQd48e9TzphMm5K5VyBYiVga4n3cAwgbMzb6oFMMW,LANDO / SOL,0,8.16495926874e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=7%,control
 2026-11-12T14:45:21Z,EXIT,HX2fReA6xWokAte2dxUsDAsdPHcoptZqSng94cFJjWxH,CZ / SOL,0,0.000123527302769,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-12T13:44:00Z,mom
 2026-11-12T14:46:45Z,ENTRY,6LSzEnGK7hJsuvRd5ECxeuwjrLMV1fBKaESbKhaDQUvP,BigPussy / SOL,0,7.6181284643e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T14:48:26Z,ENTRY,B8VgjMH96T2LrHVtkFvcey2EBPVJn25VoFYVWQRKXN5t,Max / SOL,0,0.0235730424351,100.0,research_failed,,,456.4,score=0.00 momentum=63583%,mom
+2026-11-12T14:49:56Z,ENTRY,73CN7ufHdkPBnHFa9f63LzJSX4FZMoahV55phaMQKdL9,黑天鹅 / SOL,0,2.76930957296e-05,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
+2026-11-12T14:51:26Z,ENTRY,AEW2YxE456J16h7EjssoMbqgiaMeoT5ZeL1GkEnfHAao,FLYCAT / SOL,0,3.45696123474e-05,100.0,research_failed,,,456.4,score=0.00 momentum=77%,mom
+2026-11-12T14:51:26Z,FAILED,3jxnidksDaP9YYRFeTBNtxmQgkjFM6Nv1bDsq7Mzo4LY,花 / SOL,0,2.55489831463e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T14:52:56Z,FAILED,AvDvABHxwWTi5zo6nhXZvTZ6KwftDhQTrrHpvBzzsLtk,黄仁勋 / SOL,0,2.94968968014e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T14:52:56Z,ENTRY,3Hr1n4SfT2tkztwxq713uztkAFNw5PH6EyoN2kFVfgdQ,CYBER CAT / SOL,0,1.11178334303e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T14:54:26Z,EXIT,2RwM3EJQE7NwhrwveZ395MdX8XW1h1n58TwvTvefZvyr,$JUSSY / SOL,0,1.05177956794e-05,100.0,timeout,-7.57,-7.57,456.4,exit_bar=2026-11-12T14:52:00Z,control
+2026-11-12T14:54:26Z,FAILED,5sdJinKeDajJtTUq65jHsoQybcsHpddSNY9AAbGG9xfS,$JUSSY / SOL,0,1.02197067315e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T14:55:56Z,EXIT,Crpt21JNmaCJnwwbsDxyesq9RFb3GKqtfLGDBzphd9DN,UNDERLY / SOL,0,2.00238589554e-05,100.0,timeout,-5.09,-5.09,456.4,exit_bar=2026-11-12T14:53:00Z,control
+2026-11-12T14:55:56Z,ENTRY,4zR1xtLDuto5ysW1RpfNtPCu3EVfYk6gYvgxRQrUC1Er,pop / SOL,0,4.34832145302e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
+2026-11-12T14:57:26Z,EXIT,2bH5qS3aaFQY7YpByEhDQzW484GzstWJMF9z3xs62oYC,MORNING / SOL,0,1.21233277903e-05,100.0,timeout,-7.45,-7.45,456.4,exit_bar=2026-11-12T14:55:00Z,control
+2026-11-12T14:57:26Z,FAILED,9vuoAjb8ArYhDdm8jQiZdsgwPZJJkbG5Ufzp19oCfjCG,AMAZON / SOL,0,8.01378136319e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
