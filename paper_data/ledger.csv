@@ -10191,3 +10191,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T07:24:35Z,ENTRY,6Wf3jA9saEv6zTqyLqJdpUeJempD3QjMufQ2WcWNiadw,MACE / SOL,0,2.91446237424e-05,100.0,research_failed,,,456.4,score=0.00 momentum=55%,mom
 2026-11-12T07:27:26Z,ENTRY,9iJzRDxRXAp1yjx2yMiN5mAh3mf2Ac4abKyJUgFNp78,Ricehat / SOL,0,2.14964577275e-05,100.0,dip_after_drop,,,456.4,score=0.00 momentum=-37%,dip
 2026-11-12T07:27:26Z,FAILED,3iYJh76fqz8Zit7nz7HJDbJHsC3htdBBNuKLAys8ZFAE,LuckyCoin / SOL,0,2.07606165029e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T07:30:28Z,EXIT,56cNFf7n3zUY3GN3821uvFWhj7ZegNKPNApqd2BeYwKG,ORGASM / USDC,0,6.70903025443e-06,100.0,timeout,-9.79,-9.79,456.4,exit_bar=2026-11-12T07:29:00Z,control
+2026-11-12T07:33:27Z,EXIT,FuVNd3UpocLRgVy7kr7wZ82pe7sKMxHS6r4azTGJ19o7,ELON / MUSK4,0,5.92663197197e-06,100.0,sl,-53.55,-53.55,456.4,exit_bar=2026-11-12T06:39:00Z,control
+2026-11-12T07:33:27Z,FAILED,F5NDK6Zjkkp84quAZwyMcVZcXtUPdYWxpaMFKNKXEkLC,Max / SOL,0,4.47937557611e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T07:36:25Z,EXIT,4dBvjLKUKGG1eAuHLJ2Rz2ue14fHpQRMUZ8aGuFPL2ag,XomoPay / SOL,0,6.71889413434e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-12T06:35:00Z,mom
