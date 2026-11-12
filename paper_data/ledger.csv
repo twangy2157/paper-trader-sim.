@@ -10746,3 +10746,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T22:12:11Z,EXIT,G2oCnBjeXFENaSWhCziWnR6oLFNdspi6g2mCyTH1yFe9,Hero / SOL,0,8.26160705739e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T22:11:00Z,control
 2026-11-12T22:13:27Z,FAILED,3Dq6YvwheVLT8mAaRGWhCDdhAnaxsLrsYKgQowuhd2uR,Max / SOL,0,7.70639864981e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-12T22:13:27Z,FAILED,HsgxLeDFXKGpNovi3sr5xRBkyft5mdcgY42xJesapkL5,AI / SOL,0,4.02865146099e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T22:15:03Z,EXIT,67iC8aydyfbyA6xj6e66c1t9hBNN3RSSZMLMrBERtHUn,siuu / SOL,0,2.96716763868e-05,100.0,timeout,-7.41,-7.41,456.4,exit_bar=2026-11-12T22:14:00Z,control
+2026-11-12T22:17:54Z,ENTRY,DrGsikJgfRynGtJd5riPDtAYYsCXrekK9g8fUJvoWYua,NVIDIA / SOL,0,1.32908859515e-05,100.0,research_failed,,,456.4,score=0.00 momentum=68%,mom
+2026-11-12T22:19:17Z,EXIT,EQDGEXxQCuwfMVLD82Q9HcD4DEK9LqcjQ2EjU8C9DVdt,BENITO / SOL,0,6.87937930164e-06,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-12T21:33:00Z,mom
+2026-11-12T22:20:39Z,EXIT,EkM6eq9PKc98miezRqe9ZJNLZZBuEag2svQtDdv8wacY,SI / SOL,0,4.63959063874e-05,100.0,timeout,-5.27,-5.27,456.4,exit_bar=2026-11-12T22:18:00Z,control
+2026-11-12T22:20:39Z,FAILED,AsKLJfSTvRDBEMySHk6d7La7AGTJzMcLQXvxKBZpZoyH,DeepSeek / SOL,0,2.93271903729e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T22:23:31Z,ENTRY,8xv7JD3pYR4Q9xVzkUmySeHHAsQsWR46CnufrC7LFM2x,JENSEN / SOL,0,2.82498633874e-05,100.0,research_failed,,,456.4,score=0.00 momentum=60%,mom
+2026-11-12T22:23:31Z,ENTRY,C4gPPZb8rrGWVNPkYfp65R5eyVqvzz2swkNUNGWxpsux,plumber / SOL,0,7.56562639018e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
