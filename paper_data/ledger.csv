@@ -10238,3 +10238,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T08:54:29Z,FAILED,EJGqTg9r5pEvYY9fxCV2LPPyyW7xvNyTMx5oMbQJJ3kT,BUGLES / SOL,0,4.54622263242e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-12T08:55:58Z,ENTRY,7vvFCydyXGPi3TYB2bubcgJKwYgpobfv9v5C2Judt56F,FLC / SOL,0,9.33638362576e-06,100.0,research_failed,,,456.4,score=0.00 momentum=10%,mom
 2026-11-12T08:55:58Z,ENTRY,HCN2jYyG5JbzMXkXKRogM8M4gXwKH9z7auBgRr2qapMR,MERT / STONK,0,2.04327127637e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-12T08:57:35Z,ENTRY,HDUFdHieswHHFWJFsMcNDPwJ4ziHUqUuRqbq9tUX1h8E,Green cat / SOL,0,4.36741933997e-05,100.0,research_failed,,,456.4,score=0.00 momentum=126%,mom
+2026-11-12T08:57:35Z,ENTRY,6SoXAcRw2qt7xQ8Da3iQgrHd2Ry4TpvnBXCzM7pnWGuc,mihao / SOL,0,1.31143623147e-05,100.0,research_failed,,,456.4,score=0.00 momentum=77%,mom
+2026-11-12T08:59:11Z,EXIT,2oUNYxEPC1o3gV4BbkcSAdxsK7QPV3hS2mu7oVniGMH9,updog / SOL,0,1.49066840867e-05,100.0,tp,91.94,91.94,456.4,exit_bar=2026-11-12T08:23:00Z,mom
+2026-11-12T09:01:56Z,ENTRY,69S4GoJQWCAuY6ba6g5fP6LFq6yEd7BhvAnRYzCnr7jE,FLC / SOL,0,1.03835656927e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-5%,control
+2026-11-12T09:01:56Z,ENTRY,5DHgNBGDVCdKd7RvggL5XqZoLdo38F2dgpMiErF7BJz2,TOAD / SOL,0,8.92925096456e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-24%,control
+2026-11-12T09:03:26Z,EXIT,BgDvNyydoWjpNph48BGTA7xvZEodpY4s23QZJ4KDatpe,NAP / SOL,0,5.37116884182e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T09:01:00Z,mom
+2026-11-12T09:03:26Z,ENTRY,Fe2pyLUh9QzZGGJQkgjqCjAD2ebvQ6EN6VEtiDBodBgb,Max / SOL,0,4.33586416927e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-12T09:04:55Z,ENTRY,6xPcCXvCxYa6Go7uFzT2LXWyfVBDWoG46SRP6EZ8MdyG,ALT / SOL,0,1.59190718839e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=4%,control
+2026-11-12T09:06:24Z,EXIT,677dTuHbFvvxHTBQg4dLSdC3WYDxBAGeNdypmkAY6teP,DRY0T7 / SOL,0,1.00099618596e-05,100.0,timeout,-6.72,-6.72,456.4,exit_bar=2026-11-12T09:04:00Z,control
