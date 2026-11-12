@@ -10705,3 +10705,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T20:55:30Z,ENTRY,FzHGks9KL1JKZhLaxMWNwioi2qtPa7vuTtmmuu3nwdsf,NUTTSACK / NVDA,0,1.51884404257e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-12T20:57:08Z,EXIT,77nmbcn3hqLHy67aNXp6BXzWDLUiLuVqL91Rqi35Uhhy,TARD / SOL,0,9.06328614039e-06,100.0,timeout,-8.48,-8.48,456.4,exit_bar=2026-11-12T20:52:00Z,control
 2026-11-12T20:58:30Z,EXIT,GnMrodDZ6EybZxMbcBQoRcLkRbXqurWstQbu9dmEzYbg,FROCK / SOL,0,1.66040944658e-05,100.0,timeout,-19.6,-19.6,456.4,exit_bar=2026-11-12T20:54:00Z,dip
+2026-11-12T21:00:11Z,EXIT,VzmKTSsefC7SdYnyCpZhDxvxGPGm2UWcE7jScb7Ey6v,MOON / NVDAx,0,1.61959642224e-05,100.0,timeout,-8.03,-8.03,456.4,exit_bar=2026-11-12T20:55:00Z,control
+2026-11-12T21:05:56Z,ENTRY,6iiWAJk5Ntb6GEBfrLCfkjFe3ntoc6cdCZciRMYvqtV4,affairrally / SOL,0,9.49561730869e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T21:07:26Z,ENTRY,7Uv4eFLD1RWSwk3WvGPZTV5ksNj41kYpqyYUAvbwpKUM,GROKDOG / SOL,0,1.92271979075e-05,100.0,research_failed,,,456.4,score=0.00 momentum=112%,mom
+2026-11-12T21:07:26Z,ENTRY,33BQ13y6itsPVN1cX9GozUS6si7UKi3uahEfrv9BUzFM,Pepe / SOL,0,0.000104004681681,100.0,research_failed,,,456.4,score=0.00 momentum=502%,mom
+2026-11-12T21:08:56Z,EXIT,8Sq44NJgS8agMdTCyQm2WVTYjjEZiHs4MNRwgAWPUGj3,Huang / SOL,0,8.96161444093e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T21:07:00Z,proven
