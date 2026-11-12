@@ -10641,3 +10641,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T19:18:43Z,ENTRY,4NGVmXQ3BTWpYqucQvvLFJjCGxufquaxKBKmxVGLwGY2,Max / SOL,0,4.32953956212e-05,100.0,research_failed,,,456.4,score=0.00 momentum=21%,mom
 2026-11-12T19:21:42Z,ENTRY,G8qiXwSHiXpSyYfk8zZQnJ8TwBioJXUxLmRsYnywXsg7,LOOOOONGCAT / SOL,0,3.77187784929e-05,100.0,research_failed,,,456.4,score=0.00 momentum=15%,mom
 2026-11-12T19:21:42Z,ENTRY,4XySUzodP9CceTKWjgm7MX62NEgDUom55qRXQgwVzBNJ,SILKROD / WBTC,0,1.84126371801e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T19:23:24Z,ENTRY,BjuQmV1eiiUN3MV1L3xPz6h2dgCZfQwkExfges6zFrdo,SELF / SOL,0,3.42108416498e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T19:23:24Z,ENTRY,FzK8GrVGXrwCrbJ3omBB4KhmkQ7HJqwXTd38yxcHaYJG,trench / SOL,0,8.70770561287e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T19:24:46Z,ENTRY,2RfrASWbRRijoSHPVvHuSCyQSn2qvUvRhucrQeNmFsxY,LUPITA / SOL,0,0.000105994549782,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
+2026-11-12T19:26:16Z,EXIT,Hg2x5aRduBfzfopGWX7YdpW6fRb1g7aCYCioh92ytSPy,SU / AMD,0,6.19887278781e-06,100.0,sl,-53.54,-53.54,456.4,exit_bar=2026-11-12T18:39:00Z,control
+2026-11-12T19:27:31Z,ENTRY,2UByCifC3p2KLnhBWbye8Q8pKp2WL5w14kFy82sXXBpT,Lori / SOL,0,4.24727935709e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-12T19:33:00Z,EXIT,J6RwHwtMqmtfQVTnivWMxGsvkWFpPcp9vygh59pMp14R,FBIS / USDC,0,0.00014723366266,100.0,timeout,-6.17,-6.17,456.4,exit_bar=2026-11-12T19:32:00Z,mom
