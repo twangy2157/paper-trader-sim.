@@ -9963,3 +9963,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T01:37:44Z,ENTRY,4txdb6vWn13t4xkpxJFYH8eYC6WqC45ERvRte4EfRmHG,hapter / SOL,0,1.52528930386e-05,100.0,research_failed,,,456.4,score=0.00 momentum=56%,mom
 2026-11-12T01:37:44Z,ENTRY,822CPGmd7MJcqyE8aesmbgtchXo6JVrLgbLsQjoot49q,X Coin / SOL,0,2.5648609851e-05,100.0,research_failed,,,456.4,score=0.00 momentum=31%,mom
 2026-11-12T01:40:43Z,FAILED,E2hopfojWLx56NPJy5esrWAqkip6iveQpLpHpPDb3gj2,GTA 6 / SOL,0,0.000127401331729,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T01:46:44Z,ENTRY,6ScRxECZf8gG79p3w7Bvfj79EHZMhgxoPRPsCJ2B6zpD,mihao / SOL,0,2.13730110429e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T01:46:44Z,ENTRY,DX6ihxXyemAtwzihgKK4hSRiJnaXt3YGTT4rfyoYw6gs,HALH / SOL,0,6.98019640433e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T01:46:44Z,ENTRY,8sUaMBwCn1Z59eDm85udY17dkCYign4YSfKydQ6rUMgB,BEAVER / SOL,0,2.4741317215e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T01:48:22Z,ENTRY,B3TWsmtVTYixfvdYAfwok7rrN6Ac5WPpcqV8ZxzFJ9Tc,HALH / SOL,0,9.54431839906e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T01:49:44Z,ENTRY,GNnKmmEwzH9ZJPFC5hGmtWEctLf6PDZQvpQX8h31WdT2,BRR / SOL,0,4.22781629346e-05,100.0,research_failed,,,456.4,score=0.00 momentum=108%,mom
+2026-11-12T01:52:43Z,ENTRY,6ocdMciiNL8EfWLZnygbByCQCRLYVQSRrcf9NPa79fzK,sol / SOL,0,9.13311350307e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
