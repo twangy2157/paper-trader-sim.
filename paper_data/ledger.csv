@@ -10389,3 +10389,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T12:38:26Z,ENTRY,P8QCB41JEbQAD5YmXzA4phTaBv4XB7V9CCuYqyLc1H4,paws / SOL,0,7.7354028538e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=7%,control
 2026-11-12T12:39:55Z,ENTRY,EL77EUHEfPWUg6r14UxtEgYX9N2EWdiKfhKrEEgKWTTP,FLYCAT / SOL,0,2.79901578277e-05,100.0,research_failed,,,456.4,score=0.00 momentum=71%,mom
 2026-11-12T12:41:25Z,EXIT,Cpc3mRDdHbNZaNawgvnFK3poeWVku7gkcGGmHACD19Zy,DAB / SOL,0,5.14707440774e-06,100.0,timeout,-10.0,-10.0,456.4,exit_bar=2026-11-12T12:39:00Z,control
+2026-11-12T12:42:51Z,ENTRY,Ham7BcUkyUYvkinxTwXLSJhmxPAGEuKN6SsA5v6FL8Je,斗笠 / SOL,0,4.08082893084e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-12T12:42:51Z,ENTRY,3LYGuRWqw4iNHa7Mo3hk6hiBcp2CSzNkmRyRwP24VX9y,paws / SOL,0,3.24994518397e-05,100.0,research_failed,,,456.4,score=0.00 momentum=294%,mom
+2026-11-12T12:44:27Z,ENTRY,8M9fvZhtBUoyP29ST8qgVr9QQfPZXbvT5x6amSiTjctX,McDonald's / SOL,0,3.41517465398e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-12T12:47:25Z,FAILED,91peFaKEpEy4mYS9LdvhZqviDDhJ7xD8YQurMVmMwKPV,TRUMPHAO / SOL,0,7.59597328047e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T12:47:25Z,ENTRY,4zLXxjTNNBQfbeQjcK9wsdDw5fvwuzSRAd5KscCtDFgV,Max / SOL,0,3.82157736132e-06,100.0,research_failed,,,456.4,score=0.00 momentum=35%,mom
