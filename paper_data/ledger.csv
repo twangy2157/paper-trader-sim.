@@ -10485,3 +10485,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T15:07:20Z,ENTRY,HC3YhHL3bGDBVgDDHE3GxtWfADKRNVbjrVGRkCusqDSa,$CCOW / SOL,0,9.11084682613e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-12T15:08:56Z,EXIT,DkZwrMGY9RBsBtHgQhQZNg2CTwp4MLLKbXKhKjaKrcCH,$MFRG / SOL,0,9.73501179632e-06,100.0,timeout,-7.86,-7.86,456.4,exit_bar=2026-11-12T15:06:00Z,control
 2026-11-12T15:08:56Z,ENTRY,5bhNZwUGeenG27Ck8G53agqeAnnRNGxWmfQRNmqN7BTc,NVlDIHIA / SOL,0,1.68806613798e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T15:10:33Z,ENTRY,5VfW8tt2jj5KxGdoi3Yb76v1Y2pNRrn1DVmF9sWFbVbj,sol / SOL,0,1.31584699564e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T15:12:10Z,EXIT,A2PkmtpnwNJh5WQ8k6zX3C1TBagXVxkujeBdT9hMCrHU,FLYCAT / SOL,0,5.10902814928e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-12T14:33:00Z,mom
+2026-11-12T15:13:25Z,ENTRY,BoTDT7qUpy6WpP6n1hkG85K9qUbB1ZiKYtWcLvy6EtbA,KRESS / SOL,0,8.86118748176e-07,100.0,research_failed,,,456.4,score=0.00 momentum=54%,mom
+2026-11-12T15:14:55Z,ENTRY,9sJVETzpZS7jUU8d7rsghWWYVwPoQZ7YtGgGkSybnrfw,Max / SOL,0,3.90601463861e-05,100.0,research_failed,,,456.4,score=0.00 momentum=135%,mom
+2026-11-12T15:16:25Z,ENTRY,86tEz7YLcPW7KTmqxFZabzELCRfWzTTz2rh8wEnRPxTw,Grok / SOL,0,0.000130458968703,100.0,research_failed,,,456.4,score=0.00 momentum=38%,mom
+2026-11-12T15:17:54Z,FAILED,2TR5X9wY2m5sptDTpwVR7xzPQvexsLjj9ehqrDkV8xQa,MORNING / SOL,0,1.91292576917e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T15:19:17Z,ENTRY,GkeFC2DWTE2JYmb5tP9j1qnLbbPCaqsHDaq5mR4oc6qj,KRESS / SOL,0,7.42107144399e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=5%,control
