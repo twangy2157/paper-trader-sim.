@@ -10119,3 +10119,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T05:23:57Z,ENTRY,2xtyWfuuk1eondo1x1ZHEXpL1Kx9JuHDPndC8MNSDDa3,GrenCAT / SOL,0,1.77822953893e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-12T05:23:57Z,ENTRY,HyVKdWmrYz1vraQizgx4aR9vnHQ7BPSabis1FmSHqaJv,Flimp / SOL,0,1.64465441774e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-12T05:25:26Z,EXIT,BsyjkXUfcCrbio6zAaQiyuApYsDy2n1ZWb1NaANUYt7N,Democat眉眉 / SOL,0,3.27313465514e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T05:24:00Z,mom
+2026-11-12T05:27:00Z,EXIT,7SGBX3cqLC9aRvYWUGMkjSipUMTMXrxWW7Wc1Q9j6aa2,TORA / SOL,0,4.50923713575e-06,100.0,sl,-40.43,-40.43,456.4,exit_bar=2026-11-12T04:40:00Z,mom
+2026-11-12T05:28:22Z,ENTRY,BxErnga6QKYc8Skny9wTB2WMEqaLMBxezU1R5pz1oPTk,Anthropic / SOL,0,9.69362875575e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-12T05:29:44Z,ENTRY,G81Ak1nmsUd6kaR3j8Ek87boova9JYxx84bqK1Np2ww8,Max / SOL,0,4.54991686686e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-12T05:32:43Z,EXIT,8rtgAKqSZGEHpLGPpVBacqYC48U3Ux4R7CeoqUG7BvmU,DacityCoin / SOL,0,0.000669102272794,100.0,timeout,1.41,1.41,456.4,exit_bar=2026-11-12T05:31:00Z,control
+2026-11-12T05:34:20Z,ENTRY,Bnzx81AW1y1HDuzNwUE4UJWWE6nb1w9dzmwTZNqV5URK,HDC / SOL,0,9.57142096035e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T05:35:42Z,EXIT,D4CQSxtBRVTiigXjcMwGiAEYxpQv9RRzbs6ozmmw7su4,RMN / SOL,0,1.30063949735e-05,100.0,timeout,-5.64,-5.64,456.4,exit_bar=2026-11-12T05:34:00Z,control
+2026-11-12T05:35:42Z,ENTRY,FM5QfhDxF88PSw5yYkp4NxSaPfBNvLC61nBJDTb3KeCG,ORGASM / USDC,0,8.6010553199e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
