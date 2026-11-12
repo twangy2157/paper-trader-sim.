@@ -10769,3 +10769,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T22:52:31Z,EXIT,GdGC1HwcZzL1gWhG5WzUmX7YgSFzUnCNGWsdVqZ3VvgG,HALH / SOL,0,6.84836602051e-06,100.0,timeout,-9.99,-9.99,456.4,exit_bar=2026-11-12T22:51:00Z,control
 2026-11-12T22:54:01Z,EXIT,Bbczrb5r8Sb2WyZ3o7vVpB42CiwNcSNp3qPRCsKDuBws,trump / SOL,0,2.2622647849e-05,100.0,timeout,-5.18,-5.18,456.4,exit_bar=2026-11-12T22:51:00Z,control
 2026-11-12T22:55:16Z,EXIT,DDnAezdnnAB26nmunzXJAkz4b1HdsWPm7J3XEzUEodKK,NekoNano / SOL,0,1.14089360213e-05,100.0,sl,-46.45,-46.45,456.4,exit_bar=2026-11-12T22:04:00Z,control
+2026-11-12T22:56:40Z,ENTRY,J1KuBFvJJNxspb1JxsDMfKFuuJwDh9xeqyqDXFQ2k2e9,1WIN / SOL,0,1.65677020078e-05,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
+2026-11-12T22:56:40Z,FAILED,Ajpn1TWLmP6cfTt9G5YpQWszxmhcF9oq938ys46W4idX,PORNHUB / SOL,0,3.32527915554e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T23:02:16Z,ENTRY,3EyC62Ta377s9a1eBMjTdF8Vws3MsF8Xf4Atv2Sn27LB,UBTC / USDC,0,1.00316091926,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T23:03:31Z,ENTRY,62BqYdj6AhKuAz6smxfDMiA6KewtxgZWHMpK6yhnt1fW,BetOnBlak / SOL,0,8.22539892947e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T23:03:31Z,ENTRY,27WGn9s8wL1gqMJUPoPo1T7B8omttVZ9mhH1gxDEBMAE,Huang / SOL,0,3.18784868679e-05,100.0,research_failed,,,456.4,score=0.00 momentum=59%,mom
+2026-11-12T23:05:08Z,ENTRY,CgfuFHrcAvEmnu93LaSohPAo5QgyK4qCx4hY6VXtYS8U,dogbaton / SOL,0,6.69995826795e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T23:06:30Z,EXIT,6KXpzVUgPoSiRFSQ6eZFzLyE1NPMWB46bohGaJXKEpzg,X / SOL,0,4.9088190815e-05,100.0,sl,-37.31,-37.31,456.4,exit_bar=2026-11-12T22:06:00Z,mom
