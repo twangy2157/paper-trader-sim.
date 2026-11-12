@@ -10377,3 +10377,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T12:15:47Z,EXIT,HAEZzHZ8iJV2vYJkJzAqhs67jYscdvvCnWTNeRePLdaE,FLC / SOL,0,3.71990377162e-11,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T12:14:00Z,control
 2026-11-12T12:18:32Z,ENTRY,5JKELsX82a9eMWDCQjArZtCywd9wNx4g4aWAFgDVgU9w,$AURA / SOL,0,7.04879482495e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-12T12:18:32Z,ENTRY,Gq9fHT7MbawBUTmUTRav1za7355xtnr88oYahjc3Pkc5,HODLER / HODL,0,8.4274876556e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T12:21:20Z,ENTRY,EkVEUZNoTunogqh9P83kFMUUnxQ5Xrp13gd2vW1aUhvV,LuckyCoin / SOL,0,4.06837239494e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-12T12:25:40Z,ENTRY,7Lo9ioEXU9GiaHabzrzEuKbwetYRLch6fyKU9RUM18sT,vrl / SOL,0,1.77543998186e-05,100.0,research_failed,,,456.4,score=0.00 momentum=22%,mom
+2026-11-12T12:25:40Z,FAILED,2j48t721EJHJM3kDPgovX2SScKs9QK11or2bmVCQs53v,MedTech / SOL,0,4.67456505883e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-12T12:28:32Z,EXIT,DCRfbmPFbQs2oE2yDnPFqDfYLMsP5C9Ygabda8FgPKpT,FLYCAT / SOL,0,9.90341779682e-09,100.0,rug,-100.96,-100.96,456.4,exit_bar=2026-11-12T11:37:00Z,mom
+2026-11-12T12:30:01Z,EXIT,5fWBe3iyQzvG3JvuKLdkAJpeKhb5y22L9VaCJ43WXz9C,wifmax / SOL,0,2.27107064995e-05,100.0,timeout,-7.66,-7.66,456.4,exit_bar=2026-11-12T12:27:00Z,control
+2026-11-12T12:31:16Z,ENTRY,6yUv8TeUR2egtd6bxEExArwNyxAc1CrFa2quEwAfTCQC,SXSN / SOL,0,2.23688143679e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
