@@ -10200,3 +10200,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T07:47:46Z,FAILED,4RPcVCuNji57B5cGzjSdL8CMGpqNGQN8YN2pFvQCrDiA,NEX Ai / SOL,0,3.1451635364e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-12T07:49:15Z,ENTRY,GSWrhv3qQLtH5HRbATXhgfS5FStaWduFgiZryunHdA1p,DOS / USDT,0,0.170193151191,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-12T07:50:30Z,ENTRY,B7DfBktpBtnCShebPUU4w3phSqhSCNGPa7BvMAD8iTew,Ecoin / SOL,0,9.58241693931e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T07:57:31Z,ENTRY,2oUNYxEPC1o3gV4BbkcSAdxsK7QPV3hS2mu7oVniGMH9,updog / SOL,0,7.45334204335e-06,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-12T08:00:29Z,ENTRY,BgDvNyydoWjpNph48BGTA7xvZEodpY4s23QZJ4KDatpe,NAP / SOL,0,4.45290935421e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-12T08:01:58Z,FAILED,D5azw3yZrgHxU95LrDL8efCLFZogofABupyCTaBMg9aT,ELIZABETH / SOL,0,1.39682223128e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
