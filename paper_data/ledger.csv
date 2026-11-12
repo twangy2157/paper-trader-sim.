@@ -10091,3 +10091,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T04:51:29Z,FAILED,231xZsPGm9Rub3XT5UDdyELMN99gBBcggH2FKHnapefm,TORA / SOL,0,5.01020228677e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-12T04:52:59Z,FAILED,3dBoWTLPAuUpChRQnxPRhTeDjyVLde6gm45uqCxAmkMP,GANGCAT / SOL,0,2.81704131685e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-12T04:52:59Z,ENTRY,DSnRduh5WKCEZDtpgKNhkcV5Qqv4t8RodgPWwvsVN6F5,LOM / SOL,0,6.87013236603e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T04:54:33Z,EXIT,4FQMC6Q5csrJLvChZeXBqPVH7ZipcfVFri4fkiBd3MDx,updog / SOL,0,6.50348592937e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T04:52:00Z,mom
+2026-11-12T04:54:33Z,FAILED,GPAB8mnmVvk6TiS57LCtQ5ykgGqWGjyZeLXtY8jJxia2,ORGASM / USDC,0,9.23825982238e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-12T04:54:33Z,ENTRY,Ap1DYV1TFUy6STPDy8fMbeSw668zr4GQu5vJuYM8kTZ5,Dacity / SOL,0,0.000282005236856,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
+2026-11-12T04:56:10Z,ENTRY,7HBZM6YYerx2t1J6SwridzQq1w6cJBddfiEjkAkERMnT,USPD / USDT,0,1.02629678986,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-12T04:57:25Z,ENTRY,4JVyXg72Gz6UdT1KJQdRdVSiFrtFWvpT9UPANDN1ymNn,PAYTAG / SOL,0,1.72416691192e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T04:57:25Z,ENTRY,95kDzbrVPKNprodfmiSJFFDignREi2aXByGwMTSnfgpt,HUNG / SOL,0,2.26636952026e-05,100.0,research_failed,,,456.4,score=0.00 momentum=171%,mom
+2026-11-12T04:58:55Z,ENTRY,2XWpKfEz9mNvbxSawqrcFKezaKoTpkYZaTEoF6UcomMn,doggo / SOL,0,9.47038760284e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T04:58:55Z,ENTRY,2WBsCkW8P5VSNidA91djzvUDyEbT99UkwggB2Ai7S1La,KANG / SOL,0,1.92648816797e-05,100.0,research_failed,,,456.4,score=0.00 momentum=57%,mom
+2026-11-12T05:00:25Z,ENTRY,2V8iVURfA1m5aqzCLASwEZsANBTFACYWbU1jgBmbrVvs,LYSIOS / SOL,0,1.03385103723e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-48%,control
+2026-11-12T05:00:25Z,ENTRY,HTyiALxCHNUnkyXMtVSbdoo1Ba77Xw11FkiR3NHSuKV9,mihao / SOL,0,7.87310838548e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-12T05:01:47Z,ENTRY,37ZxGRmxxZtk9fBi1nF3wB1fGqt3qnVWyRPT9axmPkYE,LYSIOS / SOL,0,2.34732077326e-05,100.0,research_failed,,,456.4,score=0.00 momentum=157%,mom
+2026-11-12T05:03:16Z,EXIT,HPink9c5HTWygKNFsB8vXLyjZ38pV7XiMwcmNkEkQtfP,DacityCoin / SOL,0,5.49950128434e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T05:01:00Z,mom
