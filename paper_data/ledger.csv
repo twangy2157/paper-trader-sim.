@@ -10451,3 +10451,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T14:22:59Z,ENTRY,FYsUu1d7uD59DT5fACw2UjDC4nwzEyDDchAxFLFSrxWx,indomeme / SOL,0,3.99606343004e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
 2026-11-12T14:25:58Z,FAILED,8WQeHRH746rqgju4xKnhcA1VFrmUqBoqumxiSiU6Trvt,Max / SOL,0,2.21112688941e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-12T14:25:58Z,ENTRY,7w5NDsnQgvSsatu5P4wXPX1qfZTxJKgQAn1FPuzBdDur,ONE / USD1,0,1.01369328307e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-18%,control
+2026-11-12T14:27:32Z,ENTRY,2zdo7rEAqpeUrRTubRA1qyiTH3VyhpJRApTWNBbwdSNt,MORNING / SOL,0,2.4622462748e-05,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
+2026-11-12T14:30:25Z,EXIT,HVaK7d7S4dm94ehgiNE9vPnS8AKyy2NXyHTyuVoVUZZ2,SI / SOL,0,9.3625072032e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T14:29:00Z,mom
+2026-11-12T14:32:07Z,EXIT,C11ucSZ7YTgYJiQH6Z72vQFa4eYuFWHU1ZSTuPU7F44e,ChatGPT / SOL,0,7.01098946168e-05,100.0,sl,-54.94,-54.94,456.4,exit_bar=2026-11-12T13:31:00Z,mom
+2026-11-12T14:33:32Z,ENTRY,BzbiL1RnCnXdB3ufshGB6DNQt4dM6ENngKmB8seMGznt,MACE / SOL,0,2.71211056604e-05,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
+2026-11-12T14:35:10Z,ENTRY,GFDo8etg5wkxs94Nh2zRGUjdd8o3chSBugRfdNyA2jjQ,kittylick / SOL,0,6.77912416643e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-12T14:36:25Z,EXIT,FULRkvRbNYCmv2g9rAPiHWVqoCSiSgwaibbDKMnaoyJn,ANCHOR / Fartcoin,0,1.3135004848e-05,100.0,timeout,-8.6,-8.6,456.4,exit_bar=2026-11-12T14:35:00Z,control
