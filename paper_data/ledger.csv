@@ -10734,3 +10734,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-12T21:50:29Z,ENTRY,GdGC1HwcZzL1gWhG5WzUmX7YgSFzUnCNGWsdVqZ3VvgG,HALH / SOL,0,7.1174138783e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-12T21:50:29Z,ENTRY,Bbczrb5r8Sb2WyZ3o7vVpB42CiwNcSNp3qPRCsKDuBws,trump / SOL,0,2.2881108832e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-12T21:51:59Z,ENTRY,8yZkkvRBw1CeuV29jzpvL79Y1CDAmV6cKTHuq63ZCaHW,GTA 6 Coin / SOL,0,0.000124831358991,100.0,proven_pool,,,456.4,age=122min,proven
+2026-11-12T21:53:33Z,ENTRY,DDnAezdnnAB26nmunzXJAkz4b1HdsWPm7J3XEzUEodKK,NekoNano / SOL,0,2.01584799524e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-34%,control
+2026-11-12T21:55:09Z,EXIT,5fq6c1JTFPEchT6Mz5Sj4k5L9kaX7E6cdv4f9aQKAEgw,mihao / SOL,0,4.63479783428e-06,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-12T21:53:00Z,mom
+2026-11-12T21:57:47Z,EXIT,FzHGks9KL1JKZhLaxMWNwioi2qtPa7vuTtmmuu3nwdsf,NUTTSACK / NVDA,0,1.49903841997e-05,100.0,timeout,-5.51,-5.51,456.4,exit_bar=2026-11-12T21:56:00Z,control
+2026-11-12T22:03:16Z,ENTRY,7mZ23KHB8E5bHfYGKF2XPWmRpCzqcj4oHejij6ccnXoo,黑天鹅 / SOL,0,0.000100720692644,100.0,proven_pool,,,456.4,age=121min,proven
