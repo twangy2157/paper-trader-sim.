@@ -11119,3 +11119,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T09:17:55Z,EXIT,3WxhX9dvvgD6MwUxhGNSkrNmNWwNtRxoJ3Cs25W1z2Y2,PSI / SOL,0,7.86315648181e-06,100.0,timeout,-8.97,-8.97,456.4,exit_bar=2026-11-13T09:16:00Z,control
 2026-11-13T09:20:47Z,EXIT,DhGKKxPM329WDjQaXamYhhgefhcGGhv3DWR9ipYzaPUs,Jacket / SOL,0,6.17759892938e-10,100.0,timeout,-3.53,-3.53,456.4,exit_bar=2026-11-13T09:19:00Z,control
 2026-11-13T09:20:47Z,ENTRY,9vLtzTcKuet8QAnZNrg6tAxZ9ZZZsZNnzC5VfhHeCS7d,Sakura / SOL,0,2.38745378059e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-13T09:23:45Z,ENTRY,2BMpAgv2VU6siRfmBBRo32iFiKepEmq2SWyQMCtPyFkL,Democat / SOL,0,3.18211225248e-05,100.0,research_failed,,,456.4,score=0.00 momentum=96%,mom
+2026-11-13T09:23:45Z,FAILED,CxJqkATmGgP7RuuKsNVvqVszyuSaBPCgu5nbabC6WjFt,NVIDIA / SOL,0,5.41372885523e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-13T09:26:45Z,EXIT,FbR7WmU8WAAzSLsgwthiqAivzifdsW381FW3p4Vkmiru,Sakura / SOL,0,0.000153795768967,100.0,tp,93.17,93.17,456.4,exit_bar=2026-11-13T08:25:00Z,mom
+2026-11-13T09:26:45Z,FAILED,8ecAKZL2tAPBU9ezdVWTdyC7KSFos4NdHz7gTSnb75DK,FOOD / SOL,0,1.06190080484e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-13T09:28:21Z,FAILED,HFucY48VynqyypcFEgpEkPuEgopAZdfodmjCmDEPh2JC,RAMBO / SOL,0,0.000449897955339,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",proven
+2026-11-13T09:29:44Z,ENTRY,G2GvHy2ytXCSDLBkJTg68Nyw2obfDha2ssNBggmT3Yu1,Sakura / SOL,0,7.53403507508e-07,100.0,research_failed,,,456.4,score=0.00 momentum=75%,mom
+2026-11-13T09:31:21Z,ENTRY,7mCmsjpZGEkJtqb9o5MqdGbcn9RzqiizYeGGjLGakhe6,Gang Cat / SOL,0,4.15679647673e-05,100.0,research_failed,,,456.4,score=0.00 momentum=128%,mom
+2026-11-13T09:32:43Z,ENTRY,rT3T8rUgW8GhGD65rrC5v3HA3VeDKbgPobUubmQE3mA,JENSEN / SOL,0,3.92678426031e-05,100.0,research_failed,,,456.4,score=0.00 momentum=112%,mom
