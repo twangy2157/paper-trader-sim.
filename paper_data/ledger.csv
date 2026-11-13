@@ -11390,3 +11390,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T16:36:27Z,ENTRY,3SZy2VJwWJ1qEkShSwtjMWbqwefEMduMAkjmJru1WnL6,$pqai27 / SOL,0,7.93899109515e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-13T16:40:56Z,ENTRY,9HVzCUEyuRcnk2NBn34EFKgqMkTBfB6JLygmLpr9JSY7,TIPTAG / PAID,0,1.65455926164e-05,100.0,research_failed,,,456.4,score=0.00 momentum=53%,mom
 2026-11-13T16:40:56Z,ENTRY,7KoY8sm2KYNwredrZvEp5K5QiTL6vHqeCBzotGrRnQ3C,$WOLFENSTEIN / SOL,0,9.98743449144e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T16:42:31Z,EXIT,GCkRd4XSmZv7XnMigCVrL1kFApePLm4b9RT5J2Uv5HCH,Christmas / SOL,0,4.74516034744e-09,100.0,rug,-100.98,-100.98,456.4,exit_bar=2026-11-13T16:05:00Z,mom
+2026-11-13T16:45:16Z,EXIT,FXRGyeT19vcWV8w4Uwnem5vburJhFWnn1ris7GEPhjTm,JUMP COIN / SOL,0,4.90326604369e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T16:44:00Z,mom
+2026-11-13T16:46:40Z,ENTRY,4K5gNY4aVFa6NMW8maeXA9wLhqTfaGUp19N48q51L9kf,AAPL / SOL,0,3.26365544737e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
+2026-11-13T16:52:17Z,ENTRY,4V64AbbZNuX9pcEC667cW3be3P7c9N5Q6A6iu5yp84bA,NEVER / SOL,0,3.30952073902e-05,100.0,research_failed,,,456.4,score=0.00 momentum=96%,mom
