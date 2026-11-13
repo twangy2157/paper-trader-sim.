@@ -11563,3 +11563,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T21:43:41Z,ENTRY,DHbHxaWpdBxaDDnrYSv83pkxriociheeZ5CCrarev7bM,CSI / IBM,0,2.42483541779e-05,100.0,research_failed,,,456.4,score=0.00 momentum=217%,mom
 2026-11-13T21:45:18Z,ENTRY,HUhKsfBt1Rdm7SJnkJSRYmU1Wc5vNPHrXRbU2GJWDSDa,WW0 / SOL,0,1.11476074231e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-80%,control
 2026-11-13T21:49:32Z,ENTRY,AeCBGggmHG5nUS7YFjJbRMTNfmLBUt4XpB79pSBqKhDb,Dacity / TTWO,0,1.02530198075e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-48%,control
+2026-11-13T21:53:38Z,EXIT,DMKsFwiA9bXiaDtE6rFRdFVXBEwTpHUHcmhKWtSBxUh8,Christmas / SOL,0,4.48850723443e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-13T21:24:00Z,mom
+2026-11-13T21:55:15Z,EXIT,3gpRhPrPghV4jCKg8kRqBos2ym6rKMjNMbRPRV9x4Aqx,Democat / SOL,0,6.49126636424e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-13T21:16:00Z,mom
+2026-11-13T21:56:30Z,EXIT,B9MfB3qyUrtqgxPv6B7nzx7pqn6ffCUiYrFe73XZibWc,GPEPE / SOL,0,1.46239133278e-05,100.0,timeout,-6.37,-6.37,456.4,exit_bar=2026-11-13T21:54:00Z,control
+2026-11-13T22:00:29Z,ENTRY,J3FfFsphVzmdZZah9dYs9rbSmMdnVQTGsefsnLcmB9Dm,MICRODUCK / SOL,0,2.39297559642e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
+2026-11-13T22:03:28Z,ENTRY,DWbPxA7EiVi7q6zvkZybZei3t7zjj6oJQXgJP2BbcHHk,NEX Ai / SOL,0,1.68565695579e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
