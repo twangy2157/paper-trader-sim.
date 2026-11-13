@@ -10907,3 +10907,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T03:07:41Z,ENTRY,8sDjZzwKgQ6KVKd6QiEpmmsDvJN4hUh9CPVnzyNTMCXq,CASHCAT / USDC,0,3.55267612401e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-13T03:07:41Z,ENTRY,KZzYBpAQyudVDxVEbVjskp32x4kkMWMu99SMSb2mVyh,ch / SOL,0,1.26566040203e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-13T03:07:41Z,ENTRY,2W5oNnTkaZMghg7JHp6wWvup9GWZv16p7mpqbEJNDJoe,JENSWAN / SOL,0,8.09442368028e-07,100.0,research_failed,,,456.4,score=0.00 momentum=37%,mom
+2026-11-13T03:09:22Z,ENTRY,DQoh4KN75jGPBFbCQztPW9KcNN6HSdoo9okAA7ZDx5Di,WILL / SOL,0,3.26534033619e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-13T03:12:20Z,FAILED,7397bFckpXmjNibEkTwR635Z9pV9494bE7Lik78WQv5U,Sealana / SOL,0,3.94397091241e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-13T03:13:42Z,EXIT,G6HKzoWay5X1PJoSXCkMGE6jhfH4W1pgh3FXo59jzPKA,Max / SOL,0,8.78543740832e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T03:12:00Z,control
+2026-11-13T03:15:19Z,EXIT,HzxL5ZD3F8TwnrZ3KziPWw8wG1LpPcHqXn51gQw3Ro7b,LILPUMP / SOL,0,4.25203264881e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T03:12:00Z,mom
+2026-11-13T03:16:43Z,ENTRY,HYtetGXhmrY62ymFezTAja8RUUZ6MVNXLUhJfbsxt68p,DOOYET / SOL,0,9.28758676056e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-34%,control
+2026-11-13T03:16:43Z,ENTRY,9iz5Mo5guaFapYGCyfT4FFebBCZadqRWqXHiYScfBErv,USDC / SOL,0,4.18494601079e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
