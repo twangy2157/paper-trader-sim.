@@ -11422,3 +11422,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T17:41:27Z,ENTRY,FrC2CvcPXnYSvdbY7R6YdGT6nKeuy8hFgcLTwoJVSPoP,trump / SOL,0,6.88564906789e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-13T17:43:04Z,EXIT,9HVzCUEyuRcnk2NBn34EFKgqMkTBfB6JLygmLpr9JSY7,TIPTAG / PAID,0,1.06269426391e-05,100.0,sl,-40.28,-40.28,456.4,exit_bar=2026-11-13T16:46:00Z,mom
 2026-11-13T17:44:27Z,EXIT,7KoY8sm2KYNwredrZvEp5K5QiTL6vHqeCBzotGrRnQ3C,$WOLFENSTEIN / SOL,0,9.70566328093e-06,100.0,timeout,-8.36,-8.36,456.4,exit_bar=2026-11-13T17:41:00Z,control
+2026-11-13T17:47:24Z,ENTRY,EhozeP3U6no1gtVwbQydSTzsMpNByxUZRy5dU9jfHWZw,cashchick / SOL,0,0.000127659160964,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T17:48:47Z,EXIT,4K5gNY4aVFa6NMW8maeXA9wLhqTfaGUp19N48q51L9kf,AAPL / SOL,0,3.74492383522e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T17:47:00Z,mom
+2026-11-13T17:51:39Z,FAILED,4r7viwBUdNtGUR7PGKw8vhDmyGKDA74FqLvwQ4JHZ9xk,income / SOL,0,6.11985546425e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-13T17:51:39Z,ENTRY,6Xp892hqmWjZUVzsyi3UBa9o6agMVvKe8wDobZ1egcuy,income / SOL,0,7.85491412599e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T17:54:32Z,EXIT,4V64AbbZNuX9pcEC667cW3be3P7c9N5Q6A6iu5yp84bA,NEVER / SOL,0,3.21532454302e-05,100.0,timeout,-8.39,-8.39,456.4,exit_bar=2026-11-13T17:53:00Z,mom
