@@ -11153,3 +11153,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T10:13:19Z,ENTRY,3bFU1HzxaxM53zrewZeFzRyAjznAF2a1rPwuWVVbVCVi,AI / SOL,0,4.34254622547e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
 2026-11-13T10:14:42Z,ENTRY,DAKccnnPArws399W2tLWrko7tQkjnMAnMMtABBTLFDer,Sakura / SOL,0,0.000123267731184,100.0,research_failed,,,456.4,score=0.00 momentum=154%,mom
 2026-11-13T10:16:19Z,FAILED,5ufCH7xPYZC1Y12WEAW4cxsNwcNfgWzdBd53DUsSBW3r,FREEDOM / USDC,0,9.545903415e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-13T10:17:45Z,ENTRY,7jC7HdB6B48ueCjcDSBDf2pC8kNsd5XLVqhYiK1cpFXd,gone / SOL,0,9.39797746777e-06,100.0,research_failed,,,456.4,score=0.00 momentum=11%,mom
+2026-11-13T10:19:22Z,FAILED,Ekq218vQwcKtgbmwusjHD21zxshUb4aUmNMHpY3zCYfy,FOOD / SOL,0,1.08490467764e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-13T10:20:44Z,ENTRY,5eHkK82rd2eskGmvYiiY9cRQbQ6cL43Xz19QVqcKGB87,Maxcoin / SOL,0,3.96365040474e-05,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
+2026-11-13T10:22:21Z,EXIT,9vLtzTcKuet8QAnZNrg6tAxZ9ZZZsZNnzC5VfhHeCS7d,Sakura / SOL,0,3.2244323931e-05,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-13T10:21:00Z,control
+2026-11-13T10:23:43Z,ENTRY,8z1LVdC1feEY4FoXCaL9wyfJUgPkbmn8ZEy9y9oTvm4U,RUN / SOL,0,2.30023784057e-05,100.0,research_failed,,,456.4,score=0.00 momentum=123%,mom
+2026-11-13T10:25:20Z,EXIT,2BMpAgv2VU6siRfmBBRo32iFiKepEmq2SWyQMCtPyFkL,Democat / SOL,0,6.36422450497e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-13T09:26:00Z,mom
+2026-11-13T10:26:42Z,FAILED,CRwFGeZCwpavZTjw7riVkF94R6a4LGoNNTyRV7vMSiMw,STONK / SOL,0,8.76937651674e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
