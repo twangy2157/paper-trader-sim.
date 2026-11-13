@@ -11394,3 +11394,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T16:45:16Z,EXIT,FXRGyeT19vcWV8w4Uwnem5vburJhFWnn1ris7GEPhjTm,JUMP COIN / SOL,0,4.90326604369e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T16:44:00Z,mom
 2026-11-13T16:46:40Z,ENTRY,4K5gNY4aVFa6NMW8maeXA9wLhqTfaGUp19N48q51L9kf,AAPL / SOL,0,3.26365544737e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
 2026-11-13T16:52:17Z,ENTRY,4V64AbbZNuX9pcEC667cW3be3P7c9N5Q6A6iu5yp84bA,NEVER / SOL,0,3.30952073902e-05,100.0,research_failed,,,456.4,score=0.00 momentum=96%,mom
+2026-11-13T16:55:14Z,ENTRY,7ehtadyk8nRNqWTeGW7Sh6dUDhWjwP4YgXZCmvbW4Jgw,GTA6 / SOL,0,8.28721374002e-06,100.0,research_failed,,,456.4,score=0.00 momentum=39%,mom
+2026-11-13T16:59:35Z,ENTRY,ECWmB8EVKzS6DdHUnR3F7oa3K1gju3kzUav2G584tbee,NVIDIA / SOL,0,2.28991518563e-05,100.0,research_failed,,,456.4,score=0.00 momentum=167%,mom
