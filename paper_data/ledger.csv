@@ -11603,3 +11603,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T23:06:17Z,EXIT,DWbPxA7EiVi7q6zvkZybZei3t7zjj6oJQXgJP2BbcHHk,NEX Ai / SOL,0,6.8910301337e-09,100.0,rug,-100.96,-100.96,456.4,exit_bar=2026-11-13T22:05:00Z,control
 2026-11-13T23:07:39Z,FAILED,Gn5GVFoPUg4Cs24Fp8kGc1NnmtNv22EYWrSZpjmRGvBR,mica / SOL,0,9.01604093041e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-13T23:07:39Z,FAILED,ERkDhpf5Ec5WbRevQPzbZvYMtCMX4JXjYK4VciNEjDRa,SKYNET / SOL,0,3.82277029314e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-13T23:10:43Z,ENTRY,7iF3xSYBe8MWK2e8Z3HG4yNATUkTPv75LSwZrQhbj6Lk,SKYNET / SOL,0,0.000102163380415,100.0,research_failed,,,456.4,score=0.00 momentum=77%,mom
+2026-11-13T23:12:20Z,EXIT,9a9R3Jug2gVJ9X8wReHQRozUYbhjMZKPTcCrEysXFW4y,JENSEN / SOL,0,7.38447636637e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-13T22:18:00Z,mom
+2026-11-13T23:13:42Z,ENTRY,GGvFH79EbVkAUPyKeT6MZW5nDNTFxXKEBLEamXXreXBo,CSI / SOL,0,7.52515016999e-05,100.0,research_failed,,,456.4,score=0.00 momentum=25%,mom
+2026-11-13T23:15:18Z,FAILED,Chsd59pL5ETyvGvw2wj4En7grg8DjbXuZxKvCwcUmyEP,SKYNET / SOL,0,0.000228100994493,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
