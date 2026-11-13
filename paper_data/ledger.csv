@@ -11050,3 +11050,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T07:24:29Z,ENTRY,2V75vzVomfPM7qZ3poGBMaUqZJ8aHmFRmMnwz2mC98Qv,XAU / USDT,0,1.00776011117,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-13T07:25:59Z,ENTRY,DGehLceDwaa1Q7WRzSr5df9bUDpgt2CsPRXq144sdTtc,WRENCHP / SOL,0,4.0059330633e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
 2026-11-13T07:27:28Z,ENTRY,ASKWxfaAfpZn5wa3k5bbtby42qMtUAPAW2jVDNdKBrtm,Autism / SOL,0,3.78148687713e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
+2026-11-13T07:29:01Z,ENTRY,Ak3D8ECF761shRNW38VXgrjSLWZ44Dxym8VWzL3oVN48,WIFOUT / SOL,0,1.33181912331e-05,100.0,research_failed,,,456.4,score=0.00 momentum=64%,mom
+2026-11-13T07:31:46Z,ENTRY,6mzSLzE4etfFtssgvnEfDzamr37oH6E5YRJrFKCteUkW,catalyst / SOL,0,2.40698061849e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T07:34:31Z,ENTRY,BaYGTjscaJPT1rSBoUdhAYcVL47SwJWhspzUwDzMHjS9,Eglefly / SOL,0,1.98879014602e-05,100.0,research_failed,,,456.4,score=0.00 momentum=164%,mom
+2026-11-13T07:36:08Z,ENTRY,HST9mtUt1VQQQVk4DjDh9dSCYXgdfgbNTmKyk8Za72UH,364 / SOL,0,7.51039289684e-06,100.0,research_failed,,,456.4,score=0.00 momentum=29%,mom
+2026-11-13T07:37:30Z,ENTRY,E3MNHG5zzKE5fV8pZQfLpqcJiRP76jpviH6ZDFAdknXZ,AMD / SOL,0,1.40215475077e-05,100.0,research_failed,,,456.4,score=0.00 momentum=117%,mom
