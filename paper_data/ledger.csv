@@ -11595,3 +11595,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T22:49:44Z,ENTRY,fWjhwvAGqNocpN1zTDn7QYYApx8Dm8UeV5vjnuMFjvw,AURA / SOL,0,2.01789495011e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-13T22:51:20Z,EXIT,AeCBGggmHG5nUS7YFjJbRMTNfmLBUt4XpB79pSBqKhDb,Dacity / TTWO,0,1.40210980868e-05,100.0,timeout,28.98,28.98,456.4,exit_bar=2026-11-13T22:50:00Z,control
 2026-11-13T22:52:43Z,ENTRY,5AVE4cwv24vvz3RoYjHxnrh26eLw8BUoYSt1UsshuvEA,DOOMSDAY / SOL,0,7.41797985719e-09,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-100%,control
+2026-11-13T22:58:43Z,FAILED,8tvtSDnpkLgNNbCftKoVKxXyDdndSbcKQj57QRNaFw9,STENKS / SOL,0,7.08485564082e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-13T22:58:43Z,ENTRY,5J5ag8kaHHHpDjirGUvdRQaxAAjBGh9mJexJrdGXmKk9,PEACEFROG / SOL,0,4.01999418452e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-13T22:58:43Z,ENTRY,Djg5kqrhxGwS85ZUEmSxoT2bLYACco467KGvixerFMce,HEDGE / SOL,0,6.84309151473e-05,100.0,research_failed,,,456.4,score=0.00 momentum=145%,mom
+2026-11-13T23:01:42Z,ENTRY,FmxMr3B1NsmMrhbGeWrMya47KatANTso5qcZ5EQRFdDd,mihao / SOL,0,2.26181583761e-05,100.0,research_failed,,,456.4,score=0.00 momentum=35%,mom
+2026-11-13T23:03:18Z,EXIT,J3FfFsphVzmdZZah9dYs9rbSmMdnVQTGsefsnLcmB9Dm,MICRODUCK / SOL,0,1.67508291749e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-13T22:08:00Z,mom
+2026-11-13T23:06:17Z,EXIT,DWbPxA7EiVi7q6zvkZybZei3t7zjj6oJQXgJP2BbcHHk,NEX Ai / SOL,0,6.8910301337e-09,100.0,rug,-100.96,-100.96,456.4,exit_bar=2026-11-13T22:05:00Z,control
+2026-11-13T23:07:39Z,FAILED,Gn5GVFoPUg4Cs24Fp8kGc1NnmtNv22EYWrSZpjmRGvBR,mica / SOL,0,9.01604093041e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-13T23:07:39Z,FAILED,ERkDhpf5Ec5WbRevQPzbZvYMtCMX4JXjYK4VciNEjDRa,SKYNET / SOL,0,3.82277029314e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
