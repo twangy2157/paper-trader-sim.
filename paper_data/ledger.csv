@@ -10870,3 +10870,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T02:11:42Z,ENTRY,G6HKzoWay5X1PJoSXCkMGE6jhfH4W1pgh3FXo59jzPKA,Max / SOL,0,7.85019915232e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=7%,control
 2026-11-13T02:11:42Z,ENTRY,HzxL5ZD3F8TwnrZ3KziPWw8wG1LpPcHqXn51gQw3Ro7b,LILPUMP / SOL,0,3.98728641451e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
 2026-11-13T02:13:18Z,ENTRY,Co9Lifs7Wj4XhAJfPTJq2JjqhkCREiun9XRSZeQkrp4Q,USDP / USDC,0,0.0303349744392,100.0,proven_pool,,,456.4,age=126min,proven
+2026-11-13T02:17:42Z,ENTRY,9gq736bbGYmChU6cLAcuojuFXTeC7BaeoUxK19RPczuJ,$MFRG / SOL,0,2.55769286289e-05,100.0,research_failed,,,456.4,score=0.00 momentum=185%,mom
+2026-11-13T02:19:18Z,EXIT,A5kzq3M2ZdHWtXJmAvdr1CmvAvG79YFej4X4U88ZKuEg,FANDEMON / SOL,0,3.97424763912e-06,100.0,rug,-100.03,-100.03,456.4,exit_bar=2026-11-12T23:20:00Z,proven
+2026-11-13T02:20:40Z,EXIT,ETGnkVk9qe4CaWF1ApP6HJajc5nDkkyceFsucucpj9Jm,mihao / SOL,0,5.36516799889e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T02:18:00Z,mom
+2026-11-13T02:20:40Z,ENTRY,HdSUd33FAqLP38m7ri87vwQ8A5rzZktQRJTYqrLaHJFv,kittylick / SOL,0,0.00015715935065,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-13T02:22:17Z,EXIT,DqNBMYW8FmzJnBBpcU3WbbUZEBPff6dFyteYdKSMc3Bt,pruple / SOL,0,8.22337349985e-06,100.0,timeout,-8.64,-8.64,456.4,exit_bar=2026-11-13T02:18:00Z,control
