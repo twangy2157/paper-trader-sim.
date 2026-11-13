@@ -10913,3 +10913,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T03:15:19Z,EXIT,HzxL5ZD3F8TwnrZ3KziPWw8wG1LpPcHqXn51gQw3Ro7b,LILPUMP / SOL,0,4.25203264881e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T03:12:00Z,mom
 2026-11-13T03:16:43Z,ENTRY,HYtetGXhmrY62ymFezTAja8RUUZ6MVNXLUhJfbsxt68p,DOOYET / SOL,0,9.28758676056e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-34%,control
 2026-11-13T03:16:43Z,ENTRY,9iz5Mo5guaFapYGCyfT4FFebBCZadqRWqXHiYScfBErv,USDC / SOL,0,4.18494601079e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-13T03:19:45Z,EXIT,9gq736bbGYmChU6cLAcuojuFXTeC7BaeoUxK19RPczuJ,$MFRG / SOL,0,2.5278332587e-05,100.0,timeout,-5.26,-5.26,456.4,exit_bar=2026-11-13T03:18:00Z,mom
+2026-11-13T03:22:43Z,EXIT,HdSUd33FAqLP38m7ri87vwQ8A5rzZktQRJTYqrLaHJFv,kittylick / SOL,0,0.000152164627837,100.0,timeout,-6.26,-6.26,456.4,exit_bar=2026-11-13T03:21:00Z,control
+2026-11-13T03:24:19Z,ENTRY,xj2o8Cjua1brSKpssZniGrbEXV6weMGVYhA1u5vscMy,JENSWAN / SOL,0,0.00133528495537,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-27%,control
+2026-11-13T03:25:40Z,ENTRY,CQWTJ6TzBSvUU99jDweRUn65v63w5toQsZnxq147ZdBQ,BHuang / SOL,0,3.86425048093e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-13T03:28:31Z,FAILED,2e7nLQRrAkTpiR3EXR4PA59QsZkEgbceS2wkuA69i5je,KIMBTC / SOL,0,2.38869909207e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",dip
