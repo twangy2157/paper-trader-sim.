@@ -11439,3 +11439,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T18:16:17Z,EXIT,FdaocbzqSToYbR6YSCHd15XyD7JjLsSno1nDhwb5Qedx,BOTNET / SOL,0,1.65067423265e-05,100.0,timeout,-14.87,-14.87,456.4,exit_bar=2026-11-13T18:15:00Z,control
 2026-11-13T18:17:32Z,ENTRY,929pXdQ2oAVLXZArpMmBJGHWMeGLnCHnv7PSZC4ksXYb,Sakura / SOL,0,7.4420985008e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
 2026-11-13T18:17:32Z,ENTRY,3aAf6ieUXBCS6dT56FpwnRQN7ajiauCMTG8mrxJfb58E,BetOnBlak / SOL,0,6.9136782101e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T18:19:06Z,EXIT,G3n8DGMRAueqoTNdCk56ijBt6HyAYAYUqcHoUE5DbSBM,HOMEBADGE / SOL,0,2.52465779164e-05,100.0,sl,-33.59,-33.59,456.4,exit_bar=2026-11-13T17:39:00Z,control
+2026-11-13T18:20:28Z,EXIT,CBsxm6yKxpS99URVCAYZpnWTded9GhL1ADCDNnkyPk2h,Sakura / SOL,0,4.68842132336e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-13T17:34:00Z,mom
+2026-11-13T18:21:58Z,ENTRY,H2Pcu2XEpirKnDGD9kf857bSa4DV2pwrc9M16KTcFQQQ,JHOEL / SOL,0,1.59853442103e-05,100.0,research_failed,,,456.4,score=0.00 momentum=45%,mom
+2026-11-13T18:23:28Z,EXIT,AyDYhwU7XhgAG5etCQHf6jgsrbkhcHH9WcwB3WirrE7r,DEFAULT / SOL,0,1.62240678344e-05,100.0,sl,-34.28,-34.28,456.4,exit_bar=2026-11-13T17:34:00Z,control
+2026-11-13T18:24:58Z,ENTRY,CBmaatj7ee6nuoEDYSjBWcxZwq6XrnobB143ZkjreoFj,LMBO / SOL,0,5.24487835557e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-13T18:26:28Z,ENTRY,GJKrFmsgBvuJ9JJhZVMfY1r8KqHy3uQxLBHqB8mA14jK,KIWI / SOL,0,3.23283408668e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
