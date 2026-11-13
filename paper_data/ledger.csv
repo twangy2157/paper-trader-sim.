@@ -11288,3 +11288,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T13:38:30Z,EXIT,9jYrLQPr7D8WokgjVY9e3arydkHjAaTnD2xr3j6GycBN,STEP / SOL,0,3.84841485995e-05,100.0,sl,-45.17,-45.17,456.4,exit_bar=2026-11-13T12:36:00Z,mom
 2026-11-13T13:38:30Z,ENTRY,Hc2KNEK4mZYrGvg5gsoSj7anNM8jXW1bCnJVpbEs48LX,USPR / SOL,0,2.89649412028e-05,100.0,research_failed,,,456.4,score=0.00 momentum=55%,mom
 2026-11-13T13:40:07Z,EXIT,3EVEeM2Hsxx6QQoxKpGCKghnLb98T2pUd21U4p5a1kPs,OTTER / SOL,0,6.44111184212e-06,100.0,timeout,-10.11,-10.11,456.4,exit_bar=2026-11-13T13:38:00Z,control
+2026-11-13T13:43:04Z,FAILED,3D4QbSqTyTgU6VwUrGaUtzBqvaqLD5bTioEkgvQ5Y9Ag,OKKO / USDC,0,0.29970124956,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-13T13:45:56Z,EXIT,2TicqJBo7jWsbhG7ybtdpM5k93kXe6JNQQf1h4YnywvS,Alcapone / SOL,0,6.50656364155e-06,100.0,timeout,-10.04,-10.04,456.4,exit_bar=2026-11-13T13:44:00Z,control
+2026-11-13T13:47:26Z,ENTRY,8jAedJs6vYzWbv67KZo5DVXCQjbCoxTicgizmZkNtQ8Z,Buffape / SOL,0,4.75477115112e-05,100.0,research_failed,,,456.4,score=0.00 momentum=340%,mom
+2026-11-13T13:51:55Z,ENTRY,AfTCqtMHkpoNY52pSpU5V9HSDYWQHgyw1kRiGiLU4ZLd,DeepSeek / SOL,0,3.37161744807e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
