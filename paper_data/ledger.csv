@@ -11558,3 +11558,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T21:39:16Z,ENTRY,6KoZrjK4TggSLZCyovEd26YqFXt3wQCyacevSbpcUEvb,TAX / SOL,0,2.01355593943e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-13T21:40:38Z,ENTRY,12nsKxUD5ytBkGnyLmQKLQPioEoYZiGBnxpjR1oTpecQ,Max / SOL,0,6.64703164149e-07,100.0,proven_pool,,,456.4,age=121min,proven
 2026-11-13T21:40:38Z,ENTRY,9PUp5LcPRFFwWJjTRzWCzzdNUj7dZjh6CgZVe6szSd2w,USMS / SOL,0,7.32584931928e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-13T21:42:19Z,ENTRY,FG7Mcb59S2Ynmwmf98k1PZLNHacGV7RLieAk9e28TBb5,Jen-Hsun / SOL,0,2.39228282878e-05,100.0,research_failed,,,456.4,score=0.00 momentum=26%,mom
+2026-11-13T21:42:19Z,ENTRY,yCdvkmJSG2h6tQ25DVZXrb6cto2jrJ7iMy82wRpkKjB,PPA / SOL,0,2.05754283522e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-13T21:43:41Z,ENTRY,DHbHxaWpdBxaDDnrYSv83pkxriociheeZ5CCrarev7bM,CSI / IBM,0,2.42483541779e-05,100.0,research_failed,,,456.4,score=0.00 momentum=217%,mom
+2026-11-13T21:45:18Z,ENTRY,HUhKsfBt1Rdm7SJnkJSRYmU1Wc5vNPHrXRbU2GJWDSDa,WW0 / SOL,0,1.11476074231e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-80%,control
+2026-11-13T21:49:32Z,ENTRY,AeCBGggmHG5nUS7YFjJbRMTNfmLBUt4XpB79pSBqKhDb,Dacity / TTWO,0,1.02530198075e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-48%,control
