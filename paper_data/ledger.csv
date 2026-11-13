@@ -11611,3 +11611,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T23:21:21Z,ENTRY,2w7gUWUHQda7TUwapitEfcD7mShXsDH8DwJB5bGTaqUj,Agency / SOL,0,7.93864743217e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-13T23:22:43Z,ENTRY,D8ECAwLgbGAQeXxC8UQ1wBPMLapYKRSqPvWmD17vLNui,CSI / SOL,0,0.000114403748996,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
 2026-11-13T23:25:42Z,EXIT,6QVbDNp5EA8vWDA5CncSKCZ3DnKGNifFaMHjbTXcmHrN,mihao / SOL,0,5.0314376452e-05,100.0,timeout,17.1,17.1,456.4,exit_bar=2026-11-13T23:24:00Z,mom
+2026-11-13T23:30:21Z,ENTRY,9xjY26EvDuXhUaY3S9cvc3Ff73eEmqoPb4x3QmUGVEgB,Jewpiter / SOL,0,1.82296307566e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T23:33:19Z,ENTRY,5JqsqhsPVvv3PDj46WsR9kJ22eH5egNjffXF3qNrzUgz,BOBBY / SOL,0,8.8648975747e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-13T23:34:41Z,EXIT,DF9PgTJymYw3y8LkNK2FeKBvcduMc8soTWktXdQ2WiX4,LUPIN / SOL,0,2.41864733224e-05,100.0,timeout,-7.52,-7.52,456.4,exit_bar=2026-11-13T23:33:00Z,mom
+2026-11-13T23:37:40Z,EXIT,5Tn1dpGk3K4mTUT6RvnxLLvYvhhzYjVoKYDGzZqUG59i,att / SOL,0,9.69533319379e-06,100.0,timeout,-7.87,-7.87,456.4,exit_bar=2026-11-13T23:36:00Z,control
+2026-11-13T23:39:16Z,EXIT,CNL72fRqhABVNhBCDhYy95mWELWZhwF9NXoMDS4pgCV2,BAWSAQ / SOL,0,0.000143249450171,100.0,rug,-0.48,-0.48,456.4,exit_bar=2026-11-13T23:38:00Z,control
