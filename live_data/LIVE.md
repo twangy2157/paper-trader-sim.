@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. Fixed rules, 0.30% round-trip costs, hourly bars.
 
-Live since 2026-11-02 03:00 UTC. Updated 2026-11-13 09:00 UTC.
+Live since 2026-11-02 03:00 UTC. Updated 2026-11-13 11:00 UTC.
 
 | rule | closed | win | avg | open now |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ Open positions (marked at the last closed hour):
 
 | coin | rule | opened | return so far |
 |---|---|---|---|
-| PEPE | dip | 2026-11-12 11:00 | 2.6% |
+| PEPE | dip | 2026-11-12 11:00 | 2.0% |
 
 Each rule needs 30+ closed trades before the average means anything,
 and the coins move together, so treat any early result as noise.
