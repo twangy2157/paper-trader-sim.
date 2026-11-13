@@ -11568,3 +11568,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T21:56:30Z,EXIT,B9MfB3qyUrtqgxPv6B7nzx7pqn6ffCUiYrFe73XZibWc,GPEPE / SOL,0,1.46239133278e-05,100.0,timeout,-6.37,-6.37,456.4,exit_bar=2026-11-13T21:54:00Z,control
 2026-11-13T22:00:29Z,ENTRY,J3FfFsphVzmdZZah9dYs9rbSmMdnVQTGsefsnLcmB9Dm,MICRODUCK / SOL,0,2.39297559642e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
 2026-11-13T22:03:28Z,ENTRY,DWbPxA7EiVi7q6zvkZybZei3t7zjj6oJQXgJP2BbcHHk,NEX Ai / SOL,0,1.68565695579e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-13T22:07:55Z,EXIT,HtaGptocogdMqJxEh43ek8B3L9UmL8t9uuZ76EsrqsD9,mask / SOL,0,4.26690718555e-05,100.0,timeout,59.53,59.53,456.4,exit_bar=2026-11-13T22:06:00Z,mom
+2026-11-13T22:09:24Z,ENTRY,9a9R3Jug2gVJ9X8wReHQRozUYbhjMZKPTcCrEysXFW4y,JENSEN / SOL,0,3.69223818318e-05,100.0,research_failed,,,456.4,score=0.00 momentum=111%,mom
+2026-11-13T22:10:46Z,EXIT,ByNVyW8VRxa6HzwrLwYyqij7xyYagZxEyo1BbTy2qcdt,JENSEN / SOL,0,7.71654653897e-05,100.0,timeout,-4.81,-4.81,456.4,exit_bar=2026-11-13T22:09:00Z,mom
+2026-11-13T22:13:31Z,EXIT,FDKd61qZPVoVoQtgKKUxgXWAvNpDR94zusRVj74CYzCX,BBTB / SOL,0,9.17119634286e-07,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T22:12:00Z,mom
