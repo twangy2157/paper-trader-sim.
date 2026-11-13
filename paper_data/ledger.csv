@@ -10854,3 +10854,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T01:33:57Z,FAILED,HwAZDAL3DVFaN9A1mbrqtK8mGL5VftkF6XD3FVVBiZJL,Panda / SOL,0,4.010716049e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-13T01:35:26Z,ENTRY,4HmG4Ag3rj3DsRLjke7RUWUkrJAjqtJCM4CnAY8Lib4s,DERP / SOL,0,9.16359665124e-05,100.0,research_failed,,,456.4,score=0.00 momentum=45%,mom
 2026-11-13T01:36:56Z,ENTRY,Gbi3AP1PygfFJHVD8ZmdHdiFFyV7e77c8monJF5EJEuM,ROCKY / SOL,0,2.50300155528e-05,100.0,research_failed,,,456.4,score=0.00 momentum=233%,mom
+2026-11-13T01:42:35Z,ENTRY,FHK93w9bkWg5px4yDMUHZBwVbdiBSBQBsYue57KWjQhG,USOE / USDC,0,0.0273295621292,100.0,proven_pool,,,456.4,age=139min,proven
+2026-11-13T01:42:35Z,ENTRY,4KiM8iJfWesZePqcXZeTBZktoZiXfJ2d6GoFYip35dER,AI / SOL,0,4.23141754142e-05,100.0,research_failed,,,456.4,score=0.00 momentum=16%,mom
+2026-11-13T01:45:26Z,ENTRY,7fGewMywb4BtaVTd66LDb84sYTRXehRCGkduamLvjfQV,Sinu / SOL,0,0.000113438589635,100.0,research_failed,,,456.4,score=0.00 momentum=265%,mom
+2026-11-13T01:46:54Z,ENTRY,GCApLjm8aviTumEXSYPCVMGK6Rer9KG7gUN4L9YKP394,SHARKBUX / SOL,0,0.000502492292014,100.0,proven_pool,,,456.4,age=134min,proven
+2026-11-13T01:49:31Z,ENTRY,Ci2wJModKHgR5n6Pyd2p2ZZvBJ8Hky3vEs1L91h5Mykt,plunger / plumber,0,1.67994415984e-05,100.0,research_failed,,,456.4,score=0.00 momentum=60%,mom
