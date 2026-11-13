@@ -10859,3 +10859,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T01:45:26Z,ENTRY,7fGewMywb4BtaVTd66LDb84sYTRXehRCGkduamLvjfQV,Sinu / SOL,0,0.000113438589635,100.0,research_failed,,,456.4,score=0.00 momentum=265%,mom
 2026-11-13T01:46:54Z,ENTRY,GCApLjm8aviTumEXSYPCVMGK6Rer9KG7gUN4L9YKP394,SHARKBUX / SOL,0,0.000502492292014,100.0,proven_pool,,,456.4,age=134min,proven
 2026-11-13T01:49:31Z,ENTRY,Ci2wJModKHgR5n6Pyd2p2ZZvBJ8Hky3vEs1L91h5Mykt,plunger / plumber,0,1.67994415984e-05,100.0,research_failed,,,456.4,score=0.00 momentum=60%,mom
+2026-11-13T01:54:01Z,ENTRY,Bz6NJzgYVFrbgPuN88zTFHYMz4BLizo11Nrfdma5mHGk,Huanged / NVDAx,0,9.75702989306e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-46%,control
+2026-11-13T01:56:45Z,FAILED,ERs5fiqWZQJSdpvDgUv8yVXnASKcwjhwYQUtjWARx3HE,Starvex / SOL,0,1.29916108729e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-13T01:59:43Z,ENTRY,Fo7ez2GMixRFQnhsJvbX5iotnfZTBmt5ie8mG1szMECw,Shrimp / USDC,0,7.80252486542e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T02:01:19Z,ENTRY,BU8RdVNN5g5uUSt6FCxxxDFEx9K8Z8HAzQ1Fiuim8upb,Shrimp / USDC,0,7.99420920748e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T02:02:41Z,ENTRY,9NoXxwX9wSMSxvpgxwaUHgxiXL12SojUd4uLPdfM8sBh,GOAT / SOL,0,2.07458611924e-05,100.0,research_failed,,,456.4,score=0.00 momentum=15%,mom
+2026-11-13T02:02:41Z,FAILED,AsHQwKC1WapEag5JGFRhSZ6oRSfGdVDpGDqf7rx46mQc,Shrimp / USDC,0,7.71269062719e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
