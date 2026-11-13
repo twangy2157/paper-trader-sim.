@@ -11305,3 +11305,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T14:11:07Z,EXIT,E7ApipkeXqBzKDtBsrVcmT5Lb9f8t4xMFiu4bAUf7cQZ,UWU / SOL,0,0.000114569535842,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T14:10:00Z,mom
 2026-11-13T14:11:07Z,ENTRY,7Utg3mtnGXwaEDbfWkpm7H4mjkqitvrR1gYxKPxiNGUj,iPHONE18 / SOL,0,2.96004487885e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-13T14:12:30Z,ENTRY,HTCAUBsmyv2feyonkAyR6cqryPw7LSgD4JhSNgdJj9zE,$BWIZ / SOL,0,9.51992568163e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T14:14:11Z,ENTRY,6eQH6PBGSmHTvxrtcPPhoL7fQaWwmoYABwxM3GPMTDFQ,JENSEN / SOL,0,2.56719067092e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-13T14:15:33Z,EXIT,999YXiGxxaPSt7SZcgwXbjdWQg1jrrUgvtazyJsBd4cU,UwU / SOL,0,2.26482204316e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T14:14:00Z,control
+2026-11-13T14:17:10Z,EXIT,CZdYocrhxEcdgc81SYf6B1N9jGm6Vf3jemcCNrQk6K9M,Brandice / SOL,0,2.87904619676e-05,100.0,timeout,35.06,35.06,456.4,exit_bar=2026-11-13T14:14:00Z,dip
+2026-11-13T14:18:25Z,ENTRY,8sQVJPkdN37E635fpQA5X4sSQv4hYueJeQtfKUwj2Bnt,UwU / SOL,0,7.84197284837e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T14:18:25Z,ENTRY,Ebcu2i6dx7CNvbCECVWRYmvwZW2nFPy4nMVPNQEiNvCQ,SPEED / SOL,0,1.86022325469e-05,100.0,research_failed,,,456.4,score=0.00 momentum=76%,mom
+2026-11-13T14:21:25Z,ENTRY,2E4wr5qD6NtQHq59cnwncvqkDC7a7Q9xwEB1MPGArhtU,SPEED / SOL,0,7.57237702854e-05,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
+2026-11-13T14:22:47Z,ENTRY,Fjx8RtvMKw3mvyV86i4wZQpj3CXnXhYViHTNboaS9roE,dogbaton / SOL,0,1.20150067991e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
