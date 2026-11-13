@@ -11409,3 +11409,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T17:20:29Z,EXIT,D8f565sAmNQmmTgtDhnuq7x3u2QFDbzUWrURr7E1rcLK,1 / SOL,0,1.2419460507e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T17:18:00Z,mom
 2026-11-13T17:20:29Z,ENTRY,AyDYhwU7XhgAG5etCQHf6jgsrbkhcHH9WcwB3WirrE7r,DEFAULT / SOL,0,2.35491398133e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-15%,control
 2026-11-13T17:23:29Z,EXIT,HZjFtoNuSn6iyZmYgak5RPXBBDRnK5TAFE3TtGnsg9f5,KIWI / SOL,0,3.22411750394e-05,100.0,rug,-3.74,-3.74,456.4,exit_bar=2026-11-13T17:22:00Z,control
+2026-11-13T17:25:03Z,FAILED,3kzAj2rD2jhwxp6y68gyV1pvtEcAZR2KHRypuLpq4QiV,SUNNY / SOL,0,3.89891144711e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-13T17:26:26Z,ENTRY,DM6miaYH76dx6b43wnY6aN6e66NX1ZehSD1GSJRkj7Yn,RICK / SOL,0,7.70105851296e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-13T17:27:56Z,ENTRY,9847xhkxTm26rAUhLeV4Mcu1pxoNPMiB9CdPLScBx5np,FOOD / SOL,0,7.60127809678e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
+2026-11-13T17:29:25Z,EXIT,BzjeYT63fjbqX3zeRWgQCaDu5exyW5NPXcaDyrCNdJpG,VENZA / SOL,0,8.9353636742e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T17:27:00Z,mom
+2026-11-13T17:31:02Z,ENTRY,7xZqu7guc1iUBPymxSBebe7NsxVxasdA3gcsJDjqT7AX,ハウスコイン / SOL,0,0.000102372321203,100.0,research_failed,,,456.4,score=0.00 momentum=66%,mom
+2026-11-13T17:32:32Z,FAILED,2etUSKSwbzMdc9tcTmNWExUZKagiA67qpxDLTF5N9HUQ,Capybara / SOL,0,3.04471644791e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-13T17:34:02Z,EXIT,8snHip9nsZPAX16WMxBX6hjq5YYiw6SxcnRU8Q8AjjpD,Anthropic / SOL,0,0.00518734405477,100.0,timeout,21.39,21.39,456.4,exit_bar=2026-11-13T17:32:00Z,proven
