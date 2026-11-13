@@ -11544,3 +11544,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T21:16:44Z,ENTRY,4xEsZ4FJTzSzEW4YJ7cxJjM6LsHsmxbDnAwFWEmSUwt,BBTB / SOL,0,0.000141017414297,100.0,research_failed,,,456.4,score=0.00 momentum=141%,mom
 2026-11-13T21:16:44Z,FAILED,GLZTH5R4tBZHaszQqjjnAp3tKR26Wv3tBtabxnASDTt6,PPA / SOL,0,1.04067581205e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-13T21:18:21Z,EXIT,2RaLxjniz5J6kDDJBxXBaL5vmU5MSbSFjquxq1ncE4vp,NEX Ai / SOL,0,2.61266317891e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-13T20:24:00Z,mom
+2026-11-13T21:25:31Z,ENTRY,AKMYfJvpBWXbLUBJjH9hF3rPb4GQobbsAsX3vgVkKsiB,PPA / SOL,0,1.78444955472e-05,100.0,research_failed,,,456.4,score=0.00 momentum=232%,mom
+2026-11-13T21:27:07Z,ENTRY,EQ4csT3KbpAdTdUoZeFNFHukJFRfYtv7joE2kG8ne2Rr,CC / SOL,0,1.4170639422e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-60%,control
+2026-11-13T21:28:37Z,ENTRY,3EyY5mk7DBcBevx8HGzAKXgntdBj78TEG3jFpKETNQMg,AURA / SOL,0,9.50396493573e-05,100.0,research_failed,,,456.4,score=0.00 momentum=66%,mom
+2026-11-13T21:30:13Z,EXIT,GfSzo26diMWFA1oZ41NDVV7VLzPXChMDGLkZ6wowR3Dy,SAI / SOL,0,5.9868969365e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T21:28:00Z,control
