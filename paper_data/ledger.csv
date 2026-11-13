@@ -11027,3 +11027,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-13T06:18:42Z,ENTRY,Fepg4YSemrxwNrwFmzesbZrEiVBsGzwnjuEmt9CufA4B,XAUTᅠ / USDT,0,3864.27006609,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-13T06:18:42Z,ENTRY,4j5nEmtY73vBLB1WXgnX8vRi1edFtQsSDxUP2nUosTQo,DICKBUTT / SOL,0,2.35414758318e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-13T06:21:40Z,FAILED,C5oiNsJTwHHsmKB1pFeb1mcZigsmBSh6JYrTFAEarF84,MCC / USDC,0,1.28869073436e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-13T06:23:20Z,EXIT,7heLH2uQTgXadvMB2LznQhecgHNnxPxMzEs1bJZJPb4F,GANG / SOL,0,7.09093527222e-05,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-13T06:21:00Z,mom
+2026-11-13T06:24:42Z,FAILED,DrDxYk45QykLRMBGFXcvS1XqfL9NE1L41AELrKRaBNs4,DICKBUTT / SOL,0,0.000120112944614,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-13T06:26:18Z,EXIT,xyVePdc8MS4g36de45riisQ5LtzupQJ7niaZkj2eESq,FEEDINU / SOL,0,5.18674818556e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T06:24:00Z,mom
+2026-11-13T06:32:06Z,EXIT,DNC8Ex7nCsYcoUN5QJGWykuGK17fK5TS87UBPtwVqJBP,DIVIDEND / SOL,0,4.9072670743e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-13T06:30:00Z,mom
