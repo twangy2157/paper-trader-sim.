@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. Fixed rules, 0.30% round-trip costs, hourly bars.
 
-Live since 2026-11-02 03:00 UTC. Updated 2026-11-14 14:00 UTC.
+Live since 2026-11-02 03:00 UTC. Updated 2026-11-14 15:00 UTC.
 
 | rule | closed | win | avg | open now |
 |---|---|---|---|---|
