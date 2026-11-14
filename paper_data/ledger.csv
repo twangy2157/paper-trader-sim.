@@ -11692,3 +11692,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T02:12:40Z,EXIT,HL6ptYe8vKPAXHVq1p7gjaWTcN2Q1dJyPezijk2HRf1y,COCORO / SOL,0,9.14624815354e-07,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T02:11:00Z,mom
 2026-11-14T02:14:17Z,ENTRY,89hJk8JDLCs5vkYrKw3BqqzMQvBDqK9Mskz2Jb11AmhT,FOOD / SOL,0,7.35674434248e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=10%,control
 2026-11-14T02:15:40Z,EXIT,2fHQd4baBApYw9nzJVgx4BVcs1XjCEmcVBF7DFogesAg,hahayoulose / SOL,0,6.74518143458e-06,100.0,timeout,-9.95,-9.95,456.4,exit_bar=2026-11-14T02:14:00Z,control
+2026-11-14T02:24:45Z,EXIT,WfTYggbFysvxQmBs2ZixtsDd1pY6ofxRjpmtA4MJB89,UpDown / SOL,0,3.92696351846e-05,100.0,timeout,-4.26,-4.26,456.4,exit_bar=2026-11-14T02:23:00Z,control
+2026-11-14T02:24:45Z,ENTRY,Bmb1par4ApSgDYTCyAdK65Gw1qNXSpRBRCyhxu6XGJdx,pichu / SOL,0,1.32722033568e-05,100.0,research_failed,,,456.4,score=0.00 momentum=53%,mom
+2026-11-14T02:26:22Z,EXIT,8Lq4J5n7ZV3tdD9GEMsdWJtm24hQgm6g9GpXEofF64in,MICRODUCK / SOL,0,8.39449751883e-09,100.0,rug,-100.96,-100.96,456.4,exit_bar=2026-11-14T01:24:00Z,control
+2026-11-14T02:27:45Z,ENTRY,3ZnFcnF9M1wNxpLEj9G6XxnxiXMc2hQYG1qNe9CGNUU2,坐以待币 / SOL,0,9.53459228964e-07,100.0,research_failed,,,456.4,score=0.00 momentum=65%,mom
+2026-11-14T02:29:15Z,ENTRY,Gmg92GompU2TWYpEAQMnAfeaK17KC6mGgcT81uQ9MPuq,doja / SOL,0,9.44340802681e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
