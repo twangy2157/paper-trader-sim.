@@ -12414,3 +12414,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T23:21:21Z,EXIT,3qrQQvKZN7iXyaYrvvHYxoCEZBwFcfw9qnqVSBRMJhQA,Raccoon / SOL,0,3.71546693216e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T23:20:00Z,mom
 2026-11-14T23:22:43Z,ENTRY,FxZ9jNuBbDBapd2DvBtPzw6LU8XvtuG8sWxpCSj3aHMP,USDC / SOL,0,3.50227911813e-05,100.0,research_failed,,,456.4,score=0.00 momentum=25%,mom
 2026-11-14T23:27:18Z,EXIT,BVe2FaQFzr4AQqampLr7GSzhbNTPZLXEPw7WTspwimWm,$BWIZ / SOL,0,1.02934667333e-05,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-14T23:26:00Z,control
+2026-11-14T23:28:44Z,ENTRY,A7FwjnWPXohZRBVUdhNaXXLUrkVLFuV3yo8x373Af4JV,FAA / SOL,0,2.64691557429e-05,100.0,research_failed,,,456.4,score=0.00 momentum=84%,mom
+2026-11-14T23:30:20Z,ENTRY,DgKNxRgbVCNXpj7JsBwAcMffxWPzkQjTGes2CJaD66nL,wocoin / SOL,0,7.5172194684e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T23:34:40Z,FAILED,BVjn57Rs8h4cvdzkWany8zXqaucSxoWyJBP2w6BVFDGh,PEGCOIN / SOL,0,2.12974508402e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-14T23:36:16Z,ENTRY,7YZKWUAokjGPg6L8TwJmGCDcu6SoQ4pVs9B9LowF6Pfn,ELPEPE / SOL,0,1.95188683652e-05,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
+2026-11-14T23:37:31Z,ENTRY,CXtANGJzJnqGA49h7QBSqJznriqtnoxnSoqKQ6LmcCDA,USDC / SOL,0,0.000222325891135,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
