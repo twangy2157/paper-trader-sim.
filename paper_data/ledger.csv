@@ -11956,3 +11956,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T09:48:58Z,ENTRY,6tejAy5z1W7hgyjGQwuXZh1YfsV36dcJdaYGH8VbXDmT,C𝕏 / SOL,0,1.9486406028e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-14T09:51:56Z,ENTRY,3nJ6RHRSU8agq1UvqrdRDiDK5EEjxBPuoppTXSUqmpdr,pichu / SOL,0,1.9910820806e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-41%,control
 2026-11-14T09:53:25Z,ENTRY,HePDKyVYeHX8zPtEFgZZW3gpMN7s9cnoBynhB89AF7Kt,FUND / SOL,0,0.000133166217842,100.0,research_failed,,,456.4,score=0.00 momentum=224%,mom
+2026-11-14T09:54:59Z,ENTRY,2AHUp7MymBbCUQ4kPxksfarTaSv6R1YDmg4QoBmD6hWn,GOOGL / SOL,0,3.24301741824e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-14T09:56:28Z,ENTRY,93j4At442erFMzvpuzcJBPjiyVpZeJiLUcc3v4CMrqLN,NVIDIA / SOL,0,1.97161723056e-05,100.0,research_failed,,,456.4,score=0.00 momentum=243%,mom
+2026-11-14T09:57:58Z,ENTRY,96w6czJxFDwNZfZ1oyZqjFc45Sb1NAnTMWW66Y5Bsq7r,Huang / SOL,0,1.15701304345e-05,100.0,research_failed,,,456.4,score=0.00 momentum=68%,mom
+2026-11-14T09:59:27Z,EXIT,4mxpgszrtaj7KqyLJgtWbwLDTZna74B1wW2p5UjYXhUy,Democat / SOL,0,3.25221469303e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T09:57:00Z,mom
+2026-11-14T10:00:56Z,ENTRY,7ooKL5FnVVjWye9o7hrVw8d4qxaS4BcJfwK7JEe8vApm,猫仙人 / SOL,0,2.3488864311e-05,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
+2026-11-14T10:02:26Z,EXIT,3aSCMZsaTUZXX9mbsp45XfyapYUY9q9d4eaQuJZzLyLH,tinfoil / SOL,0,4.93861807641e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T10:01:00Z,mom
