@@ -12419,3 +12419,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T23:34:40Z,FAILED,BVjn57Rs8h4cvdzkWany8zXqaucSxoWyJBP2w6BVFDGh,PEGCOIN / SOL,0,2.12974508402e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-14T23:36:16Z,ENTRY,7YZKWUAokjGPg6L8TwJmGCDcu6SoQ4pVs9B9LowF6Pfn,ELPEPE / SOL,0,1.95188683652e-05,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
 2026-11-14T23:37:31Z,ENTRY,CXtANGJzJnqGA49h7QBSqJznriqtnoxnSoqKQ6LmcCDA,USDC / SOL,0,0.000222325891135,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-3%,control
+2026-11-14T23:39:04Z,ENTRY,52d7YkUq4hLeUSDVvzybuyPYECGzAoWy7k1LfZQH4JVd,bill / SOL,0,7.09602094611e-07,100.0,research_failed,,,456.4,score=0.00 momentum=48%,mom
+2026-11-14T23:40:26Z,EXIT,4vCRD3EvaHNYXVFLu89njdc1HPStPH8uSg7yPTUQx7pY,ASSTER / SOL,0,0.000237802761204,100.0,sl,-96.83,-96.83,456.4,exit_bar=2026-11-14T22:45:00Z,mom
+2026-11-14T23:40:26Z,ENTRY,ELQMTCjjKWcM3jWAw9gNBcFZGaECP1zaYTKMScvjfLsB,Moonies / SOL,0,1.79093768278e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
+2026-11-14T23:41:55Z,ENTRY,9VrfMKz1QemdqSZ3656i2vCP2x4WT5WwJtfbgDhVKpWq,RWA / SOL,0,9.13892160582e-05,100.0,dip_after_drop,,,456.4,score=0.00 momentum=-22%,dip
+2026-11-14T23:46:15Z,EXIT,7sqLvQpmFUernpQ9Q28rgVFcbWKagQ2PGfuKLft3ized,LUCIA / SOL,0,1.36108762178e-06,100.0,rug,-99.7,-99.7,456.4,exit_bar=2026-11-14T23:01:00Z,control
+2026-11-14T23:47:30Z,EXIT,HEJEobZHZNo8GjhNXMvmG3jT9es1RYSMnytfokPAAcro,LaMisery / SOL,0,6.81168565509e-06,100.0,timeout,-10.83,-10.83,456.4,exit_bar=2026-11-14T23:45:00Z,control
+2026-11-14T23:47:30Z,ENTRY,AjaJBAR5vrp7MgU6Zh3U3JVHabi522JhvFoj7XcVxefQ,Survive / SOL,0,0.000142799790152,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
