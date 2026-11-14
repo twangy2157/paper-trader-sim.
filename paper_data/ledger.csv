@@ -12349,3 +12349,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T20:59:30Z,ENTRY,HAoX1VYxGGo6nC9vx1Qd9YJ1YJWENhmENc7hZrg59iQg,bill / SOL,0,3.58963534838e-05,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
 2026-11-14T21:02:28Z,ENTRY,HNKYvSkTkD1Mx7hH3hGJNSaRHC4f7wEQmX4yNf3Vug1M,BLGvsGEN / SOL,0,2.05391002714e-05,100.0,research_failed,,,456.4,score=0.00 momentum=35%,mom
 2026-11-14T21:05:26Z,ENTRY,F3cGUN3Ju1ewuP9CNY11LmYe7GEunE2P5moRbsBQbzN4,Sock / SOL,0,1.20444460059e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-59%,control
+2026-11-14T21:09:51Z,EXIT,2pq1VLKCpPqqbN36R4fmSMUutEyqzDQJRPDWKD5jK4Pp,HALH / SOL,0,4.38303465297e-05,100.0,timeout,-4.14,-4.14,456.4,exit_bar=2026-11-14T21:08:00Z,mom
+2026-11-14T21:12:56Z,EXIT,9GmaJeJHeenRoeVmq6mj13w3kdweoNy1BUx1chwE3eVb,speedrun / SOL,0,7.00567205586e-06,100.0,timeout,-9.71,-9.71,456.4,exit_bar=2026-11-14T21:11:00Z,control
+2026-11-14T21:14:26Z,FAILED,e5vMrePkmahqppDKY7GoythfHae3QfRbvWqopG7Ke1Y,Buttcoin / SOL,0,1.48521734283e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-14T21:15:55Z,ENTRY,DJimu2eSWGxicmdrndkxe1xyS4jYmJbzuw9reF25kF8t,DOGCOIN / SOL,0,2.18043153368e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
