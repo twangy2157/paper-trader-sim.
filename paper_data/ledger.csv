@@ -11776,3 +11776,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T04:41:35Z,ENTRY,H6gqdh49mUztXBT8CrDu9Hbd5cnvT8XyWjxzdKyCaX3F,updog / SOL,0,0.00049975328245,100.0,research_failed,,,456.4,score=0.00 momentum=30%,mom
 2026-11-14T04:44:27Z,EXIT,8eYSrg64j4NRPUvpRenEWwc5tzNHpnTXCQzodTVgkA5P,HODL / SOL,0,4.48536836383e-06,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-14T04:40:00Z,mom
 2026-11-14T04:45:57Z,EXIT,9yfxSiogMMzggcCo433aARy9mePKsgFdnof337SFy7L9,FLOAT / SOL,0,0.000286009196062,100.0,rug,2.2,2.2,456.4,exit_bar=2026-11-14T04:44:00Z,control
+2026-11-14T04:49:02Z,EXIT,E6ufRzVjCnkLxz8nomdoR5cmYy6ganTEyAwmZP68xkgK,Cash / USDC,0,1.9852046398e-05,100.0,timeout,-4.92,-4.92,456.4,exit_bar=2026-11-14T04:47:00Z,control
+2026-11-14T04:50:25Z,FAILED,9jgRnKPfdcNmrUKbA8ujCwTG9qjizhMyKSpaQKVtnPxx,SWJ / SOL,0,7.35470402116e-07,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-14T04:51:55Z,EXIT,GjH7iggPymq4g2LUoRfykTFEkxzG6tim6eMQ5tJU355s,ASTRALIS / SOL,0,0.000102750519697,100.0,tp,92.05,92.05,456.4,exit_bar=2026-11-14T03:58:00Z,mom
+2026-11-14T04:53:25Z,ENTRY,3EsqZ7QdcWucQbXwEYi5TQZU4RNxK1fEiR43iz3z1UCS,KMS / SOL,0,4.25305162672e-05,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
+2026-11-14T04:54:56Z,EXIT,CxaKdXKzXJUVCJ7GxhrRnb7oTM4uW6n3hr5GCsbSgZeu,mihao / SOL,0,7.94685028184e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T04:53:00Z,control
+2026-11-14T04:54:56Z,ENTRY,B56xRZti5cfa6NRpRt1dWBd3yvzszBbco1B3hhYSL855,Microduck / SOL,0,2.79293785879e-05,100.0,research_failed,,,456.4,score=0.00 momentum=58%,mom
+2026-11-14T04:56:26Z,ENTRY,3YVWSrv2e5KbnFvT5NM5FpGmwqi4J9x3DoWswXK3ybZW,Democat / SOL,0,2.72938332675e-05,100.0,research_failed,,,456.4,score=0.00 momentum=61%,mom
+2026-11-14T04:57:56Z,ENTRY,84Q981xteFRnarQfUahvKWJNsxNPSoJc7WEhXcUtrvM7,BRAINROT / SOL,0,9.94332370609e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
