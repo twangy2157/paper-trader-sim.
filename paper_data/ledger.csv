@@ -12426,3 +12426,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T23:46:15Z,EXIT,7sqLvQpmFUernpQ9Q28rgVFcbWKagQ2PGfuKLft3ized,LUCIA / SOL,0,1.36108762178e-06,100.0,rug,-99.7,-99.7,456.4,exit_bar=2026-11-14T23:01:00Z,control
 2026-11-14T23:47:30Z,EXIT,HEJEobZHZNo8GjhNXMvmG3jT9es1RYSMnytfokPAAcro,LaMisery / SOL,0,6.81168565509e-06,100.0,timeout,-10.83,-10.83,456.4,exit_bar=2026-11-14T23:45:00Z,control
 2026-11-14T23:47:30Z,ENTRY,AjaJBAR5vrp7MgU6Zh3U3JVHabi522JhvFoj7XcVxefQ,Survive / SOL,0,0.000142799790152,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T23:49:10Z,ENTRY,9NrQeCerrPQSnBRNvnYWLCZrHAKa4DZXML6cfs9x3FmF,$RIU / USDC,0,6.81916626151e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T23:49:10Z,ENTRY,A8vRHMrAaFmjzB7JL7PH8Ye3WU1JLKaVbkJK3Q5meAfD,$ASS / SOL,0,7.27626717206e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T23:54:30Z,ENTRY,4cgAGJG8kK6XaNYiEmHu57tzPoaJkw8agqHxngL91NH7,mihao / SOL,0,2.70129909327e-11,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-100%,control
+2026-11-14T23:58:57Z,EXIT,7pyjbBTsNMzRxNbC3mdsGUsW7B1HhcgtbQRo6AMf1zy6,LuckyCoin / SOL,0,1.47335634594e-05,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-14T22:58:00Z,mom
+2026-11-14T23:58:57Z,ENTRY,DCQ9h2MV4orFhG6LTQToU5HoS2epueFKeGCgAiQ52a3N,REDCANDLE / SOL,0,1.44292478203e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
