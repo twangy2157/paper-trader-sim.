@@ -12063,3 +12063,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T12:28:30Z,ENTRY,9689gsUo8rqtwkC5iG8bB9oMH1fbHqBVK5znBGuUvdDK,$SLJK / SOL,0,8.21178065546e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-14T12:28:30Z,ENTRY,9zhwRMsBH1xTBmZGmZMo9WJYTtNPCKPPGrrgZe5C9Efj,Fox / SOL,0,5.02589451061e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-14T12:31:30Z,ENTRY,CbP3vGtPMfkfumgXiseQroFUzH1F5P6giHs9auVf5ADL,GTA$ / SOL,0,0.000505900556474,100.0,research_failed,,,456.4,score=0.00 momentum=53%,mom
+2026-11-14T12:33:03Z,EXIT,7EPpJjHBRRkHLRsJcbyZjRj23hHHaCQ9rz9mKPZrXNY7,CYPC / SOL,0,3.76787297943e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T12:32:00Z,mom
