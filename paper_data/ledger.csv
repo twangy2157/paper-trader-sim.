@@ -12386,3 +12386,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T22:16:28Z,ENTRY,A9Evau8iSLjHAdAr7wtYhbNpGac3QaaNfwULkyhXakYC,REDCANDLE / SOL,0,5.37078938172e-05,100.0,research_failed,,,456.4,score=0.00 momentum=344%,mom
 2026-11-14T22:17:58Z,EXIT,DJimu2eSWGxicmdrndkxe1xyS4jYmJbzuw9reF25kF8t,DOGCOIN / SOL,0,2.23573159716e-05,100.0,rug,-1.47,-1.47,456.4,exit_bar=2026-11-14T22:16:00Z,control
 2026-11-14T22:19:27Z,ENTRY,3qrQQvKZN7iXyaYrvvHYxoCEZBwFcfw9qnqVSBRMJhQA,Raccoon / SOL,0,3.45814712546e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
+2026-11-14T22:23:51Z,EXIT,BcEsNCpr4uNe8cRSeBocW2ezpD8ieXgmtE68nZg8Mvgz,CAT / SOL,0,3.78857213003e-11,100.0,rug,-101.0,-101.0,456.4,exit_bar=2026-11-14T21:47:00Z,mom
+2026-11-14T22:25:28Z,ENTRY,BVe2FaQFzr4AQqampLr7GSzhbNTPZLXEPw7WTspwimWm,$BWIZ / SOL,0,1.05477831819e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T22:28:26Z,EXIT,BaSA7kWbpviBtKErVuMYU37rgSjUb827RYK9xdGHoxF8,UDTF / SOL,0,0.0656909342297,100.0,timeout,-6.11,-6.11,456.4,exit_bar=2026-11-14T22:26:00Z,control
