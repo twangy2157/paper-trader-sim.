@@ -12382,3 +12382,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T22:08:59Z,ENTRY,bTY92HtaBvSZNU7aketLJx9u9HzL2g18aoV9y97bDDu,SINGULARITY / SOL,0,3.350840951e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
 2026-11-14T22:10:28Z,ENTRY,A1DGCBkdfyGoVfG8VUg57xyhhzMfFsJQ4yofiWg5cBCC,GANG / SOL,0,1.69938010697e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
 2026-11-14T22:11:56Z,FAILED,BHh5jixYrThjDk9G9tfha1HPp771gqcfTRGboJFZtB2j,SWAN / SOL,0,0.000253796699081,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-14T22:15:06Z,ENTRY,D1Kof3C1Q6Eh7pEmPFzHVGVUGdKYuxYmSheJf2MAZweg,DERP / SOL,0,7.13530972973e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T22:16:28Z,ENTRY,A9Evau8iSLjHAdAr7wtYhbNpGac3QaaNfwULkyhXakYC,REDCANDLE / SOL,0,5.37078938172e-05,100.0,research_failed,,,456.4,score=0.00 momentum=344%,mom
+2026-11-14T22:17:58Z,EXIT,DJimu2eSWGxicmdrndkxe1xyS4jYmJbzuw9reF25kF8t,DOGCOIN / SOL,0,2.23573159716e-05,100.0,rug,-1.47,-1.47,456.4,exit_bar=2026-11-14T22:16:00Z,control
+2026-11-14T22:19:27Z,ENTRY,3qrQQvKZN7iXyaYrvvHYxoCEZBwFcfw9qnqVSBRMJhQA,Raccoon / SOL,0,3.45814712546e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
