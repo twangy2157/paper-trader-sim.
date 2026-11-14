@@ -11981,3 +11981,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T10:30:42Z,ENTRY,E3bLQisFWW4axtduzxziCfZby4hu7gfQbXcN8nnG1SpN,jay / SOL,0,2.22230232358e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-14T10:35:18Z,EXIT,CnYkCKVJPxZJBbmSHpFyh8hQpm6pd4cmJtYSSr5KTJo5,Avatars / SOL,0,5.06994663339e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T10:33:00Z,mom
 2026-11-14T10:35:18Z,FAILED,3VdDas5D4usopenC4R9L4h8ep4k1cirQBp9ngAGKN8yE,Mymo / SOL,0,0.000112177654037,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-14T10:36:44Z,EXIT,7i6jFE9m6bwmxQdqwe7aSth1Qx5hbPzVumcJdCv9u6zV,mihao / SOL,0,8.15868188131e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T10:34:00Z,control
+2026-11-14T10:36:44Z,ENTRY,7SbVSp7t81wPtzuE1qRyZmwij7EYAk8sH6erzZyq25ao,POOSTANK / SOL,0,9.236161725e-06,100.0,research_failed,,,456.4,score=0.00 momentum=34%,mom
+2026-11-14T10:38:21Z,EXIT,4q4zEA2eAooqru6uk1ApJWFZWgrAmYixdjkWzBPm1wt5,C𝕏 / SOL,0,4.24315812908e-05,100.0,timeout,-9.62,-9.62,456.4,exit_bar=2026-11-14T10:36:00Z,control
+2026-11-14T10:39:43Z,ENTRY,6BpUtEJdEEtrhSAL2c8rx2eJFT7X48A8aYLjzedw3Uy5,Rockstar / SOL,0,1.11761257774e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-48%,control
+2026-11-14T10:39:43Z,ENTRY,4LF8bVbPfFQ54YMmTyxT63NEEx2KdvX4H6VpknsBSsKF,Mira / SOL,0,1.32645488299e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T10:41:20Z,ENTRY,8NHHULHMkNRj42BCSa7McBrkBvMbqsvTXrj3wRjzFehg,Frog Gugu / SOL,0,3.01708624903e-05,100.0,research_failed,,,456.4,score=0.00 momentum=61%,mom
+2026-11-14T10:42:42Z,ENTRY,GdiLEV47MHk5GhqbYfHrWipXuWTP9W2x2zqmL7qkmUDV,tophiachu / SOL,0,8.56774786226e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-75%,control
+2026-11-14T10:44:18Z,EXIT,FYqAxk9AYKYttLMHWKPjZa3agfSSfBLGeSmTdnw3ALrY,DICE / SOL,0,7.90430474377e-06,100.0,timeout,-8.84,-8.84,456.4,exit_bar=2026-11-14T10:43:00Z,control
+2026-11-14T10:45:41Z,EXIT,6DcG7KnQhofmPKxiH5u339DV1ydDigVXSweJY6Wfq2jp,JENSEN / SOL,0,0.0015134223422,100.0,timeout,-5.87,-5.87,456.4,exit_bar=2026-11-14T10:43:00Z,control
+2026-11-14T10:45:41Z,ENTRY,97oSj2HPsiwwRv7kZEyNnP7PG51C1KtmBtuqAnLs2V1D,PAYBRO / SOL,0,9.56597165413e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
