@@ -11760,3 +11760,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T04:20:45Z,ENTRY,AhxZUG8uvJQ415F21APyoXq2V7bUDrrZgTosP1LG1mBC,USPR / SOL,0,0.108755231752,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
 2026-11-14T04:25:16Z,ENTRY,CktU776fz7vBWrDz5AVrgHCbAsmaUWpaDC9pbz2asZhM,ARIA / USDC,0,0.199294519502,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-14T04:26:31Z,EXIT,HQyd2PywZTqbd7Au3Bgr1EPKUWVXHVkksN3nsu2q5V6s,SWJ / SOL,0,7.07203307917e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-14T03:51:00Z,mom
+2026-11-14T04:28:06Z,EXIT,EdSSDcmmiwu2wKwum3YjzBZFK64yhEBeGwPceDWkDDut,SWJ / SOL,0,7.9807711117e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T04:26:00Z,control
+2026-11-14T04:29:29Z,ENTRY,C9C2LWLhVPDFdGwLY4NmKH6e3pkDkcWvSmJ6quU9oKLb,mihao / SOL,0,7.13292197499e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-14T04:30:59Z,EXIT,By2exXJEcgxnjU27YTaarYpHPdTNAP7wcJCwvwopWtRN,FOOD / SOL,0,0.00383170983655,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T04:29:00Z,mom
+2026-11-14T04:30:59Z,ENTRY,8yS5mEkSEBxwsja2ttVwZSiaU8mD2vSGGQDKKKWcDYHU,Bagwork / SOL,0,5.55181848341e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-81%,control
+2026-11-14T04:32:29Z,ENTRY,EhcwXzwztjCnizzCkDJBsbLkgcMQRRpRRvJSbsW6hhdb,tinfoil / SOL,0,4.00223259291e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-14T04:32:29Z,ENTRY,AriVXxjjTGW9VbhdTsUeWyfAKrNeV5FthZ8Gy9pd7oeU,lptp / SOL,0,1.07608746324e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-14T04:34:07Z,EXIT,9Hoe8buAWYVkVQSMtvrfVugB183qSGwviMN9Hz7D7qWs,JAMES / SOL,0,3.09158804262e-05,100.0,rug,29.23,29.23,456.4,exit_bar=2026-11-14T04:32:00Z,mom
+2026-11-14T04:34:07Z,ENTRY,BDA16qrqWy1bpCuAGQgiwLm65B8NEMawr97DSJ5w27wm,Microduck / SOL,0,1.86353565198e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-14T04:35:30Z,ENTRY,2QMTXMKDtwMBjNQB7ec76PUyV7zonp2dcVCutjAoiio1,VJRA / SOL,0,2.91383837537e-05,100.0,research_failed,,,456.4,score=0.00 momentum=66%,mom
+2026-11-14T04:37:07Z,EXIT,Gy2ADq2Rc2jzh12EvgnMyXLaRbqes17nHZyis2v4pxvX,DUCK / SOL,0,2.89140724823e-05,100.0,timeout,-4.72,-4.72,456.4,exit_bar=2026-11-14T04:35:00Z,control
