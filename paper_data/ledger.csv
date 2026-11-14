@@ -11831,3 +11831,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T06:08:17Z,EXIT,AqxAKNuNDMQGiiYTgtHe5jKYTt3nwU5CPitzpVBJMzLD,STORK / SOL,0,8.8228835347e-06,100.0,timeout,-8.28,-8.28,456.4,exit_bar=2026-11-14T06:07:00Z,control
 2026-11-14T06:09:40Z,ENTRY,DEn6txnfB2TQgfS6PbqZGmcJeAcyDs9cXsihqfBnb9CS,NIO / SOL,0,7.67427057902e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-14T06:09:40Z,ENTRY,5mutdn7EscA5WWC2K7nnw6AwBE4pejYB5M66MvMa223i,$KASH / SOL,0,1.45093038576e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-56%,control
+2026-11-14T06:12:44Z,ENTRY,9uzZqLKSDosPcD9eV5KqH1kyu9QprBxtREffat7aGy2H,PNUT / SOL,0,2.77933977595e-05,100.0,research_failed,,,456.4,score=0.00 momentum=310%,mom
+2026-11-14T06:14:22Z,EXIT,3yMsQuYMF8gDH4GRD1QuT7DKp7eV3Z8EK23Kc4bSRhs8,GTA / SOL,0,1.06270715246e-05,100.0,timeout,-8.69,-8.69,456.4,exit_bar=2026-11-14T06:13:00Z,control
+2026-11-14T06:15:45Z,EXIT,H9JvLd1CywBp3Miv78WFJUpdKKMBjdFkNBoVB3acJQ9Q,Fronk / SOL,0,5.05386761075e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T06:13:00Z,mom
+2026-11-14T06:15:45Z,ENTRY,AbanfuKtwwjq33Azj3GfXTKjHmPZLSCxE2rEnjbL8Poo,Pnut / SOL,0,3.97643997851e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-14T06:17:22Z,ENTRY,Bc8AYUfBXErBGVWxobNFAWxLyd92b3oY5FVL6ZojG1xn,JENSEN / SOL,0,3.0880397988e-05,100.0,research_failed,,,456.4,score=0.00 momentum=72%,mom
+2026-11-14T06:18:45Z,ENTRY,8mdrLz8VCKwHmGj7diu1JpY3Qmwv9rhmYA5WmpEah14f,ESED / USDT,0,1.01608423883,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-14T06:18:45Z,ENTRY,6XgJg2HKaoQiWJZQN5NwVT1LcGDuJR67qpVeDtqBDHFZ,MSFT / SOL,0,3.19070833594e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
+2026-11-14T06:21:45Z,ENTRY,FJjyrDAuNL54kgNWUz8Dsuai61yzT6Y2zZAZECCQ7eDW,pill / SOL,0,1.09971363802e-05,100.0,research_failed,,,456.4,score=0.00 momentum=82%,mom
+2026-11-14T06:21:45Z,ENTRY,8B7Lgcwg7WchoXHneCLSGHQiYEGTW7KZDtZeeQgy72Uz,wind / SOL,0,8.93880467167e-06,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
