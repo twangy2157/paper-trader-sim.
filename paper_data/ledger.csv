@@ -11685,3 +11685,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T01:55:18Z,ENTRY,591RGqTv27pj1Rk6W1iP7xNqSQwHyXeaZ4qia4CL9B5e,tinfoil / SOL,0,8.61607636647e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-71%,control
 2026-11-14T01:56:41Z,ENTRY,EmBFRrGDysuYchhfRd9osmGN2wNXyiBLPjoz4BUhnTBT,Huang / SOL,0,1.3300307529e-05,100.0,research_failed,,,456.4,score=0.00 momentum=130%,mom
 2026-11-14T01:56:41Z,ENTRY,8b1h74s8JdTKRhuqRi3mu1C6GKuAokEGGcGAZgia5o1C,mihao / SOL,0,1.25793765896e-05,100.0,research_failed,,,456.4,score=0.00 momentum=78%,mom
+2026-11-14T01:59:46Z,ENTRY,B4iPWf8vzCjVyN81aJr3Q2ix9gMMa2dJRMxwjiuPssXK,mihao / SOL,0,4.17872521347e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-14T02:02:32Z,ENTRY,H1psjZF9Sf1ZkQa1fUxgN96rKhYWQqWiGGneTdTervC5,SWJ / SOL,0,0.000119734674759,100.0,research_failed,,,456.4,score=0.00 momentum=34%,mom
+2026-11-14T02:06:47Z,ENTRY,GenkcHVVokkJngGGndiipMw9Jk3xnaHY9j4R7dCsXL5m,METEORSKY / SOL,0,3.87300159452e-05,100.0,research_failed,,,456.4,score=0.00 momentum=184%,mom
