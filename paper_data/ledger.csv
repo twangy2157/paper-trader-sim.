@@ -12147,3 +12147,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T14:57:28Z,ENTRY,6GYmN1zn2j1eAT2TX1u9BJGUiDSsXwnaucv7VMZhH2sD,VI / SOL,0,0.000254975602597,100.0,research_failed,,,456.4,score=0.00 momentum=114%,mom
 2026-11-14T14:58:59Z,ENTRY,2vLNw8yZHbsyFDGuvrmTw1c1hYq4SGo7WB6fLBkkXHYJ,SHIT / SOL,0,9.00702058065e-06,100.0,research_failed,,,456.4,score=0.00 momentum=67%,mom
 2026-11-14T15:00:29Z,ENTRY,CAW2EuwY2FdVnHowtoFdgWKbfwbhmeC8fXpnRtHT43t1,fg / SOL,0,1.68473875536e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T15:04:46Z,ENTRY,CnnAGqPe4nyYotVUpEozUUDhRuxBiPc9FGcAmFQsfMUp,Huang / SOL,0,8.14135027679e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T15:04:46Z,ENTRY,GJYJdULH89u39TrBzURHjjgtXcVzEHYuGUT77Xwny92,BOOSTY / SOL,0,3.66577194083e-05,100.0,research_failed,,,456.4,score=0.00 momentum=21%,mom
+2026-11-14T15:06:16Z,ENTRY,Cm7fT9NfcWfXBtb5uXkrthEnX8xuk29okwVDBkzbFthX,JUMP / SOL,0,2.82748750573e-05,100.0,research_failed,,,456.4,score=0.00 momentum=74%,mom
+2026-11-14T15:07:31Z,ENTRY,HcYpUwtdVyN7tP2h5ihKe43aBZEuoUJMRVoeBsGPsCVi,popdeng / SOL,0,0.000329289513395,100.0,research_failed,,,456.4,score=0.00 momentum=49%,mom
+2026-11-14T15:10:16Z,EXIT,3xR8Ckv7kVATN8pvjjAXpGucdYPAYSrvk1KZa8U2S6hm,GTI / SOL,0,1.33084365475e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T15:09:00Z,control
