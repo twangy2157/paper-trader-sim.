@@ -12120,3 +12120,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T14:14:43Z,ENTRY,9qP7hMyjFEGb55AeCkw9HwiDfB538cqkwetrGzCDvsNa,SHIT / SOL,0,1.31467573289e-05,100.0,research_failed,,,456.4,score=0.00 momentum=134%,mom
 2026-11-14T14:16:20Z,EXIT,5HcoXzz8Q4s5j1erm6e3qFMBuZC2iTJ89GeYqp7dXfB1,DYC / SOL,0,6.79438450985e-06,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-14T13:54:00Z,mom
 2026-11-14T14:17:42Z,EXIT,3ucHu8nuW7m9o67ob8TXV2hDkKxEY1uU2GHk9QXJE35f,JUMP / SOL,0,5.2836146182e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T14:15:00Z,mom
+2026-11-14T14:19:24Z,ENTRY,B2UkygAMN4FDquN5TbQjSTF5cxoDCnsRzQMEWYVHjPnb,k线小猫 / SOL,0,1.16749835335e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-9%,control
+2026-11-14T14:22:16Z,ENTRY,CnMRcurVKejoUBopjoK1oqHGUnskpJaPzqmAcEccq2WE,pruple / SOL,0,9.4259650256e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T14:23:31Z,ENTRY,AJAxrTfLccc7E5NSbhBnyoPCGj7gtnDGnb9rna9z7EBA,popdeng / SOL,0,0.000340867704643,100.0,research_failed,,,456.4,score=0.00 momentum=78%,mom
+2026-11-14T14:25:08Z,ENTRY,2hdJp1X5rbt1kEBjuNPcvS8iw2sSZdJV2JyQuoHJ4Xjo,Open AI / SOL,0,1.80854991299e-05,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
+2026-11-14T14:26:30Z,ENTRY,Ctepf9ULoH6MoFah1Tg7d9p2b1iBkeTAKqmYurMbHQpx,Voyday / SOL,0,0.0634429984218,100.0,research_failed,,,456.4,score=0.00 momentum=32%,mom
+2026-11-14T14:28:07Z,EXIT,946BshR2R2DostrYTYuzKUf8mDvwCUta9rMrqwzti6QS,psyopcat / SOL,0,4.02374112187e-08,100.0,timeout,-7.62,-7.62,456.4,exit_bar=2026-11-14T14:27:00Z,control
