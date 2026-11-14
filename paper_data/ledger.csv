@@ -12126,3 +12126,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T14:25:08Z,ENTRY,2hdJp1X5rbt1kEBjuNPcvS8iw2sSZdJV2JyQuoHJ4Xjo,Open AI / SOL,0,1.80854991299e-05,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
 2026-11-14T14:26:30Z,ENTRY,Ctepf9ULoH6MoFah1Tg7d9p2b1iBkeTAKqmYurMbHQpx,Voyday / SOL,0,0.0634429984218,100.0,research_failed,,,456.4,score=0.00 momentum=32%,mom
 2026-11-14T14:28:07Z,EXIT,946BshR2R2DostrYTYuzKUf8mDvwCUta9rMrqwzti6QS,psyopcat / SOL,0,4.02374112187e-08,100.0,timeout,-7.62,-7.62,456.4,exit_bar=2026-11-14T14:27:00Z,control
+2026-11-14T14:29:33Z,ENTRY,FEHE7kUKpqk7a9GjsQ1R4JdJJjXCYu261CT95f3fLE2X,GTA 6 Coin / SOL,0,5.1322295571e-05,100.0,research_failed,,,456.4,score=0.00 momentum=37%,mom
+2026-11-14T14:31:10Z,ENTRY,FALQ2VYA9o7f1WNNtHHwVS4KiGmMmbkDgXx5VGdEmxiN,34% / SOL,0,9.00072810372e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T14:32:25Z,FAILED,99dAJ92VbUXiEAJJQTq6434TcEPch94o6679mTK6J8Q7,Capybara / SOL,0,2.50444394799e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-14T14:33:55Z,ENTRY,GPf2jTyRiSG93Bu6wwA1zhHw4bqkSjYDy1Ps1HtwG6xK,VI / SOL,0,4.07152312245e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
+2026-11-14T14:35:17Z,EXIT,AYum9Hoay6nNnixbuZ6n3soHqBPGzURCeRicEyFNc8NV,Axiom / SOL,0,1.24706495261e-05,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-14T13:54:00Z,control
+2026-11-14T14:36:40Z,ENTRY,2WyGUpUdZ5LgLtePqPJWsXJFfpZLQ46XbdSP3HYpsdUM,CHBAD / CHADx,0,2.05973777741e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-14T14:36:40Z,FAILED,J1R4tQBfpnp2H7CYonKBRxAQnnfbnuogHJ3gDa7MiKoE,MORNING / SOL,0,2.45663474546e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-14T14:38:16Z,EXIT,5dYaXmNYocdthwPtMhmDDvBFqf9ZfG6wfv29hUoEtyNX,SHIT / SOL,0,1.85815307226e-05,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-14T13:46:00Z,mom
+2026-11-14T14:39:31Z,EXIT,DCCrrfQJGJKYztFZsg4jg3kEq7gt1ypZnQbQtT9bmJ8o,WASTED / SOL,0,0.000919047285808,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T14:38:00Z,proven
