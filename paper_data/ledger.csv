@@ -12370,3 +12370,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T21:38:31Z,FAILED,6sWhoU4rdFwo2tkA74pC2NKaa8izKkjyYK6hzxBLxDjR,hacker / SOL,0,6.4909041743e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-14T21:38:31Z,ENTRY,57fskpFuR1YtLB1K4ZrCWhTBhzNNz8fjgRTtjX466g2H,COALGOB / SOL,0,0.0695928427568,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
 2026-11-14T21:40:07Z,EXIT,2wCUtXDqDzzMgmc6jezXphY1Jwy66LRv41pxeY4n3qTm,Dogcoin / SOL,0,5.74176667467e-09,100.0,rug,-101.0,-101.0,456.4,exit_bar=2026-11-14T20:45:00Z,mom
+2026-11-14T21:44:24Z,EXIT,7TJab9j8mGoH2auPnSyLLF3Bb2J3TVnGUPduMuqpdiry,GANG / SOL,0,4.98676767168e-05,100.0,tp,93.56,93.56,456.4,exit_bar=2026-11-14T21:06:00Z,mom
