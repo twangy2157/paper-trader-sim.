@@ -11738,3 +11738,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T03:37:41Z,ENTRY,AYsQAkbJ3QFXAqPNds25aFDdpDUqs2Xg6oTkLuda6p48,CATE / SOL,0,1.38506547882e-05,100.0,research_failed,,,456.4,score=0.00 momentum=167%,mom
 2026-11-14T03:42:19Z,ENTRY,8eYSrg64j4NRPUvpRenEWwc5tzNHpnTXCQzodTVgkA5P,HODL / SOL,0,9.46817404954e-06,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
 2026-11-14T03:43:41Z,ENTRY,9yfxSiogMMzggcCo433aARy9mePKsgFdnof337SFy7L9,FLOAT / SOL,0,0.000271415711628,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-14T03:45:23Z,EXIT,3AsF8ovBviN5sJeTsRBRGvY2QiiujQRmAKCpHnfnqAWu,Billie / USDC,0,1.45915802595e-05,100.0,sl,-47.65,-47.65,456.4,exit_bar=2026-11-14T02:46:00Z,mom
+2026-11-14T03:46:46Z,ENTRY,E6ufRzVjCnkLxz8nomdoR5cmYy6ganTEyAwmZP68xkgK,Cash / USDC,0,2.00524047425e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
+2026-11-14T03:46:46Z,FAILED,Dbw5VpkrSVn1osEG4kWNiw1DdCWfJQ77ZCB3B7QejXQF,income / SOL,0,3.37114761751e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-14T03:49:31Z,ENTRY,GjH7iggPymq4g2LUoRfykTFEkxzG6tim6eMQ5tJU355s,ASTRALIS / SOL,0,5.13752598484e-05,100.0,research_failed,,,456.4,score=0.00 momentum=36%,mom
+2026-11-14T03:51:08Z,EXIT,Ba4oU69mCH5h3Ejge6oJJiKv1mBoGRtsNeuR9wJYFbes,TOAD / SOL,0,7.94816310744e-06,100.0,timeout,-11.63,-11.63,456.4,exit_bar=2026-11-14T03:49:00Z,mom
+2026-11-14T03:52:31Z,ENTRY,CxaKdXKzXJUVCJ7GxhrRnb7oTM4uW6n3hr5GCsbSgZeu,mihao / SOL,0,7.14289168281e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
