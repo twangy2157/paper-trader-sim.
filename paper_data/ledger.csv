@@ -11751,3 +11751,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T04:02:36Z,EXIT,E7hkEv8mstuVeLZERgZgxFeMXQFj2AiodTC4h8MzDBmV,Python / SOL,0,8.27728960697e-06,100.0,sl,-35.74,-35.74,456.4,exit_bar=2026-11-14T03:19:00Z,control
 2026-11-14T04:02:36Z,ENTRY,3P7SwBG9mpE2X87X9tufM4dLstdeF7rNq63F38p7ogmx,JAMES / SOL,0,8.79895947608e-05,100.0,research_failed,,,456.4,score=0.00 momentum=65%,mom
 2026-11-14T04:05:36Z,ENTRY,2hzjrnXP4w8fS9SAXQVBiHtyjnfpp3EnX8E9BncB3HQ1,NVIDIA / SOL,0,1.80142626783e-05,100.0,research_failed,,,456.4,score=0.00 momentum=144%,mom
+2026-11-14T04:07:18Z,ENTRY,7phQiawky9pfiYxR53a2jRUKrtk9qjh38xnCLDWyoSRb,transform / SOL,0,3.36769194058e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-6%,control
+2026-11-14T04:08:41Z,ENTRY,Ehbxh7o1PxrNwPgZVd7TorFKzdL37ymrazHW7WBfQHez,APE / SOL,0,7.33129662921e-08,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-99%,control
+2026-11-14T04:11:41Z,ENTRY,4d8TMpxnLaMhmj9Amt1Lgm3sPrtNoiC2BauL2mBR9ERU,ethan / SOL,0,1.01638972562e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-14T04:14:41Z,ENTRY,BUik4VKKqBEGb2UocAYzFCF1wj7ra6NBJGqecDsF7Udy,SIRIUS / SOL,0,4.25621183851e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-86%,control
