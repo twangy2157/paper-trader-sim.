@@ -12069,3 +12069,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T12:47:13Z,ENTRY,56Qb4N1kV3sHv4Vhf5cf6i2TZYx76XbkRJAfR7juNasy,SABA / SOL,0,0.00037589723701,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
 2026-11-14T12:50:15Z,ENTRY,5LoTBvjMekPe8u9oSi9fe9Eo3oMryhBn1YSTDoFAqEap,Eurobyn / SOL,0,0.0634168749694,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
 2026-11-14T12:51:38Z,ENTRY,GQPCYCkFpXNQpX2zLTmPVxrnUWNVkSP3fvW6FMSzkFfW,20 / SOL,0,2.06223346963e-05,100.0,research_failed,,,456.4,score=0.00 momentum=160%,mom
+2026-11-14T12:54:41Z,ENTRY,G1qTZSat1wq5eQyYGeb6Yh1Jdd3CD2FMzUeduWboJXj1,GTA6 Coin / SOL,0,2.40080900519e-05,100.0,research_failed,,,456.4,score=0.00 momentum=43%,mom
+2026-11-14T12:56:18Z,ENTRY,EzuY3Q2W4iJ2LJ5rDfYBkefs94wgqMVicKt9Yu4H9dDG,CLAU / SOL,0,0.000304660776704,100.0,research_failed,,,456.4,score=0.00 momentum=14%,mom
+2026-11-14T12:57:40Z,ENTRY,HLQjThX5Byn11zjuhXvRGQyaEXski9AtbGfqacmZ4hSx,SHIT / SOL,0,3.06986041713e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-14T12:59:17Z,FAILED,FKDJzeEcLoazRQjSDaHUvNsuCz1VwT4WkPCaEa8m5Zxm,PORNHUB / SOL,0,2.98934178393e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-14T13:00:40Z,ENTRY,4eHDMi4hvoEGQjWw4G4yZruGP19NUXntCFrjczDqTGYi,Stallions / SOL,0,1.04183521397e-05,100.0,research_failed,,,456.4,score=0.00 momentum=153%,mom
+2026-11-14T13:02:17Z,EXIT,E4djMNWcmDkHZK6sEXuVJkaYeZQXCPmVLhphHkSrS2ar,DOOB / SOL,0,8.05750913288e-06,100.0,timeout,-11.4,-11.4,456.4,exit_bar=2026-11-14T13:01:00Z,control
+2026-11-14T13:03:39Z,EXIT,54yWtCuB141f2MFjKLHMhRGxZDo1DW8GMtNVEAtD8MkH,SOOTS / SOL,0,2.93542026331e-05,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-14T13:01:00Z,control
+2026-11-14T13:03:39Z,ENTRY,HWjZswWGHsvJyh3XrUwCobk3soEUmof4akdQ1SrsW4dk,Auda / SOL,0,7.89114973296e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
