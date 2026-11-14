@@ -11840,3 +11840,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T06:18:45Z,ENTRY,6XgJg2HKaoQiWJZQN5NwVT1LcGDuJR67qpVeDtqBDHFZ,MSFT / SOL,0,3.19070833594e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
 2026-11-14T06:21:45Z,ENTRY,FJjyrDAuNL54kgNWUz8Dsuai61yzT6Y2zZAZECCQ7eDW,pill / SOL,0,1.09971363802e-05,100.0,research_failed,,,456.4,score=0.00 momentum=82%,mom
 2026-11-14T06:21:45Z,ENTRY,8B7Lgcwg7WchoXHneCLSGHQiYEGTW7KZDtZeeQgy72Uz,wind / SOL,0,8.93880467167e-06,100.0,research_failed,,,456.4,score=0.00 momentum=13%,mom
+2026-11-14T06:23:27Z,EXIT,5qvxjz2gbnLYSZWvydnpjoDfDBgGNDrVeGFKow8oEdnb,UP / SOL,0,9.31502053147e-07,100.0,timeout,26.97,26.97,456.4,exit_bar=2026-11-14T06:22:00Z,mom
+2026-11-14T06:26:27Z,ENTRY,DGYd6hNfr67pZ51GdpFyrTGxEbZM3NZnhY6ikbUNYU95,鹏仔 / SOL,0,7.23199652631e-05,100.0,research_failed,,,456.4,score=0.00 momentum=56%,mom
+2026-11-14T06:29:28Z,EXIT,FNDCY154CvzQ8gtxZZv7zAnYFRtpUq16mHGBFzwWs3dX,fiss / SOL,0,1.98922534631e-07,100.0,timeout,-5.58,-5.58,456.4,exit_bar=2026-11-14T06:27:00Z,control
+2026-11-14T06:30:58Z,ENTRY,8BcigWDmEu4JRejaNc386YKKLbnU9oSqegkxN7j3DyKz,Fronk / SOL,0,3.78745632279e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
+2026-11-14T06:30:58Z,ENTRY,BkQgQ9BqtsaUvHCSdfpaTEjmQgDbzgzot78c2wSQbuHz,Fronk / SOL,0,2.27404966155e-05,100.0,research_failed,,,456.4,score=0.00 momentum=182%,mom
+2026-11-14T06:32:28Z,EXIT,7WqzPHYU3XeSVm3mPrJi6nEPnKpY27skuUkwBxmaCHSy,Frog Gugu / SOL,0,3.71779231414e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T06:30:00Z,mom
