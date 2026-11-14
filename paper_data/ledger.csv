@@ -11733,3 +11733,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T03:31:36Z,EXIT,Gmg92GompU2TWYpEAQMnAfeaK17KC6mGgcT81uQ9MPuq,doja / SOL,0,8.91094844778e-06,100.0,timeout,-10.96,-10.96,456.4,exit_bar=2026-11-14T03:30:00Z,control
 2026-11-14T03:31:36Z,ENTRY,9Hoe8buAWYVkVQSMtvrfVugB183qSGwviMN9Hz7D7qWs,JAMES / SOL,0,2.22784242733e-05,100.0,research_failed,,,456.4,score=0.00 momentum=57%,mom
 2026-11-14T03:33:14Z,EXIT,2EKu3NxgRCgXaMaWPbh9cZYGDXL7CvarpqfUnDSpVPJB,rich / USDC,0,1.03598834615e-05,100.0,timeout,-7.56,-7.56,456.4,exit_bar=2026-11-14T03:31:00Z,mom
+2026-11-14T03:34:41Z,ENTRY,Gy2ADq2Rc2jzh12EvgnMyXLaRbqes17nHZyis2v4pxvX,DUCK / SOL,0,2.91739584866e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-14T03:34:41Z,ENTRY,CK6qMUSpxrpFBjPkDehxYfXVyS2nLz6CBH5m5CJZM4d8,ChinaFoods / SOL,0,2.77587840936e-05,100.0,research_failed,,,456.4,score=0.00 momentum=64%,mom
+2026-11-14T03:37:41Z,ENTRY,AYsQAkbJ3QFXAqPNds25aFDdpDUqs2Xg6oTkLuda6p48,CATE / SOL,0,1.38506547882e-05,100.0,research_failed,,,456.4,score=0.00 momentum=167%,mom
+2026-11-14T03:42:19Z,ENTRY,8eYSrg64j4NRPUvpRenEWwc5tzNHpnTXCQzodTVgkA5P,HODL / SOL,0,9.46817404954e-06,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-14T03:43:41Z,ENTRY,9yfxSiogMMzggcCo433aARy9mePKsgFdnof337SFy7L9,FLOAT / SOL,0,0.000271415711628,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
