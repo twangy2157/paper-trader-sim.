@@ -12042,3 +12042,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T11:59:16Z,EXIT,E23aqAkpFEHTTYRqr7kWQ3yzZTE8XBHF6MdjaiseQiMX,SWAMIS / SOL,0,0.000180364522742,100.0,rug,1.45,1.45,456.4,exit_bar=2026-11-14T11:58:00Z,control
 2026-11-14T12:00:32Z,ENTRY,E4djMNWcmDkHZK6sEXuVJkaYeZQXCPmVLhphHkSrS2ar,DOOB / SOL,0,8.56003233432e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-14T12:00:32Z,ENTRY,54yWtCuB141f2MFjKLHMhRGxZDo1DW8GMtNVEAtD8MkH,SOOTS / SOL,0,2.96173456784e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-14T12:02:05Z,ENTRY,5HZw7MQZ5G9U23T8H6876HppzY4kDmcBwPYXbFZ5nG1c,GTA$ / SOL,0,7.05204123682e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=7%,control
+2026-11-14T12:03:27Z,ENTRY,413ZQQiSiymU3mi7EsUgYKhNCU3pJuApjRggf4rvx9yU,mihao / SOL,0,1.30936060743e-05,100.0,research_failed,,,456.4,score=0.00 momentum=84%,mom
+2026-11-14T12:06:26Z,EXIT,9CnQjDUmvYqp6mJZRWYnwDi3yBDV3BCVDrniyoVPAL2o,mihao / SOL,0,6.2506152144e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-14T11:07:00Z,mom
+2026-11-14T12:07:56Z,EXIT,G55dnkkJm2sJJHLyMVbtegZymYTpqWKEsiTEBVAATRKN,PUMP / SOL,0,3.37694244385e-05,100.0,timeout,-4.44,-4.44,456.4,exit_bar=2026-11-14T12:04:00Z,control
+2026-11-14T12:09:25Z,ENTRY,7gqdg1Df5g71vuegfrBpW9tkWzhfFc1GTkbLoyaKyeDZ,USPR / SOL,0,2.18628472532e-05,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
