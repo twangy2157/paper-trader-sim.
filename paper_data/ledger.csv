@@ -11721,3 +11721,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T03:05:16Z,EXIT,H1psjZF9Sf1ZkQa1fUxgN96rKhYWQqWiGGneTdTervC5,SWJ / SOL,0,0.000138064383249,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T03:03:00Z,mom
 2026-11-14T03:08:01Z,EXIT,GenkcHVVokkJngGGndiipMw9Jk3xnaHY9j4R7dCsXL5m,METEORSKY / SOL,0,3.84773995142e-05,100.0,timeout,-4.27,-4.27,456.4,exit_bar=2026-11-14T03:07:00Z,mom
 2026-11-14T03:10:40Z,FAILED,5H2UoEcu51PXv2qPquwa94rVNGnaCqjpmMkGKJkjd37i,FOOD / SOL,0,0.000486251448067,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-14T03:13:45Z,FAILED,GMzHCLwVrCpbT452kVxQbxhYQEXKhAqKNf9gWQaasAyy,DeepSeek / SOL,0,3.14498116062e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-14T03:16:45Z,EXIT,89hJk8JDLCs5vkYrKw3BqqzMQvBDqK9Mskz2Jb11AmhT,FOOD / SOL,0,8.2134571164e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-14T03:15:00Z,control
+2026-11-14T03:18:22Z,ENTRY,FgjvmkdRjQZCLVX1n7WJTDXmyvPCvVZiuRZTvgGBNLMd,Believe / SOL,0,3.89744326094e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
