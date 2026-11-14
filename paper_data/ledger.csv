@@ -11642,3 +11642,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-14T00:18:31Z,ENTRY,7ZX99xtjjaBxkQcZEGFT83gNJaPJpiTZeyER67BPbNtD,CSI / SOL,0,0.000100163144926,100.0,research_failed,,,456.4,score=0.00 momentum=139%,mom
 2026-11-14T00:21:30Z,EXIT,BkvEqfhULvtARWLyCjSivZaxwFftwfBK7UgwaZbtEgDk,JENSEN / SOL,0,1.36806120486e-05,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-13T23:41:00Z,mom
 2026-11-14T00:21:30Z,ENTRY,CVgz77GF45WCqefbrbN7eiZCQkVkKBGj3ZwxDDZinUTH,loco / SOL,0,3.78907588097e-05,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
+2026-11-14T00:23:11Z,EXIT,2w7gUWUHQda7TUwapitEfcD7mShXsDH8DwJB5bGTaqUj,Agency / SOL,0,7.74108777579e-06,100.0,timeout,-7.72,-7.72,456.4,exit_bar=2026-11-14T00:22:00Z,control
+2026-11-14T00:24:34Z,EXIT,D8ECAwLgbGAQeXxC8UQ1wBPMLapYKRSqPvWmD17vLNui,CSI / SOL,0,0.000166514932323,100.0,timeout,41.49,41.49,456.4,exit_bar=2026-11-14T00:23:00Z,mom
+2026-11-14T00:24:34Z,FAILED,6g1kBkyttrua2yHTgtPAaKN4cwwE1wSU2iRCmHbQSjTq,ChillGuy / SOL,0,7.45928802859e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
