@@ -13238,3 +13238,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T20:48:44Z,EXIT,6PsVtnxRvGgejVoZt4ht6uVv2d7tXgxZEAbxjDPm9xPm,BUTTHOLE / SOL,0,4.91149579215e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T20:47:00Z,mom
 2026-11-15T20:51:55Z,ENTRY,3dwmvezXt8dEAWS9tCJe2G8Cn1eahwmd2J66CgX8gfBz,Emojis / SOL,0,6.9979193527e-07,100.0,research_failed,,,456.4,score=0.00 momentum=69%,mom
 2026-11-15T20:59:02Z,EXIT,HNuUXXb9cZM8Bmn2PxWUbggz3rhAzBR8CQPGNZPfrvS8,up / SOL,0,8.76658002006e-06,100.0,timeout,-9.19,-9.19,456.4,exit_bar=2026-11-15T20:57:00Z,control
+2026-11-15T21:03:21Z,EXIT,D8qnoHWS4h7GfmZMs8yNTzeURNGz7uBEWyT85uQ383Dt,Jack Ma / SOL,0,2.74660719492e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T21:01:00Z,mom
+2026-11-15T21:06:20Z,EXIT,4TCAfYRNUUBoSoRX3iJuU4WLWtFxguueEw7Ykdwd4Nz9,rockstar / SOL,0,7.61584043746e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T21:04:00Z,control
+2026-11-15T21:07:43Z,EXIT,R24vyEg316FTj6KzquD83fM5gbpNzyqbd6aNWjwmvP2,EXEN / SOL,0,0.131865664118,100.0,timeout,-4.11,-4.11,456.4,exit_bar=2026-11-15T21:06:00Z,control
+2026-11-15T21:07:43Z,FAILED,A6yfAaoK8uURThqqdeoCCW1JdU1G2GiRfM1fC5P9yJcj,SATJAR / SOL,0,7.52903429848e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-15T21:09:20Z,FAILED,HrUiom8wEDLVw2B7TiUW9YhefrhHu4fjNXiRXxhJDmqv,rockstar / SOL,0,6.76108768369e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-15T21:10:42Z,ENTRY,DKf5yqKY29kbpyr5cLFD7VfYW31fHxfBGjsfEofQTyS5,Wallet / SOL,0,0.000266216425965,100.0,research_failed,,,456.4,score=0.00 momentum=228%,mom
