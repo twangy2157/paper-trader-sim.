@@ -12935,3 +12935,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T13:34:38Z,FAILED,Aa92P1Koin9mA3KrpiRMf6HX1YxSwN1nRoDCPfawiQwB,$BWIZ / SOL,0,7.71308118133e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-15T13:37:38Z,ENTRY,NunJkUPisyRGG5LG4u2Lm4cGU374rSZ3Vi8RYS7AT5b,DoGood / SOL,0,4.29561734078e-05,100.0,research_failed,,,456.4,score=0.00 momentum=128%,mom
 2026-11-15T13:37:38Z,ENTRY,EUTqsHtvYf9UoK939X5sk3irhN47LKUFL3qzQ1mKbUpi,JUMP / SOL,0,2.30701777133e-05,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
+2026-11-15T13:39:19Z,EXIT,LdRhvR4hDa5ZRfZwpXSkYDCy6kBDp2aCRYAooZaChQq,Socks / SOL,0,0.000105037298405,100.0,timeout,-3.39,-3.39,456.4,exit_bar=2026-11-15T13:37:00Z,mom
+2026-11-15T13:40:42Z,ENTRY,3Gbahg3kis14HZhPsdC7f6ScRPqwEPJJQXHkqiKb9cyS,DYC / SOL,0,8.83371211131e-05,100.0,research_failed,,,456.4,score=0.00 momentum=79%,mom
+2026-11-15T13:40:42Z,ENTRY,9ipXSKoFNAmrToiKdUnhz9bw8jKpFzQfsHBxPrMyEvho,bill / SOL,0,3.87663699182e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-15T13:42:20Z,FAILED,GcDzFFdr9JN99wcjrg2mThufTPxL5xZVrUWsvrEYeead,SCRVAN / SOL,0,1.81874874042e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T13:43:43Z,ENTRY,3mF9UQtWL4aigtoBFf7vCbMwKVnwwBjvaGErJjcTvLwK,CP / SOL,0,8.68543717341e-08,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T13:43:43Z,ENTRY,EJeoKf4n9YuedNKJLhZtpwAvrs6uHq8a3j1g6gxpikWf,UODF / SOL,0,0.371302408901,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T13:43:43Z,ENTRY,J9TxZ9xgXpfHErgLQf2J1vhxz5wxyDjntMNb9sY5xUCn,EXEN / SOL,0,0.104970046647,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T13:45:20Z,ENTRY,8Wy6MzvUSZ4SyCxE1GPgsLjzGw1zhwgrP1WcPbjdJLXY,NICK / SOL,0,1.65737593231e-05,100.0,research_failed,,,456.4,score=0.00 momentum=137%,mom
+2026-11-15T13:46:43Z,EXIT,9q2htse6z64fKtV7rwSZkU7CDT4ehYuCNN9ynjQUr4FV,XTO / SOL,0,0.0154059094238,100.0,timeout,-2.57,-2.57,456.4,exit_bar=2026-11-15T13:45:00Z,control
+2026-11-15T13:48:20Z,ENTRY,DYSU9hpZBLtwgrjFKWf87wUvMx3qxdX83job3kTNtfe3,FERSPE / SOL,0,8.1977683657e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
