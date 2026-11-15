@@ -13281,3 +13281,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T22:23:20Z,ENTRY,41hSrQypoYXsHDnB9rxuwPw4bX9LxxkP329rjoSXiChq,GTACOIN / SOL,0,0.000200845306035,100.0,control_no_momentum,,,456.4,score=0.00 momentum=4%,control
 2026-11-15T22:23:20Z,ENTRY,AE5x3Eg5jdphTojKLXygtfVEYLmDc1RyAXhj2HnWykQ5,mihao / SOL,0,6.87272909131e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
 2026-11-15T22:24:42Z,ENTRY,3bDvJWTKoDkb72zWGWiAq5yqtrmqgH5224bf8Ewxsaj1,GTAVI / SOL,0,4.13279052202e-05,100.0,research_failed,,,456.4,score=0.00 momentum=37%,mom
+2026-11-15T22:27:47Z,FAILED,E4MrgFpwpA41nfgwFu7dV48EefN2jTqQkq6VsZnFZrus,GTAVI / SOL,0,2.97281738243e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T22:30:32Z,ENTRY,8KxRFJ1L2RTYm4UX24Dm3WF13kwtvfbCvg8P4m7xdCHH,Democat / SOL,0,2.79808390356e-05,100.0,research_failed,,,456.4,score=0.00 momentum=79%,mom
+2026-11-15T22:30:32Z,ENTRY,DS38xwyPfUzo6XW8sv6Fg5GJh1hkKpnNwr4bV7cTrgsZ,Black $wan / JUP,0,2.15657311708e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-15T22:32:01Z,ENTRY,ANpgZqpw1ybT2Nro2AbmuPoZ8tHPSAENC1UbBS2Up6su,ANSEM / SOL,0,1.22545914062e-05,100.0,research_failed,,,456.4,score=0.00 momentum=97%,mom
+2026-11-15T22:34:32Z,ENTRY,6agXad6qRaFfbCLG7xBqMMg2T2fGV9FoFZejAay2J8Tr,Koop / SOL,0,2.4124171295e-05,100.0,research_failed,,,456.4,score=0.00 momentum=52%,mom
