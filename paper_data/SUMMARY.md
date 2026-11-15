@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-15T07:39:42Z. Bankroll cash (research-selected trades): 456.400154541351. Open positions: 10. Pools on watchlist: 48.
+Updated 2026-11-15T07:50:13Z. Bankroll cash (research-selected trades): 456.400154541351. Open positions: 17. Pools on watchlist: 60.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
@@ -25,17 +25,17 @@ What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 86357. Outcomes:
+Pools seen: 86398. Outcomes:
 
-- missed_window: 56756
-- low_liquidity: 14171
-- proven_liquidity_gone: 7173
-- no_momentum: 3226
-- research_failed: 2481
+- missed_window: 56775
+- low_liquidity: 14180
+- proven_liquidity_gone: 7179
+- no_momentum: 3230
+- research_failed: 2483
 - proven_low_volume: 1149
 - simulated failed buy: 1055
 - proven_price_collapsed_or_parabolic: 135
-- proven: 110
+- proven: 111
 - proven_no_uptrend: 52
 - dip: 33
 - research_passed: 16
