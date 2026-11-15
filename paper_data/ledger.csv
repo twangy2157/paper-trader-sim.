@@ -12915,3 +12915,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T13:03:55Z,ENTRY,DaCQA5NqimAL8qYkDE9U5oY6L2FNEBsZJX94aTmNF8TP,XTO / SOL,0,0.227618163716,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T13:05:26Z,EXIT,BXbivVFdDzZWQKhNsigXt7rbHmLK8HYMY1hmyfxxm4pF,BPCATE / SOL,0,1.00366373816e-05,100.0,timeout,-7.67,-7.67,456.4,exit_bar=2026-11-15T13:04:00Z,control
 2026-11-15T13:05:26Z,ENTRY,yUeGFHxYm8E5Z9ykwZ3cNUjJbZ22vyvYCV3VL3dkKMV,CLAUDE / ANTHRP,0,3.16983716368e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T13:07:00Z,FAILED,GopccGkJKEynCaAxueZihWbQuCxsD8fSbyYuUiycjTyu,bill / SOL,0,3.65751030711e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T13:08:23Z,EXIT,BCgZpPASa3RhVEoSva7Pay5V3FvhfpdzvcdLU4JMaHRf,MAYbank / SOL,0,7.51007820195e-06,100.0,timeout,-9.17,-9.17,456.4,exit_bar=2026-11-15T13:07:00Z,control
+2026-11-15T13:09:46Z,EXIT,4Mt8YpC9n7paBX9H9myjjMBjNUpiy919r82CCCThqtR5,Gomez / SOL,0,1.39688643295e-05,100.0,sl,-44.14,-44.14,456.4,exit_bar=2026-11-15T12:10:00Z,control
+2026-11-15T13:11:16Z,EXIT,8mQnzbVLQPXJL9D5UytJ8X426dBVWMiuhkt3FG1YnFay,BPCATE / SOL,0,1.7001979636e-05,100.0,timeout,-5.81,-5.81,456.4,exit_bar=2026-11-15T13:09:00Z,control
+2026-11-15T13:12:32Z,EXIT,6tniZnjr36wY4GwLBDX5b25RGF4nmg3fZKgawDRbQM3c,BigP / SOL,0,1.85575416656e-05,100.0,sl,-33.33,-33.33,456.4,exit_bar=2026-11-15T12:13:00Z,control
+2026-11-15T13:14:02Z,ENTRY,24YmKsVhATstpxHnYbn1dK5wis73efzrVozcLnuJ1Atc,Sheriff / SOL,0,9.37876011891e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T13:15:25Z,ENTRY,8bdnRKn4cyvcyHs4w5bqnsH4KCn5A6Z6g7LCNpGbu8or,ZCAT / SOL,0,8.41077405827e-06,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
+2026-11-15T13:16:55Z,ENTRY,DUU23uzbFYkqzNKjKYF3pvdvGf7ig9iKBTKhgKg3ncN4,Socks / SOL,0,7.71339733113e-07,100.0,research_failed,,,456.4,score=0.00 momentum=37%,mom
