@@ -13226,3 +13226,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T20:32:21Z,ENTRY,Gm53DwT8hnMtdWBNzxsHrBAL6ofJhJN2Cv8DFsZBeqwx,LMAO! / SOL,0,3.88301801544e-05,100.0,research_failed,,,456.4,score=0.00 momentum=20%,mom
 2026-11-15T20:33:43Z,FAILED,4sibEmkjrn5m3uDP8RVeiQJz7ekdKnADgjRy5Jy5awRu,Jupcat / JUP,0,5.06990283814e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-15T20:35:20Z,ENTRY,4v6ETkLeogstdwdfyg6hBpfRhn2Aw1kN5jPPP57nfA8K,Mentats / SOL,0,2.53399708175e-05,100.0,research_failed,,,456.4,score=0.00 momentum=66%,mom
+2026-11-15T20:39:45Z,ENTRY,7qed5bHy2W5tTxGskUC2Bbr6TsV7zzxb6Pacr45QoehS,CRIMECAT / SOL,0,2.78395163404e-05,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
+2026-11-15T20:39:45Z,ENTRY,3gxtaRrDbGeCocy97V3dbPUTxtLkBx2Ed3SjR5R7JL7a,BLG / SOL,0,1.93052794136e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=3%,control
+2026-11-15T20:42:45Z,EXIT,GxSQksbMLkG4WhMZ9FQLKA3tUZbYyb4NrtdcSFwvYeeB,rockstar / SOL,0,8.96100551687e-07,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T20:41:00Z,mom
+2026-11-15T20:42:45Z,ENTRY,EE7e722Xno14o1yzPC6cbxLA2wXSGLu7vpx1maA9ihRY,🤣 / Emojis,0,3.27918223586e-05,100.0,dip_after_drop,,,456.4,score=0.00 momentum=-29%,dip
+2026-11-15T20:44:22Z,ENTRY,K2KXhDJRQfiHt6yYcTcdUWwxzienzGRopRbPq36xXcN,ROBINU / SOL,0,1.42578618365e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-13%,control
+2026-11-15T20:45:44Z,EXIT,5dsTf6rjM3VJRbA837FdXwqXFxjQAoL3HxUxA6MJYfwN,REC / SOL,0,8.40270382939e-06,100.0,timeout,-8.58,-8.58,456.4,exit_bar=2026-11-15T20:44:00Z,control
+2026-11-15T20:45:44Z,ENTRY,EU6W8A9sesrWGPRRb35MN2bzgTUjsFRmm3FUiU9YevYC,SATINU / SOL,0,2.39901966779e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T20:45:44Z,ENTRY,6d3hVWJ3zw2rDGvTv2Aaaearz4dc6nhRgS2eaMsee71L,CRIMECAT / SOL,0,4.64012292046e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-15T20:47:21Z,EXIT,5DdaA1zy2z5UdRmkbq6aJS88HKhKCJtmhVqzgaUFgLf6,Koop / SOL,0,7.24892495832e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T20:46:00Z,proven
+2026-11-15T20:48:44Z,EXIT,6PsVtnxRvGgejVoZt4ht6uVv2d7tXgxZEAbxjDPm9xPm,BUTTHOLE / SOL,0,4.91149579215e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T20:47:00Z,mom
