@@ -13169,3 +13169,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T18:49:13Z,ENTRY,QXzBv1i7LLwnbT2fNd3NtaxgTpkznaHHFr6gHoUyFmM,boobs / SOL,0,1.04912168489e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T18:49:13Z,FAILED,DwYkqdK8WEz6nZeioUgjHnfybTghwshWeMMf6wviLa7g,APPLE / SOL,0,8.43292895388e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-15T18:50:36Z,ENTRY,DVVYTYs9WonfUMPcbsXdGAu5Jm8inp2o8cFnoxYMoZNf,BLG / SOL,0,2.27643121057e-05,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
+2026-11-15T18:56:32Z,EXIT,2ZjCBtESMThjEtZdJiP9Rbz4Mi8kWsgxs4PGbZNduWRp,bill / SOL,0,4.68042991475e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T18:55:00Z,mom
+2026-11-15T18:58:02Z,EXIT,2kMQrsEP5bsAFT5DB2Gumw9Ci7gjPoBG9R6zrHYEgiRf,LNGE / SOL,0,2.22219136271e-05,100.0,timeout,-5.22,-5.22,456.4,exit_bar=2026-11-15T18:57:00Z,control
+2026-11-15T18:59:17Z,EXIT,2BV4QxKpSEBs4WC9VLAs14rzBHeQNoc7R5t5fcbcrReF,9LIVES / SOL,0,2.96760633449e-05,100.0,timeout,46.85,46.85,456.4,exit_bar=2026-11-15T18:58:00Z,control
+2026-11-15T19:00:40Z,ENTRY,HpobdQygymyQY1urgz4znx4DW6n6465NhiqCVQSEaU7p,ANT / SOL,0,0.000169854881988,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-15T19:00:40Z,ENTRY,32J3Kn9jWNodzTd3swV8hK9XTzmPeEFm1RYGA1fEYwfk,Banana / SPCX,0,1.55507713382e-05,100.0,research_failed,,,456.4,score=0.00 momentum=168%,mom
+2026-11-15T19:02:17Z,EXIT,2d6Cqhzz15MMjv2LXPaYZFQGScnNL6M2hByQ4XTN7jBV,BLG / SOL,0,3.24484831482e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T19:00:00Z,mom
