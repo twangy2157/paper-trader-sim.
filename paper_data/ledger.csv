@@ -13214,3 +13214,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T20:10:59Z,EXIT,5oLE7iL1uBFsk1Rxd9SVFNYTERsHEf4NxseaMJ6JHvuF,rockstar / SOL,0,0.000112041268309,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T20:09:00Z,mom
 2026-11-15T20:12:29Z,ENTRY,BaLzyNNqgbyAGCbzmukfNnJ9cgi5JDKk1JezN6LPotTp,Socks / SOL,0,2.56460320108e-05,100.0,research_failed,,,456.4,score=0.00 momentum=245%,mom
 2026-11-15T20:15:28Z,ENTRY,25SiKqXmmXd5KxruV9ezXDciEXfetFLP43MUAPAj5gqv,MMC / USDC,0,1.15533107801e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-15T20:18:31Z,ENTRY,5RRTeNDhAVpdUcVd2hHzU5TUCMzWuGka261LMLXFNLb9,PACHY / SOL,0,7.61197519772e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T20:18:31Z,ENTRY,9hJeiFQ626xvpizGjUmAwRonFdvERcSURp3maXzFUjXC,GTA / SOL,0,0.000105024258006,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-15T20:20:01Z,EXIT,AeCNvMkpyhfs1VzHvXytPDBbbrVeHn8uZMyV43tv9ECA,LIMITLESS / SOL,0,0.000106534573529,100.0,rug,-2.55,-2.55,456.4,exit_bar=2026-11-15T20:19:00Z,control
+2026-11-15T20:22:32Z,ENTRY,59S3Hu2B5rayYbUGqaikkRgieYNtTLcCAHjQBCppwhNx,HOT / SOL,0,3.88818548076e-05,100.0,research_failed,,,456.4,score=0.00 momentum=19%,mom
+2026-11-15T20:26:32Z,ENTRY,4CnJFfMawointNwwvcuxNXCshzcT8vGwqiqY63zc5r7j,Bob / SOL,0,1.95303888463e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-35%,control
+2026-11-15T20:28:01Z,EXIT,JASPoyXfdfYvDUvNggKstfVtpt5b7xkqNdbruxtmawVL,BFS / SOL,0,6.86640782999e-09,100.0,rug,-101.0,-101.0,456.4,exit_bar=2026-11-15T19:30:00Z,mom
