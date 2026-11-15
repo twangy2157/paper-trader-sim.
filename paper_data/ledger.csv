@@ -12469,3 +12469,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T01:28:17Z,FAILED,4W1YW4NhTK8HD2t2hxTfJhN6Yzef3N2af9Ncb5d3QjV9,WEIRDCAT / SOL,0,6.56017850144e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-15T01:29:40Z,ENTRY,CRgQVMHnxrbmXGtUF2Gi1j8u5tjXStKpq5Gf9j2n578C,DACAT / SOL,0,0.000104986459177,100.0,control_no_momentum,,,456.4,score=0.00 momentum=4%,control
 2026-11-15T01:29:40Z,ENTRY,HvLi5zrc3JV6FFji4Bxbg5B4gNzNCfmyCbkFCfr5YP6u,BabyDoge / SOL,0,0.000102523501605,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T01:31:23Z,ENTRY,4v71fU5JpUjbrqz5Abst8PVik1NATD9oWcFxowCiRmyX,DUVAL / SOL,0,0.000204838979108,100.0,research_failed,,,456.4,score=0.00 momentum=207%,mom
+2026-11-15T01:38:17Z,ENTRY,9T4YNY8yvENPefT5CExEfWZhZxXtaVHC29Fdk5DibZEh,MEMES / USDC,0,5.65668143245e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T01:39:32Z,FAILED,6raaUyckAQCgqquRDsvZ7LXyAG3uMUQCoHTLq2umApn6,100M / SOL,0,3.55738137864e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T01:39:32Z,ENTRY,9KU5JEkEdKBwcmXq2c1GCWNdqqr1nW8VomauuwGqrzFD,vrl / SOL,0,1.08398328061e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
