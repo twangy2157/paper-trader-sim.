@@ -13236,3 +13236,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T20:45:44Z,ENTRY,6d3hVWJ3zw2rDGvTv2Aaaearz4dc6nhRgS2eaMsee71L,CRIMECAT / SOL,0,4.64012292046e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-15T20:47:21Z,EXIT,5DdaA1zy2z5UdRmkbq6aJS88HKhKCJtmhVqzgaUFgLf6,Koop / SOL,0,7.24892495832e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T20:46:00Z,proven
 2026-11-15T20:48:44Z,EXIT,6PsVtnxRvGgejVoZt4ht6uVv2d7tXgxZEAbxjDPm9xPm,BUTTHOLE / SOL,0,4.91149579215e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T20:47:00Z,mom
+2026-11-15T20:51:55Z,ENTRY,3dwmvezXt8dEAWS9tCJe2G8Cn1eahwmd2J66CgX8gfBz,Emojis / SOL,0,6.9979193527e-07,100.0,research_failed,,,456.4,score=0.00 momentum=69%,mom
+2026-11-15T20:59:02Z,EXIT,HNuUXXb9cZM8Bmn2PxWUbggz3rhAzBR8CQPGNZPfrvS8,up / SOL,0,8.76658002006e-06,100.0,timeout,-9.19,-9.19,456.4,exit_bar=2026-11-15T20:57:00Z,control
