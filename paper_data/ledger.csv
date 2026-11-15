@@ -12695,3 +12695,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T07:44:58Z,ENTRY,9VMA3XpfwVYbxTmGrG3yDW9FMUjTDVwvmVTtmGeEv2FN,GTA6 Coin / SOL,0,2.42594235146e-05,100.0,research_failed,,,456.4,score=0.00 momentum=40%,mom
 2026-11-15T07:46:28Z,ENTRY,rcHUWA13uUWXYoqrXAhcVmf9wjWKsYYv9xYS95RVf9x,bill / SOL,0,0.000261896346241,100.0,proven_pool,,,456.4,age=120min,proven
 2026-11-15T07:47:59Z,ENTRY,r9tTnaemSC9kHJkYfRzzEwYxgeLRsq776FAf28mu8sY,TUSD / SOL,0,2.62776418323e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-15T07:52:28Z,ENTRY,HV5MuYURdYifRZnmLCPPg1HSEqZmt25n9s93kb7WBYMQ,HANS / SOL,0,6.9285559866e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-15T07:53:59Z,ENTRY,CVnqoK5vkVZU2qsgG7H2URuEbR2nVR287USBUYLznveK,HOGE / SOL,0,1.01359615151e-05,100.0,research_failed,,,456.4,score=0.00 momentum=96%,mom
+2026-11-15T07:55:29Z,FAILED,8eG3yfeahgKQPFhLDX97JUyNuGuxHZzc4muG7ZT129kJ,BLGbin / SOL,0,1.98281193979e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T07:58:30Z,ENTRY,Hgc2SSfzXpDTdE9QPoMF5kM8UTUTzXL6ZDQxa6cSRMAc,ニャジラ / SOL,0,2.5679979512e-05,100.0,research_failed,,,456.4,score=0.00 momentum=195%,mom
+2026-11-15T07:58:30Z,ENTRY,DdwEniKgHiDqArRUqyjTCXqznzsLhJiLHsUuKpHvjYnn,HOGE / SOL,0,0.000256476064423,100.0,research_failed,,,456.4,score=0.00 momentum=90%,mom
