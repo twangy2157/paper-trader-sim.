@@ -13265,3 +13265,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T21:49:56Z,EXIT,6d3hVWJ3zw2rDGvTv2Aaaearz4dc6nhRgS2eaMsee71L,CRIMECAT / SOL,0,1.82963612043e-06,100.0,rug,-100.21,-100.21,456.4,exit_bar=2026-11-15T20:46:00Z,control
 2026-11-15T21:49:56Z,ENTRY,GmCf5BTiiqVCQ3Dy2m4XZPtXxLFXeE1bRSE8x6BvKkhH,SD / SI,0,2.0038360432e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-2%,control
 2026-11-15T21:52:56Z,ENTRY,Ckov76ectLYnA5Y8rErKDUrzxatnytT2qoTB4e9XoH4m,MULT / SOL,0,5.64016929184e-05,100.0,research_failed,,,456.4,score=0.00 momentum=36%,mom
+2026-11-15T21:54:31Z,EXIT,3dwmvezXt8dEAWS9tCJe2G8Cn1eahwmd2J66CgX8gfBz,Emojis / SOL,0,9.09176139091e-07,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T21:52:00Z,mom
