@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. Fixed rules, 0.30% round-trip costs, hourly bars.
 
-Live since 2026-11-02 03:00 UTC. Updated 2026-11-15 18:00 UTC.
+Live since 2026-11-02 03:00 UTC. Updated 2026-11-15 19:00 UTC.
 
 | rule | closed | win | avg | open now |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ Open positions (marked at the last closed hour):
 | coin | rule | opened | return so far |
 |---|---|---|---|
 | DOGE | dip | 2026-11-14 21:00 | 1.3% |
-| PEPE | dip | 2026-11-14 21:00 | 1.5% |
-| FLOKI | dip | 2026-11-14 21:00 | 3.7% |
-| BONK | dip | 2026-11-14 22:00 | 4.1% |
-| WIF | dip | 2026-11-14 22:00 | 4.0% |
-| SHIB | dip | 2026-11-14 23:00 | 3.7% |
+| PEPE | dip | 2026-11-14 21:00 | 1.8% |
+| FLOKI | dip | 2026-11-14 21:00 | 4.1% |
+| BONK | dip | 2026-11-14 22:00 | 3.7% |
+| WIF | dip | 2026-11-14 22:00 | 3.7% |
+| SHIB | dip | 2026-11-14 23:00 | 4.0% |
 
 Each rule needs 30+ closed trades before the average means anything,
 and the coins move together, so treat any early result as noise.
