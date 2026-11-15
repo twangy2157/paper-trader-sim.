@@ -12766,3 +12766,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T09:31:28Z,ENTRY,FLejx6wsbTPRueqxa5YK45uT9fZt9FZsbXecWdmC9Ua4,BRR / SOL,0,2.9422980563e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-15T09:31:28Z,ENTRY,2XaBVNtZoimBj7UVPAVv9XHSmV6sLpewkeCaQjcEy21p,Load / SOL,0,7.28302324348e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T09:32:59Z,ENTRY,G8uN78BvA4V4J8EqLKm3jDD5qpE6JHAVB6r2KVeupKdd,TWEET / SOL,0,1.67278869071e-05,100.0,research_failed,,,456.4,score=0.00 momentum=64%,mom
+2026-11-15T09:37:27Z,ENTRY,bvXM6w41rZh45XmMeoba4KeQXYLF5vJ7XEKtXAtEc78,WORM / SOL,0,3.55636276117e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
+2026-11-15T09:37:27Z,ENTRY,EidaGjFYpkzMStPuBSEoYkUD2yiPxBUNEuFYLRZ3qW5r,ニャジラ / SOL,0,1.1528295683e-05,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
+2026-11-15T09:38:58Z,ENTRY,DxVft1GzikUDv1C5re2tJ2666JGmDoCPRxRccVQRxckE,牛逼 / SOL,0,2.57465490556e-05,100.0,research_failed,,,456.4,score=0.00 momentum=43%,mom
+2026-11-15T09:40:28Z,EXIT,A9ozHGmzinFfprQbyZLa3fdrmmw3HwbJcoCssTFfJ58p,PURR / SOL,0,1.49268568003e-05,100.0,timeout,-4.59,-4.59,456.4,exit_bar=2026-11-15T09:39:00Z,control
+2026-11-15T09:41:59Z,ENTRY,CXnGXKDf14hDdPdHHADGEm9THeBFtmLvk3ADBbvvZckv,SIKE / SOL,0,3.70003599078e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-10%,control
+2026-11-15T09:43:30Z,EXIT,AUJhJY8XDQLsNwnY6XVxmDnP8yjQtSEWKYUhRDbccvmY,DICE / SOL,0,9.17737721994e-06,100.0,timeout,-10.8,-10.8,456.4,exit_bar=2026-11-15T09:41:00Z,mom
+2026-11-15T09:45:08Z,EXIT,3aQCmq6Xtpz6a9G1mpvvw2nqW8P5MDdSWtVYowBF7JPE,trench / SOL,0,9.21779458699e-06,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-15T09:44:00Z,control
