@@ -12473,3 +12473,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T01:38:17Z,ENTRY,9T4YNY8yvENPefT5CExEfWZhZxXtaVHC29Fdk5DibZEh,MEMES / USDC,0,5.65668143245e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T01:39:32Z,FAILED,6raaUyckAQCgqquRDsvZ7LXyAG3uMUQCoHTLq2umApn6,100M / SOL,0,3.55738137864e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-15T01:39:32Z,ENTRY,9KU5JEkEdKBwcmXq2c1GCWNdqqr1nW8VomauuwGqrzFD,vrl / SOL,0,1.08398328061e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T01:42:30Z,ENTRY,Azi45guvAgHTiz18GZhTJDMvuwRhym9DNjFpLMR55cf2,bill / SOL,0,4.41469066285e-05,100.0,research_failed,,,456.4,score=0.00 momentum=11%,mom
+2026-11-15T01:45:31Z,ENTRY,3xWRvdKgNJL3F97y8G7Y58w3LCm1PjzLKNWeEsTc4YDb,INU / SOL,0,2.06866275258e-05,100.0,research_failed,,,456.4,score=0.00 momentum=114%,mom
+2026-11-15T01:47:08Z,FAILED,EVq969eJqd3wcSiVaFLCxa7iqYb7BVFhUnynyrABvpJL,ニャジラ / SOL,0,2.19445069331e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",dip
+2026-11-15T01:48:30Z,ENTRY,E7aRAwojUD7toybfsXnB9XjRoHRYZtYU4DZUGwfyXxnK,大A / SOL,0,2.15331494085e-05,100.0,research_failed,,,456.4,score=0.00 momentum=185%,mom
+2026-11-15T01:48:30Z,ENTRY,7GUv9bH5Uwrck8ACLJAf1RozJasYSYMcVFTpNT1Ln7zD,ELPEPE / SOL,0,2.38626368266e-05,100.0,research_failed,,,456.4,score=0.00 momentum=45%,mom
+2026-11-15T01:50:08Z,ENTRY,Gsim12rvHfUtMqMCa7NWQjRFhW4EzLRpFVPuTuaoEBrx,bill / SOL,0,3.59176731334e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
