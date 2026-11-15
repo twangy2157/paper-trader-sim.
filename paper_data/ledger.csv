@@ -12904,3 +12904,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T12:53:41Z,ENTRY,DrUxNCmbUhoty3akAcoLuaBE33uU5Fk4YkiwUofnc9P5,SpaceWolf / SOL,0,3.45694414697e-05,100.0,research_failed,,,456.4,score=0.00 momentum=389%,mom
 2026-11-15T12:53:41Z,ENTRY,9kBwLhYFTMzPQp8GFLhCyWcrYgBjKxRR8jNTonqv7Kdv,ZEC / USDT,0,960.306938224,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T12:55:18Z,FAILED,6SCsEdcDKAYb7LshajdekCvixk5eDfNYJdXT12M2sA2X,fomo / SOL,0,1.78508147596e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T12:56:46Z,ENTRY,5hNSeZ8vQJ36kQc1gHJak4TZoeymQENGBr3bxhajTYSX,Buttom / SOL,0,7.13782833635e-05,100.0,research_failed,,,456.4,score=0.00 momentum=54%,mom
+2026-11-15T12:56:46Z,ENTRY,3VdA57pEwpWCewHK7Gw2HeGKk5fcSahNhh9yFLPyigzh,MYRON / SOL,0,1.82916776425e-05,100.0,dip_after_drop,,,456.4,score=0.00 momentum=-31%,dip
+2026-11-15T12:58:16Z,EXIT,GC2F6sUTdCjxic9jjFPTyHESG3zm3nfPpuZywvfxyXY8,VAMPLESS / SOL,0,1.70694991052e-05,100.0,timeout,-4.2,-4.2,456.4,exit_bar=2026-11-15T12:57:00Z,control
+2026-11-15T12:59:32Z,EXIT,3qdPPbR9tVoZJndjFfr2ASNP1JmXxxEXMu8R7C4UZXMD,DOOB / SOL,0,8.74390971531e-06,100.0,timeout,-8.38,-8.38,456.4,exit_bar=2026-11-15T12:57:00Z,control
+2026-11-15T12:59:32Z,ENTRY,A5K8JMBV2oBoJbkMqFNTx5JYkFjnhoLAGCfdBY9C83KX,$BWIZ / SOL,0,7.23478114231e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-15T13:02:25Z,FAILED,EWbPEMSrNi9pdDHYHhn59cKUmfXrUxXvDfXyzxv17EGh,PEER / SOL,0,3.58246383642e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T13:02:25Z,ENTRY,CR1eDU6Ne16H5xFTzFh9vXkYtNNVGLhbh3LewFdCnbCb,PUMPER / SOL,0,1.33226419019e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T13:03:55Z,FAILED,FiTyEVx3YkjUb3nwpkoLaqTgNtFhRRXHoeoqtzrpqxvo,BLG-Viper / SOL,0,3.08524937266e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T13:03:55Z,ENTRY,DaCQA5NqimAL8qYkDE9U5oY6L2FNEBsZJX94aTmNF8TP,XTO / SOL,0,0.227618163716,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T13:05:26Z,EXIT,BXbivVFdDzZWQKhNsigXt7rbHmLK8HYMY1hmyfxxm4pF,BPCATE / SOL,0,1.00366373816e-05,100.0,timeout,-7.67,-7.67,456.4,exit_bar=2026-11-15T13:04:00Z,control
+2026-11-15T13:05:26Z,ENTRY,yUeGFHxYm8E5Z9ykwZ3cNUjJbZ22vyvYCV3VL3dkKMV,CLAUDE / ANTHRP,0,3.16983716368e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
