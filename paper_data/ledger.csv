@@ -12923,3 +12923,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T13:14:02Z,ENTRY,24YmKsVhATstpxHnYbn1dK5wis73efzrVozcLnuJ1Atc,Sheriff / SOL,0,9.37876011891e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T13:15:25Z,ENTRY,8bdnRKn4cyvcyHs4w5bqnsH4KCn5A6Z6g7LCNpGbu8or,ZCAT / SOL,0,8.41077405827e-06,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
 2026-11-15T13:16:55Z,ENTRY,DUU23uzbFYkqzNKjKYF3pvdvGf7ig9iKBTKhgKg3ncN4,Socks / SOL,0,7.71339733113e-07,100.0,research_failed,,,456.4,score=0.00 momentum=37%,mom
+2026-11-15T13:21:22Z,EXIT,CeNsherwYV3M9eqDGcz65jTRY73wBQWoYQ261jLo3xAD,GАRUDA / SOL,0,4.5778183575e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T13:20:00Z,mom
+2026-11-15T13:22:45Z,ENTRY,4gLwpUzje5aQXYMTMy338Eok76iqXzi6SLfMEkZWZQgm,$MOOFOS / SOL,0,9.37104433901e-06,100.0,research_failed,,,456.4,score=0.00 momentum=131%,mom
+2026-11-15T13:22:45Z,FAILED,8yEnE5xVz5qZdKg8kqo5gBU2pAr8K8QdgQ8UNPTbuLD8,Jacket / SOL,0,0.000153125679131,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-15T13:24:23Z,EXIT,DfzKRWuEUTEHpxythzdeuVpSRw93WRzyHd7avfFgE8cS,poptimus / SOL,0,2.33054606765e-05,100.0,timeout,-10.68,-10.68,456.4,exit_bar=2026-11-15T13:22:00Z,control
+2026-11-15T13:25:46Z,ENTRY,6YXaE4Hx5RmrV7G7UpXCQSrbSQ7PbU4WbDbFo3wRYB1s,PNUT / SOL,0,1.12052145275e-05,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
