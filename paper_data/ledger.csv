@@ -13044,3 +13044,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T15:55:58Z,ENTRY,71Zen9i7fsU5Q9NabSGPBB7Eonukc6uWDaiH5DxsgyVD,GRANNY / SOL,0,6.51054584273e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T15:55:58Z,ENTRY,BmQG5T6pqZ7UbLKF8HSLbTdhPR9mhViec37MLQmJAQUc,TOAD / SOL,0,9.98766906081e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T15:55:58Z,FAILED,9czxXx8cubQeMAQBpT9KoeUoPobCvuNQ6AWXezymwmZP,FLOATASS / ANTHRP,0,3.09965624578e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-15T15:57:32Z,ENTRY,9KxSbH8F17GA2wcToXJHo8dYt4vGX4TtqQGB5LsMzBwr,Bufo / SOL,0,0.00017770987973,100.0,research_failed,,,456.4,score=0.00 momentum=15%,mom
+2026-11-15T15:59:02Z,ENTRY,9uwkZvzFnKJPyyfwjLsNuqr4xcANGnJhK71GMMnojVDG,ANTHROPIC / BUTTHOLE,0,1.77562079121e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T16:01:55Z,ENTRY,BiCLh8w7Ff2fyhhMvqjLCcXAzcpX8QCC3VvbVb4MLgTx,USOE / SOL,0,0.00707384326974,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
+2026-11-15T16:01:55Z,ENTRY,DaQf915PiasWKagPN8ZjvyvU5ZVzras2Bq2bM3aMaBwz,GTAVI / SOL,0,2.70586058452e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-21%,control
+2026-11-15T16:03:25Z,EXIT,53nFJDWyjpxs7udrHQ71cXqQa7CbW9jgiKqCHsQcWYWJ,NYAJIRA / SOL,0,2.24289277021e-05,100.0,sl,-100.06,-100.06,456.4,exit_bar=2026-11-15T15:11:00Z,mom
+2026-11-15T16:04:55Z,ENTRY,2GG4BZCWqW2DLjodiHyUaZWbDGPmY9hJ3XRDt1tfj6mq,BUTTHOLE / SOL,0,1.55552381299e-05,100.0,research_failed,,,456.4,score=0.00 momentum=48%,mom
+2026-11-15T16:04:55Z,ENTRY,5XEsgsapA6oLMuu66H81BMF9bJjPS7uzsDftcN8F4dqY,DOPE / ANTHRP,0,3.2803573282e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-13%,control
+2026-11-15T16:06:25Z,EXIT,GbjsK21sDandND8UnXjpweG9K94GcPAsWnVEvE8jaDbF,GTA 6 Coin / SOL,0,1.33444296583e-06,100.0,rug,-99.65,-99.65,456.4,exit_bar=2026-11-15T15:09:00Z,mom
+2026-11-15T16:06:25Z,ENTRY,HRXYpa2PSdJjdofQ8hTRnqqAp55pvN6GwqV2RkXdkVpL,q / ANTHRP,0,3.3139119423e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=3%,control
