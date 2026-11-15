@@ -12722,3 +12722,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T08:38:58Z,ENTRY,A9ozHGmzinFfprQbyZLa3fdrmmw3HwbJcoCssTFfJ58p,PURR / SOL,0,1.49210194195e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-15T08:40:28Z,ENTRY,AUJhJY8XDQLsNwnY6XVxmDnP8yjQtSEWKYUhRDbccvmY,DICE / SOL,0,9.71901205876e-06,100.0,research_failed,,,456.4,score=0.00 momentum=134%,mom
 2026-11-15T08:41:59Z,FAILED,HAkfctdm8WKWK9DNuibtvUPSGpUD2V1QjonJBWzogqRC,PISS / SOL,0,9.30661352328e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T08:43:33Z,EXIT,D64s65wB5Q5vhAfztMamgUKUwZPu6P8DhFVZMP9M4n3g,mihao / SOL,0,7.40248753104e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T08:41:00Z,control
+2026-11-15T08:43:33Z,ENTRY,3aQCmq6Xtpz6a9G1mpvvw2nqW8P5MDdSWtVYowBF7JPE,trench / SOL,0,9.49511605982e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T08:45:11Z,EXIT,9BGHjrWdPoD93DBbfVCXHqa5unxuk3nJdpVeDi3F6b83,USRD / USDT,0,1.00687998279,100.0,timeout,-3.22,-3.22,456.4,exit_bar=2026-11-15T08:41:00Z,control
+2026-11-15T08:46:27Z,EXIT,14DERWWvPfXAPJxkujGE64s622EFTXyidLErhKgVHoiB,sol / SOL,0,6.95062236611e-06,100.0,timeout,-12.35,-12.35,456.4,exit_bar=2026-11-15T08:43:00Z,control
+2026-11-15T08:46:27Z,FAILED,5KdkCCwrfWwfrBeVRXRJZCkYDBap7uvchZcH2DN1e557,PAYBRO / SOL,0,1.56190301438e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-15T08:47:58Z,EXIT,8cDrr4wC9g7G1NbRav5VFfukApYAGjnKWwszedgjtFiv,TaoTao / SOL,0,4.65271164865e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-15T08:44:00Z,mom
+2026-11-15T08:47:58Z,FAILED,Hna9ATtaqUAE13RhhSV5e4Ef83CepaLeEnueercbdxfF,Mentat / SOL,0,6.72969693807e-07,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T08:49:29Z,EXIT,9VMA3XpfwVYbxTmGrG3yDW9FMUjTDVwvmVTtmGeEv2FN,GTA6 Coin / SOL,0,4.85188470292e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-15T08:02:00Z,mom
+2026-11-15T08:49:29Z,ENTRY,3ajHCXQfBd2x5THmKy6EJQQLvQ6vKGBGkcbJxb8xqqdg,Mentat / SOL,0,7.87864716101e-07,100.0,research_failed,,,456.4,score=0.00 momentum=50%,mom
+2026-11-15T08:50:59Z,EXIT,r9tTnaemSC9kHJkYfRzzEwYxgeLRsq776FAf28mu8sY,TUSD / SOL,0,2.56653632153e-05,100.0,timeout,-7.06,-7.06,456.4,exit_bar=2026-11-15T08:48:00Z,control
+2026-11-15T08:52:23Z,ENTRY,D7oEgoXDEzTfdZWxdH1afhtyt5rJZGyDykKA2Ky2UGmU,Mentat / SOL,0,7.94143347665e-07,100.0,research_failed,,,456.4,score=0.00 momentum=47%,mom
+2026-11-15T08:52:23Z,ENTRY,J2UAYjg4Ya8BUsqnSLucCKQU3oVDhVFXjTLU3CGTpqEH,USYC / USDT,0,1.03901465867,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
