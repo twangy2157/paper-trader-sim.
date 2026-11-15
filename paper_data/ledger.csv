@@ -12603,3 +12603,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T04:58:26Z,FAILED,7xo9FeQDb3hDwrhpwMnA2ZvM3nYwqZJRMHkYDtNtd4h6,Coinbase / SOL,0,3.70452498023e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-15T04:59:56Z,ENTRY,Aoxb4rtrUytGgDxtVqAr8PkZ4fXSHKvp3KDXW1288jPp,ニャジラ / SOL,0,7.91423028129e-07,100.0,research_failed,,,456.4,score=0.00 momentum=39%,mom
 2026-11-15T05:01:25Z,FAILED,XxsQR11NiwML2EcBVFMFTKA4jmp7bgzCG1JDrSoVH7h,upcat / SOL,0,0.00250428043798,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T05:04:23Z,ENTRY,C56EiC7BS6XVXEbcuTKGNDkDhzzJEbgNHHTTf9m5Y7Yn,FHC / SOL,0,8.23995953104e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-15T05:04:23Z,ENTRY,8PzweuzQzVQcBAUc9wD4nrA4tq6TMKPHDgwWvXHiQHsQ,FOMOCAT / SOL,0,1.33600884052e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T05:07:15Z,EXIT,4Jtf9Fm8UTq7jwDt3yysCVReTFhGMjjE57QMpKYuYQQm,FERSPE / SOL,0,2.26277047109e-06,100.0,sl,-71.45,-71.45,456.4,exit_bar=2026-11-15T04:07:00Z,control
+2026-11-15T05:08:31Z,ENTRY,FgTV42ut5bMmfGdSgBUJrjwSToxZExuuHCDP56Mtc9v,PELI / SOL,0,0.000105374500243,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-15T05:10:01Z,EXIT,FdnPNm3FV7i5dVLu76WRWE6CYuyn9TEt49uFkCnBAFrk,ニャジラ / SOL,0,2.59549171693e-05,100.0,tp,91.9,91.9,456.4,exit_bar=2026-11-15T04:21:00Z,mom
+2026-11-15T05:12:32Z,EXIT,ELw7ySsEriBzhG99PZNepVXX5YkZKZQLyGydY8VC3FVH,AXG / SOL,0,3.35201411887e-05,100.0,timeout,-3.87,-3.87,456.4,exit_bar=2026-11-15T05:11:00Z,mom
+2026-11-15T05:12:32Z,ENTRY,BAGg8dn6oNdC2ZhiEjMx98w3s5fgY8qpvSjC6AF1eKrC,income / SOL,0,1.79735513248e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
