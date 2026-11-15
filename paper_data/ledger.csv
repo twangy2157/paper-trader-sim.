@@ -12685,3 +12685,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T07:25:26Z,ENTRY,E1Z8wCRCR7Z12obTdih1peFvE37Xjk3KFfWGLKty1nDX,USPD / SOL,0,6.92828224871e-07,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-96%,control
 2026-11-15T07:26:57Z,ENTRY,AwbwCLL16LWFCsPY45peC9bBTjgvNApSoXDyETDy3PRR,Ole Miss / SOL,0,2.77084172984e-05,100.0,research_failed,,,456.4,score=0.00 momentum=61%,mom
 2026-11-15T07:28:28Z,ENTRY,5iwmBtgAtTruqg1Qajhv2qRkbtprnNmazqxkbTqd36nP,HOGE / SOL,0,3.77492586263e-05,100.0,research_failed,,,456.4,score=0.00 momentum=34%,mom
+2026-11-15T07:32:56Z,ENTRY,D3T9gG1PsYsHoTf5Tamn9g8knjoYRvtGd2tFTsJqygAn,horse / SOL,0,0.000397994603645,100.0,research_failed,,,456.4,score=0.00 momentum=51%,mom
+2026-11-15T07:34:27Z,ENTRY,9HmQ1FBk5V7LhKjNcKfdnZVBr8NMgBRhG9MZSu9zbHp9,TaoTao / SOL,0,3.75778185174e-05,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
+2026-11-15T07:37:28Z,FAILED,8Be7ktFKQre9eS54BdzAAqAPBGshGuB3goVPhcR3dZe1,HOGE / SOL,0,6.43349443105e-07,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
