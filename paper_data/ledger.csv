@@ -12596,3 +12596,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T04:49:29Z,EXIT,Da6kVDrKCZjfyNEu1k4nuCZbGAMcqUH9GZgHH2FD1aoM,penny / SOL,0,1.26934200478e-08,100.0,rug,-100.99,-100.99,456.4,exit_bar=2026-11-15T03:47:00Z,mom
 2026-11-15T04:50:59Z,ENTRY,HLham7D1vgrBgJYTtUwWaP3YSe4k8fQS5qn9jd2Z2XLa,BabyTrump / SOL,0,4.29611081299e-05,100.0,research_failed,,,456.4,score=0.00 momentum=189%,mom
 2026-11-15T04:50:59Z,FAILED,9DkJHK3qbz7NYDEe18suSQWhvtDs2yTy5u27krbPeUse,DOGE PAID / SOL,0,7.48089315343e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T04:52:33Z,ENTRY,9MmGNCDS7383TTuPAhVs79XDE4kyV2vvbWz7wDRe9F7P,ニャジラ / SOL,0,6.57594218379e-07,100.0,research_failed,,,456.4,score=0.00 momentum=32%,mom
+2026-11-15T04:52:33Z,FAILED,4TswMzX28ymQsVXrVqmncaCYvY65ooh9Fj8jUYWCcG5A,USDC / SOL,0,6.64363827742e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-15T04:52:33Z,ENTRY,6yMFoXXfz63uaoKqFT4NbdzWqrBwauKtasvWsmhMFEDy,HODL / SOL,0,3.8007369719e-05,100.0,research_failed,,,456.4,score=0.00 momentum=17%,mom
+2026-11-15T04:55:26Z,FAILED,AEPZHzWv6bC2hTY75hLTr7DDTtCbgeaZNFx3GMhw6ndt,BKTESTU / USDC,0,1.96262163779e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-15T04:58:26Z,FAILED,7xo9FeQDb3hDwrhpwMnA2ZvM3nYwqZJRMHkYDtNtd4h6,Coinbase / SOL,0,3.70452498023e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T04:59:56Z,ENTRY,Aoxb4rtrUytGgDxtVqAr8PkZ4fXSHKvp3KDXW1288jPp,ニャジラ / SOL,0,7.91423028129e-07,100.0,research_failed,,,456.4,score=0.00 momentum=39%,mom
+2026-11-15T05:01:25Z,FAILED,XxsQR11NiwML2EcBVFMFTKA4jmp7bgzCG1JDrSoVH7h,upcat / SOL,0,0.00250428043798,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
