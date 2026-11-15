@@ -13144,3 +13144,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-15T18:00:31Z,ENTRY,2tmCAzo622mjBkeh1GgAxHnfaG72fxMKSHqJYvexo9Ee,TAOLF / FLOAT,0,1.41842272869e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-6%,control
 2026-11-15T18:02:09Z,ENTRY,4rm7LQ7uDXMmMGV88QJK1ck22xUq3cxg9QqiyMBhKsnq,Anthropig / SOL,0,0.000144108806572,100.0,research_failed,,,456.4,score=0.00 momentum=21%,mom
 2026-11-15T18:03:31Z,EXIT,3F8yCejBZstHqpdEyYC4V61hZZHtbSR3WMM7mZSZft1U,BUTTHOLE / SOL,0,8.44932118194e-06,100.0,sl,-100.03,-100.03,456.4,exit_bar=2026-11-15T17:06:00Z,mom
+2026-11-15T18:08:06Z,FAILED,HSHaNSYmyYsjGGxiixVFZBSVXWLPDxMqZpFET6hg1Mzh,austism / SOL,0,3.75530629641e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-15T18:09:29Z,ENTRY,5WCmbbrndBnTdJKwuvUiG89fNFXiTPDpP1tDiseZNhnW,Pterodactyl / SOL,0,0.000281424034099,100.0,research_failed,,,456.4,score=0.00 momentum=95%,mom
+2026-11-15T18:09:29Z,FAILED,4WYC6ALKM3AJ4wTr9SMMy884Z38AksnBYZ9zPqhwTjPC,UDTF / SOL,0,0.00231039089575,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-15T18:11:00Z,EXIT,EEGQ8y3oEZVVocsxRZVhUosXFqG6zrRQF9Vfnn9S2U7T,APEPE / BUTTHOLE,0,1.67122729485e-05,100.0,timeout,-5.83,-5.83,456.4,exit_bar=2026-11-15T18:09:00Z,control
+2026-11-15T18:12:23Z,ENTRY,F6oWxiauMyFRx5hpvqKg13fKnSjxHJHwKg7JqAS3LgrG,ULTRA / SOL,0,9.94949050933e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-15T18:13:46Z,EXIT,BzGYLdpMDoKTq2zKASsJayX6KrXcUQKevfWhkT75kEgg,TAOLF / FLOAT,0,1.45567831194e-05,100.0,timeout,-5.58,-5.58,456.4,exit_bar=2026-11-15T18:12:00Z,control
+2026-11-15T18:13:46Z,ENTRY,BytjsK7SuPvp9mFzN53aX9ELbPJLKM6iJ6RukaTXBnkg,USOE / USDC,0,0.0263652717156,100.0,control_no_momentum,,,456.4,score=0.00 momentum=2%,control
