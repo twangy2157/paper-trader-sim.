@@ -13762,3 +13762,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T13:43:44Z,ENTRY,97h3mtBBFdtwjHqtJH1MiSB6GQdBuANpwMVM5nY3zRvL,STUMPY / SOL,0,0.000126914574023,100.0,research_failed,,,549.35,score=0.00 momentum=84%,mom
 2026-11-16T13:45:44Z,EXIT,4iktZh9bWLBVx7zrh5ioEzhw39FbVyaUzAFD2NTXFecc,Fox / SOL,0,7.54693907943e-06,100.0,timeout,-9.23,-9.23,549.35,exit_bar=2026-11-16T13:44:00Z,control
 2026-11-16T13:45:44Z,ENTRY,G8LhQ7AuqzPCMFPFtEfJBpWzQxYP5ut765rj5AHUP6fJ,STUMPY / SOL,0,9.12346036638e-05,100.0,research_failed,,,549.35,score=0.00 momentum=128%,mom
+2026-11-16T13:46:49Z,ENTRY,FGjBHXnU5QJzVB9HocJzizQopnxwLcwipcQDBfGH8YeH,GTA 6 Coin / SOL,0,4.18752973265e-05,100.0,research_failed,,,549.35,score=0.00 momentum=26%,mom
+2026-11-16T13:49:18Z,ENTRY,FfZKc9sFXxJagRB5BsSNw9xVMG15iikUTXWcsgRUcb5K,Marvin / SOL,0,6.84468558639e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=8%,control
+2026-11-16T13:49:18Z,ENTRY,DhNGcxULCKwCeSTxGG2u7nNFYaTxdAgm2qKVFJSfvMa6,McCoin / MCDx,0,1.59446215704e-05,100.0,research_failed,,,549.35,score=0.00 momentum=42%,mom
+2026-11-16T13:50:41Z,ENTRY,dMkguuMcRvE2xLzHj2of5CFMXDv8n33yVf2G52nMRJJ,BunnyCoin / SOL,0,9.15007291622e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-16T13:55:17Z,EXIT,EHBvQ3wZhxy5N79onCnKUqY76mewEt8F9jhtXJbR3fKT,1.0 / SOL,0,6.91425565908e-05,100.0,tp,-100.01,-100.01,549.35,exit_bar=2026-11-16T13:11:00Z,mom
+2026-11-16T13:56:39Z,EXIT,ALxA3ahkDg34fnLZeEueobPwGTG9awPz6mcqbHNbRbog,WIGGLES / SOL,0,1.31786796125e-07,100.0,rug,-100.4,-100.4,549.35,exit_bar=2026-11-16T13:04:00Z,mom
