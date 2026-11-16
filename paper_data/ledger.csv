@@ -13822,3 +13822,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T15:40:55Z,FAILED,4Q7Jq9uR9TqDLBdUyko6EZBaWaQXnjE23uaeMKSyRkZ8,Load / SOL,0,2.58974879167e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
 2026-11-16T15:48:28Z,ENTRY,GhJoY4J6EGLSTPJ5hRQ6tcU5k7hibCf6i6pAdjoy2Fpk,wind / SOL,0,1.02051713869e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
 2026-11-16T15:52:57Z,ENTRY,CUmhJJnoyBejT82vHMHB5BUNdxNzgjRay2vdVRkBArEz,GTCM / SOL,0,1.66511383534e-05,100.0,research_failed,,,549.35,score=0.00 momentum=24%,mom
+2026-11-16T15:54:32Z,ENTRY,EPCEwz8XytzEneHHU4HeAxoHAN5HBqZU9H7erHhnZYKq,scam / SOL,0,8.77607858032e-05,100.0,research_failed,,,549.35,score=0.00 momentum=650%,mom
+2026-11-16T16:02:47Z,EXIT,mEQknN3691sz6nd5EVaRtcXx3CSAH8svMgUUYk8isLE,GTAVI / SOL,0,1.01842999975e-08,100.0,rug,-101.0,-101.0,549.35,exit_bar=2026-11-16T15:13:00Z,control
+2026-11-16T16:04:17Z,EXIT,D2QrkFFVJD3ymRjJCLUTwMknLvoLTDiL7cqt4Bxa28px,Load / SOL,0,7.65809933157e-06,100.0,timeout,-9.76,-9.76,549.35,exit_bar=2026-11-16T16:01:00Z,control
