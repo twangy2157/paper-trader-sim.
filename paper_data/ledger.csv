@@ -13483,3 +13483,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T04:32:57Z,ENTRY,5QuLpNkvdjZGvoNKDpeHh9t5EsbQASHPVpMAYaPGLLMF,Marvin / SOL,0,3.94229421677e-05,100.0,research_failed,,,456.4,score=0.00 momentum=32%,mom
 2026-11-16T04:34:26Z,ENTRY,2qBzan7RG37myMQdbBauJFMePimJ5PAtEwvXGYFBPKcA,TSST / SOL,0,2.9702214366e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
 2026-11-16T04:35:56Z,FAILED,8vRWt2pXaM9bHznBaS3nW3FK1vhGB5Bs47BDm1j4b96y,up / SOL,0,3.37787746174e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-16T04:38:59Z,ENTRY,3S6REfh3DhAu7X7mCXxVzXkQd5Uq3x49WHxKpQ8XZS3s,shahao / SOL,0,3.12140075363e-05,100.0,research_failed,,,456.4,score=0.00 momentum=98%,mom
+2026-11-16T04:40:29Z,ENTRY,3HN1wS4f2noReYY78MwFmHNZ5DyKXd8PuNqHEBaErnZJ,HOGE / SOL,0,1.43431073004e-05,100.0,research_failed,,,456.4,score=0.00 momentum=111%,mom
+2026-11-16T04:46:19Z,EXIT,EYni5dLdhdGFLoPkedfmBvyRiYqCoUkyhTVSgQW2NXF8,HCC / SOL,0,4.32630597749e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-16T04:08:00Z,mom
+2026-11-16T04:47:35Z,ENTRY,2XuVCnzktAEpN9hg1Nb1wdUNPQADBm1L6yjLgBU3xr9V,Up / USDC,0,1.69879817066e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-16T04:47:35Z,ENTRY,3NKUVdHnCML7nKRQrE8uaRt7wqNU9Vd9SMBsvYoXKuiG,NC / SOL,0,1.05304290644e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
