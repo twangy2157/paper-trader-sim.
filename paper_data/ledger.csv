@@ -13843,3 +13843,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T16:31:29Z,ENTRY,GyVAm49GaqUZu3votf9om41saCR56vhq1StsQ7EXWukF,WIGGLES / SOL,0,1.26179140975e-09,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-16T16:35:58Z,ENTRY,D4phi3DyPhX6JeCph2g13vRm8c1KhzPuR6bUfr2K44Uq,PIRATE / SOL,0,1.84822295617e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-16T16:35:58Z,ENTRY,BNh4BJU6TWNF339jvt9X5Bw5fnqTSaky9r8842Dj8xAq,MERT / SOL,0,3.0300915748e-05,100.0,research_failed,,,549.35,score=0.00 momentum=115%,mom
+2026-11-16T16:37:32Z,ENTRY,3HUFdubfSXAciG7p8Dzn8SazwQUhkntVMZb9hEBDy834,GTA / SOL,0,5.23795889798e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-16T16:37:32Z,ENTRY,5GrnmdoQN52KZEy9TsvKZkT31dCE8qV1fFrGxcYHuVo,queen / SOL,0,3.31107073625e-05,100.0,research_failed,,,549.35,score=0.00 momentum=13%,mom
+2026-11-16T16:39:02Z,EXIT,BhXwE2oWnxstbq3R1iUZ8EkqxyJQias6BgapRjHYfQzX,JYPA / USDT,0,0.299750226065,100.0,timeout,-6.55,-6.55,549.35,exit_bar=2026-11-16T16:38:00Z,control
+2026-11-16T16:41:32Z,EXIT,Fe3X2QcMpe8zRqc7rSyFVbadAWcJ2tLm1f6h64jgh4yM,ryok.net / SOL,0,1.05012464143e-05,100.0,timeout,-7.32,-7.32,549.35,exit_bar=2026-11-16T16:40:00Z,control
+2026-11-16T16:41:32Z,ENTRY,2uKPqLom5VTpugTwcQ2S31U5GgseHBhSiPgXuXYzgsda,HABIBO / SOL,0,7.09170307927e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:43:25Z,EXIT,DrhJeYjNikyR4QBJ4ZeKzs2yPhwDFd7Qzk1gJErK2CwJ,ttt / SOL,0,5.0050980712e-06,100.0,timeout,-10.13,-10.13,549.35,exit_bar=2026-11-16T16:40:00Z,control
+2026-11-16T16:43:25Z,ENTRY,Vj5o733BcX1dRC3BWbm8797ijKxh3w5QodQe4zqpsk3,Marvin / SOL,0,6.96513686969e-06,100.0,research_failed,,,549.35,score=0.00 momentum=30%,mom
+2026-11-16T16:45:02Z,ENTRY,CGuPu7n6iCisxsaSUQTg169XxFNWEaNxRjFct2TiSn9W,STATE / SOL,0,4.35694947039e-05,100.0,research_failed,,,549.35,score=0.00 momentum=532%,mom
+2026-11-16T16:46:25Z,ENTRY,C3qfj2tNgynj7G1GR5tmVCJorTzgxfqj7HrGhHcYbCF6,TIKTOK / SOL,0,2.78408162123e-06,100.0,research_failed,,,549.35,score=0.00 momentum=67%,mom
