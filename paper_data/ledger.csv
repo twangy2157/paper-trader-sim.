@@ -13686,3 +13686,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T12:07:30Z,ENTRY,82AEjjUqy8KJZVCoc3dp1wr3AN7AVzHbqcG78B2ESE4p,Gossip / SOL,0,2.90263592902e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
 2026-11-16T12:09:07Z,EXIT,4uy2a9a1EB2QfsPhAQo2WPVPwQkE4RjXMSSDaaUTnntT,gtacoin / SOL,0,0.00103604967735,100.0,sl,-99.46,-99.46,549.35,exit_bar=2026-11-16T11:08:00Z,mom
 2026-11-16T12:10:30Z,ENTRY,2iFLKvwyxZ5Ef5iiL1cFSeE2uL149LZ2UgsgA71LLLuJ,SNUT / SOL,0,3.85951592874e-05,100.0,research_failed,,,549.35,score=0.00 momentum=17%,mom
+2026-11-16T12:12:07Z,ENTRY,3Bxmro9Lzg8CqwjhDZys19qnuUwSZWug3Dgbo5jUPPuw,SNUT / SOL,0,3.48801428615e-05,100.0,research_failed,,,549.35,score=0.00 momentum=21%,mom
+2026-11-16T12:13:29Z,ENTRY,DjhFaFsRaySdxKbQnm8vDotZAJYh9AZ6LoFnynSd322f,SNUT / SOL,0,1.10864888219e-05,100.0,research_failed,,,549.35,score=0.00 momentum=47%,mom
+2026-11-16T12:13:29Z,ENTRY,BkC4cynBreQuiUWT2fiksyNYAkBxwKceCUbWL47thvA4,Fox / SOL,0,1.16928706333e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T12:14:59Z,ENTRY,AKHfGFbUki5jgmFzZiFB6wAaEGxV62vRvE8qdQTsEhBc,1.0 / SOL,0,6.65805366697e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=7%,control
+2026-11-16T12:16:28Z,ENTRY,FdwZp8icpkC2mK63L7KefPEEejNYJpvPbcLJHuthLq8g,kittylick / SOL,0,7.05039362406e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T12:17:58Z,ENTRY,dcpewd9DRUTkjQwTdYeCZniHcYMiakQKVoqQz2vMtCn,DOUG / TTWO,0,2.245927188e-05,100.0,research_failed,,,549.35,score=0.00 momentum=67%,mom
+2026-11-16T12:19:27Z,ENTRY,FGuJXJseZ7FXxWmb8rF8kJDqdxAhMkEKNqEuYmuEWiyf,GIFTPAD / SOL,0,1.70805084688e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=10%,control
+2026-11-16T12:19:27Z,ENTRY,C9NedyFfK9JQC9XR2Nz51szEGHzsUJxKuZDpQjuYhxFf,JAPE / SOL,0,1.01523783917e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T12:20:57Z,FAILED,Fq4g8mkvXWnLY5HcdNZDXdgbpuuMhN5M8ykAkihVEYZ8,USPR / SOL,0,2.72110749507e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-16T12:20:57Z,ENTRY,F6NYTyE9ZPccQ4B5KMFH4br9Ubfk2wj6wBQZgUfmmrj2,PAD / SOL,0,0.0638449981954,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
