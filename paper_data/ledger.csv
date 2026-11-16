@@ -13852,3 +13852,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T16:43:25Z,ENTRY,Vj5o733BcX1dRC3BWbm8797ijKxh3w5QodQe4zqpsk3,Marvin / SOL,0,6.96513686969e-06,100.0,research_failed,,,549.35,score=0.00 momentum=30%,mom
 2026-11-16T16:45:02Z,ENTRY,CGuPu7n6iCisxsaSUQTg169XxFNWEaNxRjFct2TiSn9W,STATE / SOL,0,4.35694947039e-05,100.0,research_failed,,,549.35,score=0.00 momentum=532%,mom
 2026-11-16T16:46:25Z,ENTRY,C3qfj2tNgynj7G1GR5tmVCJorTzgxfqj7HrGhHcYbCF6,TIKTOK / SOL,0,2.78408162123e-06,100.0,research_failed,,,549.35,score=0.00 momentum=67%,mom
+2026-11-16T16:48:00Z,ENTRY,HFNQxPjFtKFEZipjGc2aoodTg6RUSZWUjMbbU3hrXfQY,wApe / SOL,0,1.70645109508e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:49:22Z,ENTRY,8MRJGCU8XvuZ63YXiMwmaxv5fconHY9kSfx6te8xKrXQ,BLSH / SOL,0,1.87639395581e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-24%,control
+2026-11-16T16:49:22Z,ENTRY,3cg2vMR6oCUUDwpVx6YSgmsBPaekGeEUmxy8MQywyyzK,BLSH / JUP,0,1.90030391348e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-13%,control
+2026-11-16T16:49:22Z,FAILED,ApzA2B6zbVVWbuoGJB3QJkGbZXjQWFuNSZxLKMSpCiij,Rings / SOL,0,0.00975838346633,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-16T16:50:59Z,EXIT,GhJoY4J6EGLSTPJ5hRQ6tcU5k7hibCf6i6pAdjoy2Fpk,wind / SOL,0,1.00784487419e-05,100.0,timeout,-6.55,-6.55,549.35,exit_bar=2026-11-16T16:49:00Z,control
+2026-11-16T16:52:14Z,ENTRY,2UmLqn5L2urpWyopxti4EebaW2yRvohAiUj3UsdiPCWp,SGB / USDC,0,0.77444316253,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:52:14Z,ENTRY,G3MBnq9i7DAfMaViRgjBjDhGif7VukZmE8w3cH2e2RjC,PIRATE / SOL,0,1.04161311353e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:53:36Z,FAILED,EKi5QCzG5HMHKbcCiKdPT2q8TwomKJHTw7HjBnUt1WMM,USYC / USDT,0,1.00054158328,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-16T16:53:36Z,ENTRY,BEGgAvXDyoX1bbfFv8DDc8PA8DZanXCjcG6YZM2W78vi,PAYLOAD / SOL,0,7.69749287039e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:55:13Z,EXIT,CUmhJJnoyBejT82vHMHB5BUNdxNzgjRay2vdVRkBArEz,GTCM / SOL,0,1.65569461997e-05,100.0,timeout,-5.01,-5.01,549.35,exit_bar=2026-11-16T16:53:00Z,mom
+2026-11-16T16:56:36Z,EXIT,EPCEwz8XytzEneHHU4HeAxoHAN5HBqZU9H7erHhnZYKq,scam / SOL,0,3.38848385095e-05,100.0,sl,-100.04,-100.04,549.35,exit_bar=2026-11-16T15:55:00Z,mom
+2026-11-16T16:56:36Z,FAILED,64dNqgshjYRT2UovTtpd3PBs7yRMoyBfvxwzrH5KWzmJ,MOONROCKET / USDC,0,5.36029071676e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
