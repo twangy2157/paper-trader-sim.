@@ -14001,3 +14001,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T20:29:20Z,EXIT,JDbXBHzXVi83TjcVw5Nv22qJ5XzdiM4jEKQCWLGVs6VJ,250 / SOL,0,1.96264925928e-05,100.0,sl,-100.03,-100.03,549.35,exit_bar=2026-11-16T19:36:00Z,mom
 2026-11-16T20:30:43Z,EXIT,68Tw3ryopJzwzdHxnjpf1vjgQw3pH6Fr2gvEgkjxymZC,NVDA / MEOWL,0,155.762249133,100.0,timeout,-10.0,-10.0,549.35,exit_bar=2026-11-16T20:29:00Z,control
 2026-11-16T20:32:20Z,EXIT,Cz9i72c25pZuafaL4DmkJnbVeapXEsiggKeSFkdudrSE,NONE / SOL,0,0.000178294253577,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-16T20:31:00Z,mom
+2026-11-16T20:33:47Z,ENTRY,3hCmG4M3eRcM76ShFn2qKY5Fbh43pidhkVBk4FKGE8bM,GNB / SOL,0,6.71808398474e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T20:35:17Z,ENTRY,HhhBKw5sf9kBbk8n2UTPfHRF9qgJRucfSWPzLXM2xHL4,ZCAP / SOL,0,6.82485966609e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=10%,control
+2026-11-16T20:36:39Z,ENTRY,5ndFoykTZD75CqWXkhmxRLT2PEDbGTJovhjB9GEYaMeo,BANK / SOL,0,6.45410650304e-07,100.0,research_failed,,,549.35,score=0.00 momentum=59%,mom
