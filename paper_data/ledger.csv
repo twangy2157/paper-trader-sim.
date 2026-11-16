@@ -13524,3 +13524,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T06:20:37Z,ENTRY,EzHqdSh3TUCy1bPTzzhHEBzg7xcYnaSwznuX2FZwPvmm,pussy / SOL,0,1.07434014922e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
 2026-11-16T06:20:37Z,ENTRY,71T2uwLrLLPJ7hRSz27KKoJEkzXfRXPmYkuAWA5wDDRf,CATE / SOL,0,1.8195904144e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-16T06:23:36Z,EXIT,3NKBA9h5xKfNZme38eANDERAk3Y39BQmpJxGxQwFAvz5,KELPGUY / SOL,0,8.83170914525e-08,100.0,rug,-100.81,-100.81,456.4,exit_bar=2026-11-16T05:26:00Z,mom
+2026-11-16T06:28:09Z,EXIT,7cAwWwqQQ4YtSZXVD8gKJaXnufw6f1oD5KzPQP5WaDqp,USOI / SOL,0,0.00101013254985,100.0,timeout,-5.88,-5.88,456.4,exit_bar=2026-11-16T06:25:00Z,control
+2026-11-16T06:30:46Z,ENTRY,2qBFxjXjLujZ7MWdDjb2J5DM3du3xmvR6jNvdampT278,NOODLE / SOL,0,6.75152946196e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
+2026-11-16T06:33:31Z,FAILED,F4RsaXsQKgz2xaVbJc9MAiDq2gAh2q3NpmAmmGhP6NQT,GATSBY / Marvin,0,9.33299479695e-06,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-16T06:33:31Z,ENTRY,6onurkNXyquZ1EWm8S6rahfvz199VyfQqeLC6zQEvBqM,MOTOWN / ZEC,0,2.14066744545e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-16T06:35:07Z,EXIT,C6g32XoahU6HRxBgKyiAgLY3gXP2mXtgZZFRRN2sW5Td,shahao / SOL,0,1.51706346439e-07,100.0,rug,-100.73,-100.73,456.4,exit_bar=2026-11-16T06:04:00Z,mom
