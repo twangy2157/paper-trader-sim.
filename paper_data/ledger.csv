@@ -13494,3 +13494,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T05:05:01Z,EXIT,AnVTfv6xbDTkU4swLyvbZsqTPyxwPfouzZfDgfdnySsf,kittylick / SOL,0,6.92165964764e-06,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-16T05:04:00Z,control
 2026-11-16T05:15:36Z,EXIT,6uMWRXpvRActjHgvrD99zMgMN66AiHqRi699VFmJ4t9X,CBUCKS / SOL,0,5.23727046852e-08,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-16T05:10:00Z,control
 2026-11-16T05:18:35Z,ENTRY,D1bzmshxMHqVhVKHVSKHNQ4AdmoafJRYgFViN2xcnpGR,MCH / SOL,0,8.62929127853e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-16T05:21:31Z,ENTRY,3NKBA9h5xKfNZme38eANDERAk3Y39BQmpJxGxQwFAvz5,KELPGUY / SOL,0,3.59763890081e-05,100.0,research_failed,,,456.4,score=0.00 momentum=24%,mom
+2026-11-16T05:24:16Z,ENTRY,7cAwWwqQQ4YtSZXVD8gKJaXnufw6f1oD5KzPQP5WaDqp,USOI / SOL,0,0.00103794729553,100.0,control_no_momentum,,,456.4,score=0.00 momentum=5%,control
+2026-11-16T05:29:52Z,EXIT,Akam5ubogt1qCa3vNbt9SGXDNNvxvo6WDRmDUhbbGbrr,mihao / SOL,0,7.68104765819e-05,100.0,timeout,8.17,8.17,456.4,exit_bar=2026-11-16T05:26:00Z,control
+2026-11-16T05:31:09Z,EXIT,A27iqbAzMbSEodKD4ZbvX8fohtT8aBtUJUnZy2PAfL2x,鸭马尔 / SOL,0,2.95134868054e-05,100.0,rug,-3.72,-3.72,456.4,exit_bar=2026-11-16T05:26:00Z,control
