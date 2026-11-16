@@ -13515,3 +13515,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T06:07:35Z,ENTRY,6mqyD5jMcHiQSBRCDDFSREzug3vhpytJ5KVi74C5ABJc,OMI / SOL,0,1.61288926567e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
 2026-11-16T06:07:35Z,ENTRY,5fJCutqNX4WXJ5m4CN96rKA5zcTcb7VNNngiGAuvYwgD,x ae a-xii / SOL,0,1.7377803266e-05,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
 2026-11-16T06:14:33Z,ENTRY,6u38MEJ3qst7PEGqiEQiHnGkjvo8YZbZ2JovKiiTWVDV,Neil / SOL,0,2.8675195136e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-16T06:16:16Z,ENTRY,FYU6V1cKupvjQD1apUVB3TQGTU1derSzieVAP4xr8c67,SAFU / SOL,0,1.71546571913e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=3%,control
+2026-11-16T06:16:16Z,FAILED,pK3b5wgppPMDH8t6SsPZesiBtt5WEL4Lsmv7a8Ztidz,1 / SOL,0,1.56160944568e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
+2026-11-16T06:17:38Z,ENTRY,DLmYjsvx7SYEVq7vjn9rPZtP4aTAcPAaqoTmriZZgpt8,Fox / SOL,0,7.76281686252e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-16T06:17:38Z,ENTRY,DGorrsEXyonhGobppLErFwH4zQ2UQxBjXnSGsCnc6XR4,GTA$ / SOL,0,2.15911182296e-05,100.0,research_failed,,,456.4,score=0.00 momentum=160%,mom
+2026-11-16T06:19:14Z,EXIT,2MvipcFtKehs4gZM5XvYN3T8EVT5uAS6ifvbJUDKYY5A,Koop / SOL,0,8.30100569372e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-16T06:17:00Z,proven
+2026-11-16T06:20:37Z,EXIT,D1bzmshxMHqVhVKHVSKHNQ4AdmoafJRYgFViN2xcnpGR,MCH / SOL,0,8.37728930741e-06,100.0,timeout,-8.56,-8.56,456.4,exit_bar=2026-11-16T06:19:00Z,control
+2026-11-16T06:20:37Z,ENTRY,EzHqdSh3TUCy1bPTzzhHEBzg7xcYnaSwznuX2FZwPvmm,pussy / SOL,0,1.07434014922e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-1%,control
+2026-11-16T06:20:37Z,ENTRY,71T2uwLrLLPJ7hRSz27KKoJEkzXfRXPmYkuAWA5wDDRf,CATE / SOL,0,1.8195904144e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-16T06:23:36Z,EXIT,3NKBA9h5xKfNZme38eANDERAk3Y39BQmpJxGxQwFAvz5,KELPGUY / SOL,0,8.83170914525e-08,100.0,rug,-100.81,-100.81,456.4,exit_bar=2026-11-16T05:26:00Z,mom
