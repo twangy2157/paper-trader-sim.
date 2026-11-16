@@ -13480,3 +13480,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T04:24:17Z,EXIT,J79o78LUcFyhEzx5Kru3mWDfSN2Xqudxnu4XfJ2AonCA,A4 / SOL,0,3.45655662868e-06,100.0,sl,-81.62,-81.62,456.4,exit_bar=2026-11-16T03:26:00Z,control
 2026-11-16T04:25:39Z,ENTRY,Akam5ubogt1qCa3vNbt9SGXDNNvxvo6WDRmDUhbbGbrr,mihao / SOL,0,6.83989551283e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=9%,control
 2026-11-16T04:25:39Z,ENTRY,A27iqbAzMbSEodKD4ZbvX8fohtT8aBtUJUnZy2PAfL2x,鸭马尔 / SOL,0,2.95366016645e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-16T04:32:57Z,ENTRY,5QuLpNkvdjZGvoNKDpeHh9t5EsbQASHPVpMAYaPGLLMF,Marvin / SOL,0,3.94229421677e-05,100.0,research_failed,,,456.4,score=0.00 momentum=32%,mom
+2026-11-16T04:34:26Z,ENTRY,2qBzan7RG37myMQdbBauJFMePimJ5PAtEwvXGYFBPKcA,TSST / SOL,0,2.9702214366e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-4%,control
+2026-11-16T04:35:56Z,FAILED,8vRWt2pXaM9bHznBaS3nW3FK1vhGB5Bs47BDm1j4b96y,up / SOL,0,3.37787746174e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
