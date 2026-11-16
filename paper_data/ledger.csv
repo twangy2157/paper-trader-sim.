@@ -13820,3 +13820,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T15:39:25Z,ENTRY,Fe3X2QcMpe8zRqc7rSyFVbadAWcJ2tLm1f6h64jgh4yM,ryok.net / SOL,0,1.07453693234e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-16T15:39:25Z,ENTRY,DrhJeYjNikyR4QBJ4ZeKzs2yPhwDFd7Qzk1gJErK2CwJ,ttt / SOL,0,5.20300237799e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-16T15:40:55Z,FAILED,4Q7Jq9uR9TqDLBdUyko6EZBaWaQXnjE23uaeMKSyRkZ8,Load / SOL,0,2.58974879167e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-16T15:48:28Z,ENTRY,GhJoY4J6EGLSTPJ5hRQ6tcU5k7hibCf6i6pAdjoy2Fpk,wind / SOL,0,1.02051713869e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-16T15:52:57Z,ENTRY,CUmhJJnoyBejT82vHMHB5BUNdxNzgjRay2vdVRkBArEz,GTCM / SOL,0,1.66511383534e-05,100.0,research_failed,,,549.35,score=0.00 momentum=24%,mom
