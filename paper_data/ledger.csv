@@ -13624,3 +13624,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T10:32:47Z,ENTRY,2Pr5wnWo9UC2VcsAsmB4CKwJ7aGWr1FdYx5Z6Vk52yPg,rockstar / SOL,0,6.85701309047e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
 2026-11-16T10:32:47Z,FAILED,CemUmEyu4pU8BfJFd4tiBRZckQxjccgesu3jjoUKf2rY,STAR / SOL,0,0.000352820378563,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-16T10:34:17Z,EXIT,8bbpadApdmMQEzJ5ooLVZaedFaEsFM5vgt9LHQEbewT7,butt / SOL,0,2.83585181398e-05,100.0,rug,-4.14,-4.14,456.4,exit_bar=2026-11-16T10:33:00Z,control
+2026-11-16T10:35:40Z,ENTRY,c3tpZHAdm6zeMW6sayU7M16hr5Zj4actVSrNHVbogjB,VI / SOL,0,2.46229995517e-05,100.0,research_failed,,,456.4,score=0.00 momentum=126%,mom
+2026-11-16T10:35:40Z,ENTRY,FncXS32QiHo8LNNotCpVEk4SMZudd5EUDLiRxfRq5yHT,VALOR / SOL,0,2.22366423456e-05,100.0,research_failed,,,456.4,score=0.00 momentum=42%,mom
+2026-11-16T10:37:18Z,ENTRY,BaCY7eYKY77Y7f5j2z955fgeT3xTPX5thLjutD6ZwVqj,1.0 / SOL,1,5.6518677124e-05,100.0,research_passed,,,356.4,score=0.88 momentum=149%,mom
+2026-11-16T10:38:40Z,EXIT,Ao9BhYvzWJuVLiSoP6KbikhnA3CPt6LVhxhRcmUBajne,wuf / SOL,0,1.53317526662e-05,100.0,sl,-33.92,-33.92,356.4,exit_bar=2026-11-16T09:42:00Z,mom
+2026-11-16T10:38:40Z,ENTRY,mPBiXCDwNNPHx6wCJSMSgQJ2BXu7t5ZanbkYi5ena9w,देस / SOL,0,3.75211255134e-05,100.0,research_failed,,,356.4,score=0.00 momentum=19%,mom
+2026-11-16T10:41:32Z,EXIT,Ff89fNjF2HwL6MATUbudiftbhJAXDkpcFbNrTkYqe5uY,mihao / SOL,0,4.80326778268e-05,100.0,rug,-100.02,-100.02,356.4,exit_bar=2026-11-16T10:40:00Z,mom
+2026-11-16T10:43:02Z,ENTRY,DRAo1pwGF7biqFSaBZxD1sqme8R8xUhvNbfWByREfv1e,1.0 / SOL,0,8.58351921066e-05,100.0,research_failed,,,356.4,score=0.00 momentum=788%,mom
+2026-11-16T10:44:17Z,ENTRY,E2ESmFoyUnzLdkmn3G9uYZPiPwUDZLxzX42aPquvPZae,Greencat / SOL,0,2.02625984544e-05,100.0,research_failed,,,356.4,score=0.00 momentum=19%,mom
+2026-11-16T10:45:40Z,EXIT,E3pGsoeJi6NnL5gZ4dnE5yvyajSQdccre9dwJbotf5sZ,PACK / SOL,0,2.83949506343e-05,100.0,sl,-100.02,-100.02,356.4,exit_bar=2026-11-16T09:48:00Z,mom
+2026-11-16T10:45:40Z,ENTRY,DwjA7DzTuh2TPFcr12kL8yz2RhN4ihVSvrHjkdeEBKiD,neet / SOL,0,2.13157611373e-05,100.0,research_failed,,,356.4,score=0.00 momentum=28%,mom
