@@ -30944,3 +30944,8 @@ F79rvYN8gxF32EwEeitV42ZeU5N8pM52o4UVySR1w8DQ,mom,0,wide_sl50_tp100,tp,-100.01
 F79rvYN8gxF32EwEeitV42ZeU5N8pM52o4UVySR1w8DQ,mom,0,sl30_tp50,tp,-100.02
 F79rvYN8gxF32EwEeitV42ZeU5N8pM52o4UVySR1w8DQ,mom,0,sl50_tp50,tp,-100.02
 F79rvYN8gxF32EwEeitV42ZeU5N8pM52o4UVySR1w8DQ,mom,0,no_stop_tp100,tp,-100.01
+F8BZoyYKdt93PyC46muXu8H7g5wXNzacPXr6wiwLLRzf,control,0,base_sl30_tp100,timeout,-9.8
+F8BZoyYKdt93PyC46muXu8H7g5wXNzacPXr6wiwLLRzf,control,0,wide_sl50_tp100,timeout,-9.8
+F8BZoyYKdt93PyC46muXu8H7g5wXNzacPXr6wiwLLRzf,control,0,sl30_tp50,timeout,-9.8
+F8BZoyYKdt93PyC46muXu8H7g5wXNzacPXr6wiwLLRzf,control,0,sl50_tp50,timeout,-9.8
+F8BZoyYKdt93PyC46muXu8H7g5wXNzacPXr6wiwLLRzf,control,0,no_stop_tp100,timeout,-9.8
