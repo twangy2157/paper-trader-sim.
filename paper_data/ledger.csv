@@ -13647,3 +13647,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T11:03:40Z,ENTRY,2mPVmPevn9HicMnzbaC95iKZJe6CiajiDTpECR4mL5vL,up / SOL,0,8.80102534375e-06,100.0,control_no_momentum,,,356.4,score=0.00 momentum=0%,control
 2026-11-16T11:03:40Z,ENTRY,6kparLbiU6NfsP97VdmVPjLgaMGxroTewGYeVXDQvVHD,KAME / SOL,0,4.31812591948e-05,100.0,control_no_momentum,,,356.4,score=0.00 momentum=0%,control
 2026-11-16T11:06:31Z,ENTRY,4uy2a9a1EB2QfsPhAQo2WPVPwQkE4RjXMSSDaaUTnntT,gtacoin / SOL,0,0.00176602081961,100.0,research_failed,,,356.4,score=0.00 momentum=735%,mom
+2026-11-16T11:08:09Z,EXIT,DGfEajBPQz82LExdxUJYcneBokB2dHt8ANVbipC6LxCK,SPECTA / SOL,0,2.03378977378e-05,100.0,timeout,-7.68,-7.68,356.4,exit_bar=2026-11-16T11:06:00Z,mom
+2026-11-16T11:09:32Z,FAILED,3zsq8WD32UB1WNnkir9PEXmQzSc4xjTY5rNLBwndoKjF,USPD / USDT,0,0.999707031159,0,tx_failed,-0.5,,356.4,"buy reverted, tip lost",control
+2026-11-16T11:11:01Z,EXIT,4whe9EpBfxW5ngCPjBwGNVKvEbCbnzoSHNZbHwbAYuJ6,PVE / SOL,0,2.31898773242e-05,100.0,sl,-100.03,-100.03,356.4,exit_bar=2026-11-16T11:06:00Z,mom
+2026-11-16T11:13:32Z,EXIT,C1fwe9By65um5LngcTZwqKRfSKYrZnyaDFeMaAyQ4kTR,mihao / SOL,0,9.1848842566e-05,100.0,sl,-100.02,-100.02,356.4,exit_bar=2026-11-16T10:12:00Z,mom
+2026-11-16T11:16:17Z,EXIT,HtkKYRhAf5yFHsLfVRNsXBfn64MGq7E17xpv9VZWxYFY,COPAT / SOL,0,2.21529700499e-05,100.0,timeout,-5.21,-5.21,356.4,exit_bar=2026-11-16T11:15:00Z,control
