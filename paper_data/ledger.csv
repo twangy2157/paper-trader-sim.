@@ -13942,3 +13942,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T18:42:39Z,ENTRY,HU7fdoU33SHzwU8U6ktqBNnzUXLqjQhda9XBwoJcYi8E,BANKLESS / SOL,0,6.34195402635e-05,100.0,research_failed,,,549.35,score=0.00 momentum=47%,mom
 2026-11-16T18:44:25Z,EXIT,5omLSU8HaUSCNcEPEhnNP8HA4dePLkXgGkCHTd6HAaHP,HORSESHOE / SOL,0,6.56328172588e-06,100.0,timeout,-10.0,-10.0,549.35,exit_bar=2026-11-16T18:43:00Z,control
 2026-11-16T18:44:25Z,ENTRY,4uB4yGJHeXnwqgcVCPekgrC49NAuCx5nMx9pHeAwEAdZ,CAT / SOL,0,2.84776180986e-05,100.0,research_failed,,,549.35,score=0.00 momentum=84%,mom
+2026-11-16T18:49:44Z,ENTRY,AWPH78hAkyGn83er5UqomQGgu42QWThhn7LfTkz25Lw9,34% / SOL,0,8.83953419106e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T18:49:44Z,ENTRY,CaXVXMvd2uoxcJVFddwsYCKhDv1yEdP17yRb6u51edGr,EPSTEIN / SOL,0,1.49746076537e-05,100.0,research_failed,,,549.35,score=0.00 momentum=47%,mom
+2026-11-16T18:49:44Z,FAILED,5i9UzNorZTct9eY5dMWNXtLHYRt1U4qbjGffGwHiVeAB,WIGGLES / SOL,0,1.39980087954e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-16T18:53:14Z,ENTRY,CGMp55rYHJP9JksTCpfsnmZmsxHzeK6917d9YUjkXxxm,DIDN'T / SOL,0,0.000196883459394,100.0,research_failed,,,549.35,score=0.00 momentum=393%,mom
+2026-11-16T18:54:44Z,ENTRY,5qU2pEg6vVurgHerHJbpN2GZhXf6kxGiXhHyuZcFFVQf,tavrento / SOL,0,1.03614879974e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
