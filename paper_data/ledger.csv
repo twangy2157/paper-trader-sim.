@@ -13965,3 +13965,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T19:21:35Z,ENTRY,FSQSpHRgQrcU3iJJTj4gBNMDtF8vRcXgCDwkMGKLu7tw,Trader / SOL,0,3.76276463414e-05,100.0,research_failed,,,549.35,score=0.00 momentum=16%,mom
 2026-11-16T19:26:43Z,ENTRY,JDbXBHzXVi83TjcVw5Nv22qJ5XzdiM4jEKQCWLGVs6VJ,250 / SOL,0,3.94384489521e-05,100.0,research_failed,,,549.35,score=0.00 momentum=120%,mom
 2026-11-16T19:28:19Z,ENTRY,68Tw3ryopJzwzdHxnjpf1vjgQw3pH6Fr2gvEgkjxymZC,NVDA / MEOWL,0,163.730798759,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-1%,control
+2026-11-16T19:30:46Z,ENTRY,Cz9i72c25pZuafaL4DmkJnbVeapXEsiggKeSFkdudrSE,NONE / SOL,0,0.000179451288504,100.0,research_failed,,,549.35,score=0.00 momentum=53%,mom
+2026-11-16T19:35:39Z,EXIT,Atu3siUqqMqEsjmV7vc1SMeZY7aKbS6fkai5gCZp5MY8,WIGGLES / SOL,0,7.14794947691e-10,100.0,rug,-101.0,-101.0,549.35,exit_bar=2026-11-16T18:36:00Z,mom
+2026-11-16T19:37:39Z,EXIT,J2cUa7sMdFfDELrCGrKiGy7Muib9vvBjXtLW7JqQGcEb,ballon / SOL,0,1.57177835137e-05,100.0,timeout,-6.07,-6.07,549.35,exit_bar=2026-11-16T19:35:00Z,control
+2026-11-16T19:37:39Z,ENTRY,FhKVi6rRsKqTesdHs8wj2RJrwTVzWzVkw8Ah932TV6QC,TEST2 / SOL,0,1.44398191187e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-16T19:39:25Z,EXIT,DyPr8cvembHnbyPqNzPzY3U81eCY3a33RuXHdxPBW8h5,FOMOCAT / SOL,0,3.01266782208e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-16T19:36:00Z,mom
+2026-11-16T19:39:25Z,ENTRY,J9TwAHSFDM84S5Ct3aTCYt58iCQaa8cwRRXMB9ebC4ec,BANKLESS / SOL,0,2.81520313983e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=1%,control
