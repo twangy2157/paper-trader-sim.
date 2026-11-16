@@ -13492,3 +13492,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T05:00:54Z,EXIT,D2Gh1R3j4LP29bPxS8abD3BCSK7ZxY83E2EL7WD5b1Gq,POORNEIL / SOL,0,9.04732856919e-06,100.0,timeout,-8.34,-8.34,456.4,exit_bar=2026-11-16T04:56:00Z,control
 2026-11-16T05:03:31Z,ENTRY,GbUwokpxEAnnZqmioGfzDJJaWUJWKr3YtccQvMWThiuy,WIGGLES / SOL,0,8.97544034852e-06,100.0,research_failed,,,456.4,score=0.00 momentum=72%,mom
 2026-11-16T05:05:01Z,EXIT,AnVTfv6xbDTkU4swLyvbZsqTPyxwPfouzZfDgfdnySsf,kittylick / SOL,0,6.92165964764e-06,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-16T05:04:00Z,control
+2026-11-16T05:15:36Z,EXIT,6uMWRXpvRActjHgvrD99zMgMN66AiHqRi699VFmJ4t9X,CBUCKS / SOL,0,5.23727046852e-08,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-16T05:10:00Z,control
+2026-11-16T05:18:35Z,ENTRY,D1bzmshxMHqVhVKHVSKHNQ4AdmoafJRYgFViN2xcnpGR,MCH / SOL,0,8.62929127853e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
