@@ -13577,3 +13577,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T09:24:59Z,FAILED,HfwMLohNy8YCv2k7jcWQY3FooMAGsfvSMUYhQmoZYKJr,GWG / SOL,0,1.01982459669e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-16T09:24:59Z,ENTRY,7s18impexJccEbvqAaAienimvce81jnmYn3hCuS53jrj,WEUP / USDC,0,5.20598793811e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-16T09:26:28Z,ENTRY,HU46ojwyBvbRpzJdRfYq1V4BhkYerVtVfiCPSvQ46Mx6,Dinosaur🦕 / SOL,0,2.45099818941e-05,100.0,research_failed,,,456.4,score=0.00 momentum=23%,mom
+2026-11-16T09:32:32Z,ENTRY,8bbpadApdmMQEzJ5ooLVZaedFaEsFM5vgt9LHQEbewT7,butt / SOL,0,2.84528942247e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-16T09:36:40Z,ENTRY,Ao9BhYvzWJuVLiSoP6KbikhnA3CPt6LVhxhRcmUBajne,wuf / SOL,0,2.19025038088e-05,100.0,research_failed,,,456.4,score=0.00 momentum=145%,mom
+2026-11-16T09:39:31Z,ENTRY,Ff89fNjF2HwL6MATUbudiftbhJAXDkpcFbNrTkYqe5uY,mihao / SOL,0,3.7071671413e-05,100.0,research_failed,,,456.4,score=0.00 momentum=18%,mom
