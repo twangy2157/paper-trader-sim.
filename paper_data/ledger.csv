@@ -13510,3 +13510,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T05:51:58Z,EXIT,3NKUVdHnCML7nKRQrE8uaRt7wqNU9Vd9SMBsvYoXKuiG,NC / SOL,0,1.01186546945e-05,100.0,timeout,-7.75,-7.75,456.4,exit_bar=2026-11-16T05:48:00Z,control
 2026-11-16T05:53:31Z,FAILED,EXCgiwLWzeq58R2YKSsbPDfyk2TJhSkpmba6e2FBKMZD,Marvin / SOL,0,3.56310001737e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
 2026-11-16T05:59:00Z,EXIT,6AmK88kTHXei6PbEzL2S3BTmNfYg8DoW5kr6MPLgptEk,GAMER / SOL,0,1.1643081573e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-16T05:56:00Z,mom
+2026-11-16T06:04:36Z,ENTRY,6HTBrfc9r2m5SU4mTTyU1XNcyUwWwRgeK5xZqHwk7GFa,AUSTISM / SOL,0,2.7918036374e-05,100.0,research_failed,,,456.4,score=0.00 momentum=33%,mom
+2026-11-16T06:06:13Z,EXIT,GbUwokpxEAnnZqmioGfzDJJaWUJWKr3YtccQvMWThiuy,WIGGLES / SOL,0,6.14863576056e-06,100.0,sl,-34.7,-34.7,456.4,exit_bar=2026-11-16T05:05:00Z,mom
+2026-11-16T06:07:35Z,ENTRY,6mqyD5jMcHiQSBRCDDFSREzug3vhpytJ5KVi74C5ABJc,OMI / SOL,0,1.61288926567e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=1%,control
+2026-11-16T06:07:35Z,ENTRY,5fJCutqNX4WXJ5m4CN96rKA5zcTcb7VNNngiGAuvYwgD,x ae a-xii / SOL,0,1.7377803266e-05,100.0,research_failed,,,456.4,score=0.00 momentum=63%,mom
+2026-11-16T06:14:33Z,ENTRY,6u38MEJ3qst7PEGqiEQiHnGkjvo8YZbZ2JovKiiTWVDV,Neil / SOL,0,2.8675195136e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
