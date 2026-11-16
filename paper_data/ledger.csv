@@ -13811,3 +13811,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T15:30:21Z,EXIT,5DgX6ojtBDahHpBV5bL5TktXzXzUygTmXqTomfMJgwHT,Stumpy / SOL,0,1.47266271865e-05,100.0,sl,-45.45,-45.45,549.35,exit_bar=2026-11-16T14:10:00Z,control
 2026-11-16T15:31:43Z,EXIT,FnZTe8sqUtKzGgPhcR3JF7rwKxvGJX9e7Kp8SM1zrd4b,Stumpy / SOL,0,2.25224342607e-05,100.0,rug,1.76,1.76,549.35,exit_bar=2026-11-16T15:13:00Z,control
 2026-11-16T15:31:43Z,FAILED,J8QK79jGPpWnjDdkYKPjPGT4dHXBis9WYJst8vb3A5WB,STEAK / WLFI,0,6.67790528734e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-16T15:33:26Z,EXIT,4MQjJvrm5cpqGMwysVTMc9hBFmtzdzsbom4a4254srkp,GTAVI / SOL,0,0.000188625876414,100.0,rug,-2.52,-2.52,549.35,exit_bar=2026-11-16T15:13:00Z,control
+2026-11-16T15:33:26Z,FAILED,DU6n42B4x1ww6oz2aBxZk8kkXLKVRQvqFC2org7LGWkr,Vicegirl / SOL,0,1.54072187774e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-16T15:34:56Z,EXIT,AHDKhdvjYiyeEZ9D4i3i3CLS8HdqCvvjkhkeoRrYFUFC,Stumpy / SOL,0,8.87142268049e-07,100.0,timeout,30.77,30.77,549.35,exit_bar=2026-11-16T15:14:00Z,mom
+2026-11-16T15:36:26Z,EXIT,8WUrgHf7xBzJRcP11yhZxpjGQPFTmzZTuXYKG4AbTABZ,Stumpy / SOL,0,7.63771930209e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-16T15:14:00Z,control
+2026-11-16T15:37:55Z,EXIT,7Kz8NFBjM7Vj8TiQTvfwGQTTMoPt3DzhAuDkmLGH64pr,MORNING / SOL,0,4.38893030627e-05,100.0,tp,-100.01,-100.01,549.35,exit_bar=2026-11-16T14:31:00Z,mom
+2026-11-16T15:37:55Z,ENTRY,BhXwE2oWnxstbq3R1iUZ8EkqxyJQias6BgapRjHYfQzX,JYPA / USDT,0,0.30512527489,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-16T15:39:25Z,ENTRY,Fe3X2QcMpe8zRqc7rSyFVbadAWcJ2tLm1f6h64jgh4yM,ryok.net / SOL,0,1.07453693234e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T15:39:25Z,ENTRY,DrhJeYjNikyR4QBJ4ZeKzs2yPhwDFd7Qzk1gJErK2CwJ,ttt / SOL,0,5.20300237799e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T15:40:55Z,FAILED,4Q7Jq9uR9TqDLBdUyko6EZBaWaQXnjE23uaeMKSyRkZ8,Load / SOL,0,2.58974879167e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
