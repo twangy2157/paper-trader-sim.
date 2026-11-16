@@ -13989,3 +13989,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T19:58:01Z,EXIT,5qU2pEg6vVurgHerHJbpN2GZhXf6kxGiXhHyuZcFFVQf,tavrento / SOL,0,1.00622209608e-05,100.0,timeout,-8.51,-8.51,549.35,exit_bar=2026-11-16T19:55:00Z,control
 2026-11-16T20:00:32Z,ENTRY,ECSmFf52Y4jtRDFqNVVYrmj7C8WM1rfSQd9KnexPXdSH,RTF / SOL,0,1.4347043179e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-11%,control
 2026-11-16T20:00:32Z,ENTRY,6JDF2JfpQuVeAbxAPJNMQEXRd9Sp2pNKFPWJFmtE8PNw,RISING / SOL,0,1.41561499728e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-2%,control
+2026-11-16T20:03:29Z,ENTRY,BCxU8oxioRQk84B7tNjh2MxNC7iyPHecwERiLrdphyA4,SNUT / SOL,0,6.81089656791e-05,100.0,research_failed,,,549.35,score=0.00 momentum=11%,mom
+2026-11-16T20:04:58Z,EXIT,3HGqA6NQevfQZ8y7a2zXqrEe6cayn7FxBFGN6VLYALyb,Musk / SOL,0,4.47670227334e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-16T20:03:00Z,mom
+2026-11-16T20:07:58Z,EXIT,87K2cBuaKpNU4W6sXgUhRgCwyNaLy3ujtzLP21XNzMbh,ballon / SOL,0,1.03153846264e-05,100.0,timeout,-7.6,-7.6,549.35,exit_bar=2026-11-16T20:06:00Z,control
+2026-11-16T20:09:28Z,ENTRY,9y1ueRUsPE85WxDHLX26HYbyk1y9voMYNRZChr7KXsZG,Speed / SOL,0,3.62816460835e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=5%,control
+2026-11-16T20:10:57Z,EXIT,Cr19mhkhgfVMRDeTiCKMnb1xjyQBEsdt3uyA8wMiKWJU,TRADER / SOL,0,7.65459129872e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-16T19:09:00Z,mom
