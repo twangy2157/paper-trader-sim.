@@ -13994,3 +13994,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T20:07:58Z,EXIT,87K2cBuaKpNU4W6sXgUhRgCwyNaLy3ujtzLP21XNzMbh,ballon / SOL,0,1.03153846264e-05,100.0,timeout,-7.6,-7.6,549.35,exit_bar=2026-11-16T20:06:00Z,control
 2026-11-16T20:09:28Z,ENTRY,9y1ueRUsPE85WxDHLX26HYbyk1y9voMYNRZChr7KXsZG,Speed / SOL,0,3.62816460835e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=5%,control
 2026-11-16T20:10:57Z,EXIT,Cr19mhkhgfVMRDeTiCKMnb1xjyQBEsdt3uyA8wMiKWJU,TRADER / SOL,0,7.65459129872e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-16T19:09:00Z,mom
+2026-11-16T20:16:31Z,EXIT,214ddvf5RsWdCDppR5axrezfvbVTKiQU9Uttk8SnYyma,ANSEM / SOL,0,2.66192969086e-05,100.0,timeout,-4.82,-4.82,549.35,exit_bar=2026-11-16T20:15:00Z,control
+2026-11-16T20:22:01Z,ENTRY,Gkqwh9TDdcYA6f7PP6wWAV55sHboD3nWsDT9vz5DPmNL,AURBIT / GOLD,0,5.40716745383e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-9%,control
