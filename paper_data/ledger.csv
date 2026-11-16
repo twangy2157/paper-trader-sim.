@@ -13404,3 +13404,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T02:35:16Z,ENTRY,AEpJ39v9mYvX1DyoogxCDB3PpRqu7jrtd2FQLEoJ5fJC,marley / SOL,0,6.58100570845e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
 2026-11-16T02:36:31Z,ENTRY,BQraSbLXeDYDJqhVZWRZdhxcpmYzQ13Fsv5g7WdEWfPd,Nеil / SOL,0,3.32645680447e-06,100.0,research_failed,,,456.4,score=0.00 momentum=62%,mom
 2026-11-16T02:38:07Z,ENTRY,AXn7qqkz31XrK3K4xzrBb6vqnX6xoNFZEzyHc8SAvpbG,MESATA / SOL,0,2.97497462699e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=-0%,control
+2026-11-16T02:39:34Z,EXIT,3j2gWcUDXQs2BEDG2TxWTZ2vj25wAn1jdTjSeNbPdaYW,PaidTok / PAID,0,8.62088208851e-06,100.0,sl,-33.3,-33.3,456.4,exit_bar=2026-11-16T02:07:00Z,mom
+2026-11-16T02:39:34Z,ENTRY,6QcUkBDmPZZr5KxNNJN7bY62tG7fC3xTV1a3jMfwoUAu,Latina / SOL,0,2.37011784107e-05,100.0,research_failed,,,456.4,score=0.00 momentum=117%,mom
+2026-11-16T02:42:26Z,EXIT,EL5GRJRmyZ9zmQRMSKePWkR1mfgRyqzTaSY3rHkGMNqg,M1 / SOL,0,1.95036613996e-05,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-16T01:41:00Z,mom
+2026-11-16T02:43:56Z,FAILED,A487piB8icK7BXYPmcCziCorF5jUqQzn7EFkuEAN9Nvt,HOGE / SOL,0,3.76224940021e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-16T02:43:56Z,ENTRY,FiZJNsUxufbYk7gQYqy53sbrzCMCYaoJWvrM1rk7aMGG,SOGE / SOL,0,2.90240261001e-05,100.0,research_failed,,,456.4,score=0.00 momentum=58%,mom
+2026-11-16T02:45:25Z,ENTRY,HAWyMTmQfkjQnh8JhCuGavWNsPb9k9ErWbgnqRQ19HRA,CHIMP / SOL,0,4.14273503341e-05,100.0,research_failed,,,456.4,score=0.00 momentum=50%,mom
+2026-11-16T02:45:25Z,ENTRY,H3q37iJLWbBxiX9SMnjfmU3stgZbsLgcDQofofAJ7Nrt,MGOAT / SOL,0,1.41616693612e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-16T02:47:56Z,EXIT,H9m67VuxzoieNMcz9ztncWgxuaPMAKjvC7mAbrFrqb4a,HOGE / SOL,0,4.12568085912e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-16T02:45:00Z,mom
+2026-11-16T02:49:25Z,ENTRY,9m1NtjZvUvwGGtaeqgGhX7JQJdQJaDzHXCaRZ7Xr8qfR,HOGE / SOL,0,1.27529649864e-05,100.0,research_failed,,,456.4,score=0.00 momentum=72%,mom
