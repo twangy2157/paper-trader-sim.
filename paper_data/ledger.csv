@@ -13488,3 +13488,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T04:46:19Z,EXIT,EYni5dLdhdGFLoPkedfmBvyRiYqCoUkyhTVSgQW2NXF8,HCC / SOL,0,4.32630597749e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-16T04:08:00Z,mom
 2026-11-16T04:47:35Z,ENTRY,2XuVCnzktAEpN9hg1Nb1wdUNPQADBm1L6yjLgBU3xr9V,Up / USDC,0,1.69879817066e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
 2026-11-16T04:47:35Z,ENTRY,3NKUVdHnCML7nKRQrE8uaRt7wqNU9Vd9SMBsvYoXKuiG,NC / SOL,0,1.05304290644e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-16T04:55:13Z,ENTRY,6AmK88kTHXei6PbEzL2S3BTmNfYg8DoW5kr6MPLgptEk,GAMER / SOL,0,1.33835619569e-05,100.0,research_failed,,,456.4,score=0.00 momentum=34%,mom
