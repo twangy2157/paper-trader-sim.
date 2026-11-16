@@ -2,14 +2,14 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-16T17:41:30Z. Bankroll cash (research-selected trades): 549.3536238229275. Open positions: 21. Pools on watchlist: 47.
+Updated 2026-11-16T17:52:10Z. Bankroll cash (research-selected trades): 549.3536238229275. Open positions: 15. Pools on watchlist: 50.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
 | research-picked | 17 | 29% | -26.4% | -58 to 8 | -451 |
-| momentum, not picked | 2725 | 12% | -66.0% | -68 to -64 | -180089 |
-| all momentum | 2742 | 12% | -65.8% | -68 to -64 | -180540 |
-| control | 3465 | 6% | -19.1% | -20 to -18 | -66452 |
+| momentum, not picked | 2729 | 12% | -66.0% | -68 to -64 | -180284 |
+| all momentum | 2746 | 12% | -65.7% | -68 to -64 | -180734 |
+| control | 3468 | 6% | -19.1% | -20 to -18 | -66478 |
 | dip buy | 36 | 28% | -12.3% | -32 to 7 | -446 |
 | proven pools | 114 | 33% | -34.3% | -43 to -25 | -3925 |
 
@@ -17,20 +17,20 @@ What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 | exit rule | momentum | control | dip | proven |
 |---|---|---|---|---|
-| base_sl30_tp100 | -66% (2721, 12%) | -19% (3465, 6%) | -12% (36, 28%) | -34% (114, 33%) |
-| wide_sl50_tp100 | -66% (2721, 13%) | -19% (3465, 6%) | -15% (36, 31%) | -36% (114, 33%) |
-| sl30_tp50 | -67% (2721, 14%) | -19% (3465, 7%) | -18% (36, 31%) | -34% (114, 34%) |
-| sl50_tp50 | -67% (2721, 16%) | -19% (3465, 7%) | -19% (36, 36%) | -36% (114, 34%) |
-| no_stop_tp100 | -66% (2721, 14%) | -20% (3465, 6%) | -13% (36, 31%) | -36% (114, 33%) |
+| base_sl30_tp100 | -66% (2725, 12%) | -19% (3468, 6%) | -12% (36, 28%) | -34% (114, 33%) |
+| wide_sl50_tp100 | -66% (2725, 13%) | -19% (3468, 6%) | -15% (36, 31%) | -36% (114, 33%) |
+| sl30_tp50 | -67% (2725, 14%) | -19% (3468, 7%) | -18% (36, 31%) | -34% (114, 34%) |
+| sl50_tp50 | -67% (2725, 16%) | -19% (3468, 7%) | -19% (36, 36%) | -36% (114, 34%) |
+| no_stop_tp100 | -66% (2725, 14%) | -20% (3468, 6%) | -13% (36, 31%) | -36% (114, 33%) |
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 94064. Outcomes:
+Pools seen: 94105. Outcomes:
 
-- missed_window: 61599
-- low_liquidity: 15465
-- proven_liquidity_gone: 7971
-- no_momentum: 3522
+- missed_window: 61628
+- low_liquidity: 15470
+- proven_liquidity_gone: 7977
+- no_momentum: 3523
 - research_failed: 2733
 - proven_low_volume: 1246
 - simulated failed buy: 1157
