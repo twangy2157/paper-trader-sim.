@@ -13508,3 +13508,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T05:50:27Z,EXIT,2XuVCnzktAEpN9hg1Nb1wdUNPQADBm1L6yjLgBU3xr9V,Up / USDC,0,1.67341943062e-05,100.0,honeypot,-101.0,-101.0,456.4,exit_bar=2026-11-16T05:48:00Z,control
 2026-11-16T05:50:27Z,FAILED,FYCN1BjRNtGkCdzcfyrvHSRmKQjG95uNdjpV6vKeX2fy,$BROKE / SOL,0,1.4519364537e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-16T05:51:58Z,EXIT,3NKUVdHnCML7nKRQrE8uaRt7wqNU9Vd9SMBsvYoXKuiG,NC / SOL,0,1.01186546945e-05,100.0,timeout,-7.75,-7.75,456.4,exit_bar=2026-11-16T05:48:00Z,control
+2026-11-16T05:53:31Z,FAILED,EXCgiwLWzeq58R2YKSsbPDfyk2TJhSkpmba6e2FBKMZD,Marvin / SOL,0,3.56310001737e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-16T05:59:00Z,EXIT,6AmK88kTHXei6PbEzL2S3BTmNfYg8DoW5kr6MPLgptEk,GAMER / SOL,0,1.1643081573e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-16T05:56:00Z,mom
