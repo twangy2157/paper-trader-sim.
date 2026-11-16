@@ -13835,3 +13835,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T16:21:32Z,ENTRY,29rwTss2GXBsqeBoHan326YkPCAjZZxBQT84xB8afUjM,WIGGLES / SOL,0,6.10877945402e-10,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-100%,control
 2026-11-16T16:24:16Z,EXIT,yG9n7tSV52cvgZYovLbGeDLqdedC5Z6YeJE2x3EKrBL,VI / SOL,0,3.69576618165e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-16T16:23:00Z,mom
 2026-11-16T16:25:31Z,ENTRY,BxTcjagSndHwLJcPzATvFHqopx1Nde7bkwAKzF2SiSSM,PESSI / SOL,0,2.79433032762e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:27:07Z,FAILED,4yLTRRaMmLdbFk4jfyqBEcHiDDpisA8cfYptEZdvRRTn,QCOIN / SOL,0,1.40356761467e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-16T16:28:29Z,ENTRY,81JVQT47UPcfjqffPA8S4X85XVTjxzu3iw8z9s2HTe6i,vrl / SOL,0,1.25443552466e-05,100.0,research_failed,,,549.35,score=0.00 momentum=167%,mom
+2026-11-16T16:28:29Z,ENTRY,8qZu3ekk175ZzQkkBR7n276ZkadahyrVUz6BNjcu8mLe,Crypto / SOL,0,6.9853910942e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=9%,control
+2026-11-16T16:30:06Z,EXIT,71wczK2oR1MEXJAfwaUvwbEVF4EBi5A7X68nvnziEDwr,HOGE / SOL,0,2.91556743968e-05,100.0,rug,-3.07,-3.07,549.35,exit_bar=2026-11-16T16:29:00Z,control
+2026-11-16T16:31:29Z,ENTRY,HPmFgqbFPj6vCzu1zRFFGWBeSg3zkqkobH3MPDoTEdtw,GTA / SOL,0,1.09590408777e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:31:29Z,ENTRY,GyVAm49GaqUZu3votf9om41saCR56vhq1StsQ7EXWukF,WIGGLES / SOL,0,1.26179140975e-09,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:35:58Z,ENTRY,D4phi3DyPhX6JeCph2g13vRm8c1KhzPuR6bUfr2K44Uq,PIRATE / SOL,0,1.84822295617e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-16T16:35:58Z,ENTRY,BNh4BJU6TWNF339jvt9X5Bw5fnqTSaky9r8842Dj8xAq,MERT / SOL,0,3.0300915748e-05,100.0,research_failed,,,549.35,score=0.00 momentum=115%,mom
