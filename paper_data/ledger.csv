@@ -13613,3 +13613,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T10:20:41Z,ENTRY,8b2zDf1NSHpxwEThHKCEsEMAHH1cpDTmAf3PqNdh7px7,rockstar / SOL,0,3.21857274642e-05,100.0,research_failed,,,456.4,score=0.00 momentum=229%,mom
 2026-11-16T10:22:18Z,EXIT,EzwodwUtvdSyzXh4swr7FYsFJFrXR3HgNgGtWw6AgPwv,Democat / SOL,0,3.61153517323e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-16T10:17:00Z,mom
 2026-11-16T10:23:41Z,EXIT,8siHjwh3HGV2N3EKobNLQg5wf73hWY49QQFUHNoqxaoH,Butt / SOL,0,1.73513316119e-05,100.0,rug,-100.02,-100.02,456.4,exit_bar=2026-11-16T10:21:00Z,mom
+2026-11-16T10:25:26Z,EXIT,5SgnvwL2hYE12EmSyieAKEckEAAESS6Q34i4kh7vj2iw,DADDY / SOL,0,4.59691808308e-07,100.0,sl,-100.02,-100.02,456.4,exit_bar=2026-11-16T09:38:00Z,mom
+2026-11-16T10:25:26Z,ENTRY,TDndkUe3fghsH493zcA4mZCMqJuFuuYz5JTqAMrucep,rockstar / SOL,0,1.35937137026e-05,100.0,research_failed,,,456.4,score=0.00 momentum=102%,mom
+2026-11-16T10:26:55Z,EXIT,9ap5v3oAcRSmo26JAVzshxNdNF8hFM5Cz7vyFbQZSkbb,FEEDTHEFIRE / SOL,0,2.9153767988e-05,100.0,rug,-3.96,-3.96,456.4,exit_bar=2026-11-16T10:24:00Z,control
+2026-11-16T10:28:25Z,EXIT,7s18impexJccEbvqAaAienimvce81jnmYn3hCuS53jrj,WEUP / USDC,0,5.00777527065e-06,100.0,timeout,-10.16,-10.16,456.4,exit_bar=2026-11-16T10:25:00Z,control
+2026-11-16T10:28:25Z,ENTRY,EJZpcrB7WMnZZ3JjcYGUqqPbbn5ijBFvEpGhCgNLTyeN,HALH / SOL,0,9.11385468994e-06,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
+2026-11-16T10:29:55Z,EXIT,HU46ojwyBvbRpzJdRfYq1V4BhkYerVtVfiCPSvQ46Mx6,Dinosaur🦕 / SOL,0,4.90199637883e-05,100.0,tp,-100.01,-100.01,456.4,exit_bar=2026-11-16T09:55:00Z,mom
+2026-11-16T10:29:55Z,ENTRY,32yXCGwQd3kq4Svy4TdnnU95tjwRSE8PFmUgN5huk7Bk,neet / SOL,0,2.38007308817e-05,100.0,research_failed,,,456.4,score=0.00 momentum=51%,mom
+2026-11-16T10:31:25Z,ENTRY,2ke85FWceconoijv5HBeUQXTJuTUgkSw2MgFxLdF6pQ7,देसी / SOL,0,4.56116441316e-05,100.0,research_failed,,,456.4,score=0.00 momentum=11%,mom
+2026-11-16T10:32:47Z,ENTRY,2Pr5wnWo9UC2VcsAsmB4CKwJ7aGWr1FdYx5Z6Vk52yPg,rockstar / SOL,0,6.85701309047e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=8%,control
+2026-11-16T10:32:47Z,FAILED,CemUmEyu4pU8BfJFd4tiBRZckQxjccgesu3jjoUKf2rY,STAR / SOL,0,0.000352820378563,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",mom
+2026-11-16T10:34:17Z,EXIT,8bbpadApdmMQEzJ5ooLVZaedFaEsFM5vgt9LHQEbewT7,butt / SOL,0,2.83585181398e-05,100.0,rug,-4.14,-4.14,456.4,exit_bar=2026-11-16T10:33:00Z,control
