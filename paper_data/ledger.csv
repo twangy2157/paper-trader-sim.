@@ -13537,3 +13537,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-16T06:45:16Z,FAILED,8t6SWyvTK8GPrqTAQifmBmqxWyYaVabA9yyGPD1YAwER,BUTTHOLE / SOL,0,6.67851777087e-05,0,tx_failed,-0.5,,456.4,"buy reverted, tip lost",control
 2026-11-16T06:46:31Z,ENTRY,F79rvYN8gxF32EwEeitV42ZeU5N8pM52o4UVySR1w8DQ,Dinosaur🦕 / SOL,0,2.69701646411e-05,100.0,research_failed,,,456.4,score=0.00 momentum=65%,mom
 2026-11-16T06:48:00Z,EXIT,8UJ7Pd6WLJErMmHfaEn45uXFVRJ4Mi9gLnArgJ7nYK53,AudaCity / SOL,0,2.83665907908e-05,100.0,rug,42.47,42.47,456.4,exit_bar=2026-11-16T06:46:00Z,control
+2026-11-16T06:49:20Z,ENTRY,F8BZoyYKdt93PyC46muXu8H7g5wXNzacPXr6wiwLLRzf,token / SOL,0,5.23421216538e-05,100.0,control_no_momentum,,,456.4,score=0.00 momentum=0%,control
