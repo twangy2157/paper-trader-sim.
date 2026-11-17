@@ -14722,3 +14722,16 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T17:04:43Z,EXIT,8ReJGinM1qMSjcTLzy65sS1edfEarc3fmapv3MREHxj1,SLUICE / SOL,0,2.1803539893e-05,100.0,honeypot,-101.0,-101.0,549.35,exit_bar=2026-11-17T17:03:00Z,control
 2026-11-17T17:05:59Z,EXIT,Aob5vr6nPxNTGRDMgwsQcj5BcbXnsDcrVzaiCxHTQoHp,$SLJK / SOL,0,1.20521873623e-05,100.0,timeout,-8.85,-8.85,549.35,exit_bar=2026-11-17T17:03:00Z,control
 2026-11-17T17:05:59Z,ENTRY,BMfJZP9FgrP8o2XqqG1ySgmBFuJ2rjpGQ9ZercBrKueK,BAWSAQ / SOL,0,3.72155642085e-05,100.0,research_failed,,,549.35,score=0.00 momentum=18%,mom
+2026-11-17T17:07:45Z,EXIT,C8XSWNmydUQFf684WrUYBpar6JY7dPLFjVbgvPk7vnqW,JUMP / SOL,0,5.59837848975e-05,100.0,tp,-100.01,-100.01,549.35,exit_bar=2026-11-17T16:37:00Z,mom
+2026-11-17T17:07:45Z,FAILED,4VzDYZZWvspBx9WwiY5KZHrKduYaBS1wnkidPMhXhinC,牛逼 / SOL,0,1.74679541162e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T17:07:45Z,ENTRY,3tbUMrmbA4ZVmzZkH3rAiTGhe1x879u1b7NiroQK6v3u,Thankmas / SOL,0,2.73625364809e-05,100.0,research_failed,,,549.35,score=0.00 momentum=109%,mom
+2026-11-17T17:09:37Z,EXIT,53cw8qRkxGZRFZisTjBC4EgRY3Z7cLoa4ZdGMS1qeVnM,BACKPACKNAMI / SOL,0,9.33898978507e-05,100.0,sl,-38.3,-38.3,549.35,exit_bar=2026-11-17T16:07:00Z,mom
+2026-11-17T17:09:37Z,ENTRY,E1cdZfgs9gj79ufzZTXbXPvz2nE4kwtuz5HFvpLiLCTG,Salahabob / SOL,0,5.34699419799e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-41%,control
+2026-11-17T17:09:37Z,ENTRY,2oesKseTYoNgyPTN298vzf2dJZGybFR8dhriAmdQQRws,Cyber / SOL,0,2.18024650064e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-1%,control
+2026-11-17T17:11:44Z,EXIT,BtQtYdmmFwDNnwn3VFSqzGmpbDNrJ9u1bWK2kbUXY9Rz,SIMPSONS / SOL,0,5.08290404705e-05,100.0,timeout,-5.28,-5.28,549.35,exit_bar=2026-11-17T17:07:00Z,control
+2026-11-17T17:11:44Z,FAILED,6cLy9QsBeXXWn4UpdFje73Yusm9xbvXJVjcE4NBzgPr6,REFU / SOL,0,2.5340730955e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T17:13:44Z,EXIT,CrU4gYsmeh7WJFT7YuoZWTRwQ6wxuJaEKvAVzuxxTzKK,Simpsons / SOL,0,6.953901447e-06,100.0,sl,-41.87,-41.87,549.35,exit_bar=2026-11-17T16:12:00Z,control
+2026-11-17T17:13:44Z,FAILED,7Z3ZBsxKEExxzjEwqf7VhafvyFcUzpFyJmQgHw9tAJKD,blackhole / SOL,0,2.01824823846e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T17:13:44Z,ENTRY,83PdsbBLbXdGTnwrbTz46D8gMqynzWGTZ8JBbPmAEiVA,Fox / SOL,0,8.94363426914e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T17:15:45Z,EXIT,9XXqB1UXss1GTNo8YqKiRHKNVEWr8jVU63oEZwz9vdsH,Leonida / SOL,0,1.4925870005e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-17T16:20:00Z,mom
+2026-11-17T17:16:44Z,ENTRY,6QaJpWxKm8nQfho3YUAXGXscxZb6vYeW8QivcHAWC72t,REFU / SOL,0,9.16051420236e-05,100.0,research_failed,,,549.35,score=0.00 momentum=86%,mom
