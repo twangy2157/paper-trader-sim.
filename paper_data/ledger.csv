@@ -14072,3 +14072,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T02:32:06Z,ENTRY,6DY3AGYwhRJv7QNbMxDCUukuSfxRc8u9NELXNWZuc4Q3,GAVLE / SOL,0,1.20851356558e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T02:33:28Z,ENTRY,81KTNnicadhMWLn9MAj55WRmwugNmZfdMVXLpPSdMK2v,赏金猎人 / SOL,0,2.86541662003e-05,100.0,research_failed,,,549.35,score=0.00 momentum=192%,mom
 2026-11-17T02:33:28Z,ENTRY,59crp3Z19s3yi3nTzXsASkfUedV8teNfuf7y3imSkmkW,DISTRICT / SOL,0,1.49750214156e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-2%,control
+2026-11-17T02:35:02Z,ENTRY,BzFkoqy22ZW6FTGNVe65EztpbTqn7aR7SPCtqAwmB1Pu,elf / SOL,0,2.13737726266e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T02:36:24Z,FAILED,3HNNp4vEbesTdkjAT7zHTQXmYP22TryUz9tmHfQxgFJb,elf / SOL,0,1.22896535255e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T02:36:24Z,ENTRY,34329T7mcP9HaqihCJHvo2ppukMCp99JHMnfaLkAcHTn,WANTED / SOL,0,0.000398799334844,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-20%,control
+2026-11-17T02:37:46Z,ENTRY,FAMYNSau5B9C9toXDGrgtz6DWP2ctiFDeFvs2QBKoLPa,BACKPUPS / SOL,0,1.45149903148e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T02:37:46Z,ENTRY,9Q3nqsufnweNTe3S8ZieeghE6gRicPMrZeWN8V1BkvHn,JUMP COIN / SOL,0,2.51468328389e-05,100.0,research_failed,,,549.35,score=0.00 momentum=67%,mom
+2026-11-17T02:39:16Z,EXIT,BUqRgbzGjDoso4RbQ1eHakXhAP11E1uUq8KuX6YgCQTt,SPOON / SOL,0,7.37950922729e-06,100.0,timeout,-9.33,-9.33,549.35,exit_bar=2026-11-17T02:37:00Z,control
+2026-11-17T02:40:31Z,EXIT,3yowqL5hTrcFNDGkZpH9mJs41QxSRmG2YkDkvE1KQ1DH,OTTER / SOL,0,7.4419010694e-06,100.0,timeout,-9.21,-9.21,549.35,exit_bar=2026-11-17T02:37:00Z,control
+2026-11-17T02:42:00Z,EXIT,36CVSzpYbYGk6NybkP6o4StZZRwqrHcLqb5CRNeaFiZU,MEMECYCLE / SOL,0,1.40167893452e-05,100.0,timeout,-8.38,-8.38,549.35,exit_bar=2026-11-17T02:39:00Z,control
+2026-11-17T02:43:16Z,EXIT,G1kKWdhauPF12M4yTJ5VCFaWuuaNyfrykzij3vqebqq4,bawsaq / SOL,0,8.13246048958e-07,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T02:39:00Z,mom
+2026-11-17T02:44:31Z,EXIT,24dvgW3wjhyYBFHjUx8GbPZGFx38a3YfdpU9qxw1iyH1,Marvin / SOL,0,7.6736588995e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T02:40:00Z,control
+2026-11-17T02:44:31Z,ENTRY,DUR4CWjoGx3YuBY3utS2NPiLDiQBF3HD585SFm6ovPna,Americhan / SOL,0,3.44956199651e-05,100.0,research_failed,,,549.35,score=0.00 momentum=16%,mom
