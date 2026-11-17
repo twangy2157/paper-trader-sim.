@@ -14412,3 +14412,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T10:50:41Z,FAILED,3vsjPezQqLvZ4skWhmvGZpfcnrsxZVsNsn65UbeaY4ZD,KATIA / SOL,0,1.31807365423e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
 2026-11-17T10:50:41Z,ENTRY,FJ8h8FwWgSK9hb1PamaieLegiNWitw25JXsvgi2Tsi1b,BOB / SOL,0,3.44450111799e-05,100.0,research_failed,,,549.35,score=0.00 momentum=101%,mom
 2026-11-17T10:52:18Z,EXIT,5qyE2oCoyGyDbiEHWK1zfPaJ7bsfz2yZEv25FL2uCGMd,CI / SOL,0,2.18043799081e-05,100.0,rug,7.63,7.63,549.35,exit_bar=2026-11-17T10:50:00Z,control
+2026-11-17T10:53:45Z,ENTRY,CTmpygcwit4dgpt68DHGYqgnjDB1rDUJvMbeNNG4J7sp,1B / SOL,0,0.00491049992331,100.0,research_failed,,,549.35,score=0.00 momentum=358%,mom
+2026-11-17T10:53:45Z,ENTRY,F4VFYe4Xgux2pRnGramy6iaTCNF3MznpPV2BUSFijpP8,MCAT / SOL,0,0.00137307399518,100.0,research_failed,,,549.35,score=0.00 momentum=30%,mom
+2026-11-17T10:55:22Z,EXIT,EdrfcKsWcJ524uyRqMPD37psyrZyvZpj781BeNF6aggA,UODF / SOL,0,4.76539006669e-05,100.0,tp,-100.01,-100.01,549.35,exit_bar=2026-11-17T10:17:00Z,mom
+2026-11-17T10:55:22Z,ENTRY,CuaYWC4DSLcy7Hejq6i9KsXAs33vhsA3DtKbFnivncZP,KIM / SOL,0,0.000118383091447,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T10:56:44Z,ENTRY,HzZz5djujKZBpDhuiZ9RD4tRmMVgZVkUqQJp4oFt8643,Millionaires / SOL,0,3.67075850275e-05,100.0,research_failed,,,549.35,score=0.00 momentum=24%,mom
+2026-11-17T10:58:20Z,ENTRY,8Zx2riBQEyepYy3WRjYBTcK5fzjdFuoE6XGAyyQB2jeG,Millionaires / SOL,0,6.85409256888e-07,100.0,research_failed,,,549.35,score=0.00 momentum=35%,mom
+2026-11-17T10:59:42Z,ENTRY,283FBxDkvXHmBhYVQE7ndPsJ6hE3VA9PgFPk5SP8Hew2,BUDDY / SOL,0,1.56273726756e-05,100.0,research_failed,,,549.35,score=0.00 momentum=55%,mom
+2026-11-17T10:59:42Z,FAILED,B4zTRYDDnrLLQUwfSGVvMUkmserFyJRKBcVxV5RzqThL,东方 / SOL,0,0.00181221252303,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T11:01:19Z,EXIT,CRzDGLWsKnD3dZoHck2agXQkmkk1VuRU9wQiZKJXwQc1,mihao / SOL,0,2.13157901308e-05,100.0,timeout,-5.2,-5.2,549.35,exit_bar=2026-11-17T11:00:00Z,control
