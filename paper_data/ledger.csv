@@ -14582,3 +14582,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T14:29:11Z,EXIT,FKrGU1Ad3p92TWgpoxtVjVz2MCU7AZnRRJgw95jeUDkq,Grokia / SOL,0,1.70865190155e-05,100.0,timeout,-5.88,-5.88,549.35,exit_bar=2026-11-17T14:27:00Z,mom
 2026-11-17T14:33:28Z,ENTRY,6nCo7dqo8GQB7VCENsMdGzaC3ZwgCLSfdTnQMddWEGov,rockstar / SOL,0,2.77995646302e-05,100.0,research_failed,,,549.35,score=0.00 momentum=122%,mom
 2026-11-17T14:34:58Z,EXIT,8RyPyhrYEvhmPTiC9BTNGePLVLrx94apjhR2SpSYBSzi,SOYOUARE / SOL,0,1.28778749448e-05,100.0,sl,-100.03,-100.03,549.35,exit_bar=2026-11-17T13:33:00Z,mom
+2026-11-17T14:36:33Z,ENTRY,FEs6iiyLbF1tjgtUNAotdqremjhJJH54FEnTsbkaQJRG,ZOIN / SOL,0,1.48532048818e-05,100.0,research_failed,,,549.35,score=0.00 momentum=99%,mom
+2026-11-17T14:36:33Z,ENTRY,8hrhzMx41XSJBvZxFqCXfoM9ribHBvfEq4jC21tm78Ss,BALLFIN / SOL,0,2.09217788515e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-9%,control
+2026-11-17T14:39:26Z,ENTRY,GJbi57D2F5iCji9okypYpo9GiKUpsqRNz1CPT2tScqbd,vensa / SOL,0,1.84027634953e-05,100.0,research_failed,,,549.35,score=0.00 momentum=10%,mom
+2026-11-17T14:40:55Z,ENTRY,3NjJdgz3qh8KVQa8khuCSifaKXkfcLKVqTs6R9nxcyEm,GEKKO / SOL,0,0.000163744033285,100.0,control_no_momentum,,,549.35,score=0.00 momentum=1%,control
+2026-11-17T14:43:55Z,EXIT,Axm4hibhakuw54BX8Ega8QMuKhBdSa6t1xyWHCM1Xv6Z,FTW / TTWO,0,7.98378433472e-06,100.0,sl,-35.25,-35.25,549.35,exit_bar=2026-11-17T13:53:00Z,control
+2026-11-17T14:45:26Z,EXIT,3ZStsN9vgfVc2BB2uT5nmMT8PHKAXwZsf1bZB7SYJH2K,Shallow / SOL,0,2.47343756075e-05,100.0,timeout,-10.5,-10.5,549.35,exit_bar=2026-11-17T14:43:00Z,control
