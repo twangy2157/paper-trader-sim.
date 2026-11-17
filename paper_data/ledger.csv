@@ -15007,3 +15007,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T22:48:27Z,ENTRY,7poy9PbCwQNiV2HCC3EuRcumRbPnv7yJMQs4gUWqmdGd,Musk / SOL,0,2.06867553396e-05,100.0,research_failed,,,549.35,score=0.00 momentum=28%,mom
 2026-11-17T22:49:57Z,ENTRY,9inRJSj6UZfvnPetHSe18LmtjktehtqbfYcntFvqeM87,BUSK / SOL,0,1.10081614653e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T22:51:28Z,ENTRY,9UcX3Qssv1KFaZZe618sYqm8d9V7mtDAM8Dod1vMn7hU,nCAT / USDC,0,6.77787294044e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T22:55:58Z,ENTRY,D1eamfWvaW18yZC4cwRNQreeJ5f6XBoH3Mqmu7rvU7Z1,$TITTY / SOL,0,8.25900088877e-06,100.0,research_failed,,,549.35,score=0.00 momentum=178%,mom
+2026-11-17T22:55:58Z,ENTRY,8gANQ7AMWKBhuDNJo44xjPJwPqQU3io8CW8YTab7F5Bw,INU / SOL,0,1.85444833868e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=6%,control
+2026-11-17T22:57:28Z,EXIT,EjQtBLsY69unttxpzd3zKkjyExsV7ch434Nr2noM3fG7,GTAVI / SOL,0,3.854969848e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T22:55:00Z,mom
+2026-11-17T22:59:06Z,EXIT,iKezdbTjmiNvtKcU7Z4VgoFgR9S4LLs7y8kE5VoB7Td,CAT / SOL,0,1.50202212232e-09,100.0,rug,-101.0,-101.0,549.35,exit_bar=2026-11-17T22:44:00Z,mom
+2026-11-17T23:02:07Z,EXIT,48UYtqY5fhgZc4CKJeYfPRxx7k8J5zLGYwCh5F542oEU,ANT / SOL,0,3.4116666852e-06,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T23:01:00Z,control
