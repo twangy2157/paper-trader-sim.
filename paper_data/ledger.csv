@@ -14576,3 +14576,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T14:22:43Z,ENTRY,6GjQKKYW4GxZwQw7y91WKbiuhQbAwZuKtZzwX7LFUnrR,DOGSGTA / SOL,0,3.04220427007e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T14:24:24Z,EXIT,83fzY5kKhVuN1TcxihxYpffr9yo1mYs2KBh9jUq2e6Na,Grokia / SOL,0,4.78730280739e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T14:23:00Z,mom
 2026-11-17T14:24:24Z,ENTRY,B1sYHVC2de9Br6jYZLGQETtPQ9HwzepasXVLpgpwWerf,STORK / SOL,0,1.22727100169e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-3%,control
+2026-11-17T14:26:03Z,ENTRY,AGnNHydEr6S6noNaMiSV9uj3eosxDBsKTZxr8f245Ren,ASDFASD / SOL,0,2.26390699333e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T14:27:33Z,ENTRY,EntoZCCGfKcmNQHfrV5rov1C2Y1t4md9Y88ukq4yfeBV,$Marly / SOL,0,7.00934636853e-05,100.0,research_failed,,,549.35,score=0.00 momentum=50%,mom
+2026-11-17T14:27:33Z,ENTRY,3PcPHNu2vpr1qxAWtTYiuS6Bhyu59iktNrjQTcyjTRD9,GTA6 / SOL,0,3.04521276588e-05,100.0,research_failed,,,549.35,score=0.00 momentum=28%,mom
+2026-11-17T14:29:11Z,EXIT,FKrGU1Ad3p92TWgpoxtVjVz2MCU7AZnRRJgw95jeUDkq,Grokia / SOL,0,1.70865190155e-05,100.0,timeout,-5.88,-5.88,549.35,exit_bar=2026-11-17T14:27:00Z,mom
+2026-11-17T14:33:28Z,ENTRY,6nCo7dqo8GQB7VCENsMdGzaC3ZwgCLSfdTnQMddWEGov,rockstar / SOL,0,2.77995646302e-05,100.0,research_failed,,,549.35,score=0.00 momentum=122%,mom
+2026-11-17T14:34:58Z,EXIT,8RyPyhrYEvhmPTiC9BTNGePLVLrx94apjhR2SpSYBSzi,SOYOUARE / SOL,0,1.28778749448e-05,100.0,sl,-100.03,-100.03,549.35,exit_bar=2026-11-17T13:33:00Z,mom
