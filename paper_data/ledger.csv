@@ -15020,3 +15020,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T23:09:39Z,ENTRY,GJbcYTBBtpLt9nse9ohncyYhY65djWKPEt8T4SgLRxFW,Macca / SOL,0,2.3546556988e-05,100.0,research_failed,,,549.35,score=0.00 momentum=56%,mom
 2026-11-17T23:12:32Z,ENTRY,ECEvipg8miAWjAEfjGx8YzCYWpNKnWEdGimPUXbeJ1Rg,TANK / SOL,0,3.7027048258e-05,100.0,research_failed,,,549.35,score=0.00 momentum=24%,mom
 2026-11-17T23:12:32Z,ENTRY,3LKADXFH6P5HcpwRAkED7gzPRYn1CyroNgSB9BoPXCjh,TANK / SOL,0,7.12311164815e-05,100.0,research_failed,,,549.35,score=0.00 momentum=10%,mom
+2026-11-17T23:14:16Z,ENTRY,6BE8VL8NBkdyfSdQz7Rbsmwj9UMQ5rABGNrH7f5qg4Xj,$LA BEAST / SOL,0,2.68907047648e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T23:15:39Z,ENTRY,5Td6ej5WMPY3xA8qJzPW1SdYEaniYXWn1yjjZnruK7XS,CONSOLE / SOL,0,3.19747419075e-05,100.0,research_failed,,,549.35,score=0.00 momentum=32%,mom
+2026-11-17T23:15:39Z,ENTRY,AUXet3octLXSg1Hebx9U7UzPSiLFJKCZrwD7sBmZNikw,AhHuang / SOL,0,1.06524925389e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T23:17:17Z,EXIT,AL5K2sVEKydknv1CMtjcStq6sNFGWhrmzzsDXL7YYwrC,Leonida / SOL,0,5.50808348129e-09,100.0,timeout,-5.97,-5.97,549.35,exit_bar=2026-11-17T23:16:00Z,control
+2026-11-17T23:20:19Z,FAILED,GXtwkahYy2JPuN63i9Ld5JHpBtBxBVTEvrnwgALrxC9G,Gtawheel / SOL,0,1.26588962595e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
