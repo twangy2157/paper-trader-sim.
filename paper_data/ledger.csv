@@ -14061,3 +14061,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T02:20:21Z,ENTRY,14HM4qKux2RAed5CumzqnD2roR9Y9AwKj9F6rQgxwLTH,ELON / SOL,0,2.79450563194e-05,100.0,research_failed,,,549.35,score=0.00 momentum=87%,mom
 2026-11-17T02:21:43Z,ENTRY,E45Me3VHoqzpve8aw3qqCB6ucazMypbghy8j63patAxo,TTPC / SOL,0,1.47252196052e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-11%,control
 2026-11-17T02:21:43Z,ENTRY,EubeAiH7i5nbRAKAK8AEZt8bDUmajuytYpyP4cnJzhc1,Democat / SOL,0,2.29824114642e-05,100.0,research_failed,,,549.35,score=0.00 momentum=56%,mom
+2026-11-17T02:24:46Z,FAILED,2NAiof5Pfi75g1mqGiwkni7SEwtKi38edfaHeuX4H2jt,KIRITO / SOL,0,9.80026009192e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T02:26:15Z,EXIT,4dtPqp2VXfPLKBnhMGWoKX5xcs6BixSsUSZo9YDeitmY,SPACEXJAK / SOL,0,1.32062081363e-05,100.0,timeout,-7.7,-7.7,549.35,exit_bar=2026-11-17T02:25:00Z,mom
+2026-11-17T02:27:30Z,EXIT,H6LbusE7MuovPSg5dQcq1UqHh6FAW79xibEKKf6QQDWa,JOB / SOL,0,0.000399545303841,100.0,timeout,-7.74,-7.74,549.35,exit_bar=2026-11-17T02:26:00Z,mom
+2026-11-17T02:27:30Z,FAILED,9izrquy5GZ3fjK1DidpFw4XqCKZzYocaXef6zAg2JEkC,GAMER / SOL,0,2.98639001634e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T02:29:07Z,ENTRY,CZpw79VsDGH6xT2SqXd95PvGJz7KsqHb7k18qm57EQKx,CHAR / SOL,0,0.000156485745781,100.0,research_failed,,,549.35,score=0.00 momentum=136%,mom
+2026-11-17T02:30:29Z,EXIT,6DaLrvMobrXpcKUkTd41gZjoqpWspudLdVhK6BfxteKi,SpaceXJak / SOL,0,7.08814758506e-08,100.0,rug,-100.62,-100.62,549.35,exit_bar=2026-11-17T02:00:00Z,mom
+2026-11-17T02:30:29Z,ENTRY,9q17T4crEeF6WCtDMWCykwtKm1LMsxSUSWtxgAqpwgq4,neethao / SOL,0,1.42566718684e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-2%,control
+2026-11-17T02:30:29Z,ENTRY,XHAt97r8H6GUCwZCgqcEhHn9HrVQZA8Dsn4TFXTYGv2,$LA BEAST / SOL,0,9.4758383776e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T02:32:06Z,ENTRY,6DY3AGYwhRJv7QNbMxDCUukuSfxRc8u9NELXNWZuc4Q3,GAVLE / SOL,0,1.20851356558e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T02:33:28Z,ENTRY,81KTNnicadhMWLn9MAj55WRmwugNmZfdMVXLpPSdMK2v,赏金猎人 / SOL,0,2.86541662003e-05,100.0,research_failed,,,549.35,score=0.00 momentum=192%,mom
+2026-11-17T02:33:28Z,ENTRY,59crp3Z19s3yi3nTzXsASkfUedV8teNfuf7y3imSkmkW,DISTRICT / SOL,0,1.49750214156e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-2%,control
