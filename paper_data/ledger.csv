@@ -15000,3 +15000,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T22:36:31Z,EXIT,7B5YTJHiKsFJhJh2Ag1wuU79Go3EL1q33zyzavHXCeMA,中国人牛逼 / SOL,0,2.88460226365e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T22:35:00Z,control
 2026-11-17T22:38:02Z,ENTRY,57KaTM6KJW4JnNBqF9jb8AVtFya8bTrt2th9T4qsCA4M,MORNING / SOL,0,1.9318948815e-05,100.0,research_failed,,,549.35,score=0.00 momentum=28%,mom
 2026-11-17T22:39:18Z,EXIT,GN2cMfCniBcHG1bNe9xEGjrcXxbG312FrUHZgpeXaEze,pepzilla / SOL,0,8.93617838785e-06,100.0,timeout,-10.89,-10.89,549.35,exit_bar=2026-11-17T22:38:00Z,control
+2026-11-17T22:42:24Z,EXIT,CU9tsynP36cUbB7z1XGQ9UfCVBHq73z9GpGuNrPLbqS1,chair / SOL,0,6.75895737205e-06,100.0,timeout,-10.07,-10.07,549.35,exit_bar=2026-11-17T22:40:00Z,control
+2026-11-17T22:43:47Z,EXIT,6gpCDFKMPsnsb53nJV8Njg9dprP4PqrWo8KLnCD1y3MA,$Trampus / SOL,0,9.61820750209e-06,100.0,timeout,-11.18,-11.18,549.35,exit_bar=2026-11-17T22:41:00Z,control
+2026-11-17T22:46:56Z,ENTRY,5mXt6YP5PgfiGquPxc3RAyqMQwq8GsFvyYMEwNYifEzB,HuangSHIT / SOL,0,1.19257936407e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T22:46:56Z,ENTRY,6SmRpX8C1ck8aCoKzgFyvpF8CF6WeEJ6Rj3fkNifu4Qd,ass / SOL,0,1.43396848595e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T22:48:27Z,ENTRY,7poy9PbCwQNiV2HCC3EuRcumRbPnv7yJMQs4gUWqmdGd,Musk / SOL,0,2.06867553396e-05,100.0,research_failed,,,549.35,score=0.00 momentum=28%,mom
+2026-11-17T22:49:57Z,ENTRY,9inRJSj6UZfvnPetHSe18LmtjktehtqbfYcntFvqeM87,BUSK / SOL,0,1.10081614653e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T22:51:28Z,ENTRY,9UcX3Qssv1KFaZZe618sYqm8d9V7mtDAM8Dod1vMn7hU,nCAT / USDC,0,6.77787294044e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
