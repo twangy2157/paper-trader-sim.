@@ -14645,3 +14645,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T15:37:42Z,ENTRY,76q5HnhwDsmVLzyqCMifRPR4pbZW1FcxBBnR5sGfXAbJ,BANDIT / BOT,0,2.07837297705e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-23%,control
 2026-11-17T15:39:42Z,EXIT,FEs6iiyLbF1tjgtUNAotdqremjhJJH54FEnTsbkaQJRG,ZOIN / SOL,0,1.10080188864e-05,100.0,timeout,-29.02,-29.02,549.35,exit_bar=2026-11-17T15:37:00Z,mom
 2026-11-17T15:39:42Z,ENTRY,9SMMtrQcyxAxpEQQFn4FTDErf99FTaabVtYv38h6eiF3,Uncrat / SOL,0,2.05843117687e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T15:40:47Z,EXIT,8hrhzMx41XSJBvZxFqCXfoM9ribHBvfEq4jC21tm78Ss,BALLFIN / SOL,0,2.32416970848e-05,100.0,rug,6.7,6.7,549.35,exit_bar=2026-11-17T15:37:00Z,control
+2026-11-17T15:42:09Z,EXIT,GJbi57D2F5iCji9okypYpo9GiKUpsqRNz1CPT2tScqbd,vensa / SOL,0,1.85536619733e-05,100.0,timeout,-2.78,-2.78,549.35,exit_bar=2026-11-17T15:40:00Z,mom
+2026-11-17T15:43:09Z,EXIT,3NjJdgz3qh8KVQa8khuCSifaKXkfcLKVqTs6R9nxcyEm,GEKKO / SOL,0,0.000166117005093,100.0,rug,-1.69,-1.69,549.35,exit_bar=2026-11-17T15:41:00Z,control
+2026-11-17T15:44:46Z,ENTRY,5aZitMTszfRF98rFiRXKrxkduCP2TBa9bDp4sYy78bsq,VIBESTACK / SOL,0,1.97008454359e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-17%,control
+2026-11-17T15:44:46Z,FAILED,BCmTygsJwCzHupA2tWpKe51rfLsfMGNB3wijGTRVDRtB,SSDFSDF / SOL,0,8.76086572025e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T15:45:45Z,ENTRY,8zHmU5tnEkXQQM88me8JSfSz1r1q55dnNa8M5NZ4bcxo,CIGRAT / SOL,0,1.33326583256e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-47%,control
+2026-11-17T15:47:43Z,ENTRY,Fp9ZMEzSmAviQAcNnod2ACgT9Aj28t3EBz4UrfK4rELx,ՍЅDD / SOL,0,0.00042066128936,100.0,research_failed,,,549.35,score=0.00 momentum=205%,mom
+2026-11-17T15:48:42Z,ENTRY,7ba1D6mtsTg5qr2RkoWdRHrmat9TApwzYQpGTZxQLq3N,INUX / SOL,0,0.0001631627626,100.0,research_failed,,,549.35,score=0.00 momentum=597%,mom
+2026-11-17T15:50:40Z,ENTRY,DKzogsWjs2Vt6ic8exvqTfgY8Aao6qDz2isTEjpzmnzR,GM / SOL,0,0.00018503325028,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-5%,control
+2026-11-17T15:50:40Z,ENTRY,5cY2Gj9oiuANUBvWu9i1ytT6Y4nwbMzRKMBU7muCufAN,SSDFSDF / SOL,0,1.24986600127e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
