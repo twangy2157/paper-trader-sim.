@@ -14197,3 +14197,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T05:19:26Z,ENTRY,Gqj6mWZB5Un6dWnGUteiQhDBBnkAinC7rZz4zgLC9TYE,GODF / SOL,0,0.088930990988,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T05:22:17Z,EXIT,6HG4x1EkDunhmrZh4Dgy5z43x14G7NYRK6XBiVpBTBEx,BULL / SOL,0,1.71379644641e-05,100.0,timeout,-5.86,-5.86,549.35,exit_bar=2026-11-17T05:21:00Z,control
 2026-11-17T05:23:32Z,FAILED,44M38QpQkj8zeaRAsAcGJcf427ieqJErfMnMCTWe9kBL,5PIGEON / SOL,0,3.23049354034e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T05:25:05Z,ENTRY,9syZ6EeRfpXNmhaYg9CsCvp8eLJLJrWKTzzM6P1qkzxL,UODF / SOL,0,2.39175401537e-05,100.0,research_failed,,,549.35,score=0.00 momentum=48%,mom
+2026-11-17T05:27:57Z,ENTRY,Bb4b9qvtM8JD2sVYMqjfMDaQwZrPTuLuRV6ogZ29Fozb,rok / SOL,0,1.47334338776e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T05:29:26Z,ENTRY,CKBGLUixpj4MyPGRmcSgD4tzEhg7YoHa4vhP6WdqNxAh,Musk / SOL,0,2.25615893235e-05,100.0,research_failed,,,549.35,score=0.00 momentum=31%,mom
+2026-11-17T05:30:55Z,ENTRY,5GP8D4SAqEA8HYRm3boGURLnJBbrzyaKuRA5vv4A65yn,CHAR / SOL,0,6.85385801163e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=9%,control
+2026-11-17T05:33:32Z,EXIT,4fd4naGZPLAZZDJkYeTJmcLACe1f8oToKiQgvgJqE14H,TURN / SOL,0,0.00232554672863,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T05:32:00Z,control
