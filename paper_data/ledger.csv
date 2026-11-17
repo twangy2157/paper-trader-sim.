@@ -14183,3 +14183,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T04:58:56Z,ENTRY,CYpS2fFZ2jqDjXXrMi72i117EwZZss9hUGa9fdQhAnAB,AI / SOL,0,5.9677470123e-05,100.0,research_failed,,,549.35,score=0.00 momentum=31%,mom
 2026-11-17T05:00:25Z,FAILED,DfpKwRSai55ZE6prEBsrfgQA7zLsDyrQkimVocpQseG8,$WEED / SOL,0,1.09671996874e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
 2026-11-17T05:01:47Z,ENTRY,A7CFPtaihgiX6jj1jSBz5A3BUgbrLoqiMdpyWCHHxwP9,Picassol / SOL,0,1.68841639613e-05,100.0,research_failed,,,549.35,score=0.00 momentum=22%,mom
+2026-11-17T05:04:43Z,ENTRY,BVSa2RKYMxLM37yXZvfgVKvCCjAh1pZWFFGsrqDifAMH,IFRUIT / SOL,0,2.94032170054e-05,100.0,research_failed,,,549.35,score=0.00 momentum=11%,mom
+2026-11-17T05:04:43Z,FAILED,CM5CA6xFbLessMcYBFFwhFZvKrZgqAsgvC4Wmyd4mmwL,6STAR / TTWO,0,3.89749738542e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T05:06:19Z,ENTRY,FJtKFn6iFPH3nhWHCHbsBk5HiWCciLB1tCPzJ2t4zgsq,CLAUDIA / SOL,0,6.69506792173e-07,100.0,research_failed,,,549.35,score=0.00 momentum=36%,mom
+2026-11-17T05:07:41Z,ENTRY,AgHVDFNYQ3htp8iJK3owmeopxKB2DBJ3KMzNrgxYFJKe,$REXTON / SOL,0,7.41338802416e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T05:07:41Z,ENTRY,83DrepHjZAH1iVv9mAfyCuh74eHNS8ySB7CeWGjymURU,AI / SOL,0,7.13608883391e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-3%,control
+2026-11-17T05:09:18Z,EXIT,3UgfnYT8ECWo69gDrxExd6xX3pLHye55K3fpouvn2ZCH,SoL / SOL,0,1.38846069224e-05,100.0,timeout,-6.39,-6.39,549.35,exit_bar=2026-11-17T05:08:00Z,control
+2026-11-17T05:10:40Z,EXIT,HNxxPXp7KimW4K8WHwj3gJC9dG8i8E3GCFnj1xN5R4cd,Mischio / SOL,0,3.71471372745e-05,100.0,sl,-32.96,-32.96,549.35,exit_bar=2026-11-17T04:19:00Z,mom
+2026-11-17T05:12:16Z,EXIT,8wZAXyvCuZwk274wKex5WV1QBFYQn8hRe5H1sZ5rg5Gc,TI / SOL,0,0.000121097341377,100.0,rug,-3.72,-3.72,549.35,exit_bar=2026-11-17T05:11:00Z,control
