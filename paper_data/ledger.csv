@@ -14663,3 +14663,16 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T15:58:43Z,ENTRY,Gha4GYN3RGufhjNkwgaHrcNNbH5wNYVfv53m2dBegMur,WANTED / SOL,0,0.000365542154581,100.0,research_failed,,,549.35,score=0.00 momentum=104%,mom
 2026-11-17T16:00:43Z,ENTRY,H5C3JpX7HAkjY2b5J3Egowo99BqQpMm3zq7d6dtfxYnw,CIGRAT / SOL,0,0.000446876092361,100.0,research_failed,,,549.35,score=0.00 momentum=224%,mom
 2026-11-17T16:00:43Z,FAILED,5xvahpWcjzsa7Ux4aVWG2ssJpRn61tumoqrm346ZGjA6,Rockstar / SOL,0,5.13607002066e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T16:02:49Z,ENTRY,8ReJGinM1qMSjcTLzy65sS1edfEarc3fmapv3MREHxj1,SLUICE / SOL,0,2.23893439035e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T16:02:49Z,ENTRY,Aob5vr6nPxNTGRDMgwsQcj5BcbXnsDcrVzaiCxHTQoHp,$SLJK / SOL,0,1.24339766755e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T16:04:26Z,EXIT,BV2PLc7v7U5z2G8G2Bzwov9FktFFB7i6JmGzYxo8vipe,KIM / SOL,0,8.07900077749e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T16:02:00Z,control
+2026-11-17T16:05:25Z,ENTRY,C8XSWNmydUQFf684WrUYBpar6JY7dPLFjVbgvPk7vnqW,JUMP / SOL,0,2.79918924488e-05,100.0,research_failed,,,549.35,score=0.00 momentum=45%,mom
+2026-11-17T16:05:25Z,ENTRY,53cw8qRkxGZRFZisTjBC4EgRY3Z7cLoa4ZdGMS1qeVnM,BACKPACKNAMI / SOL,0,0.000133414139787,100.0,research_failed,,,549.35,score=0.00 momentum=374%,mom
+2026-11-17T16:06:24Z,FAILED,98etkAJk4WzQb9ovaK3ZrkuX9yh46uyzeRmsTJCosAkH,CAT / SOL,0,3.36761788357e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T16:06:24Z,ENTRY,BtQtYdmmFwDNnwn3VFSqzGmpbDNrJ9u1bWK2kbUXY9Rz,SIMPSONS / SOL,0,5.14337408895e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T16:07:23Z,ENTRY,CrU4gYsmeh7WJFT7YuoZWTRwQ6wxuJaEKvAVzuxxTzKK,Simpsons / SOL,0,1.11187897717e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-66%,control
+2026-11-17T16:08:45Z,EXIT,2bdEZWUUJLyh3PVgeEMxGBWJDYkGrAKrAhrkDcMiK7bE,mihao / SOL,0,7.63983664385e-06,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-17T15:17:00Z,mom
+2026-11-17T16:10:22Z,EXIT,tcr86xwtatUvAvK4SBYwn1K8moeV7gGJy1tXZ3yzydC,FSDF / SOL,0,6.40221647541e-06,100.0,timeout,-10.19,-10.19,549.35,exit_bar=2026-11-17T16:07:00Z,control
+2026-11-17T16:10:22Z,FAILED,B4z7h8ptuHgmZQ65hdMtTPag2YDfkxqUnqzHVJypgz5Y,麻辣香鍋 / SOL,0,4.18555730257e-09,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T16:11:59Z,EXIT,3i3EadsX8LiQid7xhWtJ5317nCou5wx2RRxtXjdyKZJx,GTA6 / SOL,0,0.000241791704586,100.0,sl,-94.9,-94.9,549.35,exit_bar=2026-11-17T15:10:00Z,mom
+2026-11-17T16:11:59Z,ENTRY,9XXqB1UXss1GTNo8YqKiRHKNVEWr8jVU63oEZwz9vdsH,Leonida / SOL,0,2.13226714358e-05,100.0,research_failed,,,549.35,score=0.00 momentum=143%,mom
