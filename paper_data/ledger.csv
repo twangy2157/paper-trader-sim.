@@ -14762,3 +14762,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T17:47:30Z,EXIT,4tYRWRo36c3GKXsTU77vr6eqm3osYusFSEis81AZF4Dk,CEO / NVDAx,0,2.88026220529e-05,100.0,sl,-33.67,-33.67,549.35,exit_bar=2026-11-17T16:48:00Z,mom
 2026-11-17T17:47:30Z,FAILED,9VcVAmDgNJKbGzc9XcvCsRbipKNhKYG1f5dGBSS3gZE5,$ASTR / SOL,0,1.61966607109e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
 2026-11-17T17:47:30Z,ENTRY,FZ2D7iVVJE2228AMJ2Hwu5Xt6WxXR3ZPajLfjUh83een,DacityCoin / SOL,0,3.71154166653e-05,100.0,research_failed,,,549.35,score=0.00 momentum=16%,mom
+2026-11-17T17:48:33Z,FAILED,DoJYSTDbfKRSBhgnoSA9zGxycE43h2BZTYHLx7DFtXbc,GEKKO / SOL,0,6.66974739477e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T17:50:40Z,EXIT,A9pbdaF8nQnt2nD6LFy6RTaEFz1E4xCqZBzTACXEjE98,MrBeast / SOL,0,1.3521391706e-06,100.0,rug,-98.83,-98.83,549.35,exit_bar=2026-11-17T16:54:00Z,control
+2026-11-17T17:52:40Z,ENTRY,JDgZny8wSUqBGtJ7ii8vw4GT9Wy7MBTnaQG5KQa8F7zs,RARI / SOL,0,7.64684113778e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T17:52:40Z,ENTRY,37pcvhB46mnREuVrTK8DiLiherCxhRnv4wqK4PtWBQo4,BINC / SOL,0,6.56417453316e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=3%,control
+2026-11-17T17:52:40Z,ENTRY,HP8nf52zd5cTfPWUNGYfmSS8xXdstUYrFNeg3xUCmnmo,BAWSAQ / SOL,0,3.78125430131e-05,100.0,research_failed,,,549.35,score=0.00 momentum=14%,mom
+2026-11-17T17:54:33Z,EXIT,DtarntWSyMAEQo1QxAFWova4yQTYLFSW4HAnK571E6Ss,APEC / SOL,0,1.95636509736e-05,100.0,timeout,-2.66,-2.66,549.35,exit_bar=2026-11-17T17:52:00Z,mom
+2026-11-17T17:56:40Z,ENTRY,4Z2Dgnbvnjcbg1CxZNE5KoqhbT3872n2bGSGiuyhMZoH,scam / USDC,0,8.30113887045e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T17:56:40Z,ENTRY,6o6GUU1GztPW4DVbyJdcPqYbAigbMA44p3xndapytygi,TRAD / SOL,0,3.70489980071e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-69%,control
+2026-11-17T17:58:40Z,FAILED,HLiBx75kF3e6rMH1b3oCmWvaeSXB5xwqC7s4Fnm5c71F,scam / USDC,0,6.95628009658e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T17:58:40Z,ENTRY,DnEZmvx5ewa5iHbTrmBiHQvKmx3x6jSBwDBWrryQ2a21,$LIE / SOL,0,2.01780496322e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T17:58:40Z,ENTRY,5jkhbtqbiQLC3YKsRu2zpck27zXtpb8ZKFUPusC9KykX,scam / USDC,0,6.91186706001e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T17:58:40Z,ENTRY,FUrBfnregBxuHhpNcQbzpSjcbrNm45vrKSaoCpkqBkHu,SSL / SOL,0,2.98826140946e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
