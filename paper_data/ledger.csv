@@ -14609,3 +14609,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T15:05:43Z,EXIT,EkHSNf7jXf24QE4TExz9XvWLG4VqpoXjY2tFwrpCUFqH,SHORT / SOL,0,1.05186083865e-05,100.0,sl,-36.14,-36.14,549.35,exit_bar=2026-11-17T14:02:00Z,dip
 2026-11-17T15:06:58Z,ENTRY,2bdEZWUUJLyh3PVgeEMxGBWJDYkGrAKrAhrkDcMiK7bE,mihao / SOL,0,1.09140523484e-05,100.0,research_failed,,,549.35,score=0.00 momentum=59%,mom
 2026-11-17T15:06:58Z,ENTRY,tcr86xwtatUvAvK4SBYwn1K8moeV7gGJy1tXZ3yzydC,FSDF / SOL,0,6.65398304501e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T15:08:44Z,ENTRY,3i3EadsX8LiQid7xhWtJ5317nCou5wx2RRxtXjdyKZJx,GTA6 / SOL,0,0.000352471228367,100.0,research_failed,,,549.35,score=0.00 momentum=58%,mom
+2026-11-17T15:10:44Z,EXIT,2tJ1vm7F4y8kRx45AUmhb9uzkR7F14yPucad45xuHKoA,DOLLAR / SOL,0,0.000108776036816,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T15:08:00Z,mom
+2026-11-17T15:10:44Z,ENTRY,9rgeozsVPyMyf6qRHU9tLMownZQ2iJ2s4BQ9Kgaxowzj,KIM / SOL,0,0.000127529225005,100.0,research_failed,,,549.35,score=0.00 momentum=159%,mom
+2026-11-17T15:10:44Z,ENTRY,Fvq7zJfuNdaY1H2XEataEDyQ8FbNFWjNFFjA5xtdsVRF,FHC / SOL,0,1.43108263227e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-8%,control
+2026-11-17T15:12:44Z,EXIT,6Ls7gqtGdhSHty4skiAgu7a4nXuJBK9uk8RNmHKk5nD4,WIGGLES / SOL,0,1.28834929535e-05,100.0,timeout,-9.48,-9.48,549.35,exit_bar=2026-11-17T15:10:00Z,control
+2026-11-17T15:13:43Z,EXIT,7wuoMcmPqYUYhKvaiGt6faYdcGfb9dnqdbPUjWFJgtpZ,STELLAR / USDC,0,0.141152572602,100.0,timeout,-2.82,-2.82,549.35,exit_bar=2026-11-17T15:11:00Z,control
+2026-11-17T15:13:43Z,ENTRY,44zkXGQF9BH3VuKAXg3TVdHjEJFuPR4eJmJKi9JUGRHd,CHOO / SOL,0,0.000108086953178,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-13%,control
+2026-11-17T15:13:43Z,ENTRY,EJUkAu9fxw6upVhdHyRKLE5gj1HjPzerFMFV8h9u8GVg,Rex / SOL,0,5.77162262347e-08,100.0,control_no_momentum,,,549.35,score=0.00 momentum=8%,control
+2026-11-17T15:15:43Z,ENTRY,DmtM2M6W8E9h69eLkua8z9ymNXFWdU3rTFKwjCjfuWSN,UAED / USDT,0,0.271884209012,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T15:17:36Z,ENTRY,ELLpHyR6VYomkmPUz6qL9DSiFUA6FPEnhyqt7NX8KY7m,OTP / SOL,0,9.25400147027e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T15:17:36Z,ENTRY,6h4RmqD4R4srYPokAWozbe7v21oAKzBPnjfqvcuuqCu6,ELON / SOL,0,0.000121989192716,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
