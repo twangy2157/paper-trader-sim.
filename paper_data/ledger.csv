@@ -14528,3 +14528,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T13:18:07Z,FAILED,H7Lpa4knDacMnHggsf2hGDwdjAezhhCYCU2YxjyFa8Rf,BENJIEZ / SOL,0,1.83252875669e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
 2026-11-17T13:19:30Z,ENTRY,CTKaqLXWHVqrLwedBUiLBRyDdd6MmWdi5coYW8dQymTu,Fox / SOL,0,2.48995680059e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T13:20:59Z,ENTRY,D7dxhv8UMuVpghs5G6b2zoP9Qgx3WPcyVeDdytV3uNDy,USZT / USDT,0,1.0016656444,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T13:22:33Z,EXIT,NBruxBFc3kVVVahum9MbHGwmvCeSeNG9JhkmjhxXnTQ,Aura / SOL,0,4.84609893339e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-17T12:20:00Z,mom
+2026-11-17T13:22:33Z,ENTRY,83fzY5kKhVuN1TcxihxYpffr9yo1mYs2KBh9jUq2e6Na,Grokia / SOL,0,3.87827633352e-05,100.0,research_failed,,,549.35,score=0.00 momentum=19%,mom
+2026-11-17T13:24:10Z,EXIT,3S5Lh66SSZcrTfAut1MGbhjpr3E2fEW2mpc4ChcGWWfJ,BAWSAQ / SOL,0,4.9912394509e-05,100.0,timeout,24.8,24.8,549.35,exit_bar=2026-11-17T13:23:00Z,mom
+2026-11-17T13:25:26Z,EXIT,DZVicfFEhiaWULqrfrqJMDBnfSLqMce8nkpbiSAmMw98,SOYOUARE / SOL,0,4.87506599037e-05,100.0,timeout,18.74,18.74,549.35,exit_bar=2026-11-17T13:23:00Z,mom
+2026-11-17T13:26:55Z,ENTRY,FKrGU1Ad3p92TWgpoxtVjVz2MCU7AZnRRJgw95jeUDkq,Grokia / SOL,0,1.73461207978e-05,100.0,research_failed,,,549.35,score=0.00 momentum=48%,mom
+2026-11-17T13:31:16Z,EXIT,9aHfDzpFPAoRTQ4KBZqH5LgjntLSCw6ws2qhb9RfP5Gb,onboard / SOL,0,4.72479517625e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T13:29:00Z,mom
+2026-11-17T13:32:32Z,ENTRY,8RyPyhrYEvhmPTiC9BTNGePLVLrx94apjhR2SpSYBSzi,SOYOUARE / SOL,0,2.61944641904e-05,100.0,research_failed,,,549.35,score=0.00 momentum=214%,mom
