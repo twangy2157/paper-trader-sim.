@@ -14542,3 +14542,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T13:41:26Z,ENTRY,Axm4hibhakuw54BX8Ega8QMuKhBdSa6t1xyWHCM1Xv6Z,FTW / TTWO,0,1.14054061925e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-11%,control
 2026-11-17T13:42:55Z,FAILED,3DcbAgJdJzUmWdtz74NDhhY83Pk1VCeqVKATsh1EX2Y9,BAWSAQ / SOL,0,2.46551028835e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
 2026-11-17T13:42:55Z,ENTRY,3ZStsN9vgfVc2BB2uT5nmMT8PHKAXwZsf1bZB7SYJH2K,Shallow / SOL,0,2.65899944566e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T13:44:30Z,ENTRY,Eoi1GxLeUh8L1aBkagdHE9V5T5MUoKH1Kie6yfMwaao1,GTA6 / SOL,0,2.79441166895e-05,100.0,research_failed,,,549.35,score=0.00 momentum=108%,mom
+2026-11-17T13:44:30Z,ENTRY,7DgfwiXna4yAYsQWvM5iXw9w1LpCKrtKVgonm8xRW8G7,Jenson 6 / SOL,0,7.22318400771e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T13:44:30Z,ENTRY,2m8i1hxtTvKwvBWKpVGPdj5r4FKw6gd8CUoQqpaCFhiQ,FTW / SOL,0,0.000115186184976,100.0,research_failed,,,549.35,score=0.00 momentum=102%,mom
+2026-11-17T13:45:29Z,ENTRY,G5VzPQjC9DbiKG8TVQ9Rx7BD8uitwfGDREPJNiVo1URK,blindape / SOL,0,3.19884228467e-05,100.0,research_failed,,,549.35,score=0.00 momentum=266%,mom
+2026-11-17T13:46:58Z,ENTRY,5crxgzUyNKXUghP8KrLwNQ3wUVASnVoyH7XCzUsBT75y,GTA / SOL,0,3.72458662902e-05,100.0,research_failed,,,549.35,score=0.00 momentum=12%,mom
+2026-11-17T13:46:58Z,ENTRY,5xJuoZzApUeeJZtEUMXu9oPMsuNYKMRarGsvRztbcqbU,Dog Think / SOL,0,9.6364357564e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T13:48:44Z,ENTRY,7xPfDxYBp11ZKUsTUexBbVA1MZDXRNXEMDZTkNqfxMSh,GTA6 / SOL,0,7.4987975975e-07,100.0,research_failed,,,549.35,score=0.00 momentum=47%,mom
+2026-11-17T13:49:43Z,FAILED,BkXWfe97ZuozeRbmYRUppqFMUDit4tYNMMMWfqeYUiSb,USMS / SOL,0,6.82615488821e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T13:52:36Z,ENTRY,GSRDJam8edWD8vbjp3hDgjj5dLCpNbZhEwdYhmVA1Uzw,SOYOUARE / SOL,0,7.84070560488e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=3%,control
+2026-11-17T13:52:36Z,ENTRY,2MrxYYkvxzYN3vCr1GsA4UfFAyXUsWVGhYMvUD6SLgif,SOYOUARE / SOL,0,3.08675374039e-05,100.0,research_failed,,,549.35,score=0.00 momentum=88%,mom
