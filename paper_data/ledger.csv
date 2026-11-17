@@ -14891,3 +14891,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T20:31:17Z,ENTRY,G6dKb9gHdBRcY1unU7AGVbHvBoxqjhXSsVeP1gYEGkzc,DacityCoin / SOL,0,4.2869518336e-05,100.0,research_failed,,,549.35,score=0.00 momentum=46%,mom
 2026-11-17T20:32:41Z,ENTRY,HU2w2hmaaUfGZP8MhBfSNXriZtUsdXyJEFEPYfPoFfSg,Bank / SOL,0,3.95279360062e-05,100.0,research_failed,,,549.35,score=0.00 momentum=19%,mom
 2026-11-17T20:32:41Z,ENTRY,5YVYWbuWLQpSHfeHUdbgGcgDKgnoD4xGhRojUS3QfwKY,AkS / SOL,0,1.14075916043e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T20:34:24Z,EXIT,CdVq3h6RQytdxVCqEPR77XHSeR3vFpWYRpsx9EehgUby,RISETEST / SOL,0,2.44625027885e-05,100.0,timeout,-4.55,-4.55,549.35,exit_bar=2026-11-17T20:32:00Z,control
+2026-11-17T20:35:48Z,FAILED,9w2CpuJUQGAxik7HpQimuhaD77NNpnZWzxbV3GDhscij,PAID / SOL,0,0.000352742250288,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T20:35:48Z,ENTRY,Go2sR6gLo89GiAXQaKWnd35NGxq6cGoc9cS3scm6PHyL,REFU / SOL,0,2.9892280073e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=2%,control
+2026-11-17T20:37:35Z,ENTRY,7vgf2cDGR6fkF4VzvjabqyBZrFnKtKe3QwfSu5yGRBb7,GTA / SOL,0,6.7487672272e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T20:37:35Z,ENTRY,242oakCzWyEjJ1LZ5YwhKLvtmdkKCMRN9JiYPqZtQbTk,BLACKVEMBE / SOL,0,6.70281856071e-05,100.0,research_failed,,,549.35,score=0.00 momentum=16%,mom
+2026-11-17T20:37:35Z,ENTRY,9tMFU173r4Hj8giFuXs3Vp6U1raqxoKoPfxzzvwju1xj,Rockstar / USDC,0,8.11535663391e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T20:37:35Z,ENTRY,AcxnzyUG6U4f78JhAdA3GNB3t6QgrbzxRUiY1JCX9vxo,GTAVI / SOL,0,7.22132045544e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=10%,control
+2026-11-17T20:39:37Z,EXIT,SNyiLoa5FePAPiUJiGNM9GznMvnmLyq3MRVmJ5nJZPs,vensa / SOL,0,3.66258947936e-05,100.0,tp,94.02,94.02,549.35,exit_bar=2026-11-17T20:00:00Z,mom
+2026-11-17T20:41:15Z,EXIT,77M8Eq4BwtFEvfveeeQyWoLCrJriRcFkjCr1HW9fqqrJ,GTAI / SOL,0,3.86640811449e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T20:40:00Z,mom
+2026-11-17T20:42:39Z,ENTRY,GtCcBi9sXUdAvoe3wVbmJuVvXPEQWViLK7bCR6UQQi6t,BAWSAQ / SOL,0,3.8167667937e-05,100.0,research_failed,,,549.35,score=0.00 momentum=18%,mom
+2026-11-17T20:44:17Z,EXIT,5WSB67b476FuwH9oYwJiWpeYHebqiX3Nxc8cCyLGKh2m,SGT6 / SOL,0,8.25861436368e-06,100.0,timeout,-8.77,-8.77,549.35,exit_bar=2026-11-17T20:42:00Z,control
+2026-11-17T20:44:17Z,ENTRY,29VnaTQNmdMMmo3h955hS9zVnRYkCiDczduV18zTvnVP,LUCIASS / SOL,0,0.000146973591871,100.0,control_no_momentum,,,549.35,score=0.00 momentum=8%,control
