@@ -14903,3 +14903,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T20:42:39Z,ENTRY,GtCcBi9sXUdAvoe3wVbmJuVvXPEQWViLK7bCR6UQQi6t,BAWSAQ / SOL,0,3.8167667937e-05,100.0,research_failed,,,549.35,score=0.00 momentum=18%,mom
 2026-11-17T20:44:17Z,EXIT,5WSB67b476FuwH9oYwJiWpeYHebqiX3Nxc8cCyLGKh2m,SGT6 / SOL,0,8.25861436368e-06,100.0,timeout,-8.77,-8.77,549.35,exit_bar=2026-11-17T20:42:00Z,control
 2026-11-17T20:44:17Z,ENTRY,29VnaTQNmdMMmo3h955hS9zVnRYkCiDczduV18zTvnVP,LUCIASS / SOL,0,0.000146973591871,100.0,control_no_momentum,,,549.35,score=0.00 momentum=8%,control
+2026-11-17T20:45:54Z,ENTRY,9UY43F9M5Et3LxdWk4sZ2tpeLgeYsUKnvgaNbsFGtaBA,him / SOL,0,1.11358755224e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T20:45:54Z,ENTRY,DcWhXz6tc1pht6VwxYKtdVaYxRxQT7FBUwwHowShU2vx,wApe / SOL,0,1.43519683948e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=9%,control
+2026-11-17T20:47:25Z,ENTRY,8t3C11nYL4qfTe4VYfKWHvDSs1s9dAypQ3bvBwvLWExV,Dragon / SOL,0,3.96300961511e-05,100.0,research_failed,,,549.35,score=0.00 momentum=34%,mom
+2026-11-17T20:54:57Z,ENTRY,DwvtxGu7nykSsbSGct7qrUsVdDifHGqsaCr9DT1UYt2z,MACFLURRY / SOL,0,1.81746066971e-05,100.0,research_failed,,,549.35,score=0.00 momentum=65%,mom
