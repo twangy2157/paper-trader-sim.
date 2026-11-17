@@ -14749,3 +14749,16 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T17:32:47Z,ENTRY,ARXn56Ykfn2ytnUnPh3nJKzG68dNp6vu5yGs6pCU1M7G,CAT / SOL,0,3.02755733832e-05,100.0,research_failed,,,549.35,score=0.00 momentum=66%,mom
 2026-11-17T17:33:46Z,FAILED,DLPerHoVGyQ2Lp8PiR2ytPdbmEortEvnxzUiAE4p2r2P,OYDT / USDT,0,1.00187505463,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
 2026-11-17T17:36:21Z,FAILED,E9DvHVJdcjCQSHC4xv2ELhcPUkFyutpfw4ptLtYkqaVG,CATE / SOL,0,1.00764041719e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T17:38:24Z,ENTRY,Efxx1HQp9gAmR4cyeFN48R2UosWKLJevamzZWy84tWNU,call / SOL,0,2.76204922193e-05,100.0,research_failed,,,549.35,score=0.00 momentum=120%,mom
+2026-11-17T17:38:24Z,ENTRY,CJkxFjoYoVhiQw8tVPpqE23xCGY68DVvzRM1F84qKrkx,NLO / SOL,0,9.63387859406e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T17:40:09Z,ENTRY,69qA823HjdnqupwzzoixUTu59aMRE1BskW2nxUHTqgFH,Cyber / SOL,0,0.000290526240449,100.0,research_failed,,,549.35,score=0.00 momentum=136%,mom
+2026-11-17T17:40:09Z,ENTRY,AWThugY7JwnNsTe845TDfKFXgKBQGy1jhiiqaks9L96G,CSI / SOL,0,2.62051726808e-05,100.0,research_failed,,,549.35,score=0.00 momentum=77%,mom
+2026-11-17T17:41:09Z,ENTRY,2a7mRRN2NfcksjBcZfkhzDUbdqfJ2ijmoGANoedTb7Ca,GTA6 / SOL,0,9.19637730743e-06,100.0,research_failed,,,549.35,score=0.00 momentum=36%,mom
+2026-11-17T17:42:46Z,EXIT,Z8a2qNxGWqpYFcGSEsndvrwgWjGeJ2berBHh11Gkcvz,Cyber / SOL,0,6.12514425016e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-17T16:41:00Z,mom
+2026-11-17T17:42:46Z,ENTRY,6GC8T7uasdFiDr4rVHjKfgELeFAsyxuKX8qEJiLF6J6s,USRD / USDT,0,1.00320851377,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T17:44:45Z,ENTRY,3y5LJdnGL1BvcVZxSQCpALuwa2Dc6ua1inzD8VVh1BWb,DacityCoin / SOL,0,4.08835010328e-07,100.0,research_failed,,,549.35,score=0.00 momentum=22%,mom
+2026-11-17T17:45:44Z,ENTRY,4fBnE7vzYFjAkpsFgoSFesKYjbQSr4ojr1otCNLvwujj,MGOAT / SOL,0,9.98385983494e-06,100.0,research_failed,,,549.35,score=0.00 momentum=71%,mom
+2026-11-17T17:45:44Z,FAILED,FqeTDeCa4Z9fkmKMVQ7AFi1HuHeuD1XGbYq2KwfubvsS,CSI / SOL,0,6.67183167466e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T17:47:30Z,EXIT,4tYRWRo36c3GKXsTU77vr6eqm3osYusFSEis81AZF4Dk,CEO / NVDAx,0,2.88026220529e-05,100.0,sl,-33.67,-33.67,549.35,exit_bar=2026-11-17T16:48:00Z,mom
+2026-11-17T17:47:30Z,FAILED,9VcVAmDgNJKbGzc9XcvCsRbipKNhKYG1f5dGBSS3gZE5,$ASTR / SOL,0,1.61966607109e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T17:47:30Z,ENTRY,FZ2D7iVVJE2228AMJ2Hwu5Xt6WxXR3ZPajLfjUh83een,DacityCoin / SOL,0,3.71154166653e-05,100.0,research_failed,,,549.35,score=0.00 momentum=16%,mom
