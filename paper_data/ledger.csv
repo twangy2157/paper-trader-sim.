@@ -14038,3 +14038,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T01:47:26Z,ENTRY,E9MBWXESsUrjZvCuJMyeCL4ez2SDFCVYE3cVm72FhuMN,Jojo / SOL,0,3.59526529167e-05,100.0,research_failed,,,549.35,score=0.00 momentum=25%,mom
 2026-11-17T01:47:26Z,ENTRY,2xVpBEfVYuXz4uiYeoJU4PrnuTa8FB2X1wpKQ7AMYR2r,Jojo / SOL,0,0.000114254731547,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T01:49:12Z,ENTRY,Hv8ceD5XXQQ3z25dzEFsnkbmwvxVwSHQXi8LvEQ2PYMJ,HELP / SOL,0,1.37617323453e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T01:54:59Z,ENTRY,GSLWzJAmfyxQvhKPXjh8iXvkRC3nc2wkoARhTPa4Z1k3,UODF / SOL,0,2.01169340814e-05,100.0,research_failed,,,549.35,score=0.00 momentum=26%,mom
+2026-11-17T01:56:28Z,FAILED,2F3gPbE4ahaQcRiS65eWXVq55ownMQerMWVZdZE8sG2Q,Jojo / SOL,0,0.00011145251533,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T01:57:58Z,ENTRY,2qY3Q9z8rcWBUSUPpAwGe9kQyXLS9srgc8xtEznfyuuA,DANI KING / SOL,0,7.69669237015e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T01:57:58Z,ENTRY,94YuRoenD24RVvGGSP1kCTGtwyyxYFNYLHDpHEDBKj4S,中国人牛逼 / SOL,0,2.18954350596e-05,100.0,research_failed,,,549.35,score=0.00 momentum=47%,mom
+2026-11-17T01:59:27Z,FAILED,DAdZNHPLKiygAi7Y7gkKhdRroraVTPquiHXytyR9PbeZ,CAT / SOL,0,2.98300709932e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T02:02:25Z,FAILED,4uu75qs4zNpLv4UMgWS7Yov6Zd8oR8A2LgfVF7hwNCL9,ZCAP / ZEC,0,1.99657190587e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
