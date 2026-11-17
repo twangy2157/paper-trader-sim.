@@ -14942,3 +14942,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T21:23:15Z,FAILED,EbpPkG9RRMJ7CidNkAgFHq7ZDbfnoJXJJkgJzA8DA59m,elf / SOL,0,3.27122916732e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
 2026-11-17T21:26:16Z,EXIT,HLdoALaxDteSfb6NkHfsqvpSdeJuKkdxHHy9EpHwiKW1,JENSEN / SOL,0,3.54981263771e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T21:24:00Z,mom
 2026-11-17T21:27:32Z,FAILED,AyZx1HD4ZC5B2zvz8zPNmFGYYmcbtZHCiNn6z5HyYLNM,vrl / SOL,0,1.01153718339e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T21:29:08Z,EXIT,87MMTzyiNhkBkmG18sabEkuAQsC2vd46FWH4DU6VojHu,CATE / SOL,0,1.02246771942e-05,100.0,sl,-100.03,-100.03,549.35,exit_bar=2026-11-17T20:29:00Z,mom
+2026-11-17T21:30:31Z,ENTRY,AzR5Yenu2p7aRaeR1MMvZeSqSseEWwJrqGdMXpoSx6en,BASTIONED / SOL,0,0.000614767465978,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-1%,control
+2026-11-17T21:30:31Z,FAILED,5Q2YebWkykT5wS2pcSvN6DXmEMKgNSepyq5Zdmxqj4Ac,GEKKO / SOL,0,6.87193021039e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T21:32:01Z,ENTRY,4c7N8AnSjMQmujNGZBwwVzMj9ixajezXYgd7DgNqCVkS,SLOTH / USDC,0,5.2302160119e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T21:33:18Z,EXIT,G6dKb9gHdBRcY1unU7AGVbHvBoxqjhXSsVeP1gYEGkzc,DacityCoin / SOL,0,4.23118625698e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T21:32:00Z,mom
+2026-11-17T21:34:41Z,EXIT,HU2w2hmaaUfGZP8MhBfSNXriZtUsdXyJEFEPYfPoFfSg,Bank / SOL,0,4.74621867192e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T21:33:00Z,mom
+2026-11-17T21:34:41Z,ENTRY,7B5YTJHiKsFJhJh2Ag1wuU79Go3EL1q33zyzavHXCeMA,中国人牛逼 / SOL,0,1.81233534884e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=3%,control
+2026-11-17T21:36:19Z,EXIT,5YVYWbuWLQpSHfeHUdbgGcgDKgnoD4xGhRojUS3QfwKY,AkS / SOL,0,1.11462940872e-05,100.0,timeout,-7.36,-7.36,549.35,exit_bar=2026-11-17T21:33:00Z,control
+2026-11-17T21:37:43Z,EXIT,Go2sR6gLo89GiAXQaKWnd35NGxq6cGoc9cS3scm6PHyL,REFU / SOL,0,2.98441927268e-05,100.0,rug,-3.81,-3.81,549.35,exit_bar=2026-11-17T21:36:00Z,control
+2026-11-17T21:37:43Z,ENTRY,GN2cMfCniBcHG1bNe9xEGjrcXxbG312FrUHZgpeXaEze,pepzilla / SOL,0,9.46499651134e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T21:37:43Z,FAILED,Cr2EDecUjhxQNjMkLWP7NyAj7UMmrBMHhe312wEMw4M5,Fox / SOL,0,7.22212358988e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
