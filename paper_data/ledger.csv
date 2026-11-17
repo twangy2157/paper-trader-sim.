@@ -14163,3 +14163,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T04:34:26Z,ENTRY,98ogWh7U1XEtGXyAc12Lnvxhb4VfHTYdnWtf3TBNUBG3,study / SOL,0,2.00604477952e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
 2026-11-17T04:34:26Z,ENTRY,6z5PwgGR6wFWzCgJs2E94Pn6YTPdqXc55ygb3b7yNCFR,bul / SOL,0,2.10088858066e-05,100.0,research_failed,,,549.35,score=0.00 momentum=27%,mom
 2026-11-17T04:37:25Z,ENTRY,6CYBSiFwSkVD9X1tSR2eVyudG6HrqrPNxW8x35MuKeze,Rockstar / SOL,0,5.0406635561e-05,100.0,research_failed,,,549.35,score=0.00 momentum=29%,mom
+2026-11-17T04:41:35Z,ENTRY,8Aiuiw9QrDHkYgrBpTSy9NyZSnR32ds1KQqqvngQsoyu,$PNK10 / SOL,0,1.28110886192e-05,100.0,research_failed,,,549.35,score=0.00 momentum=159%,mom
+2026-11-17T04:44:27Z,ENTRY,A8bMUhGMXQvXFTY5LrGnVRxuLLFdFDfpUNka9PvvNQRM,Lone / SOL,0,9.64846189444e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T04:44:27Z,ENTRY,FDEsh4RFbnV93xnW5kqqdGgAKX9sP8Gd4ow7dbNVQu6B,brainworm / SOL,0,3.00011495715e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T04:45:56Z,ENTRY,Bx8LvPxKinNC3xRbfkvBWdVA3UzJNCWEprjnJj77B55p,ELON / SOL,0,2.16635146253e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T04:47:25Z,ENTRY,13bq9XPBu2cUbAGViHDFtGfHMdYBAscxcxxfaaGy8hQj,DOGE PAID / SOL,0,8.93333750997e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T04:48:47Z,FAILED,CEQvGpjpnfTutBcgbrwyhZjPcwoW8mJUPBK6KUM3JbBH,Tuff / SOL,0,7.77977303922e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-17T04:50:16Z,EXIT,6YxbJV6jsLd3G5TcnJGdi9f3Txe4MDvQ31NBMuuYNTgS,Jojo / SOL,0,7.62680048e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T04:48:00Z,control
+2026-11-17T04:51:31Z,EXIT,H4XuzhxhWzewzPkjEWgE19e2qAQXE7k4FYfUZeQm7Vk2,Midas / SOL,0,9.73830873856e-06,100.0,timeout,-7.94,-7.94,549.35,exit_bar=2026-11-17T04:50:00Z,control
+2026-11-17T04:51:31Z,ENTRY,9CSrc5iAKGLxKL925o1RLmi1cq7EworFvjdkxNso3Gf6,VTC / SOL,0,0.176403909342,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
