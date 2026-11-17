@@ -14774,3 +14774,17 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T17:58:40Z,ENTRY,DnEZmvx5ewa5iHbTrmBiHQvKmx3x6jSBwDBWrryQ2a21,$LIE / SOL,0,2.01780496322e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T17:58:40Z,ENTRY,5jkhbtqbiQLC3YKsRu2zpck27zXtpb8ZKFUPusC9KykX,scam / USDC,0,6.91186706001e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T17:58:40Z,ENTRY,FUrBfnregBxuHhpNcQbzpSjcbrNm45vrKSaoCpkqBkHu,SSL / SOL,0,2.98826140946e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T18:00:45Z,EXIT,4e95THjX4wr6GLngr95DCB2tDAEQMKd4DcrTj8mhyeGe,Y / SOL,0,0.000120246278673,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T17:58:00Z,mom
+2026-11-17T18:00:45Z,ENTRY,ErSUqa3HH9HScdMPoQZFkCQkXTWS8QJy1vkgRkLk1evx,CSI / SOL,0,6.97412818289e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=9%,control
+2026-11-17T18:00:45Z,ENTRY,A2XUdx4Bh5Li3KSxhbJ1jpzyzbR6Ru6Awqf2ZgpD1wp9,DINO / SOL,0,9.71654881062e-05,100.0,research_failed,,,549.35,score=0.00 momentum=69%,mom
+2026-11-17T18:02:45Z,ENTRY,4nrFGB2VRkPKU3JgMdosWPFMqXrKDFFwAYPPoBbuWhtn,$VESP / SOL,0,1.42224230502e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T18:02:45Z,ENTRY,6WiZXEmcvoLYvX57Utu73ffRTej6RsVCsChdoqNtTg4U,AXERO / SOL,0,1.10168955788e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T18:02:45Z,ENTRY,6CLXpwVv44RAkWuoJPBG6VZfVoEDzngoUcKMNZf61tyo,GTA6 / SOL,0,0.00110827849007,100.0,control_no_momentum,,,549.35,score=0.00 momentum=6%,control
+2026-11-17T18:03:44Z,EXIT,AAN2XG6uV5kJsoSJqvQ39NFANYHGvciRBd1nHmTWXG8i,GTA COIN / SOL,0,7.98606236912e-06,100.0,timeout,-8.81,-8.81,549.35,exit_bar=2026-11-17T18:02:00Z,control
+2026-11-17T18:04:43Z,ENTRY,9jM6wMtiDBKiiAcB9o9ASfjxyUivPQW5rNQzwkC9JMiL,BENNY / SOL,0,1.05132413755e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-7%,control
+2026-11-17T18:05:42Z,EXIT,2mUNAR48bY93eUE18shvm1JkVKa6RXbV6JXToB4Sn76Y,GEKKO / SOL,0,1.1625029423e-05,100.0,sl,-32.9,-32.9,549.35,exit_bar=2026-11-17T17:07:00Z,mom
+2026-11-17T18:05:42Z,ENTRY,DWrRs6akcPMWEHt2jApwAguNfTraFxH6b29YP7V4rQt7,scam / USDC,0,8.26768128421e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T18:05:42Z,FAILED,2kPDEbDJbi5FiPVdFM1jRQDwNqrL6vfDrDQ8iVTqVfed,CSI / SOL,0,0.000155257132084,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T18:07:19Z,EXIT,BMfJZP9FgrP8o2XqqG1ySgmBFuJ2rjpGQ9ZercBrKueK,BAWSAQ / SOL,0,3.87209899993e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T18:06:00Z,mom
+2026-11-17T18:08:41Z,ENTRY,BFSakVSvq3bEoSRgC9n6qsEj8HfywEfcBiS1CWc1hE68,MORNING / SOL,0,1.66552837371e-05,100.0,research_failed,,,549.35,score=0.00 momentum=12%,mom
+2026-11-17T18:10:18Z,EXIT,3tbUMrmbA4ZVmzZkH3rAiTGhe1x879u1b7NiroQK6v3u,Thankmas / SOL,0,2.71922933153e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T18:08:00Z,mom
