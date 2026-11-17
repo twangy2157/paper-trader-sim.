@@ -14922,3 +14922,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T21:04:44Z,ENTRY,9xgTYeLtoXXxt1PZKzDDh1wHD8sjr3vYSY3GkVwU3eAF,inuinuinu / SOL,0,1.88421102561e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-3%,control
 2026-11-17T21:05:44Z,ENTRY,BrV3Xo1VqzHBLHF5S9PCvXyCmTCDLhbHjHDP4ohAfS44,TONG / SOL,0,7.50989448375e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-17T21:05:44Z,ENTRY,Ae7vK7wATjrAYBFGZV69itSv8kVkw1PM2TUUAitWWJGk,WANTED / SOL,0,7.66598949571e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-19%,control
+2026-11-17T21:06:50Z,ENTRY,477ypdbzbvE1ALz1LHdkVrS6d9iUoq8HARWWCnQ2r2US,ch / SOL,0,5.66900897985e-05,100.0,research_failed,,,549.35,score=0.00 momentum=210%,mom
+2026-11-17T21:07:50Z,EXIT,6NcRjFeFtCNMzRPRXdQc7B6hv9GdJuAvp9RNxgeP7W36,Hands / SOL,0,6.55503848456e-06,100.0,timeout,-9.97,-9.97,549.35,exit_bar=2026-11-17T21:06:00Z,control
+2026-11-17T21:07:50Z,ENTRY,HyZAUaQentX4c1kDnpmwDq2pSFkwLXGwPPagCb96vjYV,GTAVI / SOL,0,6.97328937697e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=10%,control
+2026-11-17T21:08:51Z,EXIT,4WpwNXtExnE35prXutxVgXMe8fknFTEWPFmhGWqQ11Q8,GTAVI / SOL,0,7.87051969301e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T21:06:00Z,control
+2026-11-17T21:08:51Z,ENTRY,4ZvXQPr242VsJBNtfUtnBsyYkYgEetVDCzSCyayJeKHn,PIKA / SOL,0,0.000165947198059,100.0,control_no_momentum,,,549.35,score=0.00 momentum=5%,control
+2026-11-17T21:10:22Z,EXIT,CXzLZ3cz6ZPjf1YS9LMfteu6VuWvg2s1nW5i4Tkki9Si,GTA / SOL,0,1.62994105504e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-17T20:14:00Z,mom
+2026-11-17T21:12:16Z,EXIT,4d19C22EN9B1fauzkkZnZoaaw9pEmCPGwJ5pq99Zb71o,PIKA / SOL,0,3.74319774236e-05,100.0,tp,-100.01,-100.01,549.35,exit_bar=2026-11-17T20:28:00Z,mom
+2026-11-17T21:13:17Z,ENTRY,6xffgmYRnCeejBCfj7r1GhSiVuf9AvzzFdLYQAX71WFN,PS5 / SOL,0,2.85194374461e-05,100.0,research_failed,,,549.35,score=0.00 momentum=123%,mom
+2026-11-17T21:14:40Z,ENTRY,Enise53VXcdqTenCtzZwTm487QtEhAJo8uT5yRzfmbCG,GTA6 / SOL,0,6.916759481e-06,100.0,research_failed,,,549.35,score=0.00 momentum=41%,mom
+2026-11-17T21:14:40Z,ENTRY,2nFWfWqmwv9XVgK1Jd6EeaJeopRvajazfsdjcjqf3Sae,HOLDFAST / SOL,0,1.07208184618e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-19%,control
+2026-11-17T21:16:42Z,FAILED,BgZr5SWbJuPhXTTqNxRakFFoCCR75QXoqWKm2foEJyY8,pepzilla / SOL,0,2.03805742529e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T21:16:42Z,FAILED,542MHfuXBgsuZj5h9T9AvmmJNFrrWNEY1A7KZfZ2NG29,GodsEye / SOL,0,2.44832523207e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
