@@ -14172,3 +14172,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-17T04:50:16Z,EXIT,6YxbJV6jsLd3G5TcnJGdi9f3Txe4MDvQ31NBMuuYNTgS,Jojo / SOL,0,7.62680048e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-17T04:48:00Z,control
 2026-11-17T04:51:31Z,EXIT,H4XuzhxhWzewzPkjEWgE19e2qAQXE7k4FYfUZeQm7Vk2,Midas / SOL,0,9.73830873856e-06,100.0,timeout,-7.94,-7.94,549.35,exit_bar=2026-11-17T04:50:00Z,control
 2026-11-17T04:51:31Z,ENTRY,9CSrc5iAKGLxKL925o1RLmi1cq7EworFvjdkxNso3Gf6,VTC / SOL,0,0.176403909342,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T04:53:05Z,ENTRY,DdW96ZP4RqcejcWQXGWsrqsRapDdMqzvEvUattEZTep3,BONT / SOL,0,1.08797042378e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T04:53:05Z,ENTRY,661U9M5pWNpdy3tw6HwiNUuG9RqcoYS1NvHNx5dFsdaZ,FSDFSDF / SOL,0,8.3270744495e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T04:54:27Z,EXIT,Dn39RTecdXaH8EQgforngBgLpBeQBCh5PC1FiE54ngWX,SCRUB / SOL,0,2.98008436661e-05,100.0,rug,-4.14,-4.14,549.35,exit_bar=2026-11-17T04:53:00Z,control
+2026-11-17T04:54:27Z,ENTRY,71yUHQCyQCQT3dGXUQwpMYvkztMKBqoECej9QBKYdG6S,AI / SOL,0,8.31319677415e-05,100.0,research_failed,,,549.35,score=0.00 momentum=178%,mom
+2026-11-17T04:55:57Z,EXIT,943KfYZUKSrzdm26abU7zjJvqbNATbhEzS44fCRGeo2D,FP / BP,0,2.18886732908e-05,100.0,timeout,-4.73,-4.73,549.35,exit_bar=2026-11-17T04:54:00Z,control
+2026-11-17T04:57:26Z,ENTRY,3pVJUW8utusvT7dCHhtxtjT1DcFrxfHJFLFrL5dfUKDw,TRAMPUS / SOL,0,9.43780872962e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-17T04:57:26Z,ENTRY,GZXSfH7qjNzWWpvKGWHhCh5hQ2sfUS6JhpHPJ3am4YMJ,Cowboy Cat / SOL,0,1.97123949265e-05,100.0,research_failed,,,549.35,score=0.00 momentum=32%,mom
+2026-11-17T04:58:56Z,ENTRY,7pQAjStFtdHAfpopU5sTpYJwGGaWb1PrBLuq32dAFJbG,FLYWHEEL / SOL,0,1.88824465219e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-17T04:58:56Z,ENTRY,CYpS2fFZ2jqDjXXrMi72i117EwZZss9hUGa9fdQhAnAB,AI / SOL,0,5.9677470123e-05,100.0,research_failed,,,549.35,score=0.00 momentum=31%,mom
+2026-11-17T05:00:25Z,FAILED,DfpKwRSai55ZE6prEBsrfgQA7zLsDyrQkimVocpQseG8,$WEED / SOL,0,1.09671996874e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-17T05:01:47Z,ENTRY,A7CFPtaihgiX6jj1jSBz5A3BUgbrLoqiMdpyWCHHxwP9,Picassol / SOL,0,1.68841639613e-05,100.0,research_failed,,,549.35,score=0.00 momentum=22%,mom
