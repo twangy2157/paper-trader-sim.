@@ -15241,3 +15241,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-18T05:04:17Z,EXIT,3tU8QYEqyk2boZHrfs5tga4vt6fhnhnTQ6y2tGGSRVtk,UHI / SOL,0,0.00180306104021,100.0,timeout,-1.38,-1.38,549.35,exit_bar=2026-11-18T05:03:00Z,control
 2026-11-18T05:05:40Z,ENTRY,YKsQM9qd5frzX6DKDYHCBKwq6gU1puAzUUaSthiiRsj,kittylick / SOL,0,1.03922405588e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-18T05:05:40Z,ENTRY,68amZd5FhryZgYKpyppgXQZr88MoSNrSz2ssA8h5S7yz,67coin / ANTHRP,0,1.42037562856e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-64%,control
+2026-11-18T05:07:23Z,EXIT,5Vq5tCoXELHcP6DALy4de4KsKZ4gVsVE827MCVjuCoz4,BENJIEZ / SOL,0,1.01127787199e-05,100.0,timeout,-8.0,-8.0,549.35,exit_bar=2026-11-18T05:06:00Z,control
+2026-11-18T05:10:16Z,ENTRY,Dm9SMUFN4VR7fZoXf2CvhWfFLomB1GvzYXbui8EKWopP,mihao / SOL,0,2.94794035948e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-18T05:11:32Z,EXIT,BfxsWc5FEyerjrqirbcxkYXCHrUyc9uhEp3tEL8rNGG,GTAVI / SOL,0,3.98000702177e-05,100.0,tp,-100.01,-100.01,549.35,exit_bar=2026-11-18T04:11:00Z,mom
+2026-11-18T05:11:32Z,ENTRY,3Hu1rWAKuBMtCwyeJvLz55k6h1yrQN8X7AeTHrXpgZjf,Elmo / SOL,0,5.18039793134e-05,100.0,research_failed,,,549.35,score=0.00 momentum=61%,mom
+2026-11-18T05:13:03Z,ENTRY,8KXiTm6y3NKsYn6UqmkAG8nLH1sPK2FgcnWeqrW5GKgG,Cool Cat🐱 / SOL,0,2.48051784268e-05,100.0,research_failed,,,549.35,score=0.00 momentum=59%,mom
+2026-11-18T05:14:26Z,ENTRY,J7yjwyg8TLubg4ucZtsKfR8k831xoSjKqxxZxaCvNg7m,ELMO / SOL,0,0.000123893212257,100.0,research_failed,,,549.35,score=0.00 momentum=118%,mom
