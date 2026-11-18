@@ -15231,3 +15231,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-18T04:50:45Z,ENTRY,Fd5rzLRG3Qjypr8wpjC9hH2vjTdDK7fWBLnEP4ebr4Ga,fomo / SOL,0,3.14961352297e-05,100.0,research_failed,,,549.35,score=0.00 momentum=80%,mom
 2026-11-18T04:50:45Z,ENTRY,CAvHMB4z9UDBg1WgcHLbYEQySgpse2m6SuaTTK2cEMQK,mihao / SOL,0,3.60618802982e-05,100.0,research_failed,,,549.35,score=0.00 momentum=160%,mom
 2026-11-18T04:52:23Z,ENTRY,GHNKGAsx4dPp8zaZZe9knkXLPzgzqb3dzzCfhXsUpX7j,clawd / SOL,0,9.33944642663e-05,100.0,research_failed,,,549.35,score=0.00 momentum=90%,mom
+2026-11-18T04:56:37Z,ENTRY,NTvjipAww6Sba5wrnSBEa3SYfN4oVBiGk8maCvgVRYg,GPACK / SOL,0,2.30909210295e-05,100.0,research_failed,,,549.35,score=0.00 momentum=212%,mom
+2026-11-18T04:58:15Z,ENTRY,EQZgY5Kew9zeGToxKjoznscVxpvZHLrnuqQK7jRCp5h9,Green Cat / SOL,0,2.37556378537e-05,100.0,research_failed,,,549.35,score=0.00 momentum=53%,mom
+2026-11-18T04:59:38Z,EXIT,DU3Bb8sxnCsKVqK9jtVddAyPSEen2Snx16CWwfYKm1SS,DCI / USDC,0,0.000375485765797,100.0,sl,-40.13,-40.13,549.35,exit_bar=2026-11-18T04:04:00Z,dip
+2026-11-18T04:59:38Z,ENTRY,2B8vcxvLCNExpd9gnaxtNEJKUXKV7SUegK7rPLshUohy,Democat / SOL,0,2.74450344601e-05,100.0,research_failed,,,549.35,score=0.00 momentum=57%,mom
+2026-11-18T05:01:16Z,FAILED,9tCkaAZXgQQMrSSrrVtb9kwbz4JMudQpngv8HuvAh6KF,SOUVENIR / SOL,0,0.000702766981527,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-18T05:02:39Z,EXIT,8SA7txaAYjrhsHmsT9pe5F26CGM1YPyy1sVG8wjCo7V9,Donod / SOL,0,3.37753536166e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-18T04:02:00Z,mom
+2026-11-18T05:02:39Z,ENTRY,J5ho5fBPH7oBai3xfdDud95ufRkkLa19W6jymBt412ZW,PAL / SOL,0,3.05803722066e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=2%,control
+2026-11-18T05:04:17Z,EXIT,3tU8QYEqyk2boZHrfs5tga4vt6fhnhnTQ6y2tGGSRVtk,UHI / SOL,0,0.00180306104021,100.0,timeout,-1.38,-1.38,549.35,exit_bar=2026-11-18T05:03:00Z,control
+2026-11-18T05:05:40Z,ENTRY,YKsQM9qd5frzX6DKDYHCBKwq6gU1puAzUUaSthiiRsj,kittylick / SOL,0,1.03922405588e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
+2026-11-18T05:05:40Z,ENTRY,68amZd5FhryZgYKpyppgXQZr88MoSNrSz2ssA8h5S7yz,67coin / ANTHRP,0,1.42037562856e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-64%,control
