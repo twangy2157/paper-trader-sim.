@@ -15464,3 +15464,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-18T18:41:28Z,ENTRY,1431xhNjQoTkq1AXXysr1yLBFrWLyHQzMYjkSajWhkbv,Founder / SOL,0,3.77198843581e-05,100.0,research_failed,,,549.35,score=0.00 momentum=16%,mom
 2026-11-18T18:41:28Z,FAILED,8YuZ8Qvx7uXctGyTpq1LWMygHzt12efnnf9FWsB9AAQx,BENDER / SOL,0,3.18607685838e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
 2026-11-18T18:44:29Z,ENTRY,GVFBAGet6hws1zY89kYnpmRqg1a64s1Bc9HyWgEFjcx8,WANTED / SOL,0,4.66329359403e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-93%,control
+2026-11-18T18:53:21Z,EXIT,DQSHT6aLrjrje1EVJCvcKKt97LbLC65gqsjZnYaTzT4y,GTACat / TTWO,0,5.32061256243e-06,100.0,sl,-43.48,-43.48,549.35,exit_bar=2026-11-18T18:24:00Z,control
+2026-11-18T18:54:45Z,ENTRY,FdgEjii6bJj5sVshpkQtfHpqPDhyjEYjREMoMojZ5A6c,VTC / SOL,0,8.44614428281,100.0,proven_pool,,,549.35,age=171min,proven
+2026-11-18T18:56:23Z,EXIT,EoXpePnMt2J6ukpef2QD13R2rq9CNTuniUSecHLEhfZz,DCTY / SOL,0,0.000130845989455,100.0,sl,-99.51,-99.51,549.35,exit_bar=2026-11-18T17:56:00Z,mom
