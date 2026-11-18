@@ -15370,3 +15370,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-18T16:30:31Z,ENTRY,8sdupCgnMekBK3XrZXBW9F56Asswu3y8tE8MLmqDoEKh,TOURIA / SOL,0,2.48980517967e-05,100.0,research_failed,,,549.35,score=0.00 momentum=39%,mom
 2026-11-18T16:30:31Z,ENTRY,4gBzq23rWMfnBVN1N5EazEkqPFyDS4K1r5f2dgn7Xdie,BABYDOG / SOL,0,1.84247718502e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=4%,control
 2026-11-18T16:32:02Z,ENTRY,8okMCLhWgYxmtc2bf8AguThDetPv2Xf3mdGQFq5Zg1JW,YUKON / SOL,0,0.000164339352588,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-18T16:33:23Z,EXIT,EhRMC9HXeyEbFfUMmt9dGszCEuLTVtDvJANZ5ViBxkTL,AODF / USDC,0,0.0322857322639,100.0,timeout,-2.56,-2.56,549.35,exit_bar=2026-11-18T16:32:00Z,control
+2026-11-18T16:34:46Z,ENTRY,6oTvGrSAVKYJfm2PLgNfPXEcCcpNn49oRf4G4P1rCDKt,CLAUDIA / SOL,0,8.33634027909e-06,100.0,research_failed,,,549.35,score=0.00 momentum=41%,mom
+2026-11-18T16:36:17Z,EXIT,129eZFfS4Jza16cjyQuKYWeo45cJra1GrfHaDYTf4HKM,Billy / SOL,0,6.16974487515e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-18T16:35:00Z,mom
+2026-11-18T16:37:33Z,EXIT,DETWJF8YzAqE6oQethg7kJCa3R2JVrfVY5o2pZ3wThsL,YUKON / SOL,0,7.82940752787e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-18T16:35:00Z,control
+2026-11-18T16:37:33Z,ENTRY,6PbcqvKGovf4NujrRWxWSbsbfFY9or9au2VPBoj1qfcY,DCTY / SOL,0,8.40946836863e-06,100.0,research_failed,,,549.35,score=0.00 momentum=11%,mom
+2026-11-18T16:39:11Z,ENTRY,pJxgZmuDyERjCvi1eTNfKCyHHmnnpGwuTLqTf63p6oa,WW / SOL,0,2.05511382104e-05,100.0,dip_after_drop,,,549.35,score=0.00 momentum=-25%,dip
+2026-11-18T16:40:26Z,FAILED,3jRPNR42GSGt8q44LAi22fH7GahJbpYuPRJV9K9gn9HZ,Lucia / SOL,0,2.14087059627e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-18T16:41:57Z,ENTRY,BCz2eJmCDNqWcNQHUqYU42AQSJhfYWhSDJzhhDrQBcQu,DacityCoin / SOL,0,1.14256164043e-09,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-100%,control
