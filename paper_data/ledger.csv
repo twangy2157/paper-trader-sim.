@@ -15098,3 +15098,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-18T01:34:16Z,EXIT,AwYM4146CYbZkUpnmLrzHTHuDuDgVDRFN7WBAofTuKXL,我悟了 / SOL,0,1.95868659779e-09,100.0,rug,-101.0,-101.0,549.35,exit_bar=2026-11-18T00:34:00Z,mom
 2026-11-18T01:35:39Z,ENTRY,ASCN5eLD6hiHRYZwQpEEYobDr3PekZqE1KydLTWrada6,GIGA / SOL,0,1.40876510754e-05,100.0,research_failed,,,549.35,score=0.00 momentum=26%,mom
 2026-11-18T01:35:39Z,ENTRY,E9kYU3Ys93vTgGT8h5z2PvyzuTH8Akn9TKEDvkTV31je,GTAVI / SOL,0,3.56169380438e-05,100.0,research_failed,,,549.35,score=0.00 momentum=403%,mom
+2026-11-18T01:37:22Z,ENTRY,36vkyv5s2xwUDNjBYW2b1ZjjvFmBGqUccZZFw3Tzvt19,ALT COIN / SOL,0,5.25972899564e-05,100.0,research_failed,,,549.35,score=0.00 momentum=124%,mom
+2026-11-18T01:40:16Z,FAILED,9oYH7QgCtVPVQR1xAPtgnwb8TRn6rHNhnsdiDrREDEHE,Fish Smo / SOL,0,1.60640512917e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-18T01:43:02Z,FAILED,6gNPMhJQNK7yqektsmHb4vhYPxgdSrcawTQNQdBizXLd,lolcoin / WBTC,0,8.99214991583e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-18T01:44:25Z,ENTRY,2HvL3CaucjnoZ2ScVBbrae2jLufYeDHWMJg3CDLYCAHq,Tesla / SOL,0,1.17359309424e-05,100.0,research_failed,,,549.35,score=0.00 momentum=78%,mom
