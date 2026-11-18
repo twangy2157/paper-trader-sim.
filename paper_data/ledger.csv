@@ -15534,3 +15534,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-18T20:56:45Z,ENTRY,EZwTvEgEhQv3kr7EviF8ZMMyukZaygb9qj3W4S5h44yt,APEC / SOL,0,3.7251752673e-05,100.0,research_failed,,,549.35,score=0.00 momentum=105%,mom
 2026-11-18T20:56:45Z,ENTRY,AYJHAuLwiQuouLGCZ2FRoiK4CLoxitPfNjcgEEKXch6b,GTAVI / SOL,0,1.8389140584e-05,100.0,research_failed,,,549.35,score=0.00 momentum=105%,mom
 2026-11-18T21:02:33Z,FAILED,36k6rdjhXnQZwA11wwbC1Est1tCJLDUMv42CjgTrHPbL,DCTY / SOL,0,1.99594924559e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-18T21:05:32Z,FAILED,EQNXLopZcpiPAZy4fCLq6Ww6AsP9wQsPDGFDQFdeYHNn,HC / SOL,0,7.38400207122e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-18T21:07:03Z,EXIT,5cVhRs24YjH6CdDLx4seQXBSCuMrBHhX9MVo9vCP7wDU,CAT / SOL,0,3.35469269754e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-18T21:05:00Z,mom
