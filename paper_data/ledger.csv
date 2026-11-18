@@ -15460,3 +15460,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-18T18:33:57Z,ENTRY,7dAdd1x1eMNY7D9SMSsCXVd8ZfZNQZQXYfcfnvafWGLP,DCTY / SOL,0,5.44518715718e-07,100.0,research_failed,,,549.35,score=0.00 momentum=27%,mom
 2026-11-18T18:35:28Z,EXIT,3NwkEQoRttsLodxpy543U188CYcS2t6sAGhYNEPrypHS,V12 / TTWO,0,5.06793809409e-06,100.0,timeout,-10.09,-10.09,549.35,exit_bar=2026-11-18T18:34:00Z,control
 2026-11-18T18:38:29Z,ENTRY,AWXh5SeM71RhLtfsYSUBLS93kjcaTMxut6iW5f65p4nA,Founder / SOL,0,3.8021364843e-05,100.0,research_failed,,,549.35,score=0.00 momentum=24%,mom
+2026-11-18T18:40:05Z,EXIT,EckaKt2Y6V73isJbVwfmpTYmjt7hJ4khqvWHBWfqqYws,Cowboy Cat / SOL,0,3.688447123e-05,100.0,tp,-100.01,-100.01,549.35,exit_bar=2026-11-18T17:50:00Z,mom
+2026-11-18T18:41:28Z,ENTRY,1431xhNjQoTkq1AXXysr1yLBFrWLyHQzMYjkSajWhkbv,Founder / SOL,0,3.77198843581e-05,100.0,research_failed,,,549.35,score=0.00 momentum=16%,mom
+2026-11-18T18:41:28Z,FAILED,8YuZ8Qvx7uXctGyTpq1LWMygHzt12efnnf9FWsB9AAQx,BENDER / SOL,0,3.18607685838e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-18T18:44:29Z,ENTRY,GVFBAGet6hws1zY89kYnpmRqg1a64s1Bc9HyWgEFjcx8,WANTED / SOL,0,4.66329359403e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-93%,control
