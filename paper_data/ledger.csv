@@ -15378,3 +15378,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-18T16:39:11Z,ENTRY,pJxgZmuDyERjCvi1eTNfKCyHHmnnpGwuTLqTf63p6oa,WW / SOL,0,2.05511382104e-05,100.0,dip_after_drop,,,549.35,score=0.00 momentum=-25%,dip
 2026-11-18T16:40:26Z,FAILED,3jRPNR42GSGt8q44LAi22fH7GahJbpYuPRJV9K9gn9HZ,Lucia / SOL,0,2.14087059627e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
 2026-11-18T16:41:57Z,ENTRY,BCz2eJmCDNqWcNQHUqYU42AQSJhfYWhSDJzhhDrQBcQu,DacityCoin / SOL,0,1.14256164043e-09,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-100%,control
+2026-11-18T16:43:32Z,EXIT,4pxYoJC4kpzy4hpXHADhRAFRPmNkDoYq56K8qM2DbyLw,okkx / USDC,0,0.300332434808,100.0,timeout,-5.96,-5.96,549.35,exit_bar=2026-11-18T16:41:00Z,control
+2026-11-18T16:46:26Z,EXIT,77FSC6MaQtE4hfCBPqhPWfTMQsfuphbESt8Lm3cByP8D,PESSI / SOL,0,9.14642772725e-05,100.0,timeout,-3.54,-3.54,549.35,exit_bar=2026-11-18T16:45:00Z,mom
+2026-11-18T16:46:26Z,ENTRY,9EQMgM5ZuSYTceG8zsqoH6vKMKMMcKXwyCj1sqfC5Jqj,Rockstar / SOL,0,0.000478700722691,100.0,research_failed,,,549.35,score=0.00 momentum=119%,mom
+2026-11-18T16:47:57Z,ENTRY,7qqyZdaLBLhmWtgh71LP17H5UQYd9eT3ixyVwBfmwrJx,SKUNKAPE / SOL,0,4.19356996782e-05,100.0,research_failed,,,549.35,score=0.00 momentum=337%,mom
+2026-11-18T16:49:27Z,FAILED,3kCs4Cyxn5zV6pwkng4qxBYPEQZNWM2sQ6Jo5AZFac5S,APCY / SOL,0,3.47501537594e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",mom
+2026-11-18T16:49:27Z,ENTRY,8EAPGLEdWodoNSb7USkeEWYLi3pC9fPzZ9iLu3hXZBJ8,VTC6 / SOL,0,1.97424634731e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-32%,control
+2026-11-18T16:50:59Z,ENTRY,G2LvBgmcc2vwgKhccjxWSLxtvRBRZ4jiWF3QwMVdNJch,PAPA / TTWO,0,1.39496129101e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-4%,control
+2026-11-18T16:50:59Z,ENTRY,CtsqaepQcUuCYKH1W8guTk86N3Z4YtRfBqqYdjgE7GRj,DCTY / SOL,0,3.74241210871e-05,100.0,research_failed,,,549.35,score=0.00 momentum=17%,mom
+2026-11-18T16:52:30Z,ENTRY,3osMfzQpjAy9brp13mtDbCeuipA3yeDSL4VnwBXRTYqg,DacityCoin / SOL,0,2.00623731976e-05,100.0,research_failed,,,549.35,score=0.00 momentum=249%,mom
+2026-11-18T16:52:30Z,ENTRY,4kipy6nFLdh4aN557Rye2ckhM7qKohG5ojtyvZiz6Qp8,$FOMOCHAR / SOL,0,8.95191911086e-06,100.0,research_failed,,,549.35,score=0.00 momentum=49%,mom
