@@ -15957,3 +15957,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T20:33:19Z,EXIT,BNFxcecsJrL3uYf6nvEuphyTryXHVArpYWhQJpTp99CL,SXSN / SOL,0,1.73604191686e-05,100.0,timeout,9.03,9.03,506.5,exit_bar=2026-11-19T20:31:00Z,control
 2026-11-19T20:34:41Z,ENTRY,61qH8TxnwiDmXgida7XjyjPKEfcEeqJbWUGsN5jUbfhr,Jenson 6 / SOL,0,1.31297565547e-05,100.0,research_failed,,,506.5,score=0.00 momentum=47%,mom
 2026-11-19T20:36:18Z,ENTRY,GLsSqo91dPYY9v1ewU85ZjHrnKE5rD8Mhwv3K4iwEWdV,LOOSY / SOL,0,7.75080885697e-07,100.0,research_failed,,,506.5,score=0.00 momentum=30%,mom
+2026-11-19T20:37:47Z,ENTRY,D3CKMNahcjzbK7oxc6FELEZBP6KULERADfGACi5xX6nC,ONI / SOL,0,0.000347635920105,100.0,research_failed,,,506.5,score=0.00 momentum=249%,mom
+2026-11-19T20:39:17Z,EXIT,Ex9nCZ4XHrRBnja8cThBBewZ6zp71h7R5w3r3zcbtW9r,Jenson 6 / SOL,0,7.57136277053e-06,100.0,timeout,-9.18,-9.18,506.5,exit_bar=2026-11-19T20:38:00Z,control
+2026-11-19T20:40:40Z,ENTRY,HrNm1VoLU4ghjAbCC9UniW2oLUuRVVKjMBeVR3ME3oRZ,ANSEMBULL / ANT,0,2.25134787902e-05,100.0,control_no_momentum,,,506.5,score=0.00 momentum=-19%,control
