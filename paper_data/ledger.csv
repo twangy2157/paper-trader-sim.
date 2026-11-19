@@ -15783,3 +15783,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T16:28:46Z,ENTRY,EdVuwTwNt9Q1qd6P43x4Yzjd2GJKtnjPLTh5poF5yN4E,BABYDOG / SOL,0,2.37365872693e-05,100.0,research_failed,,,548.85,score=0.00 momentum=42%,mom
 2026-11-19T16:30:16Z,FAILED,HjfsHf54XgKdRAEcgp4yv4Nhv4AFdYzftdjMDLfqVSDJ,🎨 / SOL,0,7.34771307432e-06,0,tx_failed,-0.5,,548.85,"buy reverted, tip lost",mom
 2026-11-19T16:30:16Z,ENTRY,AFF8ADb7spBjHeCmfxh8tpKyZALwMmEctv4pwohZMSVh,BBFS / SOL,0,3.40931106009e-05,100.0,research_failed,,,548.85,score=0.00 momentum=72%,mom
+2026-11-19T16:32:30Z,ENTRY,JN9NWLbobV6KsSecGrCCzrDQxxWT8M6RxqJmrFY3jkb,bloomer / ANTHRP,0,8.91829851595e-06,100.0,control_no_momentum,,,548.85,score=0.00 momentum=-5%,control
+2026-11-19T16:35:29Z,ENTRY,4B2nhXp4s5dSuSM734Zx3732AZtbfsVu6AzU6dsvmdEf,D / SOL,0,2.33454168228e-05,100.0,control_no_momentum,,,548.85,score=0.00 momentum=0%,control
+2026-11-19T16:36:58Z,ENTRY,AFkuzMmRZgM1Ezib2xjbBJj5JgaHDkFhDxm4mWnbHAHx,Christmas / SOL,0,2.26705712862e-05,100.0,research_failed,,,548.85,score=0.00 momentum=39%,mom
+2026-11-19T16:36:58Z,ENTRY,2uCwntV2j31ZdU4oqWRdqWqQjRX7Zoj1RFTA3RDbttMs,D / SOL,0,2.30343514632e-05,100.0,control_no_momentum,,,548.85,score=0.00 momentum=0%,control
+2026-11-19T16:39:57Z,ENTRY,63wzBRV561yhRN585y25fivuWpqxPoxaDXvQbyfkFSMP,TESLA / SOL,0,5.12108754022e-05,100.0,control_no_momentum,,,548.85,score=0.00 momentum=7%,control
+2026-11-19T16:39:57Z,ENTRY,7RFAVfkERRjbGReq7WwGDSQVB1A5JJZp9f5mELzq5Uff,PIPI / SOL,0,0.000136214156841,100.0,control_no_momentum,,,548.85,score=0.00 momentum=0%,control
+2026-11-19T16:41:27Z,EXIT,CUeKxsY6B9MceLfcHFL1K9Vx9rMujBMQSqxSZy8i2ocm,VTC / SOL,0,0.0825742691605,100.0,sl,-42.01,-42.01,548.85,exit_bar=2026-11-19T15:59:00Z,control
