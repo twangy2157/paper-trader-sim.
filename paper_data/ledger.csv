@@ -15741,3 +15741,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T05:43:36Z,ENTRY,CngtBMURk6NZpTqcGp3i2yoTA98Debpf57Z8VvttnAN,neet / SOL,0,0.000289516779465,100.0,research_failed,,,549.35,score=0.00 momentum=52%,mom
 2026-11-19T05:46:35Z,EXIT,4KUdGAeJq7U8hrzpBkNirHnfyXSvVpg8Zxi7Y4WfghqL,BNC / SOL,0,7.897984283e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-19T05:45:00Z,mom
 2026-11-19T05:46:35Z,ENTRY,BciQUPz7EGp5zoMZPNnUWCdjrn8LHjmknHAuhGY2SQWD,CATCOIN / SOL,0,1.15000318175e-05,100.0,research_failed,,,549.35,score=0.00 momentum=49%,mom
+2026-11-19T05:48:17Z,EXIT,SMLGvPzBJmVXN7RjPk5o1ra4kDWi2BFGY7zzjDNkEKs,GTA / USDC,0,7.24169197928e-06,100.0,timeout,-9.34,-9.34,549.35,exit_bar=2026-11-19T05:45:00Z,control
