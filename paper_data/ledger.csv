@@ -15720,3 +15720,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T05:13:20Z,ENTRY,7C4qawgZRANasD749uxLqePpBsP6eJfPgRhABytfKK5w,Artificial / SOL,0,2.4497535442e-05,100.0,research_failed,,,549.35,score=0.00 momentum=67%,mom
 2026-11-19T05:14:43Z,ENTRY,GdZsqNvYMAt9nbTfHVibcLwN7nrXXbNSQzrASunx1oao,V TC / SOL,0,0.10740815785,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-19T05:14:43Z,ENTRY,BvkTJf8BAzC8QLopkTXwAAYoraSKgtmu4Ni34EwVfxzU,BUNC / SOL,0,6.99049509727e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=9%,control
+2026-11-19T05:16:24Z,EXIT,G5ff17czUHf81NEnfXEUDoht9qvuzEG31DXJY1XWXEJn,GTA / SOL,0,6.52378754231e-06,100.0,timeout,-10.04,-10.04,549.35,exit_bar=2026-11-19T05:15:00Z,control
+2026-11-19T05:17:46Z,ENTRY,gWZ7AyUJZpPhm9zGxW892im7tskgtDJ3RoYYZWNn14u,GTA6IRL / SOL,0,6.49966836649e-05,100.0,proven_pool,,,549.35,age=126min,proven
+2026-11-19T05:17:46Z,ENTRY,7q3oKCxVCxtG8Gc3Hpur7ncRwzt4AbjN1dbwpPKohQsh,STONK / SOL,0,1.41263139352e-09,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-100%,control
+2026-11-19T05:20:31Z,ENTRY,5rayASAAJscXKgfhs6YtUXgNKa59asujZDRRjCLp2N8n,AFTER / SOL,0,0.000110086459102,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-19T05:23:30Z,ENTRY,94q1f3VbPWTc2726BYAS7gSHk8NZ3yv4VDs8StFBr3Qy,GTA6 / SOL,0,6.5611660109e-05,100.0,research_failed,,,549.35,score=0.00 momentum=52%,mom
+2026-11-19T05:25:07Z,EXIT,DDpRp6E4v5J8nLZQPpjcp7HuYYkMpsn7euaBhn8R7MfA,PAPA / SOL,0,1.44984814875e-05,100.0,rug,-100.02,-100.02,549.35,exit_bar=2026-11-19T05:24:00Z,mom
