@@ -15569,3 +15569,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T01:21:01Z,EXIT,7TFKTvUZD1xDp5NgiULqXrq3QR9Bc8yYmNwk3z2hZsSW,NEX Ai / SOL,0,1.53914430425e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-19T00:36:00Z,mom
 2026-11-19T01:23:31Z,ENTRY,FZ5JwZXKRMFoChR8gpAGJzqi4pwmkvS4AXxx1YTZKNQe,FOUNDER / SOL,0,0.000130209955952,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-19T01:23:31Z,ENTRY,HSrVcbrtevNegLS9FBRCeizHpRM6nwLBEB5xs8oVdcnC,DFSDFDSF / SOL,0,1.59621533709e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-19T01:25:05Z,FAILED,5eB2BrmAzYsnu2M1x16Nuos8EJR5dkSUaEVE2iDc6cv5,DICE / SOL,0,1.33416550828e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-19T01:29:26Z,ENTRY,3tZiSf57MCu6wscFq4HZTassgedjuP9s3f1ihEzPfCJZ,TTWO / SOL,0,1.7811197775e-05,100.0,research_failed,,,549.35,score=0.00 momentum=151%,mom
+2026-11-19T01:32:26Z,EXIT,13EHwvC1JguXDv6zCSc4M7Z85Lb2g3hN7jAN8F8dEuZQ,GTAB / SOL,0,5.97524580948e-06,100.0,sl,-51.78,-51.78,549.35,exit_bar=2026-11-19T00:52:00Z,control
