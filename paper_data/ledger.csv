@@ -15913,3 +15913,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T19:16:58Z,ENTRY,3Kq36nyBDPdMYnYsgyRBF6mEkZ8c24Fc6WpMTtjpn8gM,GTABANK / SOL,0,1.88022394183e-05,100.0,control_no_momentum,,,448.85,score=0.00 momentum=6%,control
 2026-11-19T19:18:28Z,ENTRY,F3928SSrSPnRbJZNQYxyYzknzQpTC6maH68SGQtNg9gY,ANT / SOL,0,8.18973946624e-07,100.0,research_failed,,,448.85,score=0.00 momentum=56%,mom
 2026-11-19T19:21:27Z,ENTRY,xJaFWQ9iF6fC8c8LwBQvjXa4eGzsYffcvvMVg5Bm7F1,ANT / SOL,0,6.71451125336e-07,100.0,research_failed,,,448.85,score=0.00 momentum=42%,mom
+2026-11-19T19:25:47Z,ENTRY,3MuHzX6bQVCwpAsBzEWjsDn1LPvxftkg3qoqQdgsm61U,STARS / SOL,0,2.34059683312e-05,100.0,research_failed,,,448.85,score=0.00 momentum=138%,mom
+2026-11-19T19:27:17Z,ENTRY,AnwXWw2Wv1UgSDP6w19M856hnrrUdyspZm65RJAUMkEZ,Christmas / SOL,0,2.24504081706e-05,100.0,research_failed,,,448.85,score=0.00 momentum=43%,mom
+2026-11-19T19:28:32Z,ENTRY,FbEFu7XRhEE4SZg8ZSkpk3ubX8mAhzK9M6KKmHDWmjNq,STARS / SOL,0,3.008816637e-05,100.0,research_failed,,,448.85,score=0.00 momentum=58%,mom
+2026-11-19T19:30:02Z,EXIT,9FhZhEdDanmD4D8RDnx2CntSdoxLUPdYRmcx2kKRyHX6,TERRAIN / SOL,0,5.95417763712e-05,100.0,rug,-2.99,-2.99,448.85,exit_bar=2026-11-19T19:28:00Z,control
+2026-11-19T19:30:02Z,ENTRY,BNFxcecsJrL3uYf6nvEuphyTryXHVArpYWhQJpTp99CL,SXSN / SOL,0,1.52026056509e-05,100.0,control_no_momentum,,,448.85,score=0.00 momentum=-1%,control
+2026-11-19T19:31:25Z,FAILED,2a5CLoCvpiBSTVR956ZqJfdhyXfz8tSyA1VRGJKY7qUt,CRACK / SOL,0,7.21435348818e-05,0,tx_failed,-0.5,,448.85,"buy reverted, tip lost",mom
