@@ -15614,3 +15614,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T02:26:16Z,EXIT,HSrVcbrtevNegLS9FBRCeizHpRM6nwLBEB5xs8oVdcnC,DFSDFDSF / SOL,0,1.5705041499e-05,100.0,timeout,-6.09,-6.09,549.35,exit_bar=2026-11-19T02:24:00Z,control
 2026-11-19T02:27:31Z,ENTRY,5PM7GTu75QbQnGaYZ37eZ4WjTSfBuQw56ywBERz7B5nM,DCTC / SOL,0,0.000102452479845,100.0,control_no_momentum,,,549.35,score=0.00 momentum=0%,control
 2026-11-19T02:27:31Z,FAILED,9W58pThyTSy9gy8hoJ3uaXBZr6eaNN4L9FRobvhXDzju,sol / SOL,0,8.95709367014e-06,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-19T02:32:10Z,EXIT,3tZiSf57MCu6wscFq4HZTassgedjuP9s3f1ihEzPfCJZ,TTWO / SOL,0,1.17596269799e-05,100.0,sl,-100.02,-100.02,549.35,exit_bar=2026-11-19T01:37:00Z,mom
+2026-11-19T02:37:46Z,EXIT,9oGPRPbHqrpUfibnCWGkFi8Msh9us5qadnMMZf17XGoi,MAZE / TTWO,0,1.97383598132e-05,100.0,timeout,-7.69,-7.69,549.35,exit_bar=2026-11-19T02:36:00Z,control
