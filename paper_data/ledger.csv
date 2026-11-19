@@ -15812,3 +15812,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T16:59:46Z,ENTRY,Dh7ECyY3MoDvXp6zmoDRVpjVRxFDpgcAgfARHSz5oDnm,CATMARIO / SOL,0,6.46463659618e-07,100.0,research_failed,,,548.85,score=0.00 momentum=51%,mom
 2026-11-19T17:01:16Z,ENTRY,9g5ZXpSVLQsFNZFDiski9LfeGjBqED26N8sCwX2Pxhvf,NTDOY / SOL,0,3.01360829675e-05,100.0,control_no_momentum,,,548.85,score=0.00 momentum=-4%,control
 2026-11-19T17:02:31Z,ENTRY,8TM1rGPbf6SjGii1SGLx1pVQADQkzEN3tw9UoJwzFHGU,DICE / SOL,0,9.24461507756e-06,100.0,control_no_momentum,,,548.85,score=0.00 momentum=0%,control
+2026-11-19T17:04:06Z,EXIT,4NAZkqqxHUamdpdvRzDicwPESZrgaAYiDRJtLp56jrVb,mihao / SOL,0,1.83494790496e-09,100.0,rug,-100.02,-100.02,548.85,exit_bar=2026-11-19T17:03:00Z,control
+2026-11-19T17:06:59Z,ENTRY,6ocKRTbsmz5EXRGgi4EHcMR3qnJrRZUEjriK4UdRZKHU,KFC / SOL,0,0.000260569984455,100.0,research_failed,,,548.85,score=0.00 momentum=29%,mom
+2026-11-19T17:08:28Z,EXIT,3mTxaHzPyZzmqz1uHPPmL8agAyM8mAwXESS7nd1eoCpn,ZGTA / SOL,0,1.52689099334e-05,100.0,timeout,-7.1,-7.1,548.85,exit_bar=2026-11-19T17:07:00Z,control
+2026-11-19T17:08:28Z,ENTRY,Dtn1imetxWNR4xcheCwLwQ6fsaQzSHxwd77e1UrHDAZY,NEKOMARIO / SOL,0,1.59695949642e-05,100.0,research_failed,,,548.85,score=0.00 momentum=19%,mom
+2026-11-19T17:09:59Z,ENTRY,9R1ewS7MaXCdrYynBDsgbLgCVZxTFfkjzZfBAReLPtUZ,CATMARIO / SOL,0,9.20868797016e-05,100.0,research_failed,,,548.85,score=0.00 momentum=107%,mom
+2026-11-19T17:09:59Z,ENTRY,CpBHiSio81ihqTLqQFHvW7HBU3EyzWxVK49sv3YMmLxd,IMG / SOL,0,7.44949477795e-05,100.0,control_no_momentum,,,548.85,score=0.00 momentum=-0%,control
+2026-11-19T17:11:29Z,ENTRY,7YoZVCsDvxNggRTCP4dFV6Uis1nZnRLEwXgFC55sGaVw,ANT / SOL,0,3.83499968258e-05,100.0,research_failed,,,548.85,score=0.00 momentum=17%,mom
+2026-11-19T17:11:29Z,ENTRY,94VhMZBC5Ss6VwhPq5EBvAYZo3hs2WDBmcquzAmABVqn,CLAUDE / ANT,0,1.17426161127e-05,100.0,research_failed,,,548.85,score=0.00 momentum=50%,mom
+2026-11-19T17:12:59Z,FAILED,8wvzFkPnqGqDekmzoMuMBNoMyYnZLZJ2ti1q8bwQqa9Y,mihao / SOL,0,0.001226551442,0,tx_failed,-0.5,,548.85,"buy reverted, tip lost",mom
