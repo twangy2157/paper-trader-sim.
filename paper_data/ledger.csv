@@ -15770,3 +15770,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T16:04:01Z,EXIT,CngtBMURk6NZpTqcGp3i2yoTA98Debpf57Z8VvttnAN,neet / SOL,0,0.000579033558929,100.0,tp,-97.88,-97.88,548.85,exit_bar=2026-11-19T05:48:00Z,mom
 2026-11-19T16:05:17Z,EXIT,BciQUPz7EGp5zoMZPNnUWCdjrn8LHjmknHAuhGY2SQWD,CATCOIN / SOL,0,1.76530563035e-05,100.0,rug,-100.02,-100.02,548.85,exit_bar=2026-11-19T06:47:00Z,mom
 2026-11-19T16:06:32Z,ENTRY,3mTxaHzPyZzmqz1uHPPmL8agAyM8mAwXESS7nd1eoCpn,ZGTA / SOL,0,1.58336046508e-05,100.0,control_no_momentum,,,548.85,score=0.00 momentum=-41%,control
+2026-11-19T16:16:40Z,ENTRY,8HphVitCLCNH3UeHYbqau1u4kciG62B7NuGCyjHEUdkV,TTWO / SOL,0,0.000320662377028,100.0,research_failed,,,548.85,score=0.00 momentum=18%,mom
+2026-11-19T16:16:40Z,ENTRY,CNypUW4C7xqCJEjh8Dr9qNTTsYatJZ6obK4Uk7zv5BJ7,VINU / SOL,0,1.50531472689e-05,100.0,control_no_momentum,,,548.85,score=0.00 momentum=0%,control
+2026-11-19T16:18:26Z,ENTRY,HX5MuMJzzpzAJnErndrgxm9UysPMLKif1GTUVksfQx3G,NI / SOL,0,1.52466087923e-06,100.0,control_no_momentum,,,548.85,score=0.00 momentum=-97%,control
+2026-11-19T16:19:55Z,ENTRY,BY7eysNtFhX7Ke1NdV9FWXE6BxAp9Xek1EuT9nB863J,PIPI / SOL,0,3.74078683668e-06,100.0,research_failed,,,548.85,score=0.00 momentum=38%,mom
+2026-11-19T16:19:55Z,ENTRY,BcEUJ8X8dNbLmcvb2P6CDnNNTTRrbhjkTe73phXp2XGe,Rockstar / SOL,0,0.000740922139159,100.0,research_failed,,,548.85,score=0.00 momentum=153%,mom
