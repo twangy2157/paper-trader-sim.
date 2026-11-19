@@ -15919,3 +15919,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T19:30:02Z,EXIT,9FhZhEdDanmD4D8RDnx2CntSdoxLUPdYRmcx2kKRyHX6,TERRAIN / SOL,0,5.95417763712e-05,100.0,rug,-2.99,-2.99,448.85,exit_bar=2026-11-19T19:28:00Z,control
 2026-11-19T19:30:02Z,ENTRY,BNFxcecsJrL3uYf6nvEuphyTryXHVArpYWhQJpTp99CL,SXSN / SOL,0,1.52026056509e-05,100.0,control_no_momentum,,,448.85,score=0.00 momentum=-1%,control
 2026-11-19T19:31:25Z,FAILED,2a5CLoCvpiBSTVR956ZqJfdhyXfz8tSyA1VRGJKY7qUt,CRACK / SOL,0,7.21435348818e-05,0,tx_failed,-0.5,,448.85,"buy reverted, tip lost",mom
+2026-11-19T19:34:30Z,FAILED,8ocbmPgVU3HBKYNPo351a6tHB6rqkxfiqBLzgZ5sfhA2,AudaCity / SOL,0,1.86138509068e-05,0,tx_failed,-0.5,,448.85,"buy reverted, tip lost",mom
+2026-11-19T19:36:07Z,EXIT,7ao7R84TZug4s7bAWvRkKWGBkVNdv2aH7guGwrcVfuhi,AI / SOL,0,9.46291949152e-07,100.0,rug,-100.02,-100.02,448.85,exit_bar=2026-11-19T19:34:00Z,mom
+2026-11-19T19:37:29Z,EXIT,Fsd2s1tupbyxE1ZAcCULjWXF6tzusUcmsjZxvSFB7RtQ,DCTY / SOL,0,4.92068508204e-05,100.0,sl,-100.02,-100.02,448.85,exit_bar=2026-11-19T18:53:00Z,control
+2026-11-19T19:37:29Z,ENTRY,Ex9nCZ4XHrRBnja8cThBBewZ6zp71h7R5w3r3zcbtW9r,Jenson 6 / SOL,0,7.8257151628e-06,100.0,control_no_momentum,,,448.85,score=0.00 momentum=0%,control
+2026-11-19T19:40:29Z,EXIT,HGVCu6EqjNiifWdgLnNcXjRcbVHerfzNbssrS6igZSTq,DATITTY / SOL,0,0.000206954376605,100.0,timeout,18.42,18.42,448.85,exit_bar=2026-11-19T19:39:00Z,control
+2026-11-19T19:40:29Z,ENTRY,3TEZEHSB9m4w5tPjEcVc1BMPfw4EE3y6A1FQqtrs3URQ,CRACK / ANT,0,1.74615025554e-05,100.0,control_no_momentum,,,448.85,score=0.00 momentum=2%,control
+2026-11-19T19:41:59Z,ENTRY,8zQCrd1pHL8cRyEMsp1ooChoD12t2mY5cvC5x8hf4zLu,BUTTHOLE / SOL,0,6.94482702253e-05,100.0,control_no_momentum,,,448.85,score=0.00 momentum=8%,control
+2026-11-19T19:43:29Z,EXIT,4Nr4B1H22jjr6baHAaeinNy8Z273qZFeQvg9snsnhS9D,\nu / ANT,0,8.46879090638e-06,100.0,honeypot,-101.0,-101.0,448.85,exit_bar=2026-11-19T18:57:00Z,mom
+2026-11-19T19:43:29Z,ENTRY,2GE5ix5usrbfruLAhxxwVNXrSPwja3YSPQpGUwRaxVHT,$AURA / SOL,0,9.0585075386e-06,100.0,control_no_momentum,,,448.85,score=0.00 momentum=0%,control
