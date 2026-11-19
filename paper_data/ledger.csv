@@ -15651,3 +15651,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T03:28:22Z,ENTRY,BP9SVxmjJjkzBiHYz9qr89QkvcUd3zEN9esuqF1LGUVp,ASI / SOL,0,5.0352040375e-05,100.0,research_failed,,,549.35,score=0.00 momentum=241%,mom
 2026-11-19T03:29:44Z,EXIT,5PM7GTu75QbQnGaYZ37eZ4WjTSfBuQw56ywBERz7B5nM,DCTC / SOL,0,0.000105827128314,100.0,rug,0.04,0.04,549.35,exit_bar=2026-11-19T03:28:00Z,control
 2026-11-19T03:29:44Z,ENTRY,DTdbqvvxkb9seoxnnWZb16oHoYs9paqD6p3oHt6Xk99U,BUNC / GTA6,0,2.0120560643e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=2%,control
+2026-11-19T03:31:26Z,FAILED,9v4FYTL7i3iYS7SdN2FYWqxScVZxzRsPQ3htXsEVoMV5,BRAINROT / SOL,0,1.00931815875e-05,0,tx_failed,-0.5,,549.35,"buy reverted, tip lost",control
+2026-11-19T03:32:56Z,ENTRY,CUVwBiCUecmS76gavf8rBc3AGgrtTLSzQFw9AojoGfoM,Everglades / SOL,0,2.66429552352e-05,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-15%,control
+2026-11-19T03:35:55Z,ENTRY,33K6vrFjz5r4sSDiBvnrJWr7H6EHcXxZVNJXphbTW7EW,TRUCE / SOL,0,8.2652906813e-06,100.0,control_no_momentum,,,549.35,score=0.00 momentum=-0%,control
+2026-11-19T03:37:17Z,ENTRY,ZTaCcMZSNPJbjqEsy5jS6qBPkTLHPwwoA9NQyigkhBu,PAPA / SOL,0,1.19582985145e-05,100.0,research_failed,,,549.35,score=0.00 momentum=78%,mom
