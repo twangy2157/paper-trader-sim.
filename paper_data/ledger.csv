@@ -15975,3 +15975,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-19T21:06:28Z,ENTRY,DFoE6Hf2pYWiEDY3hc1zKvfhydC7pf2BaBbAsgz6c4hM,MORALS / SOL,0,1.12000841894e-05,100.0,research_failed,,,663.34,score=0.00 momentum=24%,mom
 2026-11-19T21:06:28Z,ENTRY,H9Wg2azeWkVcB5hvjcmk1v9L1uAX9dZ24fXkPAQzTRB5,WIN / SOL,0,1.57601759134e-05,100.0,control_no_momentum,,,663.34,score=0.00 momentum=-4%,control
 2026-11-19T21:08:14Z,EXIT,8f5nuGsXYs9urhNLts7yVPFXBapLcwLTJxP1z8N3DW7F,ONI / SOL,0,2.31632763502e-05,100.0,timeout,-7.11,-7.11,663.34,exit_bar=2026-11-19T21:07:00Z,mom
+2026-11-19T21:09:41Z,ENTRY,3Sgsz37doxE6p3fHSGLi4LYjKxUMgRjPEJe4H5zThGXw,MEGGABULL / ANT,0,2.23277616419e-05,100.0,control_no_momentum,,,663.34,score=0.00 momentum=0%,control
+2026-11-19T21:09:41Z,ENTRY,CB6Lapj5M7Xc7aAm8jDKk3L9z7tLnHfz4UBmKSp4R4W7,FIONA / SOL,0,8.71469502259e-06,100.0,control_no_momentum,,,663.34,score=0.00 momentum=-13%,control
+2026-11-19T21:14:17Z,EXIT,79wZHdcPsociQirDAHGo7L9AT9Gjunexpx544UZneRF3,\nu / SOL,0,5.66471691544e-10,100.0,rug,-100.92,-100.92,663.34,exit_bar=2026-11-19T20:16:00Z,mom
+2026-11-19T21:15:40Z,ENTRY,Cv28PME6bFt5UZkKctB6gBeX1ZqavK3mzLyTYe7TSW6b,FIONA / SOL,0,3.10548012668e-05,100.0,control_no_momentum,,,663.34,score=0.00 momentum=-30%,control
