@@ -16308,3 +16308,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T17:46:45Z,FAILED,GRdiT2sNx2LvonRHKssr168YNtoyjBaKnKvvMdxrNPWY,Marmo / SOL,0,1.07413816943e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-20T17:48:22Z,EXIT,HiSoADFhetCNWSL5hjV6PVycRHPGgWHXw1kYJmnn4UFB,Cowboy Cat / SOL,0,3.08854416876e-05,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-20T17:04:00Z,control
 2026-11-20T17:52:31Z,ENTRY,EmKNrhknQT2SdYjxvD6A4d49N4vvwuBGVUanKP3LuKE1,花 / SOL,0,8.8609899891e-06,100.0,research_failed,,,563.75,score=0.00 momentum=28%,mom
+2026-11-20T17:55:31Z,EXIT,H5PqLnnN5Y7a47Sxgo3pJ76Ue1pVtcfY8Bgx1RDssheQ,JENSEN / SOL,0,3.36079491645e-06,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-20T17:54:00Z,control
+2026-11-20T17:55:31Z,ENTRY,7p7kmgBTUeHVMCDnqGMuPyEsLVpsB4ug4PYKFjAMVx8C,ALSHIB / SOL,0,2.6313376508e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-20T17:58:17Z,EXIT,GnGq3Dj1T9mMsiB5YxJfiG4r8NV3qqnPdBg7JC4g4LyN,CLAUDE / SOL,0,1.21665639713e-05,100.0,timeout,-6.25,-6.25,563.75,exit_bar=2026-11-20T17:57:00Z,control
+2026-11-20T17:59:40Z,ENTRY,BCUNfP2yQ3ZreYftJA6rT2oZR1WvpGMyoGNWvKodaxh6,scubacat / SOL,0,3.0368232018e-05,100.0,research_failed,,,563.75,score=0.00 momentum=117%,mom
+2026-11-20T18:01:18Z,EXIT,AZka4KxEZYqwopnZG9XQg6X5Vrbs1drhrzbMZoVHg6nH,Rockstar / SOL,0,0.0033265294098,100.0,tp,-99.2,-99.2,563.75,exit_bar=2026-11-20T17:06:00Z,mom
+2026-11-20T18:02:42Z,ENTRY,8qkMPLHQa8tcTmFazJypD9euEqZFThUU8rkp49kmvBfJ,DCTY / SOL,0,0.000555115861867,100.0,research_failed,,,563.75,score=0.00 momentum=27%,mom
