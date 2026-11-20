@@ -16210,3 +16210,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T15:34:14Z,EXIT,DcaCpBnMGCp11UiL7szfiq5fWSDpK2hTh37JoiP4xB1r,ORAMAMA / SOL,0,7.64612866612e-06,100.0,timeout,-9.17,-9.17,564.25,exit_bar=2026-11-20T07:11:00Z,control
 2026-11-20T15:35:37Z,FAILED,GJxXkheQYLoDiRE3xipwgoGWCL3gnJPzUTuQN7jQkzXa,RIEMANN / SOL,0,6.68795216501e-07,0,tx_failed,-0.5,,564.25,"buy reverted, tip lost",mom
 2026-11-20T15:35:37Z,ENTRY,GXxsq5fCv9tyjHo1eCia3kwDtNdBzWroYX4G8qB134dx,att / SOL,0,9.79313314866e-06,100.0,control_no_momentum,,,564.25,score=0.00 momentum=0%,control
+2026-11-20T15:37:19Z,ENTRY,Ersi7qf2ehcHVArVx2yvySaJmcu6cM5kL5J6c3NedoSd,ELIZABETH / SOL,0,8.80084257819e-06,100.0,control_no_momentum,,,564.25,score=0.00 momentum=0%,control
+2026-11-20T15:37:19Z,ENTRY,Am5bGedDkC1q7GqetC7qr9oyJo8EbUxfDhSZTos6a9Es,$MPLOW / SOL,0,6.73432020431e-06,100.0,control_no_momentum,,,564.25,score=0.00 momentum=0%,control
+2026-11-20T15:38:43Z,ENTRY,9fsZZcSko2ShmifJ7x54RunNLb8ih9J9ixMTCu52KFAr,bobo / SOL,0,0.000221210407094,100.0,research_failed,,,564.25,score=0.00 momentum=74%,mom
+2026-11-20T15:40:20Z,ENTRY,qWi6jgA5mLvv3EHcayDPLggajsPeRYBwDoVGXyfSgiK,BetOnBlak / SOL,0,1.38909994011e-05,100.0,control_no_momentum,,,564.25,score=0.00 momentum=0%,control
+2026-11-20T15:41:43Z,ENTRY,9ARJWdNmgGDvR3bRMgRXNhX2WBhYRaKv6626GcNh7XqB,RIEMANN / SOL,0,0.000148517184901,100.0,dip_after_drop,,,564.25,score=0.00 momentum=-44%,dip
+2026-11-20T15:43:21Z,ENTRY,FfxtDSpGn7gWk5DEvvizLht1tQSbdB4fdc7Jq9vhJqpT,Gǒu / SOL,0,4.2450637413e-05,100.0,research_failed,,,564.25,score=0.00 momentum=78%,mom
+2026-11-20T15:46:21Z,ENTRY,87cETtC5UxqMFJV5znQujxCFwnGnX1vz8Bhx518LkLk5,ACRES / SOL,0,1.42259682107e-05,100.0,dip_after_drop,,,564.25,score=0.00 momentum=-33%,dip
