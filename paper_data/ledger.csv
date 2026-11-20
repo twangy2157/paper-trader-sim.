@@ -16416,3 +16416,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T20:39:07Z,ENTRY,99XrwrDWspDAiWLGqPBEWZKE9jV7JdhXE5FegdjkVirV,Fundador / TTWO,0,2.15847692847e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-1%,control
 2026-11-20T20:40:30Z,ENTRY,EbGHUdTR1fsx6qwftz5rAQNiXBYkHiqNnknV8qYqeEci,AudaBros / TTWO,0,2.16587184081e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-1%,control
 2026-11-20T20:40:30Z,ENTRY,621STcKB9bvySdpj36eFkrD8tkqq4g6CNn6jt17qPMiV,Founder / SOL,0,1.43916859887e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-2%,control
+2026-11-20T20:45:13Z,EXIT,7KqYuc2XM3bkjECWwEfKmfUpikSWCADDwVem2igUbso1,PATRICK / SOL,0,1.90201037837e-10,100.0,rug,-100.97,-100.97,563.75,exit_bar=2026-11-20T19:51:00Z,mom
+2026-11-20T20:46:37Z,EXIT,CNLzvLbW1nmVi4i5MtqFwACXwpB2H6biQciZPoQCmDeH,Anthropic / SOL,0,4.01338189477e-05,100.0,tp,94.03,94.03,563.75,exit_bar=2026-11-20T20:07:00Z,mom
+2026-11-20T20:46:37Z,ENTRY,FFnrZRBgA9CgTPMq8yqiKpQAKpUqubGY2jZgpM2eXqMA,ONODA / SOL,0,1.46077804566e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=3%,control
+2026-11-20T20:48:14Z,ENTRY,Hxdx9p6AeeTqEY9MFZYux3g5uQxdnMrqHPm1uPN8FnS,BILLY / SOL,0,1.35093300794e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-20T20:49:37Z,EXIT,8m5cKsWXvbLUSy4QUEk8eBgwLN9xvuhAi4yMX3BRme7n,NEX Ai / SOL,0,5.0566177848e-05,100.0,tp,93.92,93.92,563.75,exit_bar=2026-11-20T20:22:00Z,mom
+2026-11-20T20:49:37Z,ENTRY,G71hdYov124UicuWjcRUeZarWa52MbJtTubkK1RFuHs,PAY / SOL,0,1.48263679832e-05,100.0,research_failed,,,563.75,score=0.00 momentum=69%,mom
+2026-11-20T20:51:15Z,ENTRY,DYqVshhU5SyF1Mytb4m7gPVwnUepVT19dESkQHWc9DMQ,uinhim / SOL,0,9.73692143605e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-20T20:52:37Z,EXIT,Adu4rYDsVWaG8aKqkQWgbPAdHdF96SRRpLT4Tsam8kpn,NIVIDIA / SOL,0,1.78669170832e-05,100.0,honeypot,-101.0,-101.0,563.75,exit_bar=2026-11-20T20:51:00Z,control
+2026-11-20T20:52:37Z,FAILED,ENBNHe6FMbhvq2zjri9UJNxBLnNoCadrEPwqd43Ycfgh,CEO / SOL,0,1.34700715205e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
