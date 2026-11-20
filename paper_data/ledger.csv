@@ -16019,3 +16019,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T01:38:45Z,EXIT,B1Wvmv7S7T6R5BSfK1A9wNBdjAgjoDJRLSyh8fNNZWiZ,CI / USDC,0,2.98247656455e-05,100.0,tp,85.79,85.79,563.34,exit_bar=2026-11-20T00:40:00Z,control
 2026-11-20T01:44:45Z,ENTRY,F98qP55cSPdpfbhHdNYFNx3tmuxx7x2cL7PxaTpioF5x,BRAINROT / SOL,0,1.21316475902e-05,100.0,control_no_momentum,,,563.34,score=0.00 momentum=0%,control
 2026-11-20T01:46:22Z,ENTRY,BRVK3T3nCr7JxGRqQWTHykHmWnLJMzMjfxhSEKTZks7C,2030Moon / SOL,0,1.11118928768e-05,100.0,research_failed,,,563.34,score=0.00 momentum=49%,mom
+2026-11-20T01:47:50Z,ENTRY,CSBqxPaAMDLC5sEYsgzGvjbBC2TdvYjTgceaQkNb7GXg,NEX Ai / SOL,0,2.73511866059e-05,100.0,research_failed,,,563.34,score=0.00 momentum=57%,mom
+2026-11-20T01:47:50Z,FAILED,BCz3xCzvmQhCTYi4QsjbXo3nLn5nxtq6GHEWCkxqpS2b,RCTY / SOL,0,0.00010673855618,0,tx_failed,-0.5,,563.34,"buy reverted, tip lost",control
+2026-11-20T01:50:57Z,FAILED,AYgAy9MupJBnaSgRaJjcqNGJXSMTjkzGwVtSM6P2cbqh,JENSEN / SOL,0,2.57388271466e-05,0,tx_failed,-0.5,,563.34,"buy reverted, tip lost",mom
+2026-11-20T01:55:27Z,EXIT,8SAcTGreo886GtP2zrwuvEr6pqmQ4SNhFpRe5JztCJ48,GTA 6 / SOL,0,2.20257341542e-05,100.0,honeypot,-101.0,-101.0,563.34,exit_bar=2026-11-20T01:53:00Z,control
+2026-11-20T01:56:57Z,ENTRY,3QBRAJJV9JuRBgtnu4yoiKyg8JPt6Jw9idJFNbzvLWxp,RUGPULL / SOL,0,2.06909191498e-05,100.0,research_failed,,,563.34,score=0.00 momentum=120%,mom
