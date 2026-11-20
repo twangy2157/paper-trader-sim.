@@ -16052,3 +16052,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T02:35:35Z,ENTRY,2uDkXiJmbRiqrBMoL4PcauxxS2haJCnboiyrEp9cttyB,RUGGED / SOL,0,4.56239372807e-05,100.0,control_no_momentum,,,564.25,score=0.00 momentum=8%,control
 2026-11-20T02:37:12Z,EXIT,CwNMMEiUAGhWZjaHqF2ScpbLS9ZDabNGfUtkKr7idr6B,DI / SOL,0,2.94366470367e-05,100.0,rug,62.97,62.97,564.25,exit_bar=2026-11-20T02:36:00Z,mom
 2026-11-20T02:38:28Z,ENTRY,GTuCGuSY2mFNWHPm83VcTpTdLDsVnTvJDDAEfdVt6cMG,DCI / SOL,0,3.93304806842e-05,100.0,control_no_momentum,,,564.25,score=0.00 momentum=0%,control
+2026-11-20T02:42:55Z,ENTRY,G3cY4fUvHKs3bHr8chiKmmfF6g5JnqSDpDc7o7XEQ932,PPJC / USDC,0,5.20315800592e-06,100.0,control_no_momentum,,,564.25,score=0.00 momentum=0%,control
+2026-11-20T02:45:47Z,FAILED,ChmZSx4rEjM49U34oBF4WyfLQZRZgQJiFSpx7UAzoiLD,高市早喵 / SOL,0,3.40581434034e-05,0,tx_failed,-0.5,,564.25,"buy reverted, tip lost",mom
+2026-11-20T02:47:18Z,EXIT,F98qP55cSPdpfbhHdNYFNx3tmuxx7x2cL7PxaTpioF5x,BRAINROT / SOL,0,1.18026590923e-05,100.0,timeout,-8.2,-8.2,564.25,exit_bar=2026-11-20T02:45:00Z,control
+2026-11-20T02:48:41Z,EXIT,BRVK3T3nCr7JxGRqQWTHykHmWnLJMzMjfxhSEKTZks7C,2030Moon / SOL,0,2.22237857535e-05,100.0,tp,-100.01,-100.01,564.25,exit_bar=2026-11-20T02:04:00Z,mom
