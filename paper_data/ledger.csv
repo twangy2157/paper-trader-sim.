@@ -16302,3 +16302,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T17:40:37Z,ENTRY,BtLrGU4Wyz6HtHKu2rXpRscrEPWLq8hgF9jBDKFcJfBk,mihao / SOL,0,0.000122422020699,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
 2026-11-20T17:40:37Z,ENTRY,51TpZUvvpdWLdjhChKEQSyNedy2gVmj1axZmpDDwhJog,V100 / SOL,0,0.000379692973068,100.0,research_failed,,,563.75,score=0.00 momentum=245%,mom
 2026-11-20T17:42:15Z,EXIT,7CQG2WUaWZR5dRt7LD7GMHK4hnLm7ouAijMjySctGHT2,Rockstar / SOL,0,2.11740147433e-05,100.0,timeout,2.78,2.78,563.75,exit_bar=2026-11-20T17:41:00Z,mom
+2026-11-20T17:43:43Z,FAILED,3uGSLusjzPe99WG3nQM5HU4LMtPUsQUxuLCRQMSoj6bm,$CCOW / SOL,0,4.03870894551e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-20T17:43:43Z,ENTRY,FA3STPrfFUe6AfAkN5kDhjkTLJiqCLhMJvKyEekPAeoU,MI / SOL,0,1.04100041824e-05,100.0,research_failed,,,563.75,score=0.00 momentum=65%,mom
+2026-11-20T17:45:21Z,EXIT,3n7LJRKZGq5oFh3bycrfswFCQkynCi62qtqymVb6rmS2,SADCAT / SOL,0,4.0201535519e-05,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-20T17:08:00Z,mom
+2026-11-20T17:46:45Z,FAILED,GRdiT2sNx2LvonRHKssr168YNtoyjBaKnKvvMdxrNPWY,Marmo / SOL,0,1.07413816943e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-20T17:48:22Z,EXIT,HiSoADFhetCNWSL5hjV6PVycRHPGgWHXw1kYJmnn4UFB,Cowboy Cat / SOL,0,3.08854416876e-05,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-20T17:04:00Z,control
+2026-11-20T17:52:31Z,ENTRY,EmKNrhknQT2SdYjxvD6A4d49N4vvwuBGVUanKP3LuKE1,花 / SOL,0,8.8609899891e-06,100.0,research_failed,,,563.75,score=0.00 momentum=28%,mom
