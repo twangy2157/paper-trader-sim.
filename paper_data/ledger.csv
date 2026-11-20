@@ -15998,3 +15998,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T00:51:18Z,EXIT,3Sgsz37doxE6p3fHSGLi4LYjKxUMgRjPEJe4H5zThGXw,MEGGABULL / ANT,0,2.16413142917e-05,100.0,timeout,-6.83,-6.83,663.34,exit_bar=2026-11-19T22:10:00Z,control
 2026-11-20T00:52:41Z,EXIT,CB6Lapj5M7Xc7aAm8jDKk3L9z7tLnHfz4UBmKSp4R4W7,FIONA / SOL,0,8.45573632244e-06,100.0,timeout,-8.64,-8.64,663.34,exit_bar=2026-11-19T22:10:00Z,control
 2026-11-20T00:52:41Z,ENTRY,8SAcTGreo886GtP2zrwuvEr6pqmQ4SNhFpRe5JztCJ48,GTA 6 / SOL,0,2.21474115345e-05,100.0,control_no_momentum,,,663.34,score=0.00 momentum=5%,control
+2026-11-20T00:54:23Z,EXIT,Cv28PME6bFt5UZkKctB6gBeX1ZqavK3mzLyTYe7TSW6b,FIONA / SOL,0,1.45273457703e-05,100.0,sl,-55.94,-55.94,663.34,exit_bar=2026-11-19T21:17:00Z,control
+2026-11-20T00:55:46Z,ENTRY,x3z2gydhWfJyzkHj3GsxteCjQoZuiZMreUK8fPyRHmB,uinhim / SOL,0,9.71412608636e-06,100.0,research_failed,,,663.34,score=0.00 momentum=14%,mom
+2026-11-20T00:57:16Z,ENTRY,C7au37FAdLKjtRqBtaP2BYRjy1uwn3Cms9hx8T8T4DUE,$PILLY / SOL,0,2.98612804867e-05,100.0,control_no_momentum,,,663.34,score=0.00 momentum=0%,control
+2026-11-20T01:01:17Z,ENTRY,5HZQJtpeLFJC4nSP7JQ7kRZUb4CvXpy34cPvHJvhhCLM,CI / USDC,0,6.49010533953e-05,100.0,control_no_momentum,,,663.34,score=0.00 momentum=-1%,control
+2026-11-20T01:02:40Z,ENTRY,5TKhZYSFoqU6b4JAr5jpPvnCNxxDVeAVPdyJCnJyrB2N,CI / SOL,0,8.08968150032e-05,100.0,research_failed,,,663.34,score=0.00 momentum=45%,mom
