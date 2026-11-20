@@ -16321,3 +16321,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T18:08:56Z,EXIT,7QQ6ZtNoLzxtyLfkxxyr4zXgzH7XLGEw1MY3FrijTA9S,NEX Ai / SOL,0,1.73954835149e-05,100.0,timeout,-4.19,-4.19,563.75,exit_bar=2026-11-20T18:06:00Z,control
 2026-11-20T18:10:27Z,ENTRY,FvvCF6i6JbKpRwK54m53xF9XnDiJqgYYgzCk6Z6nUrin,CLAUDIA / SOL,0,4.27939515049e-07,100.0,control_no_momentum,,,563.75,score=0.00 momentum=9%,control
 2026-11-20T18:10:27Z,ENTRY,5pmHRQk1DAmV1w4LL7d2buM4i5RMtVnQzCKZrAjEF5KP,HANDLE / SOL,0,1.31408820795e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=5%,control
+2026-11-20T18:15:03Z,EXIT,z35mrhKF7NrbJ5m9ahe77VFcrswvnr1YsL2A4yQPJyD,GTA 6 Coin / SOL,0,6.93966706542e-05,100.0,tp,90.44,90.44,563.75,exit_bar=2026-11-20T17:55:00Z,mom
+2026-11-20T18:16:26Z,EXIT,8RSLcmpZmYNVUHaoQR1RiWFCgUspbxdqSoKvBUm6vmPM,MI / SOL,0,1.62260454426e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-20T18:15:00Z,mom
+2026-11-20T18:20:56Z,ENTRY,4Ag6pYE42rXsoCXuJwt114eGaZekwKvgCVBdBCyJZp7d,HANDLE / SOL,0,8.39749593754e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=6%,control
+2026-11-20T18:20:56Z,ENTRY,3Mu9iarLGBoayWwDVkuRhpQXBKXBJGBWBAzfCBb6ftof,h◡sh / SOL,0,1.13170252458e-05,100.0,research_failed,,,563.75,score=0.00 momentum=91%,mom
+2026-11-20T18:22:27Z,ENTRY,6H9ajqTSxwEKSoahZvN7kYfPzGrjXJbiBPSi2EovqXYY,NORA / SOL,0,9.76404949117e-05,100.0,research_failed,,,563.75,score=0.00 momentum=97%,mom
+2026-11-20T18:23:57Z,ENTRY,CtLAWy9gsk8qofWjhWecchqWSTSyWJJvh2hG76HQ4D9M,NORA / SOL,0,2.82284046856e-05,100.0,research_failed,,,563.75,score=0.00 momentum=71%,mom
