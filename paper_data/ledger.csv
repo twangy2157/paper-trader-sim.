@@ -16247,3 +16247,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T16:26:59Z,EXIT,58HdjgtpNHSfVPDpJbY89XVt4ELLKAGgbqsDnvYRtQ5u,RIEMANN / SOL,0,0.000121226332896,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-20T15:25:00Z,mom
 2026-11-20T16:26:59Z,ENTRY,BEgqT49NaRHQoPrTh9g34TdaVe5DStEXJMnQQ4w4jAvq,HUSS / SOL,0,9.00814950027e-06,100.0,research_failed,,,563.75,score=0.00 momentum=27%,mom
 2026-11-20T16:28:29Z,ENTRY,2hMsDJp9HF22zMaYBXR4puESF9qy2NjuKtBwiMVJgWu8,$PEACEX70 / SOL,0,1.33695847329e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-20T16:34:28Z,EXIT,BBammWUCKyAbXZZNpQPbDiiGekEqwt5csqaD6cYMSxmc,Griller / TTWO,0,5.96870718516e-06,100.0,sl,-36.97,-36.97,563.75,exit_bar=2026-11-20T15:36:00Z,mom
+2026-11-20T16:35:59Z,ENTRY,AY4e5ho1XPuEh42cMNgrc7hP3fsTYoJ49Hfftmax6P64,SNAPMATIC / SOL,0,1.00873004473e-05,100.0,research_failed,,,563.75,score=0.00 momentum=42%,mom
+2026-11-20T16:37:29Z,EXIT,GXxsq5fCv9tyjHo1eCia3kwDtNdBzWroYX4G8qB134dx,att / SOL,0,9.54173595409e-06,100.0,timeout,-7.9,-7.9,563.75,exit_bar=2026-11-20T16:36:00Z,control
+2026-11-20T16:37:29Z,ENTRY,3Gx7gZzo3KaAURYTZt6qbFYJbBQDu3Sk3TwWtjxStsXB,$LA BEAST / SOL,0,7.82525273587e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-20T16:38:59Z,FAILED,CriqcE1aMgTYdJWkxzWJcbn3gTAL5BNuo3GzJ8pGo8ug,MIA / SOL,0,0.000162328516718,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
