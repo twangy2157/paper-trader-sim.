@@ -16425,3 +16425,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T20:51:15Z,ENTRY,DYqVshhU5SyF1Mytb4m7gPVwnUepVT19dESkQHWc9DMQ,uinhim / SOL,0,9.73692143605e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-20T20:52:37Z,EXIT,Adu4rYDsVWaG8aKqkQWgbPAdHdF96SRRpLT4Tsam8kpn,NIVIDIA / SOL,0,1.78669170832e-05,100.0,honeypot,-101.0,-101.0,563.75,exit_bar=2026-11-20T20:51:00Z,control
 2026-11-20T20:52:37Z,FAILED,ENBNHe6FMbhvq2zjri9UJNxBLnNoCadrEPwqd43Ycfgh,CEO / SOL,0,1.34700715205e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-20T20:54:20Z,ENTRY,HLqER3FBsUFaET9U13XfqjQomdja6LRCEKhWnfnpn2Zj,ONODA / SOL,0,9.7103324724e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=9%,control
