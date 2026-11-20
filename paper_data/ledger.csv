@@ -16165,3 +16165,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-20T05:37:28Z,EXIT,GX3ixMna7NJkYfU6LsRYGEBfBJXunNHRhpWJy7u5Jctw,RUGGED / SOL,0,0.000108136061493,100.0,rug,-3.46,-3.46,564.25,exit_bar=2026-11-20T05:35:00Z,control
 2026-11-20T05:38:58Z,FAILED,PqytJVKmnkmL2dz8ACGf6niR6NjFdo5uCKRgYFKgrHy,APCY / SOL,0,8.13575124647e-05,0,tx_failed,-0.5,,564.25,"buy reverted, tip lost",control
 2026-11-20T05:38:58Z,ENTRY,859AMNbWmuFaqvg31sLZAyWp2LVw6KBxu5aUsNM431kc,iAgent / SOL,0,0.000108339935943,100.0,control_no_momentum,,,564.25,score=0.00 momentum=-31%,control
+2026-11-20T05:40:32Z,FAILED,Ayz5u7ynvQsHXhxPYebctwiXuxqs4Rj5898pwrMuzfgg,APCY / SOL,0,2.24947351918e-05,0,tx_failed,-0.5,,564.25,"buy reverted, tip lost",mom
+2026-11-20T05:42:02Z,EXIT,5h9dnoZTRPrXChnA2R6Nz76kcxAVADa319pfv5LNtdid,COMET / SOL,0,1.41463083279e-05,100.0,timeout,-7.3,-7.3,564.25,exit_bar=2026-11-20T05:41:00Z,control
+2026-11-20T05:43:25Z,EXIT,DfYNKn6tBAioVdox2sPFkEJRUg2sX3GtUXDszwhYVmBo,AODF / SOL,0,0.000717456647539,100.0,tp,94.93,94.93,564.25,exit_bar=2026-11-20T04:55:00Z,mom
+2026-11-20T05:43:25Z,FAILED,DLcqSZDc5EQwHqxdatGk3gNtFt7omparb6stfFi9ooQZ,DCTY / SOL,0,1.10715192197e-05,0,tx_failed,-0.5,,564.25,"buy reverted, tip lost",mom
+2026-11-20T05:46:25Z,ENTRY,HPrrkTjWYYZJc3XpjNsNBNz5K1CSEoHBSoXnLxv3artG,RUGGED / SOL,0,0.000108809234817,100.0,control_no_momentum,,,564.25,score=0.00 momentum=6%,control
+2026-11-20T05:46:25Z,ENTRY,7Jp2NitFugdCp8qQKfNDZgGTDdfGBtJMMgrA4WThHLba,TRAZ / SOL,0,1.54003817101e-05,100.0,control_no_momentum,,,564.25,score=0.00 momentum=-0%,control
+2026-11-20T05:49:25Z,EXIT,Ed6L9orTBTQvCLe6d4mJJw3uEw5zW4wA4BbzvwPj2iXw,JENSEN / SOL,0,3.63321400582e-05,100.0,rug,-100.02,-100.02,564.25,exit_bar=2026-11-20T05:47:00Z,mom
