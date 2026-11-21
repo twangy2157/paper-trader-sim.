@@ -16481,3 +16481,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T01:23:26Z,FAILED,Dsp8iGApBZNgFhV4th9PafZQX1gnZia9MCAimgGeBf25,NIGGER / SOL,0,7.88153478349e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-21T01:26:27Z,FAILED,3kZb4wnLDRFuv8nGxHvpv8s9jEbNEiDGtMKrwP6p4bM9,hSOL / ONE,0,82.794805374,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-21T01:27:57Z,FAILED,7mWReE5syYf1fHBTb5h2zFozqh9D3dUw5Cp8xeuAthGU,NEX Ai / SOL,0,2.85058186338e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-21T01:29:33Z,FAILED,FGAddZY3Q87UY8vi4yS42dteWDdFAec5AxKyoEtBJoUG,hSOL / ONE,0,82.6866921641,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-21T01:31:10Z,EXIT,8mgmFg1GZ3Z2vXbAFTMtDejK171mYiAs5Ygco9dhmYAX,HOGE / SOL,0,0.000123139151383,100.0,timeout,-3.31,-3.31,563.75,exit_bar=2026-11-21T01:29:00Z,control
+2026-11-21T01:33:57Z,ENTRY,558jDEwnrDind62hXzAqS39gtyMCWWUut372tk4RHdF9,$AURA / SOL,0,3.30943368306e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T01:33:57Z,ENTRY,9pc1pvH5QZhChefGGhAEUvFj9fNGbYNX9dNSUY29zQCz,DUE / USDC,0,5.51462625736e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-21T01:33:57Z,FAILED,C1GrUyKbwUinJA8LkZ7vPG6wtzQ56qJgHZhEQoKLWDbK,ASSCOIN / SOL,0,7.30486954327e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-21T01:35:28Z,EXIT,6G8ptkN7Gmr2suXFt1nDFeWYvm28PPuDuoJiGseDHns,$RDLTS / SOL,0,6.62119584105e-06,100.0,timeout,-12.44,-12.44,563.75,exit_bar=2026-11-21T01:33:00Z,control
+2026-11-21T01:36:58Z,EXIT,2r9bSsPXNAZtWezcGFGiz3aom9znogmuP9efZWCymj4H,$REXTON / SOL,0,1.35329462899e-05,100.0,timeout,-9.27,-9.27,563.75,exit_bar=2026-11-21T01:34:00Z,mom
