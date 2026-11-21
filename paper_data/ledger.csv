@@ -16637,3 +16637,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T05:29:02Z,EXIT,EqFHStVGsPqryTQLa9kpW3Rib5NYqcGaML7U1bfRshWX,Singularit / SOL,0,8.83829511428e-05,100.0,timeout,26.65,26.65,563.75,exit_bar=2026-11-21T05:28:00Z,mom
 2026-11-21T05:30:26Z,ENTRY,F1ggV4UNK76LYaUpfhzM73NnC6gU46aae6McxjDkQFcf,DOOROC / SOL,0,1.08472220679e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-21T05:30:26Z,ENTRY,GGoKubPW9yu7qoN1JmqyfzPsB1s3QWCgDgcq8oHLZcFv,LI / SOL,0,2.14799800084e-05,100.0,research_failed,,,563.75,score=0.00 momentum=125%,mom
+2026-11-21T05:32:01Z,ENTRY,5Md368yUx8cuGAK9dLD7mwLkmnscvtM39YRTM9QMviur,Lone / SOL,0,8.41595840524e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T05:33:24Z,ENTRY,ANG8QAwDavHfEJXimnoE65uDMwYg9NXxwzHVuDcfYBR8,DODO / SOL,0,1.55564912452e-05,100.0,research_failed,,,563.75,score=0.00 momentum=85%,mom
