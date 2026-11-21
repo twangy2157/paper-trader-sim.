@@ -16674,3 +16674,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T07:33:37Z,FAILED,7pyQonkJ5yiW1uTDzm3yS5juma3B55nKP6jXWJVD6HAA,BTC / SOL,0,0.000121059256841,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
 2026-11-21T07:35:15Z,ENTRY,2sC4tazohdRe7kCEDSbyZCMQNFe5t1BZ6NhzRZs6DTSk,猫咪 / SOL,0,1.48411977307e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-21T07:36:38Z,ENTRY,BJfRKFKoBQCCaYDNygdpJXi5f3rFyEC5XktnZ4nBqTyy,猪小戒 / SOL,0,2.12149804763e-05,100.0,research_failed,,,563.75,score=0.00 momentum=163%,mom
+2026-11-21T07:39:44Z,ENTRY,8ZHaRLWWssZ7nDHhBc7Qaqw6uKX4iAhGM7TjeMSdH25J,猪小戒 / SOL,0,6.07355617446e-07,100.0,research_failed,,,563.75,score=0.00 momentum=62%,mom
+2026-11-21T07:39:44Z,ENTRY,2yaR9vGxVyg2brjhNTAGjVguFwhXxesZ5XxDLHDiFxWw,WIF / SOL,0,7.21448102818e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T07:41:22Z,ENTRY,5p7ZYCqP18mPTpakayxr4zyeYrprAzCcwNMBKMmWUwR7,DOOMIE / SOL,0,1.17423490078e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=5%,control
+2026-11-21T07:42:45Z,ENTRY,A5jehaaAFXoKgQZpqwCvYvdGNDqt5FNJzE7rYxuD7T8P,AHA / SOL,0,6.98227542972e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-100%,control
+2026-11-21T07:44:23Z,ENTRY,HaCaNh7MEXHNWqU9S6oCgJQvLUSo26CZ1h7WWaWufvVf,win / SOL,0,0.000397346016882,100.0,research_failed,,,563.75,score=0.00 momentum=122%,mom
+2026-11-21T07:45:46Z,ENTRY,AcBkRPknfwC75phioy1QjmwvE9t3hxFKJXCbCguVjujL,JENSEN / SOL,0,2.49866075878e-05,100.0,research_failed,,,563.75,score=0.00 momentum=71%,mom
+2026-11-21T07:47:17Z,ENTRY,C3m4VeidQzphWUT5nawpXqqD6yHiYVBA54WAz4U3TSER,win / SOL,0,2.97825052749e-05,100.0,research_failed,,,563.75,score=0.00 momentum=35%,mom
