@@ -16711,3 +16711,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T08:27:38Z,ENTRY,7b7ZtN5Dq7NqCNX6u9jd3kBXz8uJT6CkRFhpXUE3HXHX,Snape / SOL,0,1.31505066877e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-21T08:27:38Z,ENTRY,98Q6QTXHWrX1KByinELVjAjSope8emR6esrHiVovZzNp,Cowboy Cat / SOL,0,1.97505540705e-05,100.0,research_failed,,,563.75,score=0.00 momentum=41%,mom
 2026-11-21T08:29:16Z,EXIT,AcqpAWnSG33SAM5Q8S5T2TJPnwN7S9ovzycNdhXTYD3X,win / SOL,0,0.000188213337705,100.0,rug,47.24,47.24,563.75,exit_bar=2026-11-21T08:28:00Z,control
+2026-11-21T08:30:38Z,ENTRY,GaLosZZx9mhUyYmMKGR5JynL9q5eQqPaZvHkwzTETQKu,USMS / SOL,0,3.09627023637e-05,100.0,research_failed,,,563.75,score=0.00 momentum=1111%,mom
+2026-11-21T08:33:32Z,ENTRY,4UWPxyoPLd9yQiQu63AYyNeLgyDUxhucJ9ikyd8k66X5,NIGHT / SOL,0,0.00808418788182,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-1%,control
+2026-11-21T08:35:03Z,EXIT,7Pk7MA9jsJELev5QnfAmc6crZv2RLrvUSLu7K88kbfJR,WORM / SOL,0,2.76735110763e-05,100.0,timeout,-4.54,-4.54,563.75,exit_bar=2026-11-21T08:34:00Z,control
+2026-11-21T08:36:27Z,ENTRY,6XurtXMYRCxzvFVm288bhiixyY3HspDNMHYD1aGJCz8C,win / SOL,0,9.35394017334e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-21T08:36:27Z,ENTRY,3AUhha2pFUAQua6nUbv3FayLnHW8sZxWewhHjoKzennS,win / SOL,0,2.07825647831e-05,100.0,research_failed,,,563.75,score=0.00 momentum=36%,mom
+2026-11-21T08:37:57Z,EXIT,2sC4tazohdRe7kCEDSbyZCMQNFe5t1BZ6NhzRZs6DTSk,猫咪 / SOL,0,1.45890442587e-05,100.0,timeout,-6.28,-6.28,563.75,exit_bar=2026-11-21T08:36:00Z,control
+2026-11-21T08:39:28Z,EXIT,BJfRKFKoBQCCaYDNygdpJXi5f3rFyEC5XktnZ4nBqTyy,猪小戒 / SOL,0,2.10449233036e-05,100.0,timeout,-4.56,-4.56,563.75,exit_bar=2026-11-21T08:37:00Z,mom
+2026-11-21T08:39:28Z,FAILED,FsvVkkdjJiBjp2LoDmWXMRN5WNiMuwrF6USCKgchajF4,DOOYET / SOL,0,6.59322798893e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-21T08:39:28Z,ENTRY,5Dgk5LnimdHYo7KshEwPVUVhYb6e8DZWdmDPuET35D75,黎曼猜想 / SOL,0,1.55470837136e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-1%,control
