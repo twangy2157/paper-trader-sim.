@@ -16689,3 +16689,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T07:53:17Z,EXIT,5W12qriVWWcRkvmJqN5n9CguaUXqZppgvpHeN1vQ115H,WI / SOL,0,3.01761565079e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-21T07:52:00Z,mom
 2026-11-21T07:54:33Z,ENTRY,SHq1dFytdPEtKC5bnWKrEPehszopfJUWpd78FYFNaSr,Green Cat / SOL,0,2.10569126354e-05,100.0,research_failed,,,563.75,score=0.00 momentum=31%,mom
 2026-11-21T07:56:11Z,EXIT,7d6ybjqT3rHj6tftF93EJHnfjAcBLXotHHJsS1of5Y3,Rockstar / SOL,0,8.37495234595e-05,100.0,tp,89.1,89.1,563.75,exit_bar=2026-11-21T07:38:00Z,mom
+2026-11-21T08:01:56Z,EXIT,7n4Tpe15cJMcqQf7xZ4EAWcq1GDmRBfqs5k9NnhMG7Si,AI / SOL,0,1.9056989968e-06,100.0,rug,-87.75,-87.75,563.75,exit_bar=2026-11-21T07:56:00Z,control
+2026-11-21T08:03:26Z,ENTRY,4sbyr8QBi7pYdqmXJQJoFzdoGTfVn8aiLGnU1p8VxZGf,STENKS / SOL,0,1.91875547573e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T08:04:57Z,ENTRY,J53APtCtUD8KuFUfcq2EY5crTT5BFeZgbLRD3AYxf9z8,RIEMANN / SOL,0,1.67143367037e-05,100.0,research_failed,,,563.75,score=0.00 momentum=73%,mom
+2026-11-21T08:07:58Z,ENTRY,9TK9LW3wjDFD264hAhwJP9ZjD1RnAuAybmzrDbApErot,MARS / SOL,0,2.42824664465e-05,100.0,research_failed,,,563.75,score=0.00 momentum=79%,mom
