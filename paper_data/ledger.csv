@@ -16551,3 +16551,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T03:12:16Z,ENTRY,DLvxdyM6k4QQ6sqZxcQweWw1WPyqv2VXiQi1pmH4mvCC,DOGE PAID / SOL,0,8.12442013686e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-21T03:13:39Z,EXIT,2kZk2Mnp8M17wYsVMa4EMYDiU5SmR4NCL6wr8cpCCBMF,RCAT / SOL,0,5.69499401433e-05,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-21T02:45:00Z,mom
 2026-11-21T03:13:39Z,ENTRY,8jTjVdjxdmxtedtN1e6YVJUtdyGXPJ2kfLJQrSBRMHQt,PATRICK / SOL,0,0.000117711700089,100.0,research_failed,,,563.75,score=0.00 momentum=51%,mom
+2026-11-21T03:15:23Z,FAILED,AqpBedJuAu9BsJQqgLsbcX4Kze9MwQFTAeKW7UENQ9NM,DOGE PAID / SOL,0,1.25263180654e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-21T03:16:46Z,FAILED,Xq3symthayt269HsyUy7mQWpuSvhaGMsD2tcSUo7YoH,DS / SOL,0,6.64257410001e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-21T03:21:03Z,EXIT,EcirGfir4fUxPoJAehqjhgqiynHfr1jRotVt1KUvMcPi,萌兰 / SOL,0,3.73453738966e-05,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-21T03:02:00Z,mom
+2026-11-21T03:22:26Z,ENTRY,4ZK7c7sKmsK9fsRSc6CGEkNN1FDj1mcpmwFTW3ugpmmf,萌兰 / SOL,0,2.30884351902e-05,100.0,research_failed,,,563.75,score=0.00 momentum=57%,mom
+2026-11-21T03:23:57Z,ENTRY,5S3FhQZP1TMy3tHi7YhpWDFKXXr3q999BafxMMNBcPVb,ZECHY / ZEC,0,2.0555593427e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
