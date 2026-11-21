@@ -16763,3 +16763,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T09:48:18Z,ENTRY,7eEYA4gmRJ4wH7VQYAiJWhiyxVLZhmqPf8rFkfXxqZGk,DCTY / SOL,0,7.57489806034e-05,100.0,research_failed,,,563.75,score=0.00 momentum=14%,mom
 2026-11-21T09:49:41Z,ENTRY,ESK97za2NUanZ5sW9XXwhbbm58712Wh7LbhHBatmRPfJ,XV / SOL,0,2.7688004532e-05,100.0,research_failed,,,563.75,score=0.00 momentum=169%,mom
 2026-11-21T09:52:42Z,ENTRY,CDgkLxgtABNEgBSNkxuucGKxDkpK4E3KxxYzjS6qjMNq,mihao / SOL,0,4.65657857629e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=9%,control
+2026-11-21T09:57:18Z,EXIT,69cs3kQoCzxF6BPDswixcAYuchNFHKzLH2DH2cMbxiLK,LMAO / SOL,0,2.67049105906e-05,100.0,timeout,-4.82,-4.82,563.75,exit_bar=2026-11-21T09:55:00Z,mom
+2026-11-21T10:01:42Z,EXIT,C4Vkq3JewpJkp34JQrZuVP3TW62KXfEYq1Z2Jp4YWPqe,猪小戒 / SOL,0,1.63591662514e-05,100.0,timeout,-4.35,-4.35,563.75,exit_bar=2026-11-21T10:00:00Z,mom
