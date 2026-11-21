@@ -16462,3 +16462,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T00:42:59Z,ENTRY,BLVYxVjnZnKeKDuuZQC2Zgbv9DYrEBfyT98tzErSKabe,FIoatPay / SOL,0,1.36557098791e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-10%,control
 2026-11-21T00:44:30Z,ENTRY,7LzpgYWFEBZnEd6Q2HAjPTshFBrMmcvHd55HGrDKPzBX,Sheep / SOL,0,4.0582495905e-05,100.0,research_failed,,,563.75,score=0.00 momentum=91%,mom
 2026-11-21T00:46:08Z,ENTRY,DQeUF2taa27eRn8B7SF9kvR75Aie2FeEFEFwYmxNTwix,INUX / SOL,0,1.20500341129e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=7%,control
+2026-11-21T00:49:14Z,ENTRY,6FfEDfxejPEJqMCiyi9fp5MebDH2TaKYcDgnsgYgmuGs,Trader / SOL,0,7.01906090491e-07,100.0,research_failed,,,563.75,score=0.00 momentum=38%,mom
+2026-11-21T00:50:37Z,ENTRY,B9suFx2SE46MN7bjU1gtgwgGYmVqxhvundSiWgRWzdyT,cowshark / USDC,0,5.20494869943e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-21T00:53:38Z,ENTRY,9Ey49oSuuNBT365vCR6G1XyCTacrQZ2AjwTTBZdi5Cdp,Gestalt / SOL,0,6.3718287136e-07,100.0,research_failed,,,563.75,score=0.00 momentum=30%,mom
+2026-11-21T00:53:38Z,ENTRY,7zSs6zC4X3tAZM5xS9YRM27yrGPEDRjmB3jgVtF2VPP9,SBS / SOL,0,2.57202992091e-05,100.0,research_failed,,,563.75,score=0.00 momentum=204%,mom
