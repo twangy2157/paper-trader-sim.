@@ -16758,3 +16758,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T09:39:38Z,ENTRY,FStdRFyZUGN2UpEU7aUceUhChad9jEbTuGkgY9gJX2Pe,HALVE / SOL,0,2.34982192732e-05,100.0,research_failed,,,563.75,score=0.00 momentum=59%,mom
 2026-11-21T09:41:16Z,EXIT,5Dgk5LnimdHYo7KshEwPVUVhYb6e8DZWdmDPuET35D75,黎曼猜想 / SOL,0,1.54428423489e-05,100.0,timeout,-4.28,-4.28,563.75,exit_bar=2026-11-21T09:40:00Z,control
 2026-11-21T09:42:32Z,FAILED,2paMhExaXmT425JG5B6Qce6aZciM1CfhJpM7NyHnWFPn,win / SOL,0,0.000321600499776,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-21T09:44:08Z,FAILED,BjXyYCxyo2EXduoQDdGz54zXQQMRBdq7vzL8QADtSNF8,Lone / SOL,0,7.31615830691e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-21T09:45:31Z,ENTRY,BG2YLt8AgnJZ6FWhgzT9GBmo7MKCFMj1qUSPvNnZPFdm,ANSEM / SOL,0,0.000438968927171,100.0,research_failed,,,563.75,score=0.00 momentum=136%,mom
+2026-11-21T09:48:18Z,ENTRY,7eEYA4gmRJ4wH7VQYAiJWhiyxVLZhmqPf8rFkfXxqZGk,DCTY / SOL,0,7.57489806034e-05,100.0,research_failed,,,563.75,score=0.00 momentum=14%,mom
+2026-11-21T09:49:41Z,ENTRY,ESK97za2NUanZ5sW9XXwhbbm58712Wh7LbhHBatmRPfJ,XV / SOL,0,2.7688004532e-05,100.0,research_failed,,,563.75,score=0.00 momentum=169%,mom
+2026-11-21T09:52:42Z,ENTRY,CDgkLxgtABNEgBSNkxuucGKxDkpK4E3KxxYzjS6qjMNq,mihao / SOL,0,4.65657857629e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=9%,control
