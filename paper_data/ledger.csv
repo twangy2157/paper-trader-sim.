@@ -16466,3 +16466,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T00:50:37Z,ENTRY,B9suFx2SE46MN7bjU1gtgwgGYmVqxhvundSiWgRWzdyT,cowshark / USDC,0,5.20494869943e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
 2026-11-21T00:53:38Z,ENTRY,9Ey49oSuuNBT365vCR6G1XyCTacrQZ2AjwTTBZdi5Cdp,Gestalt / SOL,0,6.3718287136e-07,100.0,research_failed,,,563.75,score=0.00 momentum=30%,mom
 2026-11-21T00:53:38Z,ENTRY,7zSs6zC4X3tAZM5xS9YRM27yrGPEDRjmB3jgVtF2VPP9,SBS / SOL,0,2.57202992091e-05,100.0,research_failed,,,563.75,score=0.00 momentum=204%,mom
+2026-11-21T00:59:45Z,ENTRY,Gti2pgafzciwYToxVD6VadtziY4kLuNykneogz2ouhAj,USDC / USDC,0,2.11968741091e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-10%,control
+2026-11-21T00:59:45Z,ENTRY,A4ZtY9dT2fARq3AiHi5pGh41pwHkACutAYW8h74AUxLn,PQPT / SOL,0,7.42790967077e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T01:01:22Z,ENTRY,5sE2ves1aK59hWvP6bNgc6GrwcvEoZJXDcjQ6KsHBvyE,GPU / SOL,0,5.58571123841e-08,100.0,research_failed,,,563.75,score=0.00 momentum=15%,mom
+2026-11-21T01:02:45Z,ENTRY,DNbvUi8yno2W7Kq5RfUCrq4rk6qXMJjy61yWycVphuq7,SLOBBY / SOL,0,2.54872718874e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-10%,control
+2026-11-21T01:07:02Z,ENTRY,Bt31tpEKoEJ5Vtq2Cy7NcSD2HBmYvFjQBQbGqXno2Dx7,Trader / SOL,0,0.00111795694476,100.0,research_failed,,,563.75,score=0.00 momentum=456%,mom
