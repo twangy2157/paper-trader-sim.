@@ -16849,3 +16849,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T12:06:30Z,ENTRY,GsgYddJkx4asT6DVbEBnwDBTicQU1V6mLvd6GVUkYVyi,AMD / SOL,0,7.00194146828e-06,100.0,research_failed,,,563.75,score=0.00 momentum=42%,mom
 2026-11-21T12:08:08Z,EXIT,EoDrpDMHqXMPHJrmWu6iqRe8Binz1HCavWFNUZSZ2HTx,win / SOL,0,9.92828160442e-05,100.0,honeypot,-101.0,-101.0,563.75,exit_bar=2026-11-21T12:07:00Z,proven
 2026-11-21T12:09:32Z,EXIT,5YStBXc4547vFKBzya6FVUGXT8AijzWL9V8qTWjYqqXj,ANT / SOL,0,3.71716594318e-06,100.0,timeout,9.21,9.21,563.75,exit_bar=2026-11-21T12:07:00Z,control
+2026-11-21T12:11:07Z,FAILED,5dyWC9bs8QG3i25kPqaGDWic88gYe7M3FmLpCEAUXWV5,Trader / SOL,0,3.51433358234e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-21T12:15:31Z,ENTRY,72u3EWbgyzSPNyJcGcbVGfLEZVzdrjPBayDoBQNDzxaM,bill / SOL,0,1.3187791493e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T12:19:41Z,ENTRY,HNVGKZehJtPQuHAfNBGbGd53Jdeb2S3zSftzgb9Kacok,XV / SOL,0,0.000106890805618,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-45%,control
