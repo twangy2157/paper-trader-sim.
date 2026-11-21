@@ -16895,3 +16895,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T19:47:25Z,ENTRY,6pzmHaWgNhYsN72YTXWCJCjj3rjnQwoNq9Ukh1mLFQzX,Cybergeddon / SOL,0,1.25445045782e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-60%,control
 2026-11-21T19:48:55Z,ENTRY,26cTDisHq5VXPtBhwU139FqekRXxYZJ7gQPCGp4yohhy,TEST135K / SOL,0,1.4020223394e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
 2026-11-21T19:51:47Z,FAILED,Dgf1ahvKjrJ5rQ2NzdRHMHGVZyCFB54a7e9y4XrrKYqF,‮OFI / SOL,0,0.000353034101488,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-21T19:53:22Z,ENTRY,DbMwgyazVeJ4dtPm4kA9Uy3AYUF6tgJQPa5moFQr8dMR,FLOAT / SOL,0,0.000220666186462,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-21%,control
+2026-11-21T19:54:45Z,ENTRY,7eMpngR199BqqVTHUmnA8Nq7PZXcGHCSQqniekvP4iKS,NEX Ai / SOL,0,2.05707597716e-05,100.0,research_failed,,,563.75,score=0.00 momentum=37%,mom
+2026-11-21T19:56:22Z,ENTRY,3jpPEUu9t6wYw1ZPJHvyTZjH39TNwMuZzuB65qrPTzXB,TA / SOL,0,8.37741442227e-05,100.0,research_failed,,,563.75,score=0.00 momentum=539%,mom
+2026-11-21T19:59:21Z,FAILED,HdDJgfuEn9NuqVuS5caQx5iSB19XU4mXnQb8fcFtCcVJ,BITHOUSE / cbBTC,0,1.56029541681e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-21T20:00:44Z,ENTRY,9wdkLguuAekWcQkFC6nYSgzRfmVSXgDBp5pcbFfLRXgk,HOUSE / cbBTC,0,0.000126049375221,100.0,research_failed,,,563.75,score=0.00 momentum=22%,mom
+2026-11-21T20:00:44Z,ENTRY,Et3udSeE4PUDMtpvrCqjvwUF12DDSAZHBPQSdUepCeUh,HOUSE / SOL,0,9.14638741885e-05,100.0,research_failed,,,563.75,score=0.00 momentum=52%,mom
+2026-11-21T20:02:21Z,FAILED,DxXi8coueVGHvVATVPDYkyBAujKZnUcFd782mRqKAE6i,WETCOIN / SOL,0,1.41910894822e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
