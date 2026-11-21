@@ -16884,3 +16884,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T19:29:32Z,FAILED,6fgZiALSGXksD23awfYapojsETvNwDvScxUfkbCuzaf1,RAWDOG / SOL,0,2.03619854679e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
 2026-11-21T19:29:32Z,ENTRY,7drbLzL3CmNvZYg177JGWRJoVvcLam4boSjwGF3v5XMB,CHAROC / SOL,0,1.13330917601e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=9%,control
 2026-11-21T19:29:32Z,ENTRY,6uczYNHkz4asNszzT6eaapvSRGVRpZ9SJZemHWRE2ir,Singularit / USDC,0,5.36151273272e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-21T19:32:30Z,FAILED,3hidqbpr4ipvY46g4NJLGBJ6EBT3K4B4rqg1E9aUjtaQ,Leonida / SOL,0,0.000739359832334,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-21T19:34:07Z,ENTRY,BTjaPX4V2T5xRityJBFCGYupDibNHXSgo65g4drjfnGm,TRUMP / SOL,0,1.45046480389e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=2%,control
+2026-11-21T19:38:29Z,ENTRY,4gp9waRDmbqeVt6RT4trCjye5UMp9sgiHuadr1MkvB4N,SHILLPIG / SOL,0,0.000151841823255,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T19:39:59Z,FAILED,747eiWStCHBz5eq5UajAHf3DJ57QnrVpR7owiEUPaZDv,GTAVI / SOL,0,3.93837192737e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-21T19:41:29Z,ENTRY,21JVp4N1m1Uo27HgNtktcm2nU7eszeKTUcF5JQ7bhifX,CLAWDIA / SOL,0,6.09531908954e-05,100.0,research_failed,,,563.75,score=0.00 momentum=85%,mom
+2026-11-21T19:41:29Z,ENTRY,7cpWB2M4Zq2VSAQ1WUnhQwfbRMGCcTZng7Rmzqi6kjtU,uinhim / SOL,0,6.98862107474e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
