@@ -16535,3 +16535,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T02:49:26Z,EXIT,BWGwRfTSauVBo23wdscx5UN1EQdQW55r9a5gfe2yA7e9,IFO / ANT,0,1.52896402686e-05,100.0,timeout,-8.19,-8.19,563.75,exit_bar=2026-11-21T02:48:00Z,control
 2026-11-21T02:50:57Z,ENTRY,CR5qPwXsTJdBAMmbxs2gtX3MbRW4suG5t6NuR9rmn2og,TPY / SOL,0,3.53274693446e-05,100.0,research_failed,,,563.75,score=0.00 momentum=427%,mom
 2026-11-21T02:52:27Z,EXIT,4JNCQSFLfmW4RZCGKahnZirqyZQ4ZBUroP6FsiTGggKj,JENSEN / SOL,0,2.80087132629e-05,100.0,rug,-6.44,-6.44,563.75,exit_bar=2026-11-21T02:51:00Z,control
+2026-11-21T02:54:03Z,ENTRY,ALAQYpurXBmwGoK5LoAkT9dcWY9s7HgwPEE6N7n5pBxq,Cyber / SOL,0,6.31068856636e-05,100.0,research_failed,,,563.75,score=0.00 momentum=633%,mom
+2026-11-21T02:56:57Z,ENTRY,4QGDTTGuvY9cPC1JMcYJYwp7HyryRmTkwvXMZECCsN6Q,Crypto / SOL,0,1.20998439406e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=1%,control
+2026-11-21T02:56:57Z,ENTRY,DWxpWFEEHCXwP8LPzJ5qMuXuJpVSrnrMexDE2QZ8Xi5v,ord / USDC,0,4.18995645878e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-21T02:58:27Z,ENTRY,Axb1NjQUXwHhTKvs7HUnsGkQBaxtpyzaQZtcEsAtK6hq,zc / SOL,0,1.84598307136e-05,100.0,research_failed,,,563.75,score=0.00 momentum=93%,mom
+2026-11-21T02:59:58Z,ENTRY,2i9NTf2Bu7UFqBoLp4m1Cce7xZRoexj1VnBh5geVxmJz,NTA / SOL,0,2.06576286308e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T03:01:29Z,EXIT,6gRbWoAwiTun86qkZNdrmhFDQqUpBNYp6LHvN89CFFwM,大当り / SOL,0,1.81841274244e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-21T03:00:00Z,mom
+2026-11-21T03:02:59Z,FAILED,BEgMr36zohGYXNTaQimnf7N62ogoMdRqih1ts6U3bMoi,JENSEN / SOL,0,2.53939925062e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
