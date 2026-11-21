@@ -16890,3 +16890,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T19:39:59Z,FAILED,747eiWStCHBz5eq5UajAHf3DJ57QnrVpR7owiEUPaZDv,GTAVI / SOL,0,3.93837192737e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
 2026-11-21T19:41:29Z,ENTRY,21JVp4N1m1Uo27HgNtktcm2nU7eszeKTUcF5JQ7bhifX,CLAWDIA / SOL,0,6.09531908954e-05,100.0,research_failed,,,563.75,score=0.00 momentum=85%,mom
 2026-11-21T19:41:29Z,ENTRY,7cpWB2M4Zq2VSAQ1WUnhQwfbRMGCcTZng7Rmzqi6kjtU,uinhim / SOL,0,6.98862107474e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T19:43:04Z,ENTRY,ELh97XBwrNNgRftUnvD3acqn1SK1GEQyrrCyA7sfjACx,TA / SOL,0,3.43781786994e-05,100.0,research_failed,,,563.75,score=0.00 momentum=108%,mom
+2026-11-21T19:44:26Z,ENTRY,2qxrp49ujuZ1dxLwHSrivwph7Ltr9VLtSD3R8PMJ146q,TA / SOL,0,1.99966539285e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=10%,control
+2026-11-21T19:47:25Z,ENTRY,6pzmHaWgNhYsN72YTXWCJCjj3rjnQwoNq9Ukh1mLFQzX,Cybergeddon / SOL,0,1.25445045782e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-60%,control
+2026-11-21T19:48:55Z,ENTRY,26cTDisHq5VXPtBhwU139FqekRXxYZJ7gQPCGp4yohhy,TEST135K / SOL,0,1.4020223394e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-21T19:51:47Z,FAILED,Dgf1ahvKjrJ5rQ2NzdRHMHGVZyCFB54a7e9y4XrrKYqF,‮OFI / SOL,0,0.000353034101488,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
