@@ -16669,3 +16669,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T07:22:58Z,FAILED,DTs535TxxxMg99owdbZn9BeWLL55Mfce73uJLjQQySgQ,WEIRDCAT / SOL,0,9.20873132241e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-21T07:22:58Z,ENTRY,G78TzLH9PSn4iQ8wiqkhDpFpXH8GFk8h7jn4j41hVofQ,📷 / SOL,0,5.19691856733e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-21T07:24:29Z,ENTRY,9S8mdUkYyYJqJ4pJP9cSXCwTLLj19GQhBXyqDGRYkWXz,Cowboy Cat / SOL,0,1.95084658216e-05,100.0,research_failed,,,563.75,score=0.00 momentum=40%,mom
+2026-11-21T07:27:35Z,ENTRY,AcqpAWnSG33SAM5Q8S5T2TJPnwN7S9ovzycNdhXTYD3X,win / SOL,0,0.000124122267792,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T07:33:37Z,ENTRY,7Pk7MA9jsJELev5QnfAmc6crZv2RLrvUSLu7K88kbfJR,WORM / SOL,0,2.78937360859e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=1%,control
+2026-11-21T07:33:37Z,FAILED,7pyQonkJ5yiW1uTDzm3yS5juma3B55nKP6jXWJVD6HAA,BTC / SOL,0,0.000121059256841,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-21T07:35:15Z,ENTRY,2sC4tazohdRe7kCEDSbyZCMQNFe5t1BZ6NhzRZs6DTSk,猫咪 / SOL,0,1.48411977307e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T07:36:38Z,ENTRY,BJfRKFKoBQCCaYDNygdpJXi5f3rFyEC5XktnZ4nBqTyy,猪小戒 / SOL,0,2.12149804763e-05,100.0,research_failed,,,563.75,score=0.00 momentum=163%,mom
