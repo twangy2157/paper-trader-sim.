@@ -16527,3 +16527,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T02:37:46Z,ENTRY,6FfEDfxejPEJqMCiyi9fp5MebDH2TaKYcDgnsgYgmuGs,Trader / SOL,0,8.4561101109e-07,100.0,proven_pool,,,563.75,age=123min,proven
 2026-11-21T02:40:33Z,ENTRY,HFNUtAV6Ter1vADgoZcxyWtCvvcCkddqSS3K1PKW6Xbm,PISS / SOL,0,7.14129981002e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-21T02:42:10Z,EXIT,72P6tPqSQzUdQcsQjMYGyTzfVFNshtWvAksLVFZRRifZ,AODT / SOL,0,0.000977016153555,100.0,timeout,-1.9,-1.9,563.75,exit_bar=2026-11-21T02:41:00Z,control
+2026-11-21T02:43:32Z,FAILED,9xWrrwna2dDtSB7B53eTqeSYiaUmd1nvDsHpz1eyvM3i,Cyber / SOL,0,2.96754509985e-07,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-21T02:43:32Z,ENTRY,5fC1A7eyY692AA5mgKGiy3eS9mcmifHRY1e44F3V7sfv,Trader / SOL,0,0.000102781611909,100.0,control_no_momentum,,,563.75,score=0.00 momentum=9%,control
+2026-11-21T02:45:02Z,ENTRY,E57ENd5Ghzju9Mrg4WETGu3P6CMVxxBUS7n4inWqHCxx,MANCI / ONDO,0,2.56782312852e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T02:45:02Z,ENTRY,F1BUAxtyxmhB17hcx3FVG7czrxQP4GjZo55N3c4hstTf,ULTRA / SOL,0,7.80005503064e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T02:47:55Z,ENTRY,CoevwExuGKBkL22YQAJugdRRavE8ruHs8by1z4Zqvd4n,PATRICK / SOL,0,0.000387094240998,100.0,research_failed,,,563.75,score=0.00 momentum=64%,mom
+2026-11-21T02:49:26Z,EXIT,BWGwRfTSauVBo23wdscx5UN1EQdQW55r9a5gfe2yA7e9,IFO / ANT,0,1.52896402686e-05,100.0,timeout,-8.19,-8.19,563.75,exit_bar=2026-11-21T02:48:00Z,control
+2026-11-21T02:50:57Z,ENTRY,CR5qPwXsTJdBAMmbxs2gtX3MbRW4suG5t6NuR9rmn2og,TPY / SOL,0,3.53274693446e-05,100.0,research_failed,,,563.75,score=0.00 momentum=427%,mom
+2026-11-21T02:52:27Z,EXIT,4JNCQSFLfmW4RZCGKahnZirqyZQ4ZBUroP6FsiTGggKj,JENSEN / SOL,0,2.80087132629e-05,100.0,rug,-6.44,-6.44,563.75,exit_bar=2026-11-21T02:51:00Z,control
