@@ -16908,3 +16908,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T20:11:25Z,EXIT,C3XHPXYr2P1NCp6HAA3WittK6KDxzHb2XHdZ6WjqMaNi,SHILLPIG / SOL,0,0.000612174057,100.0,tp,-99.24,-99.24,563.75,exit_bar=2026-11-21T19:09:00Z,mom
 2026-11-21T20:11:25Z,FAILED,4ZyyriGFCvUKwgyK7CMpAz53KRtDw2HFSZ7dAskvmQZF,DacityCoin / SOL,0,8.27396553261e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
 2026-11-21T20:12:56Z,EXIT,3JtDcrSq2thAtarVqqJLJQrndddgwxKLpt8HCe3y3yPs,TURBINE / SOL,0,1.0074325794e-05,100.0,timeout,-7.82,-7.82,563.75,exit_bar=2026-11-21T20:09:00Z,control
+2026-11-21T20:14:31Z,ENTRY,EszzqvmuFaYUwvuawqk2WrZxo5u3sndhrkFNKuCedjZi,pointy hat / SOL,0,2.74498519107e-05,100.0,research_failed,,,563.75,score=0.00 momentum=89%,mom
+2026-11-21T20:14:31Z,ENTRY,26aAbF4kgH6V7DcEAdu5AZhfi2x6gEYY81z8tRd42o7y,FEFE / TTWO,0,8.62365696993e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=5%,control
+2026-11-21T20:16:08Z,EXIT,9rq7ntvMHZi4tiiEVR8rbCdgmYpeuJoPACjj3w7TNGXj,FHC / SOL,0,1.51021482135e-05,100.0,timeout,-6.39,-6.39,563.75,exit_bar=2026-11-21T20:14:00Z,control
+2026-11-21T20:17:30Z,ENTRY,Di6aWgxm6EkXavSpd3ysNyhgoPzLtJ3YU5VjVisjA5pY,Bitcoindog / SOL,0,2.29624753026e-05,100.0,research_failed,,,563.75,score=0.00 momentum=33%,mom
+2026-11-21T20:19:07Z,EXIT,3wCRUHwte6dCRpvuCWCvsYoVnMHMyBeiZ4R5fzo7SyCi,PI / SOL,0,1.49247745174e-06,100.0,rug,-98.39,-98.39,563.75,exit_bar=2026-11-21T19:19:00Z,mom
+2026-11-21T20:22:07Z,ENTRY,GCQTF15U2wkKfwdhrvASaa6ujS6AyJnk7aT63tm8EM8J,Emily / SOL,0,1.45683803265e-05,100.0,research_failed,,,563.75,score=0.00 momentum=167%,mom
+2026-11-21T20:23:29Z,ENTRY,A4QimGPyBh4nt4NWVaG2tdiRTeB3n2WRV2bMoQCNGCEL,WISHMAS / SOL,0,2.2740704658e-05,100.0,research_failed,,,563.75,score=0.00 momentum=39%,mom
+2026-11-21T20:23:29Z,ENTRY,EQbBtAZSgxkdoFuBEHF7Uaiec8J91HUj5P3JtyboTmFe,FIONA / SOL,0,0.00152790465642,100.0,research_failed,,,563.75,score=0.00 momentum=1243%,mom
