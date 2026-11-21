@@ -16950,3 +16950,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T21:02:56Z,FAILED,7sfoRLj9gMVmXWL162oQ73EiDXYCkNHvRpUWrgaGbnnm,NASURANUS / SOL,0,1.37908304875e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-21T21:04:26Z,EXIT,Et3udSeE4PUDMtpvrCqjvwUF12DDSAZHBPQSdUepCeUh,HOUSE / SOL,0,8.7761099614e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-21T21:01:00Z,mom
 2026-11-21T21:05:56Z,EXIT,2DkBkKHacNMPMGahTk2fugDMUyuunresGo3QorjDZF2D,FIH / SOL,0,0.000153632971917,100.0,sl,-99.2,-99.2,563.75,exit_bar=2026-11-21T20:04:00Z,mom
+2026-11-21T21:07:31Z,ENTRY,3FpHPTczWrsPryukqC1cbxuG5AKHdYSQxAyqRYQkVE75,Lone / SOL,0,9.64761004946e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-21T21:10:16Z,EXIT,9Uvbc9mFJbjVvuFLt5tr5fQhyEkEfmuEQCpu3AoZeWj2,HOUSE / SOL,0,9.75850876719e-05,100.0,sl,-100.02,-100.02,563.75,exit_bar=2026-11-21T20:10:00Z,mom
+2026-11-21T21:11:31Z,ENTRY,CUMpQWrzcg3vjY3ci1JTGXHMTwCWwvT5trW4wR8L1j7m,xs / SPCXx,0,1.87295930109e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-2%,control
+2026-11-21T21:11:31Z,ENTRY,6fCJHJpryPeEBu4fjdDfFxepbejo2MeTYDWV1RwRcKW,FSD / SOL,0,0.000106660702835,100.0,research_failed,,,563.75,score=0.00 momentum=166%,mom
+2026-11-21T21:13:01Z,ENTRY,HsdbGBZRNYY5o7bPDiK3YEYdiUKjPWRutA64ux9u8BAa,Anthropic / SOL,0,1.74956019771e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=6%,control
+2026-11-21T21:17:01Z,EXIT,EszzqvmuFaYUwvuawqk2WrZxo5u3sndhrkFNKuCedjZi,pointy hat / SOL,0,6.37108658081e-09,100.0,rug,-100.98,-100.98,563.75,exit_bar=2026-11-21T20:42:00Z,mom
