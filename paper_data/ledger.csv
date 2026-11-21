@@ -16471,3 +16471,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-21T01:01:22Z,ENTRY,5sE2ves1aK59hWvP6bNgc6GrwcvEoZJXDcjQ6KsHBvyE,GPU / SOL,0,5.58571123841e-08,100.0,research_failed,,,563.75,score=0.00 momentum=15%,mom
 2026-11-21T01:02:45Z,ENTRY,DNbvUi8yno2W7Kq5RfUCrq4rk6qXMJjy61yWycVphuq7,SLOBBY / SOL,0,2.54872718874e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-10%,control
 2026-11-21T01:07:02Z,ENTRY,Bt31tpEKoEJ5Vtq2Cy7NcSD2HBmYvFjQBQbGqXno2Dx7,Trader / SOL,0,0.00111795694476,100.0,research_failed,,,563.75,score=0.00 momentum=456%,mom
+2026-11-21T01:08:31Z,ENTRY,Cj5cot6Af1kSatny8Xmb2Pc6hgp3MvjY9eXjxYzX67za,Gestalt / SOL,0,4.2737997339e-05,100.0,research_failed,,,563.75,score=0.00 momentum=122%,mom
+2026-11-21T01:08:31Z,ENTRY,EdNKmJnWrubAUPphQWUVUbkWYQJyuwgvWxqQXwP1DyE9,GTA 6 Coin / SOL,0,3.41227946701e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-21T01:13:02Z,ENTRY,FmpefaZMCQDwtqnX8N19g2zuGSimynXL6JTUbJvcscQB,OTTER / SOL,0,5.57456116997e-05,100.0,research_failed,,,563.75,score=0.00 momentum=695%,mom
+2026-11-21T01:14:26Z,ENTRY,4j1cwzqMb9JY2zzg8GQCUJwWChjM9VRUzFeyXWEqPeEx,trump / SOL,0,1.00846192233e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-21T01:15:57Z,FAILED,2z38i6z2gH9YyrBvTCv7RLwQRooQKY7ugJ6SYYpnK7gp,JRTN / SOL,0,7.66048312409e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
