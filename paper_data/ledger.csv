@@ -17300,3 +17300,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T11:53:13Z,ENTRY,JDn4rXTWdWcvvCTrXqxpg8eTuuGRNA6fYydC5N7iJcRo,‮DAERD / SOL,0,0.000106121907444,100.0,control_no_momentum,,,563.75,score=0.00 momentum=8%,control
 2026-11-22T11:54:35Z,ENTRY,BmBg33aBt9MffdSu61bvz1fqje5roqrykpV179AufHHd,PUMP / SOL,0,7.76608994445e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-22T11:54:35Z,FAILED,9FYPAnQ6Ryb3DQvmSTJaJ4ipsGsDVS4N1KXVDrPPd6no,DCTY / SOL,0,0.000250740357981,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-22T19:30:42Z,EXIT,MQ2ek4KPC37V4RpBqqhJViT6dpUTTJvgBrVoEwvTxGy,Homer / SOL,0,1.77818210605e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-22T11:58:00Z,mom
+2026-11-22T19:30:42Z,ENTRY,CuCsrbW5yAAkx9kDyyE5cSnB8cLpJgpzmSuy8eciRSgX,COIN / SOL,0,1.53436512663e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T19:32:19Z,EXIT,JDAKKzw71pMeLBfLbedUKPu9fQn1A7YJaJDwkfvQrWve,BUTTHOLE / SOL,0,2.0587839363e-05,100.0,timeout,-4.35,-4.35,563.75,exit_bar=2026-11-22T12:10:00Z,mom
+2026-11-22T19:33:42Z,EXIT,8kSgMfwGzQfmkgjmDwyqPWQ8gv91ZxJccNWWZjK8ATk9,KRAD / DARK,0,2.30826984124e-05,100.0,rug,-4.64,-4.64,563.75,exit_bar=2026-11-22T12:10:00Z,control
+2026-11-22T19:33:42Z,ENTRY,E2uR7GsQnJD5vSPbci6QoFhkhVzYwS9o7dr2hWrMYMKh,SINGULARTY / SOL,0,0.000195588322015,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-22T19:33:42Z,ENTRY,4hUEfWTKiR5SAvLCAm1eei1ureg767VPHp3iN18JShB1,BLUEDUCK / SOL,0,1.39455262891e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-2%,control
