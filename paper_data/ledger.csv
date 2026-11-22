@@ -17102,3 +17102,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T06:54:33Z,ENTRY,C4whhmkxaNASGxPHWWmgjdshcXoLWqF4Hp7kdHKkPXY4,snowball / SOL,0,0.000115593585077,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-18%,control
 2026-11-22T06:54:33Z,ENTRY,7zKZzwhJp16B4CYrn1gDSqEkcH2g72FevT7Luh3UJDia,SANTA / SOL,0,7.5056242702e-05,100.0,research_failed,,,563.75,score=0.00 momentum=23%,mom
 2026-11-22T06:57:26Z,ENTRY,8b7kjzZCNZPb5hj7ZnqdnbmSbFKbWDAUrdYbAYdA8wca,LEONIDA / SOL,0,0.000184519064215,100.0,research_failed,,,563.75,score=0.00 momentum=61%,mom
+2026-11-22T06:59:00Z,ENTRY,FdYLGjhbpLBpFokkmg3YivjAnTKnTPWLRtqjnXiXvawb,Anthropic / SOL,0,1.64479289729e-05,100.0,research_failed,,,563.75,score=0.00 momentum=34%,mom
+2026-11-22T06:59:00Z,ENTRY,GPxeUPxC7oDgWU8fCaawuf6ue5NTVvjTzAt1tmXc6wb,SPOTIFY / USDC,0,0.000519528619228,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T07:00:23Z,FAILED,26ZWfPHNMhtbq5h6uPUS8z3Y292M9xFFmvzrtmFiGBXL,PRRR / SOL,0,1.47181128973e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-22T07:01:46Z,ENTRY,4aSUxV1YBgNLTc36RG7NA68kgiBjPwLXYV4BwjPvo7Hm,PushCoin / SOL,0,1.79367079744e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T07:04:31Z,ENTRY,EpzytqTMci9djYG7itnHdBEnqHdVMbZf6EBM8WXikfXE,SPOTIFY / USDC,0,0.000519510577885,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T07:06:01Z,ENTRY,GcEXUj3KEkFyJxvLoQnwxQRohYFwuAyJ7hpe9uwATmqM,CNR / SOL,0,7.78109245492e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
