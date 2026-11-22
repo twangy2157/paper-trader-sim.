@@ -17415,3 +17415,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T22:35:27Z,ENTRY,7J2nZv1DfLcPL1BUeyZnUua6TuQLow3nEnwMzBHPzbMf,Green cat / SOL,0,1.66805389128e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=7%,control
 2026-11-22T22:36:56Z,EXIT,4F5dXonepqU116RnvFXq8dcx9BruvZUN53ji5S71ynLP,MCAT / SOL,0,0.000126583815431,100.0,rug,5.53,5.53,563.75,exit_bar=2026-11-22T22:35:00Z,control
 2026-11-22T22:36:56Z,ENTRY,5XjuVx36rzd4U6qGbrEuQrY7164dazWTAXRFKapFFrQL,MIZZ / SOL,0,2.2971887664e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-22T22:43:06Z,ENTRY,EJvk4sn3qSXMVsgvm7yktxzouHmGPnsoRZ2x2bMqPNMW,PS5 / SOL,0,1.00897390803e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T22:44:29Z,ENTRY,EYsVD24VSbr6sgMmvrZ37Ek71d22qq2avVVf4uho8keT,GIGA / SOL,0,9.98394892219e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-22T22:44:29Z,ENTRY,7iFfueo39dekV2tUTV5jYQvkSCQafYcrWzCGadArgRi,HAZEL / SOL,0,2.51738172621e-05,100.0,research_failed,,,563.75,score=0.00 momentum=96%,mom
+2026-11-22T22:47:28Z,FAILED,GoqdZQCt24c3WHLeuiz1dD1Lh38fzWLuZmdyxVk5i1a3,hSOL / ZOL,0,82.5765729534,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
