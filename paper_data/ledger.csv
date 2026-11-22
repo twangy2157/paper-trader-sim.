@@ -17085,3 +17085,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T06:30:45Z,ENTRY,EeYPDH8fNUEpgRv56rHaNefNraXs4v5jufMQqisbviCF,FIONA / SOL,0,2.5246089903e-05,100.0,research_failed,,,563.75,score=0.00 momentum=56%,mom
 2026-11-22T06:33:45Z,FAILED,3Vi3epbVkm87ttqph5oNuDAU95w8TQ6Gva5LBQyVP2du,TYSUN / SOL,0,1.05461082299e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-22T06:35:22Z,ENTRY,2cup5nAWsfoJa1YCn9st68GNwEBa5sVYyuxVA7MvTrEM,U0DF / SOL,0,0.100341706306,100.0,control_no_momentum,,,563.75,score=0.00 momentum=1%,control
+2026-11-22T06:36:49Z,ENTRY,BRCJaaYs4ctGEVS8JbQhBu8uLAd4aPaxM8y7JkmhQF4Y,SPOTIFY / USDC,0,0.000534983175227,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T06:38:26Z,ENTRY,8FS3QhZDU4PwkrcSTkeCweUGoibAAAyeBffW5Fm7ALdk,BONKMAS / SOL,0,0.000231520282481,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-26%,control
+2026-11-22T06:39:56Z,FAILED,6FnNEvymUEM2DHkmMHinHkr2QoRPWAWyBqQePKmAXcjT,gato / SOL,0,5.5285984722e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-22T06:39:56Z,FAILED,7tRmXjBsAw5en6gDq97NkYkyKVvzqKUrSkzMT6JoGjeE,STENKS / SOL,0,7.12743214153e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-22T06:41:26Z,ENTRY,8fu27dFLM3u3h9mSeEWa2g4AdBaMd3SoZMHDLfTCdHtt,UranusCoin / SOL,0,3.02421271269e-06,100.0,research_failed,,,563.75,score=0.00 momentum=44%,mom
+2026-11-22T06:41:26Z,ENTRY,ENjqP22wiHGirdQd69DzzMjkQy7rA69rb6KYx9wdxxP6,GTA / SOL,0,0.0172854638107,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-22T06:42:56Z,ENTRY,D8sAp1U4b2yyuQLNbJ1DbiPLs9jGavhZ14HXxownck9,snowball / SOL,0,0.000123993551544,100.0,research_failed,,,563.75,score=0.00 momentum=19%,mom
+2026-11-22T06:44:26Z,ENTRY,DqzundxoL9ffagMPT9C1GEQnitjBAbkDSrf3VARu85y1,Fox / SOL,0,8.96819743965e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T06:45:57Z,FAILED,AcHjBPyP3Knzc1sqvZBbiSRCizB7bouzocVFAryaahcc,CATEMAS / SOL,0,9.61225957538e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-22T06:45:57Z,ENTRY,95VqPzDx7ic4QCmz17qura2VE4WyFZ96JDuYWBHJYmPz,MayBe / SOL,0,7.33095688634e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
