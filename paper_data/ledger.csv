@@ -17406,3 +17406,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T22:24:02Z,ENTRY,5skEmCwFSxoQhytHcyLzNY7uyofMG6FgrbG77RXxNebu,1B / hSOL,0,0.00970203603674,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
 2026-11-22T22:25:17Z,ENTRY,AXRgXj92hv5U6Gz7LfdHeWm1mxGaAFnLPLrh1CKTHQUB,Anusha / SOL,0,3.15867671295e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-9%,control
 2026-11-22T22:26:32Z,ENTRY,E4vuAnzTXVY1GjRwGTCqSmvb6P7Y4evWWSxLqJiUqysx,GENT / SOL,0,1.41641644197e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-1%,control
+2026-11-22T22:29:29Z,ENTRY,2gSNs6basrYkpJXBVfvhjxssSoqTpaMpwoz1e7ukKcH5,ER-Mandy / SOL,0,1.5330385661e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=2%,control
+2026-11-22T22:30:58Z,EXIT,B35Dybff9UGXynGrP2ZhjtBVY3wBsoWW8z1GGMwa18SZ,obema / SOL,0,1.41554919555e-05,100.0,timeout,-8.4,-8.4,563.75,exit_bar=2026-11-22T22:29:00Z,control
+2026-11-22T22:32:27Z,EXIT,ESa4MMvoEhii1d6j5M4J7Dw213CgjfXxBGnFY5uowNDV,obema / SOL,0,6.69202641535e-06,100.0,timeout,-5.84,-5.84,563.75,exit_bar=2026-11-22T22:30:00Z,control
+2026-11-22T22:32:27Z,FAILED,5ZQyorXXBouN8UJmz1w6EaVipaKAt3FgEhswFw7oBqR7,VEST / SOL,0,1.67783026405e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-22T22:33:57Z,ENTRY,9dSn4qSPVVutp1Phb4LinY8m6Gs45RCd6XX95aTaSnJX,will / SOL,0,1.40154668547e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-13%,control
+2026-11-22T22:35:27Z,EXIT,2x7y2NJ9SX4RRLAorN1RKPmcA7cotyFHwrjBaLpyc21s,obema / SOL,0,6.104597824e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-22T22:33:00Z,mom
+2026-11-22T22:35:27Z,ENTRY,7J2nZv1DfLcPL1BUeyZnUua6TuQLow3nEnwMzBHPzbMf,Green cat / SOL,0,1.66805389128e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=7%,control
+2026-11-22T22:36:56Z,EXIT,4F5dXonepqU116RnvFXq8dcx9BruvZUN53ji5S71ynLP,MCAT / SOL,0,0.000126583815431,100.0,rug,5.53,5.53,563.75,exit_bar=2026-11-22T22:35:00Z,control
+2026-11-22T22:36:56Z,ENTRY,5XjuVx36rzd4U6qGbrEuQrY7164dazWTAXRFKapFFrQL,MIZZ / SOL,0,2.2971887664e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
