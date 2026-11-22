@@ -17108,3 +17108,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T07:01:46Z,ENTRY,4aSUxV1YBgNLTc36RG7NA68kgiBjPwLXYV4BwjPvo7Hm,PushCoin / SOL,0,1.79367079744e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-22T07:04:31Z,ENTRY,EpzytqTMci9djYG7itnHdBEnqHdVMbZf6EBM8WXikfXE,SPOTIFY / USDC,0,0.000519510577885,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-22T07:06:01Z,ENTRY,GcEXUj3KEkFyJxvLoQnwxQRohYFwuAyJ7hpe9uwATmqM,CNR / SOL,0,7.78109245492e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T07:10:07Z,ENTRY,ekLB9Vruhnavyqq7f1otK56zV1r6JtfLd3Fkd3zYWBi,SANTA / SOL,0,0.000102967978149,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T07:10:07Z,ENTRY,GZuoFBjACtBq3DPCCWDpZMEqy97r3g8UFhgJFvATDWAX,HALH / SOL,0,7.88338737224e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-22T07:11:30Z,ENTRY,6KyZwZLwdpP3i77NuPMuj5UFaBz5mgN945TRR9tVD7mA,$Queen / SOL,0,1.07474308608e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T07:13:07Z,ENTRY,5aYQTZQHmxfpjRRTGLaSXHbJgf1oLMxGhGn3acVVXDSk,SPOTIFY / USDC,0,0.000519314175057,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T07:14:30Z,ENTRY,35waTasncyM6me1jqZ59reY61WVx99EmLV54CHdnvmin,RIZZMAS / SOL,0,1.32067664805e-05,100.0,research_failed,,,563.75,score=0.00 momentum=124%,mom
+2026-11-22T07:14:30Z,ENTRY,Encgy2XCq4Faz3zEEMwGhkndvRicBYxVawn8giccagGo,snowball / SOL,0,2.71289029922e-05,100.0,research_failed,,,563.75,score=0.00 momentum=255%,mom
+2026-11-22T07:16:07Z,ENTRY,Bxae6gxAfo9wqP2LTEivBuhUPT6NK8V68L2N27tUEgrP,CRV / USDC,0,0.21090614417,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T07:16:07Z,ENTRY,94m2ztf3H1gA2Fw9LwKCWrqLvnmGSTJbUeQEdRRz8d8t,CI / SOL,0,9.77854973345e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-63%,control
+2026-11-22T07:19:07Z,FAILED,34Rh3M4mayagV9u26BN8hhmbJFr1eTXF7xPDW8FoCnXe,CASUAL / SOL,0,0.000854784828663,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-22T07:19:07Z,ENTRY,14VVWhZCkFJeQPaLtp6SUzNxf7K2b8t7ndveDuMk6PZg,SPOTIFY / USDC,0,0.000535106992712,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
