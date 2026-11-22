@@ -17334,3 +17334,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T20:15:59Z,ENTRY,DrSw5RzUVZNtidNqfVFzZoFJcRzAbm8XvqcNGznnh6xa,PauseAI / SOL,0,2.0468945404e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=8%,control
 2026-11-22T20:17:29Z,ENTRY,5nPaq1dZjiNk5TrKRzSYXAfRVTqjfsyYEWeF6VUzvCaq,COPIUM / SOL,0,3.71954727138e-05,100.0,research_failed,,,563.75,score=0.00 momentum=20%,mom
 2026-11-22T20:17:29Z,ENTRY,3iyxYEGPFZk7c6snu923HR692vQvMw7kv9SPrRDXVnhs,MeMesToken / USDC,0,0.943065172024,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T20:23:10Z,ENTRY,EsS4w3pLvwCcigC5CfWJsh4eCytePjybj4gp63E1ChWo,Monkey / SOL,0,1.68556661195e-05,100.0,research_failed,,,563.75,score=0.00 momentum=16%,mom
+2026-11-22T20:24:26Z,ENTRY,6fnHu8mK9bPuhGAMo6ika55vnVhgR28rSPoovsbvGn4c,CHUPA / SOL,0,3.39230041704e-05,100.0,research_failed,,,563.75,score=0.00 momentum=124%,mom
+2026-11-22T20:28:47Z,ENTRY,A2TpCbLVuq9oxNDh3YA5DxLgwASu7ujhz48y9f78s51u,SOL / SOL,0,1.08077521e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
