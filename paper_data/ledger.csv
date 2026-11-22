@@ -17319,3 +17319,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T19:49:44Z,EXIT,BmBg33aBt9MffdSu61bvz1fqje5roqrykpV179AufHHd,PUMP / SOL,0,7.4968747758e-06,100.0,timeout,-9.58,-9.58,563.75,exit_bar=2026-11-22T12:55:00Z,control
 2026-11-22T19:49:44Z,ENTRY,B7i5U15ce7YVU6eJjBRpUrSEpGdQKTnsmb9z5CM3JBhS,Axiom / SOL,0,1.64045542156e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=2%,control
 2026-11-22T19:52:44Z,ENTRY,BuS7vmsLw9tfzoSzKBkXFav5Hfsa8dLppxu4mQ26rwTb,XRP / USDC,0,0.9298596125,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T19:57:35Z,ENTRY,B4bKWisZHmPjWZdHwzB3DjQN1pkomxQgWBjuKriJ5Nh5,GTAVI / SOL,0,2.43414670446e-05,100.0,research_failed,,,563.75,score=0.00 momentum=68%,mom
+2026-11-22T20:00:27Z,ENTRY,6gy47eLbQ3vbEbf5gHFGz3Qk7ieZFCTzBHqv2xPh5yY7,Mayhem / USDC,0,7.03137365789e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T20:00:27Z,ENTRY,39RkVvRwE4zosZo3w5yMQCc6tbGGnr5nLmBeY2fSvpJv,COPIUM / TSLAx,0,2.09623669565e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-12%,control
+2026-11-22T20:01:57Z,ENTRY,4NRnNwmeFbQivrj1h6vvE2jjYUh5sqBW5y7CRwPb8yYm,Monkey / SOL,0,0.000472250020176,100.0,research_failed,,,563.75,score=0.00 momentum=135%,mom
+2026-11-22T20:03:26Z,FAILED,G3Wst8kysNc7YLkhsNAHtx2B5z1bJzNGhhw2PXv6GC27,FOAM / SOL,0,0.000152975284348,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-22T20:04:56Z,ENTRY,Bij3sW2WneKiomaku4vaaTDbnK1rCiGiBRt2x3Xx6CuW,$EYEROLL / SOL,0,6.83238041248e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-22T20:07:19Z,ENTRY,5i5HnUUsHDwwmMfVQrWooZgxMTZQN47eDhQUKVpECpB6,$dog / SOL,0,7.38572074857e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
