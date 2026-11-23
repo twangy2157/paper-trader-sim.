@@ -17667,3 +17667,14 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-23T10:35:27Z,ENTRY,B47J5eRJfNKcavUyRMuYUs6ywvc6g8doUFimfJhFae9T,SOLANAI / SOL,0,2.12035598015e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-9%,control
 2026-11-23T10:36:57Z,FAILED,7zJrg3fsLJJdQkWvpGnzbYDcAH26g3P9EQDXdgBJH4eU,Santa / SOL,0,1.5570568609e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-23T10:36:57Z,ENTRY,4opDoyphku6LHxtLQsTuh2pTrBn2i26tjesuFn86wZmU,MINELIUS / SOL,0,0.000283064917774,100.0,research_failed,,,563.75,score=0.00 momentum=52%,mom
+2026-11-23T10:38:33Z,FAILED,m32XvnVr3Fe147bjjzSV5Dt4JYRVjQMpVrDazWGQoYw,$SLJK / SOL,0,9.40364831984e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-23T10:38:33Z,ENTRY,CzqUBLYUw3UkkEffSDktXuzGPwzZxBv3ZwZUySKnW2Ds,milo / SOL,0,0.00045213686687,100.0,research_failed,,,563.75,score=0.00 momentum=185%,mom
+2026-11-23T10:40:11Z,EXIT,GjdGZXxJyZ86bXV3ZdrhzEiBWPrSQ6bfz3oGQ4dMYQTF,AI / SOL,0,0.000113190987164,100.0,sl,-100.02,-100.02,563.75,exit_bar=2026-11-23T09:42:00Z,mom
+2026-11-23T10:41:28Z,ENTRY,2BHz4aTdqsULWotX7viXsytqT9p3nEbMKG6gbnC6yoUR,HYDRA / SOL,0,2.96429774501e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=1%,control
+2026-11-23T10:42:58Z,EXIT,GsgijZuzMAxi4zF9YXPCiHMw1dcj29wzvxPvsELGR4cF,ZOL / SOL,0,9.86871618821e-06,100.0,timeout,-9.05,-9.05,563.75,exit_bar=2026-11-23T10:41:00Z,control
+2026-11-23T10:42:58Z,FAILED,7DXSziC2kfyr1wApCihrTXowmgBPQ6QPygFPVUArUgPk,att / SOL,0,1.01138309007e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-23T10:44:29Z,EXIT,79CeAhDGqbxco7TzzQ1z7d2HspVWDLYACbYfVvVyXwnL,Bella / SOL,0,3.02898346788e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-23T10:42:00Z,mom
+2026-11-23T10:44:29Z,ENTRY,GDS5pSModTwnk9VPWuwpxc9utxtYCiYZzG3KDrGRrcH6,NOTF / USDC,0,0.00288290645418,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-23T10:46:00Z,EXIT,G13w1nNukVg7KM3dcRg3o4gBXRm217qtocJQ8fBixede,AI / SOL,0,2.96013674014e-05,100.0,timeout,-6.82,-6.82,563.75,exit_bar=2026-11-23T10:44:00Z,mom
+2026-11-23T10:47:24Z,ENTRY,7Sz9YKq6ujv5sSp2GSHmmC6owEfqddmLRUmi8QCBRFeZ,KOOP / SOL,0,9.65220132614e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=7%,control
+2026-11-23T10:47:24Z,ENTRY,4MUTd9qBHoHz6iigG1iNRzgAwRrZq3XnKLq6s8oX3TfZ,HOLD / SOL,0,6.55492404226e-07,100.0,research_failed,,,563.75,score=0.00 momentum=30%,mom
