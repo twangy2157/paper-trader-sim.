@@ -17625,3 +17625,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-23T09:30:59Z,EXIT,DnfN2EjEi5iXjbrTZzwb9Z9fCH7yrstUzVnCHeBKiUEV,BLOB / SOL,0,2.11728980928e-05,100.0,timeout,-4.13,-4.13,563.75,exit_bar=2026-11-23T09:27:00Z,mom
 2026-11-23T09:32:30Z,EXIT,4krRaUiVJBg1FMtbvBizefdndJhgmFdkRh8A7nNbda4v,COPY / SOL,0,9.12169163428e-06,100.0,timeout,-5.36,-5.36,563.75,exit_bar=2026-11-23T09:28:00Z,control
 2026-11-23T09:34:08Z,EXIT,B7oNFYpeaT4s5fszo5sd4ratxFT2Ewukp5NDdLfG816B,DELULU / AMZNx,0,5.30101716434e-05,100.0,timeout,2.73,2.73,563.75,exit_bar=2026-11-23T09:30:00Z,control
+2026-11-23T09:35:37Z,EXIT,LKoe4NvCRXedvxmecZfvNhzVhNABqrxHCcBBwEoig7b,Puck / ANT,0,3.00089050728e-05,100.0,honeypot,-101.0,-101.0,563.75,exit_bar=2026-11-23T08:47:00Z,mom
+2026-11-23T09:37:14Z,EXIT,13QMxd1tg1Fn23o9U7QXVgTmFnKz2TDjkEo3UYfqzc4s,CLAUDE / SOL,0,1.56081832839e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-23T09:34:00Z,mom
+2026-11-23T09:38:38Z,ENTRY,GjdGZXxJyZ86bXV3ZdrhzEiBWPrSQ6bfz3oGQ4dMYQTF,AI / SOL,0,0.000161701410235,100.0,research_failed,,,563.75,score=0.00 momentum=353%,mom
+2026-11-23T09:40:16Z,ENTRY,GsgijZuzMAxi4zF9YXPCiHMw1dcj29wzvxPvsELGR4cF,ZOL / SOL,0,1.01931277711e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-23T09:41:40Z,ENTRY,79CeAhDGqbxco7TzzQ1z7d2HspVWDLYACbYfVvVyXwnL,Bella / SOL,0,3.27007942958e-05,100.0,research_failed,,,563.75,score=0.00 momentum=13%,mom
+2026-11-23T09:43:17Z,ENTRY,G13w1nNukVg7KM3dcRg3o4gBXRm217qtocJQ8fBixede,AI / SOL,0,3.06498911817e-05,100.0,research_failed,,,563.75,score=0.00 momentum=40%,mom
+2026-11-23T09:44:41Z,FAILED,GJnSco3hujepuQieQLdQ9pRK2cffEfKWrvsRuYGkbCmY,Fly / SOL,0,2.8968629105e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
