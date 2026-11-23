@@ -2,14 +2,14 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-23T01:02:41Z. Bankroll cash (research-selected trades): 563.74568815387. Open positions: 17. Pools on watchlist: 53.
+Updated 2026-11-23T07:17:43Z. Bankroll cash (research-selected trades): 563.74568815387. Open positions: 13. Pools on watchlist: 42.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
 | research-picked | 20 | 35% | -21.7% | -51 to 10 | -436 |
-| momentum, not picked | 3530 | 12% | -65.9% | -68 to -64 | -232836 |
-| all momentum | 3550 | 12% | -65.6% | -67 to -64 | -233273 |
-| control | 4286 | 6% | -19.3% | -20 to -18 | -83050 |
+| momentum, not picked | 3532 | 12% | -65.9% | -68 to -64 | -233037 |
+| all momentum | 3552 | 12% | -65.6% | -67 to -64 | -233474 |
+| control | 4292 | 6% | -19.3% | -20 to -18 | -83316 |
 | dip buy | 47 | 28% | -12.8% | -30 to 4 | -606 |
 | proven pools | 129 | 33% | -31.0% | -40 to -22 | -4017 |
 
@@ -17,21 +17,21 @@ What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 | exit rule | momentum | control | dip | proven |
 |---|---|---|---|---|
-| base_sl30_tp100 | -66% (3529, 12%) | -19% (4286, 6%) | -13% (47, 28%) | -31% (129, 33%) |
-| wide_sl50_tp100 | -65% (3529, 13%) | -20% (4286, 6%) | -13% (47, 32%) | -32% (129, 33%) |
-| sl30_tp50 | -67% (3529, 14%) | -19% (4286, 7%) | -17% (47, 34%) | -31% (129, 33%) |
-| sl50_tp50 | -67% (3529, 15%) | -20% (4286, 8%) | -18% (47, 38%) | -32% (129, 33%) |
-| no_stop_tp100 | -65% (3529, 14%) | -20% (4286, 7%) | -12% (47, 32%) | -33% (129, 33%) |
+| base_sl30_tp100 | -66% (3531, 12%) | -19% (4292, 6%) | -13% (47, 28%) | -31% (129, 33%) |
+| wide_sl50_tp100 | -65% (3531, 13%) | -20% (4292, 6%) | -13% (47, 32%) | -32% (129, 33%) |
+| sl30_tp50 | -67% (3531, 14%) | -19% (4292, 7%) | -17% (47, 34%) | -31% (129, 33%) |
+| sl50_tp50 | -67% (3531, 15%) | -20% (4292, 8%) | -18% (47, 38%) | -32% (129, 33%) |
+| no_stop_tp100 | -65% (3531, 14%) | -20% (4292, 7%) | -12% (47, 32%) | -33% (129, 33%) |
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 116642. Outcomes:
+Pools seen: 116701. Outcomes:
 
-- missed_window: 75533
-- low_liquidity: 19818
+- missed_window: 75586
+- low_liquidity: 19820
 - proven_liquidity_gone: 10041
 - no_momentum: 4341
-- research_failed: 3536
+- research_failed: 3540
 - proven_low_volume: 1480
 - simulated failed buy: 1468
 - proven_price_collapsed_or_parabolic: 165
