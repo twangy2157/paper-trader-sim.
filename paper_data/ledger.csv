@@ -17632,3 +17632,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-23T09:41:40Z,ENTRY,79CeAhDGqbxco7TzzQ1z7d2HspVWDLYACbYfVvVyXwnL,Bella / SOL,0,3.27007942958e-05,100.0,research_failed,,,563.75,score=0.00 momentum=13%,mom
 2026-11-23T09:43:17Z,ENTRY,G13w1nNukVg7KM3dcRg3o4gBXRm217qtocJQ8fBixede,AI / SOL,0,3.06498911817e-05,100.0,research_failed,,,563.75,score=0.00 momentum=40%,mom
 2026-11-23T09:44:41Z,FAILED,GJnSco3hujepuQieQLdQ9pRK2cffEfKWrvsRuYGkbCmY,Fly / SOL,0,2.8968629105e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-23T09:46:24Z,ENTRY,6Gmguh2bbd2VTRNZPafWgE6BnKtX7YnGCtqeZntHpG59,CI / SOL,0,2.12621937391e-05,100.0,research_failed,,,563.75,score=0.00 momentum=26%,mom
+2026-11-23T09:47:48Z,EXIT,Rs865SfwtHZ5PveghjMMKMapcHudRudjsRVoy2eC2zq,DRAMA / SOL,0,1.4131629605e-05,100.0,timeout,-5.66,-5.66,563.75,exit_bar=2026-11-23T09:46:00Z,control
+2026-11-23T09:49:26Z,ENTRY,36EvsCVsBbcTrahF92hNsARjf4s9ZF8NUcAtFn9fiVQM,Christmas / SOL,0,2.39435198979e-05,100.0,research_failed,,,563.75,score=0.00 momentum=58%,mom
+2026-11-23T09:50:57Z,EXIT,DXxjKc8mHRGBdWxENe3E1NRTh1tDr37v3tGNoErireeG,Hack / SOL,0,1.39117613831e-06,100.0,rug,-96.47,-96.47,563.75,exit_bar=2026-11-23T08:51:00Z,control
+2026-11-23T09:50:57Z,ENTRY,DV1gnYVyDotmxEH8ws6hsER18phE43wn4oLMq1VKoigx,Openai / SOL,0,1.13536082524e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-23T09:52:28Z,EXIT,GfUxXRdzYe8as9JHfuU2QF8vo1FJCfdTYck3w38NkT6P,KINO-KUN / SOL,0,7.4428538464e-06,100.0,timeout,-8.59,-8.59,563.75,exit_bar=2026-11-23T09:49:00Z,control
+2026-11-23T09:53:59Z,EXIT,69cMqSdNNcBvzgetqMTAG9Gg7E87PFzVA6LSLZoXeciX,GTA 6 Coin / SOL,0,0.000112483923655,100.0,tp,52.13,52.13,563.75,exit_bar=2026-11-23T09:13:00Z,mom
+2026-11-23T09:55:29Z,ENTRY,C7vFdtWpfD8s2HdZmRYWiTemhVdXDFmAD2YyZZzuNQjF,LOAF / SOL,0,3.56661332688e-05,100.0,research_failed,,,563.75,score=0.00 momentum=303%,mom
