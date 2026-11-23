@@ -17757,3 +17757,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-23T12:38:41Z,FAILED,3GUw3sc1yGCnYgx2n8xwJbd3BN2DSYUJvMSur678AXTY,trench / SOL,0,7.61258509343e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-23T12:41:42Z,ENTRY,27cYwbymA5AsCr2nradjhUMbbqVk3APKMVVNkoAFAaJV,BEPE / SOL,0,4.56084294153e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-3%,control
 2026-11-23T12:43:20Z,EXIT,7i94k3dyTqx6FxnpW5EWTcxzs6D69RfmjKQ5gyEw7CbE,$RC / USDC,0,7.30221896043e-06,100.0,timeout,-9.35,-9.35,563.75,exit_bar=2026-11-23T12:42:00Z,control
+2026-11-23T12:44:49Z,EXIT,HoYiFwGfVDnuhZAe8Cq4NZYQ85stW7nQrzXQRXNQnDwB,IMAGINE / SOL,0,1.69995308159e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-23T12:42:00Z,control
+2026-11-23T12:44:49Z,ENTRY,4zirUSL9mv4HZkBgyUu7kvVr9Xu6i5CHMUw8qRjnA5qQ,$TURB / SOL,0,1.12412840335e-05,100.0,research_failed,,,563.75,score=0.00 momentum=311%,mom
