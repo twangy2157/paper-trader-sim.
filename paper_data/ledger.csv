@@ -17660,3 +17660,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-23T10:22:29Z,EXIT,HFAfh1zhtv2P3trhbMxQQ8hovWSQ7HYZzG1FnD4UiqCP,AI / SOL,0,1.34194701272e-05,100.0,timeout,-5.07,-5.07,563.75,exit_bar=2026-11-23T10:21:00Z,control
 2026-11-23T10:25:23Z,ENTRY,E6R4phfWjUeAzFtAAvPwGmsi5AEuTQ53YFipHrjuZ5Er,PETCAT / SOL,0,0.000128659397857,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-23T10:26:46Z,EXIT,AMWe7TPBNJTSWc1QDmPsLQCkWriYbBikDju31yUpBVFB,MEO / SOL,0,7.19626098425e-06,100.0,sl,-36.26,-36.26,563.75,exit_bar=2026-11-23T09:26:00Z,control
+2026-11-23T10:28:22Z,ENTRY,FJFtBRRhBqnuWVaMKziFoPpdyWBYDDL9SvCbcqFUhzWX,GANGWAY / SOL,0,1.45508417276e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-23T10:29:46Z,ENTRY,3aMnHWTEW7PmdSXLgdrAQzSfNrJh158cg8f1QP65HUEB,Loaf / SOL,0,6.66582187862e-05,100.0,research_failed,,,563.75,score=0.00 momentum=14%,mom
+2026-11-23T10:34:03Z,ENTRY,3QQ1jWWJXv5bFJJ8p7Ko5Am8oGd77CVFezJeevvuUerB,Gabriel / SOL,0,2.0556306716e-05,100.0,research_failed,,,563.75,score=0.00 momentum=133%,mom
+2026-11-23T10:35:27Z,ENTRY,FRWeA4u6HnstzkgFnHcNwSjf2RSvenppdtS2dpYVMANr,shrex / SOL,0,1.99117358899e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-9%,control
+2026-11-23T10:35:27Z,ENTRY,B47J5eRJfNKcavUyRMuYUs6ywvc6g8doUFimfJhFae9T,SOLANAI / SOL,0,2.12035598015e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-9%,control
+2026-11-23T10:36:57Z,FAILED,7zJrg3fsLJJdQkWvpGnzbYDcAH26g3P9EQDXdgBJH4eU,Santa / SOL,0,1.5570568609e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-23T10:36:57Z,ENTRY,4opDoyphku6LHxtLQsTuh2pTrBn2i26tjesuFn86wZmU,MINELIUS / SOL,0,0.000283064917774,100.0,research_failed,,,563.75,score=0.00 momentum=52%,mom
