@@ -17471,3 +17471,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-22T23:58:40Z,ENTRY,9VevrFNdhyvhATK6LqwjCKmDgQdQKcN4S9fBRYduk9PY,ZOL / SOL,0,0.000454660031746,100.0,research_failed,,,563.75,score=0.00 momentum=254%,mom
 2026-11-23T00:01:32Z,ENTRY,GRxGpEsTBBiVozdtqHrZrSCUapYs3DrFtyWCvayEgQZG,ZOL / SOL,0,6.41397724333e-07,100.0,research_failed,,,563.75,score=0.00 momentum=59%,mom
 2026-11-23T00:03:01Z,EXIT,7Qrbu8xwvwxghoLjcGDPoLmqgRvmvzHdJEzN7GUE4Yui,Cocat / SOL,0,8.68916657149e-06,100.0,honeypot,-101.0,-101.0,563.75,exit_bar=2026-11-23T00:02:00Z,control
+2026-11-23T00:05:44Z,ENTRY,BbnvTQTDXiHipndFeCmAM1Ff5MortZEUVQxWVJr9fjpj,264 / SOL,0,6.83591060634e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-23T00:07:20Z,ENTRY,DBGa5eFD37Ab69dkgNC7em4WJJevBzjv9KfPx6ebuiaT,DYNAMO / SOL,0,1.42819628859e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-1%,control
+2026-11-23T00:08:43Z,ENTRY,Hnh3VLaJ7cBxjW6DQMGLkTi1LNFbCK3VzWtM8sHSDgPB,GTAVI / SOL,0,2.00443187186e-05,100.0,research_failed,,,563.75,score=0.00 momentum=32%,mom
+2026-11-23T00:10:19Z,EXIT,5kaEyTaQoJWUsoBBxKEhHkh72Hundm7Nz9CF5vu2Wbg,ZOL / SOL,0,0.000760061741762,100.0,tp,94.93,94.93,563.75,exit_bar=2026-11-22T23:25:00Z,mom
+2026-11-23T00:11:42Z,EXIT,BTXaxbrqGxsGFhkiUf5S58BJAMixsLNAQmwf5tt1hfTY,Zolana / SOL,0,6.69336094784e-06,100.0,timeout,-9.81,-9.81,563.75,exit_bar=2026-11-23T00:09:00Z,control
+2026-11-23T00:13:19Z,EXIT,5Bk4U4ECsNkbpnm8fsnBEW37BYL4tQvDTTaNL2FKiGwo,BAYOU / SOL,0,1.37638237657e-05,100.0,timeout,-9.14,-9.14,563.75,exit_bar=2026-11-23T00:09:00Z,control
