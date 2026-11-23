@@ -17647,3 +17647,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-23T10:04:17Z,ENTRY,5YK1N7MeAfqYND6V5vznTJGrW4uGWzuZtu9pUWwrjMkj,ASTEROID / SOL,0,2.94039111868e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-23T10:05:41Z,FAILED,7QYBYJLK4Pr2AyWmVxkxoDgm75BcL2ALH1EN9MZ3V6i6,MINELIUS / SOL,0,0.00049296440179,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
 2026-11-23T10:05:41Z,ENTRY,6jAcMk8LQwyycqyX2jHVXTdDuNVKRDSiDxuUVBwdDJjr,doge / SOL,0,6.72425836495e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-23T10:07:24Z,EXIT,5BsA7AiHmaEpJzQPEosHFmRfTBaWQm6Qvf66SwA1Ep7Z,CRATER / SOL,0,1.41730118715e-05,100.0,timeout,-5.66,-5.66,563.75,exit_bar=2026-11-23T10:06:00Z,control
+2026-11-23T10:08:48Z,ENTRY,3Up2ZtDnMp1frwXRH5YK32bgG5diVLet6gJH9YG2T1Hv,maythest / SOL,0,2.2194732256e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-35%,control
+2026-11-23T10:10:18Z,ENTRY,492XE8nGXCMhGQ1cbjShZJ91xwDFXucUFas5hrdxg5LE,XTO / SOL,0,0.000423702478738,100.0,research_failed,,,563.75,score=0.00 momentum=245%,mom
+2026-11-23T10:11:42Z,ENTRY,CvvcT2gztqiqR5k7y5hTVeC46GKRJXv1wGZBwoxd9cDy,$REXTON / SOL,0,8.79802347953e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-23T10:11:42Z,ENTRY,7ozrm6AKsaW7PMBo7CN4idTmmMST2yjo1YML8FxnQ8SD,GORP / SOL,0,2.54971127283e-05,100.0,research_failed,,,563.75,score=0.00 momentum=35%,mom
+2026-11-23T10:13:20Z,FAILED,6iQSkdfr9i8es8Tsofo3FLXGhybXnJ5ipfsaFGhPAbPm,HOLD / SOL,0,0.000135914449473,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
