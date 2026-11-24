@@ -17876,3 +17876,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T02:18:31Z,EXIT,Dg8tF5FmbcpKD15j6qopFnZwdFstC753wiuYYJCiizAm,WALF / SOL,0,9.59555836479e-06,100.0,timeout,-8.02,-8.02,563.75,exit_bar=2026-11-24T02:17:00Z,control
 2026-11-24T02:22:31Z,ENTRY,5k4kixtRHT2Fskp7XN8Cgb2BnQxxpMsRn7FFuZEoBSn,Claudium / SOL,0,5.80132768818e-05,100.0,research_failed,,,563.75,score=0.00 momentum=288%,mom
 2026-11-24T02:22:31Z,ENTRY,2umAV88pCPoHHSNc996LACoDttTChfYqDouiDdtbYs5i,NINOCOIN / NVDAx,0,1.55782940314e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-24T02:24:13Z,FAILED,7nAMxQ9d8MsakHNkyfKPZwy1a9sQbmUWGfZZND8gm9Z4,DWAOY / SOL,0,3.60388106456e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-24T02:25:36Z,EXIT,5aJ2Edtp3hpwkyFSShq5CUV4ZVw39ty9L5bccu8RecUe,NVIDIA / SOL,0,8.58367194968e-05,100.0,honeypot,-101.0,-101.0,563.75,exit_bar=2026-11-24T02:24:00Z,mom
+2026-11-24T02:27:12Z,ENTRY,FeXbbTjVfp94XeUUASdsVJ21kVrxYSXYv2xLUNqRHgP6,OMG / SOL,0,1.47352447631e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=8%,control
+2026-11-24T02:28:35Z,ENTRY,DmbPsYBiWDaFFBJW3LtEQJFLxoP2yzyhUP6WdBh6SCic,SORANA / SOL,0,1.60518646328e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-56%,control
+2026-11-24T02:31:34Z,ENTRY,5SsYYT81bD3BiH7hQWjapf6j8nuCvyoW93VL4ZmRrwiC,jobcoin / SOL,0,2.02170834987e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=9%,control
+2026-11-24T02:31:34Z,ENTRY,Dqr7Yf8EoNmkCScozaZPFnr8ksekayRfUhRcQxV6wuAZ,STENKS / SOL,0,1.03852912046e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
