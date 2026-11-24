@@ -18159,3 +18159,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T13:43:32Z,ENTRY,4YX1xs4HJH4tALJEi3dNvq2VSLnUfX1sBzqphAvLcNag,okkx / USDC,0,0.30651959289,100.0,control_no_momentum,,,554.67,score=0.00 momentum=0%,control
 2026-11-24T13:43:32Z,ENTRY,8xirxzzQZxfo5M29uKGAkScuhhCHfTosnwBnWUpFs3um,RANSEM / SOL,0,1.09329797452e-05,100.0,research_failed,,,554.67,score=0.00 momentum=76%,mom
 2026-11-24T13:45:03Z,EXIT,3nePR6bL7BvAW7RhxeXXqAF9PJ1PVvAUvPonFA1DMthN,MEMEPLOYED / SOL,0,3.47296072731e-09,100.0,rug,-101.0,-101.0,554.67,exit_bar=2026-11-24T12:47:00Z,mom
+2026-11-24T13:46:32Z,EXIT,2syd8ZC9x5hHSEWEfNMJGag1jz2DdxL7nkSU2C39XzSc,NIO / SOL,0,1.73445091255e-05,100.0,rug,-100.02,-100.02,554.67,exit_bar=2026-11-24T13:44:00Z,mom
+2026-11-24T13:50:57Z,FAILED,4Sq73ntpFWCAT8njPBuWJsnU6HTQdtX4jRTw68ZYWkHg,1000X / SOL,0,2.87276876784e-05,0,tx_failed,-0.5,,554.67,"buy reverted, tip lost",control
+2026-11-24T13:53:58Z,ENTRY,Gq7bsHX1QmSJ6cSakAGPYN2g3tTv9Jd8T1bU9Z4MyNUe,SCAMSEM / SOL,1,9.51887843708e-05,100.0,research_passed,,,454.67,score=0.74 momentum=178%,mom
+2026-11-24T13:55:29Z,FAILED,YrJogrjzKBQxyThkNqJoRWDyLTxf9g8sQcDjvmSrNpv,newtek / SOL,0,2.74430846535e-05,0,tx_failed,-0.5,,454.67,"buy reverted, tip lost",mom
