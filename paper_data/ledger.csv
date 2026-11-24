@@ -17999,3 +17999,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T09:49:57Z,ENTRY,6kQno285DUKVjnGdiB3HLK28VmPTJjvUxgWYT8U5pbV9,USAD / USDT,0,0.997613371621,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-24T09:51:28Z,EXIT,84HVajKGxd3rdcesNDrjrghMHTzNjuPeydgLbiqx8frq,KEYCAT / SOL,0,2.9172546973e-05,100.0,rug,-3.59,-3.59,563.75,exit_bar=2026-11-24T06:15:00Z,control
 2026-11-24T09:52:59Z,EXIT,2EcZB8L9srsagy54ns91FZamg4gSpWsm4qcmqGnmQ3xz,FIONA / SOL,0,0.000152802785175,100.0,rug,21.46,21.46,563.75,exit_bar=2026-11-24T06:17:00Z,control
+2026-11-24T09:54:35Z,EXIT,H8JUmaKbqRmcYmdxWXN5eu9yP6A5nZ8i2XqH9QXmV8mG,Cilembu / SOL,0,6.7192269211e-05,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-24T05:37:00Z,mom
+2026-11-24T09:54:35Z,ENTRY,5W8etWctjeNSFjAn1JEL41is31XUDyt5NURuXNuw5H7R,scamsem / SOL,0,0.000118623197078,100.0,research_failed,,,563.75,score=0.00 momentum=18%,mom
+2026-11-24T10:00:38Z,ENTRY,HzPXrh1qhVyPNfWDDNHZp2n9ueoYHDHFcGeCxaThtb2w,ANSEM / SOL,0,1.60491211099e-05,100.0,research_failed,,,563.75,score=0.00 momentum=12%,mom
+2026-11-24T10:02:16Z,ENTRY,4hg2ePTg2HsvrVLKtPiEGYrC8R7z2rndxQC2i1gbpjCc,OKSG / USDT,0,1.00056584804,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-24T10:03:40Z,ENTRY,A7jiU2L43YiDFpJ5RuPRgRnKyxfDqYK59fSt3VQj98Zb,mihao / SOL,0,2.42041957811e-05,100.0,research_failed,,,563.75,score=0.00 momentum=259%,mom
