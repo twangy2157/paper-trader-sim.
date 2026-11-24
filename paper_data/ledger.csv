@@ -17929,3 +17929,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T03:43:44Z,ENTRY,Hkifh9fHFL86qeGMCrpNSuSmbz7bnA6Jtn4T7pjwmLrY,Green Cat / SOL,0,1.76337875271e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=7%,control
 2026-11-24T03:43:44Z,FAILED,J66bawGSnsoeLsumZVBhXfXDpwpdfe68zNpGq63rrkhu,AMBER / SOL,0,1.44764606981e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
 2026-11-24T03:46:43Z,ENTRY,Faq1s7FHYRkXKcRKerUJxHHyPsf9cKBiosKYtZkfrpN4,USAR / SOL,0,1.68539623719e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=3%,control
+2026-11-24T03:48:24Z,EXIT,AyxJbHFx3qzBtBcrdpJ6NFJpzBods7fNFFxagWzNDPoW,XAUTC / USDT,0,0.996266429191,100.0,timeout,-6.19,-6.19,563.75,exit_bar=2026-11-24T03:47:00Z,control
+2026-11-24T03:51:17Z,EXIT,Bbn6bttQRLhUs93edFcriwP72MXNtHnUr96wG9aVzZKh,ser / SOL,0,1.45986051257e-05,100.0,timeout,-4.36,-4.36,563.75,exit_bar=2026-11-24T03:50:00Z,control
+2026-11-24T03:56:32Z,ENTRY,HY8sp7ZBjMSEM1CPX6XJZNk7zyujWBJ5cg8nqcDMAuWJ,蚂蚁 / SOL,0,4.39680313524e-05,100.0,research_failed,,,563.75,score=0.00 momentum=485%,mom
+2026-11-24T03:58:01Z,EXIT,Dcezkf8EVayxLY4Ga3beFMMeZkC5yAj7eUBKDt4m4CnW,JUGGERNAUT / SOL,0,2.87098365848e-05,100.0,rug,-4.33,-4.33,563.75,exit_bar=2026-11-24T03:56:00Z,control
