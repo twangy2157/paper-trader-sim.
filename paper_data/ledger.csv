@@ -17922,3 +17922,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T03:34:55Z,EXIT,Dqr7Yf8EoNmkCScozaZPFnr8ksekayRfUhRcQxV6wuAZ,STENKS / SOL,0,1.01313592042e-05,100.0,timeout,-7.69,-7.69,563.75,exit_bar=2026-11-24T03:32:00Z,control
 2026-11-24T03:34:55Z,ENTRY,8o9UCb7ZimAY6yqMBcfAHzRFMejwZySEoJe3XngeLwsB,Where Ai / SOL,0,2.13473581489e-05,100.0,research_failed,,,563.75,score=0.00 momentum=12%,mom
 2026-11-24T03:36:25Z,EXIT,9J5VbAdhBNxCmsP8kHGLw3ZuU2ekCLVXCdkGJcremQCA,GORP / SOL,0,4.25271749992e-05,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-24T03:12:00Z,mom
+2026-11-24T03:38:00Z,ENTRY,736QE4EEEq59EfAMwZUHLju9cETwRdWjwLJL6rt2hnbX,FATU / SOL,0,1.33168370298e-05,100.0,research_failed,,,563.75,score=0.00 momentum=97%,mom
+2026-11-24T03:39:22Z,ENTRY,51DLwVeQj15DmFiYSPeZ97p9u1A8DGnUL5Jim9gpx4oJ,NEURALINK / SOL,0,9.07144183166e-05,100.0,research_failed,,,563.75,score=0.00 momentum=75%,mom
+2026-11-24T03:40:45Z,ENTRY,3uXSXGVStvfZ72ZhTwQ8zpapsHUK7EwQU3tixTGkcCq5,I / SOL,0,1.27623834015e-05,100.0,research_failed,,,563.75,score=0.00 momentum=64%,mom
+2026-11-24T03:40:45Z,ENTRY,H4jMXqFoJSmvzCryPtQX57WRq4RN37AcLL48vNmsTMvn,OTTER / SOL,0,7.93751864431e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-24T03:43:44Z,ENTRY,Hkifh9fHFL86qeGMCrpNSuSmbz7bnA6Jtn4T7pjwmLrY,Green Cat / SOL,0,1.76337875271e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=7%,control
+2026-11-24T03:43:44Z,FAILED,J66bawGSnsoeLsumZVBhXfXDpwpdfe68zNpGq63rrkhu,AMBER / SOL,0,1.44764606981e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-24T03:46:43Z,ENTRY,Faq1s7FHYRkXKcRKerUJxHHyPsf9cKBiosKYtZkfrpN4,USAR / SOL,0,1.68539623719e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=3%,control
