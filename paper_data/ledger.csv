@@ -18121,3 +18121,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T12:59:58Z,FAILED,2WLQSWXXLeEejEgESfYaYjRB6M8VVAhTf9DJJsRJzFmG,PI / SPCX,0,1.21032448844e-05,0,tx_failed,-0.5,,554.67,"buy reverted, tip lost",control
 2026-11-24T13:01:29Z,ENTRY,Agunz9juTQoPspFufAYGL8qG315fRjCb8MzcDe2Xw1Wz,UGOS / SOL,0,1.91163454149e-05,100.0,research_failed,,,554.67,score=0.00 momentum=24%,mom
 2026-11-24T13:03:00Z,ENTRY,HErAaj4rtcSSkJmUKif8cNc6h1xysP2gTVd7M3s4xLa9,英伟达 / SOL,0,1.94994856677e-05,100.0,research_failed,,,554.67,score=0.00 momentum=30%,mom
+2026-11-24T13:04:29Z,EXIT,2uJ61N8ESLJhhsqy85g3PdyEy1MUPSMyrRsXSKmR5zkE,3sat / SOL,0,1.93800425136e-05,100.0,rug,-100.02,-100.02,554.67,exit_bar=2026-11-24T13:03:00Z,mom
+2026-11-24T13:04:29Z,ENTRY,4c2cHRS2xzouteHB8Jj5yTksy83121k8rVoEqRRytCvY,PLS / SOL,0,7.25998353121e-06,100.0,control_no_momentum,,,554.67,score=0.00 momentum=-24%,control
+2026-11-24T13:06:00Z,ENTRY,ySjdydRMvQ6QiLyKQ8F4o6TjWyReg6nsV1y8GXEcnbJ,beer / SOL,0,7.92977620598e-06,100.0,control_no_momentum,,,554.67,score=0.00 momentum=-0%,control
+2026-11-24T13:06:00Z,ENTRY,3kvUeRq2mp9SWKJX6hFXZHXnEMwhnpSs9oCZQybEaFeX,PI / SOL,0,8.17733536208e-05,100.0,research_failed,,,554.67,score=0.00 momentum=81%,mom
+2026-11-24T13:07:24Z,EXIT,6v2UT2WPbNMRUaNcoGqhzC7uhQ3cTvRPWMvkGAMT6vK,SHHFT / SOL,0,5.94863291012e-05,100.0,tp,91.51,91.51,554.67,exit_bar=2026-11-24T12:22:00Z,control
+2026-11-24T13:08:47Z,ENTRY,9yFLcEFFTmhNcYznCUxfge69t4F64jo4aeYDmu6FTjos,Trigger / SOL,0,1.15509195885e-05,100.0,control_no_momentum,,,554.67,score=0.00 momentum=0%,control
+2026-11-24T13:08:47Z,ENTRY,7qv9wBLXk1nak7D7AXb4b166zrovEDb2yHh4kVpMRzq6,ANSEM / SOL,0,1.44411488479e-05,100.0,research_failed,,,554.67,score=0.00 momentum=93%,mom
+2026-11-24T13:10:18Z,ENTRY,AafYBYGPLRpsLgoKjR5mXJwEFzFmHawvQQncMCXZMHSW,Fox / SOL,0,7.85296236586e-06,100.0,control_no_momentum,,,554.67,score=0.00 momentum=0%,control
+2026-11-24T13:11:41Z,ENTRY,A2vAfddjPuaGgnbwZMUXbQ13S2CEvpHYij4yUAndXGDp,DUVAL / SOL,0,4.75375734615e-07,100.0,control_no_momentum,,,554.67,score=0.00 momentum=7%,control
+2026-11-24T13:11:41Z,ENTRY,9SQWJ2u8JriWpd1KMxyEtmDbGjEc5F69zwsCtr4Jiird,USSD / USDT,0,1.03567067732,100.0,control_no_momentum,,,554.67,score=0.00 momentum=0%,control
+2026-11-24T13:11:41Z,FAILED,GomkCq1CFiBYZYijFxqDe5VRNZmfqcAFL1icD3RdwbM6,OpenIndex / SOL,0,1.03826750936e-05,0,tx_failed,-0.5,,554.67,"buy reverted, tip lost",mom
+2026-11-24T13:13:19Z,EXIT,6FrZJoSM3qSY7ydm41jPLifVvNzVAKPJEZQwftp8RMFf,NVIDIA / SOL,0,5.98543290072e-05,100.0,tp,-100.01,-100.01,554.67,exit_bar=2026-11-24T12:37:00Z,mom
