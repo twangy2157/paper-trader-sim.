@@ -17882,3 +17882,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T02:28:35Z,ENTRY,DmbPsYBiWDaFFBJW3LtEQJFLxoP2yzyhUP6WdBh6SCic,SORANA / SOL,0,1.60518646328e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-56%,control
 2026-11-24T02:31:34Z,ENTRY,5SsYYT81bD3BiH7hQWjapf6j8nuCvyoW93VL4ZmRrwiC,jobcoin / SOL,0,2.02170834987e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=9%,control
 2026-11-24T02:31:34Z,ENTRY,Dqr7Yf8EoNmkCScozaZPFnr8ksekayRfUhRcQxV6wuAZ,STENKS / SOL,0,1.03852912046e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-24T02:34:31Z,ENTRY,9J5VbAdhBNxCmsP8kHGLw3ZuU2ekCLVXCdkGJcremQCA,GORP / SOL,0,2.12635874996e-05,100.0,research_failed,,,563.75,score=0.00 momentum=38%,mom
+2026-11-24T02:38:17Z,EXIT,FjdLbbq4QWNz1hzuTiHpJbgEipm9Xs2FmgKBWd9dUSxJ,ANTx / USDC,0,86.3468384841,100.0,timeout,-6.74,-6.74,563.75,exit_bar=2026-11-24T02:34:00Z,control
+2026-11-24T02:39:40Z,EXIT,EceELeVYuD4mCxDUF8hwm35yFv27pFXVtuQQR3R4PTYf,CHIBI / SOL,0,8.68842591622e-07,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-24T02:37:00Z,mom
+2026-11-24T02:41:17Z,EXIT,4CWaNAxx4rpsthawYwvDpexh7EqPVPfAHapPNFf9RgMg,Oh Kang-Wo / SOL,0,1.82086423526e-05,100.0,timeout,-5.67,-5.67,563.75,exit_bar=2026-11-24T02:39:00Z,control
+2026-11-24T02:44:02Z,EXIT,J1M28YLkDPXBktaMPZWYVcq6cALmUwBNt3ochwJHnCfR,Jensen / SOL,0,5.95999139963e-05,100.0,tp,94.01,94.01,563.75,exit_bar=2026-11-24T02:20:00Z,mom
