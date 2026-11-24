@@ -17892,3 +17892,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T02:49:44Z,EXIT,BTsCKb34mP7emzD8VYpYCseYDSPZu6tG9AEMkoD4fKYX,Flatulence / SOL,0,1.40772976877e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-24T02:48:00Z,mom
 2026-11-24T02:49:44Z,ENTRY,Bbn6bttQRLhUs93edFcriwP72MXNtHnUr96wG9aVzZKh,ser / SOL,0,1.47022023079e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-24T02:52:43Z,FAILED,ibRaB55bXSce2gzGF9Jz9ujNvFaBcWx5GRSZz2BTD7p,NOKEY / SOL,0,1.90122388328e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-24T02:55:47Z,ENTRY,Dcezkf8EVayxLY4Ga3beFMMeZkC5yAj7eUBKDt4m4CnW,JUGGERNAUT / SOL,0,2.89083749129e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
+2026-11-24T02:58:32Z,ENTRY,7KQspuNAsNr5RdojGRPcnAQ9eaydpd3izxK8H7JpTR9k,REDACT / SOL,0,5.23099509457e-05,100.0,research_failed,,,563.75,score=0.00 momentum=492%,mom
+2026-11-24T03:02:32Z,ENTRY,EPTNuP36zaMkpeSuiUHYmcTGMKP2GPbks329pDNyJz9z,Flatulence / SOL,0,6.5450026918e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-11%,control
