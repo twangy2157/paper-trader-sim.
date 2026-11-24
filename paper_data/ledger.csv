@@ -18247,3 +18247,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T22:49:58Z,ENTRY,kAt1fSrNKSWZiDfyBQrdBhwLjXRQPg9dFmFSPkR3vZt,NEX Ai / SOL,0,2.40308613411e-05,100.0,research_failed,,,552.71,score=0.00 momentum=64%,mom
 2026-11-24T22:54:28Z,FAILED,6WRSDcaburVHU7S9utU2erEDxrDkAkj3pswv1Gdb3Uq5,USEFUL / SOL,0,1.54314921674e-05,0,tx_failed,-0.5,,552.71,"buy reverted, tip lost",mom
 2026-11-24T22:55:58Z,ENTRY,4ih15TdckAyh61aSj3jmejYsL4fPk6dmHZxo3T1jH9CE,CHARITY / SOL,0,0.000104158681927,100.0,research_failed,,,552.71,score=0.00 momentum=172%,mom
+2026-11-24T22:57:34Z,FAILED,B8FiQqaJaNNJabBPKrazcMC96ewSTB2tRAfx8J3Yms8g,POOPDOG / SOL,0,1.39579176619e-05,0,tx_failed,-0.5,,552.71,"buy reverted, tip lost",control
+2026-11-24T23:00:27Z,ENTRY,3UgQo4xW2yxMrvuqYNt6bSSgnEKwbDRqvdAGyeuxJHn1,PEPE / SOL,0,3.46913707684e-05,100.0,research_failed,,,552.71,score=0.00 momentum=87%,mom
+2026-11-24T23:01:57Z,ENTRY,78kqwJZkTuxkiEmyzc3WfKrPT8Jxdf3UDqMb1MTpmMmq,Rockstar / SOL,0,2.40323170711e-05,100.0,research_failed,,,552.71,score=0.00 momentum=47%,mom
+2026-11-24T23:03:28Z,ENTRY,G7dkRSjMbJjVD3H4HDv5HeSXJAiDdydHHeKeU6mNMbF9,BATTERY / SOL,0,1.40953720895e-05,100.0,control_no_momentum,,,552.71,score=0.00 momentum=0%,control
+2026-11-24T23:04:58Z,ENTRY,A2aHVuTnthL5eva31XQvK7Je27nDbugJ5AKXPFcYv6PV,FlyCoin / SOL,0,1.02515102427e-05,100.0,control_no_momentum,,,552.71,score=0.00 momentum=0%,control
+2026-11-24T23:04:58Z,ENTRY,2izS36CGGkyzFKGZtygj9K3YuJi8QwNCELJ782LoH8Gv,ERUPTION / SOL,0,3.63874212035e-05,100.0,control_no_momentum,,,552.71,score=0.00 momentum=0%,control
