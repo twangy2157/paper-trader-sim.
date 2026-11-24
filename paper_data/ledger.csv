@@ -17802,3 +17802,15 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T00:41:31Z,ENTRY,VvUkfnXAxqhtHXsiTzwa1U1vWSHY4DyrZfTbZQ9JbVc,CEO / SOL,0,2.20912204334e-05,100.0,research_failed,,,563.75,score=0.00 momentum=48%,mom
 2026-11-24T00:44:30Z,ENTRY,8ac9LwUtAyhaax45U8pudQyoF525uxNM9pp4z58qAuhZ,GOLDSOL / SOL,0,0.000174373653753,100.0,research_failed,,,563.75,score=0.00 momentum=26%,mom
 2026-11-24T00:46:07Z,ENTRY,GfjFpfPjzwACk97YiswEDQADuYqTkqLxQ4NVRVRvn7fK,BARRON / SOL,0,4.22424721952e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=7%,control
+2026-11-24T00:47:34Z,ENTRY,2pwDuiHQMjuJ6JZ6qVpz6jLaJ59RJMz8AxstWJ8iJRA3,Jensen / SOL,0,1.61015522904e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-24T00:49:11Z,ENTRY,9bRaZ2F5faAGmB19dKyYX7Du6i6cxqKpoSW1YgH2MpfW,GIGACHADS / FRONTIER,0,1.63329355596e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-1%,control
+2026-11-24T00:50:26Z,EXIT,CMeBfNMzdYZLTLuVwpt6ZWuLSwh2kJRfwFGvRn5YLBDG,3sat / SOL,0,1.41926751299e-05,100.0,rug,-100.02,-100.02,563.75,exit_bar=2026-11-24T00:49:00Z,mom
+2026-11-24T00:50:26Z,ENTRY,3RgdcfzzmnLTYy7h5fW39S1hakd6v2evp1h1xXGMby2F,ATX / SOL,0,0.010840399531,100.0,control_no_momentum,,,563.75,score=0.00 momentum=2%,control
+2026-11-24T00:51:55Z,ENTRY,5FrT5qgkJD2GHYp36NGCj7Bv1u2rq6oWHMXYJfwtonhp,Getwork / WBTC,0,1.57709374808e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=2%,control
+2026-11-24T00:51:55Z,ENTRY,8p6K4ZnDmeAHccWSQ5jTYbkMwRuo8hhhcDWdE7TmFFD7,CEO / FRONTIER,0,1.50025286668e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-7%,control
+2026-11-24T00:53:25Z,FAILED,5VqMNeADsPXFNCoJC1dFainvZKwhDhCV8Mu3ypwQ1THW,GIGACHADS / SOL,0,2.07841213145e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-24T00:54:47Z,ENTRY,6CSkqDtc7cbN11qag1VDSr9Q5iL3WKWLPma62B5xKqTN,FLYWHEEL / SOL,0,2.55002567297e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-7%,control
+2026-11-24T00:54:47Z,ENTRY,79D8nQxCSXTq2ZbmG4vetmUCRPqMgcuwpj7jTbPGCzQw,CEO / SOL,0,1.66664861969e-05,100.0,research_failed,,,563.75,score=0.00 momentum=113%,mom
+2026-11-24T00:56:17Z,EXIT,HDsgR7F4ipar3hVvgkf5pAu1YPbi2PcwHgv1hsc1RFfq,uzicat / SOL,0,2.21003707556e-05,100.0,tp,-100.01,-100.01,563.75,exit_bar=2026-11-24T00:20:00Z,mom
+2026-11-24T00:57:32Z,ENTRY,DSE5Gn5kKaQZKGwCiK2ZbmxN8TZSQTUZVGYMrbxvKnNW,baton / SOL,0,0.000266584293131,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-13%,control
+2026-11-24T00:57:32Z,ENTRY,5cCnEisd8kim9QQoU5kg2FFa4YAZebVp2vPKgAHtGqbZ,FIONA / SOL,0,7.20220841284e-07,100.0,research_failed,,,563.75,score=0.00 momentum=56%,mom
