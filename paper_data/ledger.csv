@@ -18015,3 +18015,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T10:21:47Z,ENTRY,C7vUJ7m6CG3V36gFnWy59cZSo4AwGiybmP5AjGrBhYMA,JENSEN / SOL,0,3.11360661811e-05,100.0,research_failed,,,563.75,score=0.00 momentum=91%,mom
 2026-11-24T10:24:33Z,ENTRY,3mL1rNJnZuXZLdXiM8Z9AgMroamNpsNfoze4bSBpYNxR,JENSEN / SOL,0,4.65899908497e-05,100.0,research_failed,,,563.75,score=0.00 momentum=34%,mom
 2026-11-24T10:24:33Z,ENTRY,CLYVC3HLyHbs4bZxaQ5nmgq2WZxqZkDmVgM3ru2vhQjE,英伟达 / SOL,0,1.67027000789e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=3%,control
+2026-11-24T10:26:17Z,ENTRY,7arHnsNExTyMTQr6sQdF2JfcxE2KCEDUnLPZAVWBKQ7c,BLACKBALLED / SOL,1,2.98708470666e-05,100.0,research_passed,,,463.75,score=0.80 momentum=27%,mom
+2026-11-24T10:27:41Z,ENTRY,rRxRNjG3LJvFRbY17k27DzqBkwTtVaYT3K9mmsX3NKP,BLACKBALLED / SOL,0,3.32770626492e-05,100.0,control_no_momentum,,,463.75,score=0.00 momentum=3%,control
+2026-11-24T10:29:18Z,ENTRY,BtnUeBk1Nn5mXj295UMYNaCdDpdo5LBdoj2ybb8Eq1iV,ANSEM / SOL,0,5.31923952047e-07,100.0,research_failed,,,463.75,score=0.00 momentum=10%,mom
+2026-11-24T10:30:42Z,ENTRY,6g45k2nnGfuao59EUo3MqqkY8LcS97sXAYiDeXYrnMYQ,MCKC / SOL,0,6.67395162803e-06,100.0,control_no_momentum,,,463.75,score=0.00 momentum=0%,control
+2026-11-24T10:30:42Z,ENTRY,B4NVPdi4Csv93q4ymbVdUkrPVX6tnVhFE8gTHo9BAS2Y,SOOTS / SOL,0,8.9189718688e-06,100.0,control_no_momentum,,,463.75,score=0.00 momentum=-2%,control
+2026-11-24T10:33:43Z,ENTRY,AM7Gh5BNGfqx36UnykXhYjnVrniWa6reUijXxrmm1MUL,SCAM / SOL,0,8.61152251259e-05,100.0,research_failed,,,463.75,score=0.00 momentum=63%,mom
+2026-11-24T10:35:21Z,ENTRY,ATwTwXYNzE5nt3f3xxjbPP13jYZXMvm98qDr88JJqxgg,DUVAL / SOL,0,6.63163301477e-05,100.0,research_failed,,,463.75,score=0.00 momentum=49%,mom
