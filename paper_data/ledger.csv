@@ -18253,3 +18253,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T23:03:28Z,ENTRY,G7dkRSjMbJjVD3H4HDv5HeSXJAiDdydHHeKeU6mNMbF9,BATTERY / SOL,0,1.40953720895e-05,100.0,control_no_momentum,,,552.71,score=0.00 momentum=0%,control
 2026-11-24T23:04:58Z,ENTRY,A2aHVuTnthL5eva31XQvK7Je27nDbugJ5AKXPFcYv6PV,FlyCoin / SOL,0,1.02515102427e-05,100.0,control_no_momentum,,,552.71,score=0.00 momentum=0%,control
 2026-11-24T23:04:58Z,ENTRY,2izS36CGGkyzFKGZtygj9K3YuJi8QwNCELJ782LoH8Gv,ERUPTION / SOL,0,3.63874212035e-05,100.0,control_no_momentum,,,552.71,score=0.00 momentum=0%,control
+2026-11-24T23:09:26Z,ENTRY,29UXuFERsGv9JuR4SvBMBkjY1nmaQPeP3C6WyCMrSJPb,JIMMY / SOL,0,2.83965354937e-06,100.0,research_failed,,,552.71,score=0.00 momentum=12%,mom
+2026-11-24T23:10:56Z,ENTRY,AGoxeTwDeuxYUVcDdSRAx2thZmHBDwGNzufPbmTwcaP6,APU / SOL,0,1.12302203938e-05,100.0,research_failed,,,552.71,score=0.00 momentum=58%,mom
+2026-11-24T23:12:27Z,ENTRY,6xBHXsn7WAkatDKGRqKr79tjJGvkctkYc6riAAahf1EN,APU / SOL,0,8.47894595373e-05,100.0,research_failed,,,552.71,score=0.00 momentum=77%,mom
+2026-11-24T23:12:27Z,FAILED,3Hp3fm9UekvbDz4sAK9otCbAtKZuAm1mU9axR8HS4Tfq,SEYONG / SOL,0,2.09685327205e-05,0,tx_failed,-0.5,,552.71,"buy reverted, tip lost",control
+2026-11-24T23:16:57Z,FAILED,3VrjoHzzBWYzfqWm5UhX8JbvcXX63z3Ejgx7JpX78hyw,🧽 🧽 / SOL,0,6.66133331064e-06,0,tx_failed,-0.5,,552.71,"buy reverted, tip lost",control
