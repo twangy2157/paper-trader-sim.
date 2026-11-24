@@ -17871,3 +17871,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T02:09:57Z,ENTRY,Hq2jcto9EtqcfxQfyv1SnG1sPYxDE15ygLn5kpxodn3k,GTS1 / SOL,0,8.44402063079e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-24T02:11:26Z,FAILED,69FTFu4tAf3QdJny14zWffxEhrCPw7deJRUCDpc6uXNh,bitch / SOL,0,8.90880303801e-06,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
 2026-11-24T02:11:26Z,ENTRY,22seqzreyHayd1ZStFx7SDgfbkAQ6NW9k3tzvz3UjYyf,NOAF / SOL,0,0.00390997612972,100.0,control_no_momentum,,,563.75,score=0.00 momentum=3%,control
+2026-11-24T02:13:01Z,ENTRY,Aagm1PeLTr3HzmWgYMWmQBzbKVx8uYHr1drZw5CqGTXA,CLAUDIO / SOL,0,4.07781701226e-05,100.0,research_failed,,,563.75,score=0.00 momentum=55%,mom
+2026-11-24T02:14:23Z,EXIT,rAQFENKvW3GXkpcjE8GAieBTEoNvHU6usdSA1zBBVmt,DERP / SOL,0,8.69504357162e-06,100.0,timeout,-8.42,-8.42,563.75,exit_bar=2026-11-24T02:13:00Z,control
+2026-11-24T02:18:31Z,EXIT,Dg8tF5FmbcpKD15j6qopFnZwdFstC753wiuYYJCiizAm,WALF / SOL,0,9.59555836479e-06,100.0,timeout,-8.02,-8.02,563.75,exit_bar=2026-11-24T02:17:00Z,control
+2026-11-24T02:22:31Z,ENTRY,5k4kixtRHT2Fskp7XN8Cgb2BnQxxpMsRn7FFuZEoBSn,Claudium / SOL,0,5.80132768818e-05,100.0,research_failed,,,563.75,score=0.00 momentum=288%,mom
+2026-11-24T02:22:31Z,ENTRY,2umAV88pCPoHHSNc996LACoDttTChfYqDouiDdtbYs5i,NINOCOIN / NVDAx,0,1.55782940314e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-0%,control
