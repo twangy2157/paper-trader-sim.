@@ -18115,3 +18115,5 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T12:37:28Z,ENTRY,66gJv3W7czsNq767tfnXgsuEABXqoCRS8765MUQwnJTL,JENSEN / SOL,0,2.9559713895e-05,100.0,research_failed,,,554.67,score=0.00 momentum=68%,mom
 2026-11-24T12:40:29Z,ENTRY,CuYJnWqz8ckvKod6GCr9PYeGyomBbxr1mHieF8NQMk6T,ANSEM / ANSEM,0,1.41978873736e-05,100.0,research_failed,,,554.67,score=0.00 momentum=72%,mom
 2026-11-24T12:42:00Z,ENTRY,3nePR6bL7BvAW7RhxeXXqAF9PJ1PVvAUvPonFA1DMthN,MEMEPLOYED / SOL,0,0.000105972312516,100.0,research_failed,,,554.67,score=0.00 momentum=214%,mom
+2026-11-24T12:43:29Z,ENTRY,2syd8ZC9x5hHSEWEfNMJGag1jz2DdxL7nkSU2C39XzSc,NIO / SOL,0,1.45459013775e-05,100.0,research_failed,,,554.67,score=0.00 momentum=58%,mom
+2026-11-24T12:50:42Z,EXIT,6DNp61rUz4jqaaf1QTrYzu2vNjChRsmCPMAXE8fNofdp,Bullseye / SOL,0,0.000118169141983,100.0,timeout,71.75,71.75,554.67,exit_bar=2026-11-24T12:49:00Z,mom
