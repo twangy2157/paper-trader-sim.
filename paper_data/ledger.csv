@@ -18109,3 +18109,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T12:25:31Z,EXIT,3gskAA43pXf4ULYyCngz18itvPdUATwfNmhXAZ1S6rRB,NVIDIA / SOL,0,1.39661620202e-05,100.0,timeout,-7.23,-7.23,554.67,exit_bar=2026-11-24T12:24:00Z,control
 2026-11-24T12:29:42Z,ENTRY,FatC2hNhDGKx6g5nzPhFTDmdDanJtJUytgC1jHi6Gu4R,UOF / SOL,0,0.0166257320099,100.0,control_no_momentum,,,554.67,score=0.00 momentum=0%,control
 2026-11-24T12:31:20Z,EXIT,XM6rX4EVW6bJFMeMTQkJA8GHDvsWYAGS7AWZ1y4Crqc,CATE / SOL,0,5.65515334887e-06,100.0,sl,-100.02,-100.02,554.67,exit_bar=2026-11-24T11:32:00Z,mom
+2026-11-24T12:32:49Z,ENTRY,4E3ZTHeYXSd44ZKm1kZuPtoKpXgykTG8k4XWvmwUGtG3,$ / USDC,0,7.33981668008e-06,100.0,control_no_momentum,,,554.67,score=0.00 momentum=0%,control
+2026-11-24T12:35:57Z,ENTRY,z4U2CdzJggCBDXJ7LTUFEErHuFwi7Y8qmNs9ZYuzZHf,$ / USDC,0,9.09980731848e-06,100.0,control_no_momentum,,,554.67,score=0.00 momentum=0%,control
+2026-11-24T12:35:57Z,ENTRY,9ovpCbt8tSreRth4Tnp39zw1FVoeoj7kM4gmk98TGZSx,自由的鸟 / SOL,0,1.19626101726e-05,100.0,control_no_momentum,,,554.67,score=0.00 momentum=0%,control
+2026-11-24T12:37:28Z,ENTRY,66gJv3W7czsNq767tfnXgsuEABXqoCRS8765MUQwnJTL,JENSEN / SOL,0,2.9559713895e-05,100.0,research_failed,,,554.67,score=0.00 momentum=68%,mom
+2026-11-24T12:40:29Z,ENTRY,CuYJnWqz8ckvKod6GCr9PYeGyomBbxr1mHieF8NQMk6T,ANSEM / ANSEM,0,1.41978873736e-05,100.0,research_failed,,,554.67,score=0.00 momentum=72%,mom
+2026-11-24T12:42:00Z,ENTRY,3nePR6bL7BvAW7RhxeXXqAF9PJ1PVvAUvPonFA1DMthN,MEMEPLOYED / SOL,0,0.000105972312516,100.0,research_failed,,,554.67,score=0.00 momentum=214%,mom
