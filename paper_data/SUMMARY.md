@@ -2,14 +2,14 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-24T10:04:30Z. Bankroll cash (research-selected trades): 563.74568815387. Open positions: 8. Pools on watchlist: 51.
+Updated 2026-11-24T10:14:57Z. Bankroll cash (research-selected trades): 563.74568815387. Open positions: 11. Pools on watchlist: 50.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
 | research-picked | 20 | 35% | -21.7% | -51 to 10 | -436 |
 | momentum, not picked | 3640 | 12% | -65.8% | -68 to -64 | -239956 |
 | all momentum | 3660 | 12% | -65.6% | -67 to -64 | -240392 |
-| control | 4407 | 6% | -19.3% | -20 to -18 | -85580 |
+| control | 4407 | 6% | -19.3% | -20 to -18 | -85581 |
 | dip buy | 47 | 28% | -12.8% | -30 to 4 | -606 |
 | proven pools | 132 | 33% | -30.1% | -39 to -21 | -3989 |
 
@@ -25,19 +25,19 @@ What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 119357. Outcomes:
+Pools seen: 119402. Outcomes:
 
-- missed_window: 77189
-- low_liquidity: 20358
-- proven_liquidity_gone: 10261
-- no_momentum: 4456
-- research_failed: 3643
-- proven_low_volume: 1516
-- simulated failed buy: 1505
+- missed_window: 77214
+- low_liquidity: 20368
+- proven_liquidity_gone: 10265
+- no_momentum: 4457
+- research_failed: 3645
+- proven_low_volume: 1517
+- simulated failed buy: 1507
 - proven_price_collapsed_or_parabolic: 166
 - proven: 132
 - proven_no_uptrend: 64
 - dip: 47
 - research_passed: 20
 
-Warning: 937 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.
+Warning: 938 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.

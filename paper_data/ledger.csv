@@ -18004,3 +18004,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T10:00:38Z,ENTRY,HzPXrh1qhVyPNfWDDNHZp2n9ueoYHDHFcGeCxaThtb2w,ANSEM / SOL,0,1.60491211099e-05,100.0,research_failed,,,563.75,score=0.00 momentum=12%,mom
 2026-11-24T10:02:16Z,ENTRY,4hg2ePTg2HsvrVLKtPiEGYrC8R7z2rndxQC2i1gbpjCc,OKSG / USDT,0,1.00056584804,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
 2026-11-24T10:03:40Z,ENTRY,A7jiU2L43YiDFpJ5RuPRgRnKyxfDqYK59fSt3VQj98Zb,mihao / SOL,0,2.42041957811e-05,100.0,research_failed,,,563.75,score=0.00 momentum=259%,mom
+2026-11-24T10:08:17Z,FAILED,3gqRcwPgPPekjR9RAMNuYxcHKcHd7SpJDv7dHo4yFwQE,RUGSEM / SOL,0,3.18665713961e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-24T10:09:41Z,ENTRY,8pgstGHUkc5ueJD284iK8dVyuf5NU51kZP1Bwv3hzSSa,crygold / SOL,0,9.01784895936e-06,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-24T10:09:41Z,FAILED,3AbXX8PcL9C3gR4EJVvBr9phsuTGWobiofB7c62yEWBu,scamsem / SOL,0,1.63860065857e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",mom
+2026-11-24T10:11:19Z,ENTRY,DU3qK1wAaNZVP3Pv4mPcUTwsX793bWnfg19Z7BmrX13X,英伟达 / SOL,0,4.17455894867e-05,100.0,research_failed,,,563.75,score=0.00 momentum=149%,mom
+2026-11-24T10:14:20Z,ENTRY,FmxASznezM1L7LSQnrx4JFB3dVCDWgRZPv7NDmTvk49s,CHIBI / SOL,0,1.33720043196e-05,100.0,research_failed,,,563.75,score=0.00 momentum=59%,mom
