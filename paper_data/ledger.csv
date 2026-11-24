@@ -18163,3 +18163,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T13:50:57Z,FAILED,4Sq73ntpFWCAT8njPBuWJsnU6HTQdtX4jRTw68ZYWkHg,1000X / SOL,0,2.87276876784e-05,0,tx_failed,-0.5,,554.67,"buy reverted, tip lost",control
 2026-11-24T13:53:58Z,ENTRY,Gq7bsHX1QmSJ6cSakAGPYN2g3tTv9Jd8T1bU9Z4MyNUe,SCAMSEM / SOL,1,9.51887843708e-05,100.0,research_passed,,,454.67,score=0.74 momentum=178%,mom
 2026-11-24T13:55:29Z,FAILED,YrJogrjzKBQxyThkNqJoRWDyLTxf9g8sQcDjvmSrNpv,newtek / SOL,0,2.74430846535e-05,0,tx_failed,-0.5,,454.67,"buy reverted, tip lost",mom
+2026-11-24T13:57:06Z,EXIT,C5xGzmPepweqB6sCnLToEJhwiT6SCNm9jCPrPPD8FBwG,Unemployed / SOL,0,0.000354825598198,100.0,rug,-3.11,-3.11,454.67,exit_bar=2026-11-24T13:56:00Z,mom
+2026-11-24T13:58:30Z,ENTRY,6v2UT2WPbNMRUaNcoGqhzC7uhQ3cTvRPWMvkGAMT6vK,SHHFT / SOL,0,0.000143346818327,100.0,proven_pool,,,454.67,age=127min,proven
+2026-11-24T13:58:30Z,ENTRY,3Cgzm6GLqPvPkeeTM2JmEQR6ACfAmeV2WBunt49jH8f3,random / SOL,0,7.11393160005e-06,100.0,control_no_momentum,,,454.67,score=0.00 momentum=0%,control
+2026-11-24T13:58:30Z,ENTRY,gXQeTJWWFiYkdCFHxK4uCc4q7SKwawNxUdGUVgVZtQs,GTAVI / SOL,0,3.82781524195e-05,100.0,control_no_momentum,,,454.67,score=0.00 momentum=-1%,control
+2026-11-24T14:03:02Z,EXIT,Agunz9juTQoPspFufAYGL8qG315fRjCb8MzcDe2Xw1Wz,UGOS / SOL,0,2.16842183638e-07,100.0,rug,-100.48,-100.48,454.67,exit_bar=2026-11-24T13:23:00Z,mom
+2026-11-24T14:05:42Z,EXIT,HErAaj4rtcSSkJmUKif8cNc6h1xysP2gTVd7M3s4xLa9,英伟达 / SOL,0,3.89989713355e-05,100.0,tp,94.05,94.05,454.67,exit_bar=2026-11-24T13:22:00Z,mom
