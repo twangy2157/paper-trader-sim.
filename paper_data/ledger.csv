@@ -18199,3 +18199,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T14:45:30Z,EXIT,4YX1xs4HJH4tALJEi3dNvq2VSLnUfX1sBzqphAvLcNag,okkx / USDC,0,0.299938338863,100.0,honeypot,-101.0,-101.0,454.67,exit_bar=2026-11-24T14:44:00Z,control
 2026-11-24T14:47:08Z,EXIT,8xirxzzQZxfo5M29uKGAkScuhhCHfTosnwBnWUpFs3um,RANSEM / SOL,0,3.97169229333e-11,100.0,rug,-101.0,-101.0,454.67,exit_bar=2026-11-24T14:01:00Z,mom
 2026-11-24T14:48:39Z,FAILED,36o3mYQgKDkoTndNNQi2cvnzSVjEWwdKuGyzsH29eZK1,POORGOAT / SOL,0,3.35417562662e-05,0,tx_failed,-0.5,,454.67,"buy reverted, tip lost",mom
+2026-11-24T14:51:47Z,FAILED,EZv5oQ7BKT75q873A3Xre2yd1cVQ2qHpdnFskLHx4qNf,POGI / SOL,0,1.32939291424e-05,0,tx_failed,-0.5,,454.67,"buy reverted, tip lost",control
+2026-11-24T14:51:47Z,ENTRY,4AmzeZjrABQFwLq5XnE6YnKEh226RJ8ZkuLYubzgLeK4,POORGOAT / SOL,0,4.29896755154e-07,100.0,control_no_momentum,,,454.67,score=0.00 momentum=7%,control
+2026-11-24T14:54:41Z,ENTRY,397qX17xb5ARPDTgKsFA2WktG7dY29drz7axz7rBDngw,PEPEGAN / SOL,0,2.77952575762e-05,100.0,research_failed,,,454.67,score=0.00 momentum=110%,mom
+2026-11-24T14:56:19Z,EXIT,Gq7bsHX1QmSJ6cSakAGPYN2g3tTv9Jd8T1bU9Z4MyNUe,SCAMSEM / SOL,1,9.710503525e-05,100.0,timeout,-1.96,-1.96,552.71,exit_bar=2026-11-24T14:54:00Z,mom
+2026-11-24T14:57:43Z,ENTRY,8rzqigXgkzQsUzPqq9afHdvmMTWjZHUz8yGHcJcWgYux,JENSEN / SOL,0,2.46245274006e-05,100.0,research_failed,,,552.71,score=0.00 momentum=54%,mom
+2026-11-24T14:59:21Z,FAILED,BJhsaF4H6J9khnA3oAXSZkxMRPV8qeXyQihkxNMhCfSj,Taffy / SOL,0,2.44430263214e-05,0,tx_failed,-0.5,,552.71,"buy reverted, tip lost",mom
