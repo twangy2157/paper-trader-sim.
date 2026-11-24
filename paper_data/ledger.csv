@@ -18242,3 +18242,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T22:42:21Z,ENTRY,AeNEaTKxsBpPfoQQDjxW71He6qJdnZp7qZMoS9vNeJys,PUMP / SOL,0,1.53008673427e-05,100.0,control_no_momentum,,,552.71,score=0.00 momentum=0%,control
 2026-11-24T22:43:44Z,ENTRY,FEbfaenRMEqHmKmtNdKW3ZBZP9dTxUNyoZvz7uhrAkj1,NAIWA / SOL,0,0.000472605222943,100.0,research_failed,,,552.71,score=0.00 momentum=550%,mom
 2026-11-24T22:45:22Z,ENTRY,53G3496DUmDNNh5Y55ZFob74GmsmVbT1riB53899v5wi,Mogmas / SOL,0,2.87500717267e-05,100.0,control_no_momentum,,,552.71,score=0.00 momentum=1%,control
+2026-11-24T22:46:50Z,ENTRY,3dajE1ThRCZkyuAVsmdLL9kNqywt25jERcsXaXRyHK8F,viral / SOL,0,1.94396626776e-05,100.0,research_failed,,,552.71,score=0.00 momentum=59%,mom
+2026-11-24T22:48:28Z,FAILED,JAbzH1NwwCDNH6rCmefZpeVbW6YVN5api7MibDTgv2E5,ELF / SOL,0,2.71505168358e-05,0,tx_failed,-0.5,,552.71,"buy reverted, tip lost",control
+2026-11-24T22:49:58Z,ENTRY,kAt1fSrNKSWZiDfyBQrdBhwLjXRQPg9dFmFSPkR3vZt,NEX Ai / SOL,0,2.40308613411e-05,100.0,research_failed,,,552.71,score=0.00 momentum=64%,mom
+2026-11-24T22:54:28Z,FAILED,6WRSDcaburVHU7S9utU2erEDxrDkAkj3pswv1Gdb3Uq5,USEFUL / SOL,0,1.54314921674e-05,0,tx_failed,-0.5,,552.71,"buy reverted, tip lost",mom
+2026-11-24T22:55:58Z,ENTRY,4ih15TdckAyh61aSj3jmejYsL4fPk6dmHZxo3T1jH9CE,CHARITY / SOL,0,0.000104158681927,100.0,research_failed,,,552.71,score=0.00 momentum=172%,mom
