@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-24T00:14:33Z. Bankroll cash (research-selected trades): 563.74568815387. Open positions: 14. Pools on watchlist: 33.
+Updated 2026-11-24T00:25:53Z. Bankroll cash (research-selected trades): 563.74568815387. Open positions: 19. Pools on watchlist: 40.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
@@ -25,13 +25,13 @@ What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 118024. Outcomes:
+Pools seen: 118054. Outcomes:
 
-- missed_window: 76368
-- low_liquidity: 20098
+- missed_window: 76389
+- low_liquidity: 20102
 - proven_liquidity_gone: 10149
-- no_momentum: 4405
-- research_failed: 3600
+- no_momentum: 4406
+- research_failed: 3604
 - proven_low_volume: 1492
 - simulated failed buy: 1487
 - proven_price_collapsed_or_parabolic: 165
@@ -40,4 +40,4 @@ Pools seen: 118024. Outcomes:
 - dip: 47
 - research_passed: 20
 
-Warning: 925 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.
+Warning: 926 judged pools had an unreadable mint/freeze value. Check mint_raw / freeze_raw in candidates.csv; the parsing may need fixing.

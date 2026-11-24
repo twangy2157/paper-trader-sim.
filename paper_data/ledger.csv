@@ -17786,3 +17786,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T00:12:27Z,ENTRY,DCrU235NP3wm5PhBjWGb2fnGyp61vr1ia5tY3qCj3JDT,pippin / SOL,0,1.37275588353e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-14%,control
 2026-11-24T00:12:27Z,ENTRY,5hZ8dMmUjnpkBF771t1a8UQYBNZGcAae4TisNYdTQCLm,FIONA / SOL,0,3.03337568281e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=1%,control
 2026-11-24T00:13:57Z,ENTRY,3LEhEPVRwDDqckKjXABNZiMj5KCMzJC1q7kfkaYdUYR8,OMG / SOL,0,1.90347659058e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=0%,control
+2026-11-24T00:15:24Z,ENTRY,8QX8w98KReSPkvmS1swuof6mfZarZ2DDHivPq96L8YdP,suscat / SOL,0,1.35083109244e-05,100.0,research_failed,,,563.75,score=0.00 momentum=84%,mom
+2026-11-24T00:16:40Z,ENTRY,Ahrxzh19eeEQAJwqVXMWfRnX5rzTrWQ5kPeraqeq5AVa,3SAT / SOL,0,1.46107503005e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-16%,control
+2026-11-24T00:16:40Z,ENTRY,DJ7674AZWdUcT44Am3JFPYumAgSByMvnNEogXzyBeBfF,Perplius / SOL,0,2.66325478434e-05,100.0,research_failed,,,563.75,score=0.00 momentum=24%,mom
+2026-11-24T00:22:14Z,ENTRY,cyCBUsFLAx1UvPCHr2uiruqmagQxrTiQCT4v5hLiLwh,Timothy / SOL,0,1.45257407618e-05,100.0,research_failed,,,563.75,score=0.00 momentum=87%,mom
+2026-11-24T00:25:17Z,ENTRY,J6gdf6rZEefkWTx9GJLXT9TfJoFWtwUGXzSuSAaxdFgL,3sat / hSOL,0,1.36560040755e-05,100.0,research_failed,,,563.75,score=0.00 momentum=110%,mom
