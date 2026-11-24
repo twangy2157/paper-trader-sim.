@@ -17797,3 +17797,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-24T00:34:20Z,ENTRY,4zimLJvvkxwJSuC1vPX61Dp3Ac1mv9TKxS9d4gyaC3Jv,FIONA / SOL,0,7.40744049973e-07,100.0,research_failed,,,563.75,score=0.00 momentum=44%,mom
 2026-11-24T00:35:42Z,ENTRY,9L1qXz7GDTCK4CuZffwGYDDFqJSVpnzrB17SDsP92kRX,PUMPMAS / SOL,0,1.37770003654e-05,100.0,research_failed,,,563.75,score=0.00 momentum=89%,mom
 2026-11-24T00:35:42Z,ENTRY,9uRztr9XPM9UxsbJC7dLSSHVcGptMwUceSYHYXSC3g22,FIONA / SOL,0,0.00015941278873,100.0,control_no_momentum,,,563.75,score=0.00 momentum=-18%,control
+2026-11-24T00:37:24Z,FAILED,G8vpJPubC5m96HNE4qc2agyo3RUBMdU2L8FgQJVFuqkh,HOGE / SOL,0,0.00043207484546,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-24T00:38:46Z,FAILED,7ijNagzVi4NpyUUXgLZf2nxNawznJV54rWSiXEVxPdwA,UGOS / SOL,0,1.99720869111e-05,0,tx_failed,-0.5,,563.75,"buy reverted, tip lost",control
+2026-11-24T00:41:31Z,ENTRY,VvUkfnXAxqhtHXsiTzwa1U1vWSHY4DyrZfTbZQ9JbVc,CEO / SOL,0,2.20912204334e-05,100.0,research_failed,,,563.75,score=0.00 momentum=48%,mom
+2026-11-24T00:44:30Z,ENTRY,8ac9LwUtAyhaax45U8pudQyoF525uxNM9pp4z58qAuhZ,GOLDSOL / SOL,0,0.000174373653753,100.0,research_failed,,,563.75,score=0.00 momentum=26%,mom
+2026-11-24T00:46:07Z,ENTRY,GfjFpfPjzwACk97YiswEDQADuYqTkqLxQ4NVRVRvn7fK,BARRON / SOL,0,4.22424721952e-05,100.0,control_no_momentum,,,563.75,score=0.00 momentum=7%,control
