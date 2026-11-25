@@ -18386,3 +18386,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T02:22:41Z,ENTRY,7JLBZF786k1TPiprqWvzcWi11GebrHzdkv8PHGTE2uNC,Datacat / SOL,0,1.45560984538e-05,100.0,research_failed,,,611.97,score=0.00 momentum=166%,mom
 2026-11-25T02:22:41Z,ENTRY,8qXi2VXNe2239P54ho9FFxhnot3Cz2QWN9mKanAptDix,4CHAN / SOL,0,9.47047638254e-05,100.0,research_failed,,,611.97,score=0.00 momentum=485%,mom
 2026-11-25T02:24:18Z,ENTRY,58fS44ZQbMFbSXQBmT7RYiLizt5kVZYWZNri3VmYLmsy,GRAM / SOL,0,0.000399548080707,100.0,research_failed,,,611.97,score=0.00 momentum=306%,mom
+2026-11-25T02:25:47Z,ENTRY,6rJnrii6tWoG83DsAs1jq83Ga1XMEYuGCPUzoDriZSLb,USAID / SOL,0,6.5218895375e-05,100.0,research_failed,,,611.97,score=0.00 momentum=15%,mom
+2026-11-25T02:27:17Z,EXIT,CHdJDjkUFwAebBzX5u34eaafGscRGx1ybAKJ54TZXKjA,SECP / USDC,0,1.85264132006e-05,100.0,timeout,-5.96,-5.96,611.97,exit_bar=2026-11-25T02:25:00Z,mom
+2026-11-25T02:28:40Z,ENTRY,HkWFe7PPgCj667pCQ28viTchKskiXejFJiG6h7zF9eUL,future / SOL,0,2.03376205324e-05,100.0,research_failed,,,611.97,score=0.00 momentum=125%,mom
+2026-11-25T02:28:40Z,ENTRY,3W96okPw6va1MQEHJnr3qBzhXnWCaWjQU1AMo2YEx41V,Caiolo / SOL,0,2.45788067336e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-19%,control
+2026-11-25T02:30:18Z,ENTRY,FQXF1zYmnTJhx9gbqRCadGNm4PwTqHKmXExpLbEQuyXp,PERRO / SOL,0,0.000228230050933,100.0,research_failed,,,611.97,score=0.00 momentum=148%,mom
+2026-11-25T02:31:41Z,ENTRY,4vDfBFGwiB2Wvvu3HXgQEwA9vETe18vTXu1ipHVEgfsD,PERRO / SOL,0,9.85552062604e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-0%,control
+2026-11-25T02:33:19Z,ENTRY,9zD7YbFcT1CYeWUQkB589fsUyq3v7aD7k42v9g4YrYDK,USOI / SOL,0,1.78354540747e-05,100.0,research_failed,,,611.97,score=0.00 momentum=22%,mom
