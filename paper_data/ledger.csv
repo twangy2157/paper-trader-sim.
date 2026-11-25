@@ -18626,3 +18626,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T11:16:23Z,EXIT,5MMV5fS7mD8amocbf7fFez5GkCntf2NAxguyQWhDG8ig,SOLCHAN / SOL,0,1.33144850544e-07,100.0,timeout,-3.35,-3.35,611.97,exit_bar=2026-11-25T11:15:00Z,control
 2026-11-25T11:17:47Z,FAILED,6FDJ7VMA7TZGrhKa3RhjEvXbRMvrMKNGF75BMo4Hvt9J,$Na Wa / SOL,0,7.11759419559e-06,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
 2026-11-25T11:23:14Z,EXIT,G7RiQDRQbxZxd7A8rQS46XkS4eTMQerFoLdXhJWz7swz,OKSG / USDT,0,0.99604475853,100.0,timeout,-3.18,-3.18,611.97,exit_bar=2026-11-25T11:18:00Z,control
+2026-11-25T11:31:20Z,EXIT,5kKRUYDQcVQdzk5UCgzbrTU8ooHMLB7N2fWHm97gAU5H,JaoJiu / SOL,0,4.45363130915e-07,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-25T11:18:00Z,control
