@@ -18373,3 +18373,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T02:03:41Z,FAILED,3ax7em1hGUSqPMJrLhcPDrBzrnjXK56uBzrN43yhC2th,JIMMY / SOL,0,2.73424906087e-05,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
 2026-11-25T02:03:41Z,ENTRY,9uafSpmhf4WfwjMBSh6UVGGQQvEnseRz18SUnasUuk6D,SILK / SOL,0,2.7465620891e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
 2026-11-25T02:03:41Z,FAILED,Gde1QpxSv4y4P1qq5KtUDAanXJebHHrV3n2wwVWAh6w9,CHAT / SOL,0,0.000119854857025,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
+2026-11-25T02:05:23Z,ENTRY,HTfB7KzVLueBhT13fUEXjnXJkdCjVnjRxffDG3UksNfx,NB / SOL,0,2.0927292509e-05,100.0,research_failed,,,611.97,score=0.00 momentum=41%,mom
+2026-11-25T02:06:46Z,ENTRY,8aMVF5wsf3YPtEnXT2y3dohx7X2Wj3WumZmaGYvKMzvX,ACE / SOL,0,2.11428656611e-05,100.0,research_failed,,,611.97,score=0.00 momentum=46%,mom
+2026-11-25T02:08:17Z,EXIT,EA91UL7nqVqwxwaXNuwRYf6dU7XJhxq4LGt4i4xEkfAK,LaMisery / SOL,0,6.71587010529e-06,100.0,timeout,-9.96,-9.96,611.97,exit_bar=2026-11-25T02:07:00Z,control
+2026-11-25T02:09:33Z,EXIT,94J8J6Cf8KYcoAVvmhpdGvSreGw6gC7ay3kbTE83nkM6,SIMPS / SOL,0,2.82775134503e-05,100.0,rug,-6.41,-6.41,611.97,exit_bar=2026-11-25T02:07:00Z,control
+2026-11-25T02:11:03Z,EXIT,Cf7C4XYmW8ZtKfF1zko51WbZWaQB9pEAvyt7D5JjYGoR,Dog Think / SOL,0,8.08406222802e-06,100.0,timeout,-11.42,-11.42,611.97,exit_bar=2026-11-25T02:10:00Z,control
+2026-11-25T02:11:03Z,ENTRY,4VVgptR2oSTbaRWQrVpo8VPjQC6UyfeRQfQxRbZTJmX3,$SLJK / SOL,0,1.24559492232e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-25T02:12:26Z,ENTRY,BKRY1ptHRrjP5D1kZXwqQsxxo3Z5fCN9mnskwMAzJPqF,motion / SOL,0,0.000142771471875,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-7%,control
+2026-11-25T02:13:56Z,EXIT,HM7rNGG6kKaaEMMLHGEu69nxaqE7YGPUrZzQCb9uhQFY,KYM / SOL,0,7.45484862232e-06,100.0,timeout,-5.65,-5.65,611.97,exit_bar=2026-11-25T02:12:00Z,control
