@@ -18474,3 +18474,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T08:28:58Z,ENTRY,H1nQ6rYbViN3tGZD94QW6a4Uh62JVK1oNPrRB1ZPBXF1,ATX / SOL,0,4.10122728515e-07,100.0,control_no_momentum,,,611.97,score=0.00 momentum=4%,control
 2026-11-25T08:32:08Z,FAILED,9BgCoJx6X43Qb59rbREhbCpg8wivNg9LQyaCE14Y7QmG,格罗克 / SOL,0,3.84244426322e-05,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",mom
 2026-11-25T08:33:32Z,ENTRY,BJbbihqBBSNY2FfGxLuCdhYCx949Xp5nNjX9nuU5Bkhd,格罗克 / SOL,0,1.87036582443e-05,100.0,research_failed,,,611.97,score=0.00 momentum=136%,mom
+2026-11-25T08:35:09Z,ENTRY,As26qnmr1cBvPzB461iYK9wLavta8w9ymaoWggcR6xay,格罗克 / SOL,0,3.12187566657e-05,100.0,research_failed,,,611.97,score=0.00 momentum=320%,mom
+2026-11-25T08:36:34Z,ENTRY,BJbmxBiGv7sQRZa9soKci4StfrqTxLiWFFBWPoVKSqVQ,ATX / SOL,0,1.28579536371,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-25T08:36:34Z,ENTRY,52hXMbzbCv66zmzQmMwVrzPe6VGiVhN3Zut27m4Q4iTQ,格罗克 / SOL,0,1.56193462877e-05,100.0,research_failed,,,611.97,score=0.00 momentum=64%,mom
+2026-11-25T08:38:12Z,ENTRY,ECLepRCAccodV98kjgMc5Q8qLiT12xFKWJpGsq6hXdyL,SC / SOL,0,1.15580876264e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-35%,control
+2026-11-25T08:39:43Z,ENTRY,FCoJdyPVe5yNvSmtcwt4FwiGi81AQ7mJcbXsY8JGq2aw,NVDAx / SOL,0,2.51466700089e-05,100.0,research_failed,,,611.97,score=0.00 momentum=83%,mom
+2026-11-25T08:42:46Z,ENTRY,3uV4nAbQsgnRrCfoZU6H1ySZxwS4oZ3FFLe7crCBpMCH,GORP / SOL,0,3.52003193241e-05,100.0,research_failed,,,611.97,score=0.00 momentum=95%,mom
+2026-11-25T08:44:17Z,ENTRY,6xgdjYjSZfKUUSyw6gH3EPfvGrkDK3EPAG8NTnxzd22t,USOI / SOL,0,1.96721588557e-05,100.0,research_failed,,,611.97,score=0.00 momentum=38%,mom
