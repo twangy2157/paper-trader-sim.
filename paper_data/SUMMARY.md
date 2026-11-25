@@ -2,7 +2,7 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-25T22:32:42Z. Bankroll cash (research-selected trades): 611.9691884226207. Open positions: 0. Pools on watchlist: 0.
+Updated 2026-11-25T22:43:12Z. Bankroll cash (research-selected trades): 611.9691884226207. Open positions: 0. Pools on watchlist: 0.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
