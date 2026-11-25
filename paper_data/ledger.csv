@@ -18502,3 +18502,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T09:05:30Z,EXIT,EUTGNs7ucQULxmbk2m1FviKHr7FPtQwYE6i3ccSQcjz,PVP / Amend,0,6.10713170954e-06,100.0,timeout,-11.56,-11.56,611.97,exit_bar=2026-11-25T09:04:00Z,control
 2026-11-25T09:05:30Z,ENTRY,9aFiGxo47UKgntU5kXEhwu1Sghae6nrRRk9Tia8FTztx,PUMP / SOL,0,4.27974559086e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
 2026-11-25T09:05:30Z,ENTRY,DebZHueJGMkzpJR1gcdiKQFbwn5sB4AQxw2u8Ub131DL,JIMMY / SOL,0,1.44905561777e-05,100.0,research_failed,,,611.97,score=0.00 momentum=165%,mom
+2026-11-25T09:07:15Z,ENTRY,8iaRdiLzhFzd5WCqWX4DJ2jXvmYZHuCm5b4hX4mGUbHN,HELIORA / SOL,0,8.9740101881e-05,100.0,research_failed,,,611.97,score=0.00 momentum=23%,mom
+2026-11-25T09:08:39Z,ENTRY,DEyyRpuN8LFkCTo1rRCGcgcdBQ5YAS2wSZKH6tKroq7F,SHELFB / SOL,0,3.95697818925e-05,100.0,research_failed,,,611.97,score=0.00 momentum=44%,mom
+2026-11-25T09:08:39Z,ENTRY,5wheaP8xkMrpNSbdtZ1d21DY59B6K9RESjWycXmmQxFU,MooHan / SOL,0,1.80088533039e-05,100.0,research_failed,,,611.97,score=0.00 momentum=44%,mom
+2026-11-25T09:10:17Z,ENTRY,2MF2DzYv1Cmp48CgjRJZqJGD4BhECfwY9QQtXjZyBAzF,Lumii / SOL,0,1.20481859636e-05,100.0,research_failed,,,611.97,score=0.00 momentum=44%,mom
+2026-11-25T09:11:41Z,FAILED,85C3HXc5nz5G34bnhXc93PhxrqTHpfjLFppCLHzgcTDu,GOON / SOL,0,2.22703049726e-05,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
+2026-11-25T09:11:41Z,ENTRY,8pUoWJkLFXQoxURJ62ycWkULJCdoRGRcse9sSwTbCdto,GORP / SOL,0,2.85154801272e-05,100.0,research_failed,,,611.97,score=0.00 momentum=53%,mom
+2026-11-25T09:13:19Z,ENTRY,BF2qVZAYkxzQefm3m4VLQbMeVZgnAt4Z4VmyvxVCoRsk,CAPTCHA / SOL,0,9.01179226829e-06,100.0,research_failed,,,611.97,score=0.00 momentum=21%,mom
+2026-11-25T09:14:43Z,ENTRY,AC2LNsaNru54be3PYCif5gJcbpWtY2Hb8Ktzfz628jJj,HACKINU / SOL,0,1.10066260872e-05,100.0,research_failed,,,611.97,score=0.00 momentum=38%,mom
+2026-11-25T09:14:43Z,ENTRY,5GaAKL868A15CLAJrZoEwZ91wQmSagwRqmiQe82XYmV,CAPTCHA / SOL,0,8.70158799932e-05,100.0,research_failed,,,611.97,score=0.00 momentum=66%,mom
+2026-11-25T09:16:22Z,EXIT,8jdTWNVzpFpmiusG3aBU24EKpFDfqGVrCjJLgMbYR6Wd,beer / SOL,0,1.60565001631e-05,100.0,timeout,-8.86,-8.86,611.97,exit_bar=2026-11-25T09:14:00Z,control
