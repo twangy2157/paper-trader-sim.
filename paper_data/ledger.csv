@@ -18393,3 +18393,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T02:30:18Z,ENTRY,FQXF1zYmnTJhx9gbqRCadGNm4PwTqHKmXExpLbEQuyXp,PERRO / SOL,0,0.000228230050933,100.0,research_failed,,,611.97,score=0.00 momentum=148%,mom
 2026-11-25T02:31:41Z,ENTRY,4vDfBFGwiB2Wvvu3HXgQEwA9vETe18vTXu1ipHVEgfsD,PERRO / SOL,0,9.85552062604e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-0%,control
 2026-11-25T02:33:19Z,ENTRY,9zD7YbFcT1CYeWUQkB589fsUyq3v7aD7k42v9g4YrYDK,USOI / SOL,0,1.78354540747e-05,100.0,research_failed,,,611.97,score=0.00 momentum=22%,mom
+2026-11-25T02:36:24Z,EXIT,BH74UNZgftT9pVi3Jxcvi2z3zkRwEwSCZgXqrWnhDDoo,英伟达 / SOL,0,2.86620707424e-05,100.0,tp,-100.01,-100.01,611.97,exit_bar=2026-11-25T02:12:00Z,control
+2026-11-25T02:37:47Z,ENTRY,9uazLrmusVgjGt9y38EGwWao9eANuntkKzueCPGjrS6Y,Caiolo / SOL,0,7.89642688568e-05,100.0,research_failed,,,611.97,score=0.00 momentum=23%,mom
+2026-11-25T02:39:17Z,EXIT,2sC3fAgP7aTCMpDFMzcAwCRNzvU8bdwjMPA568zbEEjz,4CHAN / SOL,0,6.94850465246e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-25T02:38:00Z,mom
+2026-11-25T02:40:40Z,ENTRY,3XS8SvJZp4WEn3qDMdivR5Dm4dt9b12TeN5CJ6Y2nhcr,Jensen / SOL,0,3.14269991114e-05,100.0,research_failed,,,611.97,score=0.00 momentum=97%,mom
+2026-11-25T02:40:40Z,ENTRY,4eZLsrXLBXLtXkw15oNLqxeu2mUz94vMrnSiQLh765tG,Santa / SOL,0,2.28912113748e-05,100.0,research_failed,,,611.97,score=0.00 momentum=146%,mom
+2026-11-25T02:42:18Z,EXIT,GLUzYL4CqHozEkc3qpxUiAbDyTewiVDP2M8gf4ab4Wau,UGOS / SOL,0,0.0350646128719,100.0,timeout,-3.08,-3.08,611.97,exit_bar=2026-11-25T02:41:00Z,control
+2026-11-25T02:43:41Z,ENTRY,EEE59iEyZUCdyYMNsgYrNLRB1wzUJx8hXNVk64QuLtKo,PERRO / SOL,0,4.14478953677e-07,100.0,control_no_momentum,,,611.97,score=0.00 momentum=4%,control
+2026-11-25T02:43:41Z,ENTRY,62pqeBwFQybeuXmpaCKwVB9gTiDomgggF11jzzPkKbNS,pip / SOL,0,1.15622319176e-05,100.0,research_failed,,,611.97,score=0.00 momentum=72%,mom
+2026-11-25T02:45:18Z,EXIT,H1ahJubnvJdYQzQgYYunrezZ1wGPfaUYjH4RdcvX5u3N,英伟达 / SOL,0,3.74663935154e-05,100.0,tp,-100.01,-100.01,611.97,exit_bar=2026-11-25T01:48:00Z,mom
