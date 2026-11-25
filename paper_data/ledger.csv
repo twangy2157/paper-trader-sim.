@@ -18444,3 +18444,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T03:45:42Z,EXIT,EEE59iEyZUCdyYMNsgYrNLRB1wzUJx8hXNVk64QuLtKo,PERRO / SOL,0,4.99785708085e-07,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-25T03:44:00Z,control
 2026-11-25T03:45:42Z,ENTRY,i53PEuRnaAXWM4SdevWpqbimh84zUR8veju45LyzpPu,DEBT / SOL,0,1.02498538245e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-5%,control
 2026-11-25T03:47:19Z,EXIT,62pqeBwFQybeuXmpaCKwVB9gTiDomgggF11jzzPkKbNS,pip / SOL,0,1.21423339575e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-25T03:44:00Z,mom
+2026-11-25T03:48:47Z,ENTRY,pXucE63RrDtHJnyk1EENFJZyzAmD4yn4oLwCTnhxcBR,1 / SOL,0,1.02184889833e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-7%,control
+2026-11-25T03:48:47Z,ENTRY,4eWo9ns2LAhhKZCWvGR9AaeinJq1jNqCQb1DJAqitSSU,Spurdo / SOL,0,1.64713629827e-05,100.0,research_failed,,,611.97,score=0.00 momentum=155%,mom
+2026-11-25T03:50:18Z,ENTRY,7NqEqbZnQwqQVgVK6HX5SBbGWQr3UNKaq6khGgnUWNTK,Treasury / SOL,0,2.05768636064e-05,100.0,research_failed,,,611.97,score=0.00 momentum=134%,mom
+2026-11-25T03:51:41Z,ENTRY,GFDXMVDcmE6bt3ffNWfHjtSmWWPTznhJq8RaduYsNB7N,GNB / SOL,0,1.10922899945e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-25T03:51:41Z,FAILED,CTvNnnoPwSgDm77BY3nCVHM3vYT1HwzmLrpYydcWk2yv,英伟达 / SOL,0,2.29482838011e-05,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",mom
+2026-11-25T03:53:18Z,EXIT,Hu4L4SMmPhfhuZfEFgaP6yPQcZLZy6PfKNFjqFx2YFmj,GPU Father / SOL,0,6.18618248423e-09,100.0,rug,-100.97,-100.97,611.97,exit_bar=2026-11-25T02:57:00Z,mom
