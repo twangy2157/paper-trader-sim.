@@ -18402,3 +18402,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T02:43:41Z,ENTRY,EEE59iEyZUCdyYMNsgYrNLRB1wzUJx8hXNVk64QuLtKo,PERRO / SOL,0,4.14478953677e-07,100.0,control_no_momentum,,,611.97,score=0.00 momentum=4%,control
 2026-11-25T02:43:41Z,ENTRY,62pqeBwFQybeuXmpaCKwVB9gTiDomgggF11jzzPkKbNS,pip / SOL,0,1.15622319176e-05,100.0,research_failed,,,611.97,score=0.00 momentum=72%,mom
 2026-11-25T02:45:18Z,EXIT,H1ahJubnvJdYQzQgYYunrezZ1wGPfaUYjH4RdcvX5u3N,英伟达 / SOL,0,3.74663935154e-05,100.0,tp,-100.01,-100.01,611.97,exit_bar=2026-11-25T01:48:00Z,mom
+2026-11-25T02:46:46Z,FAILED,9vDmsmzMVLhrbpGrHNANHip587eUCjfjgcEYiNRnXenf,Gato / SOL,0,1.70582459666e-05,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",mom
+2026-11-25T02:49:32Z,EXIT,DgYDsEzyaQAbC9AXMHduipYKR5nomrG21ZT5Di4SPEH8,WILL / SOL,0,9.78249866476e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-25T02:48:00Z,mom
+2026-11-25T02:51:02Z,ENTRY,Hu4L4SMmPhfhuZfEFgaP6yPQcZLZy6PfKNFjqFx2YFmj,GPU Father / SOL,0,1.93592852914e-05,100.0,research_failed,,,611.97,score=0.00 momentum=22%,mom
+2026-11-25T02:52:25Z,EXIT,EXnbRRfcqQmkTLdUos3whV63LCe4FMsemSgmCL4zSks5,TOUCAN / SOL,0,5.39449969754e-05,100.0,tp,90.85,90.85,611.97,exit_bar=2026-11-25T02:08:00Z,control
+2026-11-25T02:53:56Z,EXIT,94wGwtN8xPNwFzpZ7gZmvoa9Nf7UtszNNqyAV3ZCERsu,ELON GTA6 / SOL,0,9.45198857831e-06,100.0,timeout,-7.98,-7.98,611.97,exit_bar=2026-11-25T02:52:00Z,control
+2026-11-25T02:55:26Z,ENTRY,84b5i82FXAqWfZZnpG153dhkhnPSv6FooWP5ZtQiunmy,PERRO / SOL,0,9.58128429171e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-0%,control
+2026-11-25T02:55:26Z,ENTRY,HYfugM6wmhLMwV1D5WTom8C18zX6q55MHogVvEKFkZo7,西游小妖志 / SOL,0,1.44238604342e-05,100.0,research_failed,,,611.97,score=0.00 momentum=75%,mom
