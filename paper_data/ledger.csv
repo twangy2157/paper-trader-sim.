@@ -18305,3 +18305,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T00:14:56Z,EXIT,6xBHXsn7WAkatDKGRqKr79tjJGvkctkYc6riAAahf1EN,APU / SOL,0,6.98856665932e-05,100.0,timeout,-20.87,-20.87,452.21,exit_bar=2026-11-25T00:13:00Z,mom
 2026-11-25T00:16:27Z,FAILED,8ZXm5m6RN6M3Nw13vGgfGp9GXeMgw96ATAUNdgdWX8nL,4CHAN / SOL,0,5.28045221796e-07,0,tx_failed,-0.5,,452.21,"buy reverted, tip lost",mom
 2026-11-25T00:19:27Z,ENTRY,21nkPuhj2CXwGBRd5TU5Soc1uh9uwHMDADwjPgrY1FEf,CHIMA / SOL,0,5.5842933196e-05,100.0,research_failed,,,452.21,score=0.00 momentum=28%,mom
+2026-11-25T00:23:56Z,ENTRY,6rq5Cjd6BFNEHwrUfS3u1kRh81tyvC99JuY4j2zAi1DL,WASTED / SOL,0,0.000488825324891,100.0,research_failed,,,452.21,score=0.00 momentum=36%,mom
+2026-11-25T00:25:26Z,ENTRY,FRQmsqYCobfpWM6DuWibsNriaJWqP13farSvmtZezmUc,4CHAN / SOL,0,4.3631465089e-07,100.0,control_no_momentum,,,452.21,score=0.00 momentum=5%,control
+2026-11-25T00:25:26Z,ENTRY,Dvq5GB1nAHJ5eZyudSkqkyrKsC8rp7M1PDcjAtob1s45,POORGOAT / SOL,0,1.14151560965e-05,100.0,research_failed,,,452.21,score=0.00 momentum=64%,mom
+2026-11-25T00:28:26Z,EXIT,85c2jnyuqtVvNCc7SP7fA2GXA458rF9eoD4ZjRppTtpg,Town / SOL,0,1.35589980095e-05,100.0,timeout,-5.78,-5.78,452.21,exit_bar=2026-11-25T00:26:00Z,control
