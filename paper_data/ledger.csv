@@ -18467,3 +18467,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T08:20:00Z,EXIT,4eWo9ns2LAhhKZCWvGR9AaeinJq1jNqCQb1DJAqitSSU,Spurdo / SOL,0,1.67541172921e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-25T04:49:00Z,mom
 2026-11-25T08:21:24Z,EXIT,7NqEqbZnQwqQVgVK6HX5SBbGWQr3UNKaq6khGgnUWNTK,Treasury / SOL,0,1.87330432756e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-25T04:51:00Z,mom
 2026-11-25T08:22:48Z,EXIT,GFDXMVDcmE6bt3ffNWfHjtSmWWPTznhJq8RaduYsNB7N,GNB / SOL,0,1.07050193673e-05,100.0,timeout,-9.66,-9.66,611.97,exit_bar=2026-11-25T04:52:00Z,control
+2026-11-25T08:24:32Z,ENTRY,2j8UXMz7r7UhGpxQyfbTpQEeUrWEzEsPvxpsvmoRvjAi,wizardcat / SOL,0,1.4336046041e-05,100.0,research_failed,,,611.97,score=0.00 momentum=207%,mom
+2026-11-25T08:26:03Z,ENTRY,H2kzC2F6wy169TTfMaNHcPVfjw1Ybna5TrFzPRKPPPmK,404GIRL / SOL,0,3.38333839699e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=1%,control
+2026-11-25T08:27:27Z,ENTRY,4o79JAdn7B98Vwd6b7Z147BJ1AwVUU5tTcV9WJ81CYBV,Anthropic / SOL,0,1.57342442939e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=9%,control
+2026-11-25T08:28:58Z,ENTRY,CWNRPndnFRdQa7EdfZcmi1693mTxje1aXzkEGTnShTpH,JaoJiow / SOL,0,1.06561931826e-05,100.0,research_failed,,,611.97,score=0.00 momentum=55%,mom
+2026-11-25T08:28:58Z,ENTRY,H1nQ6rYbViN3tGZD94QW6a4Uh62JVK1oNPrRB1ZPBXF1,ATX / SOL,0,4.10122728515e-07,100.0,control_no_momentum,,,611.97,score=0.00 momentum=4%,control
+2026-11-25T08:32:08Z,FAILED,9BgCoJx6X43Qb59rbREhbCpg8wivNg9LQyaCE14Y7QmG,格罗克 / SOL,0,3.84244426322e-05,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",mom
+2026-11-25T08:33:32Z,ENTRY,BJbbihqBBSNY2FfGxLuCdhYCx949Xp5nNjX9nuU5Bkhd,格罗克 / SOL,0,1.87036582443e-05,100.0,research_failed,,,611.97,score=0.00 momentum=136%,mom
