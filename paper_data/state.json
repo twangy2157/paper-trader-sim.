@@ -1,166 +1,6 @@
 {
  "cash": 611.9691884226207,
  "decided": {
-  "8FYcsL3gd1ULt6ncekfWp4jeoxtgSi8JYhavRmcW7qkm": 1795593716,
-  "59zFzQBev2JR7AKFj2tbXCQAt2mLz4ZbNedqv2uSHY9e": 1795593716,
-  "BMEHZoMdbu86uKEBgg2DbN9ZoyHaa7tBcZJuCrtmK2JZ": 1795593716,
-  "Fq4HEWpGP9fdUjHB6j5C6kNLvgC5wzBQLmJ44cPJPczM": 1795593716,
-  "5XATvPx8HcHPreSuGSaLKYK4a97TdRpxLTrzJJdJLtbg": 1795593716,
-  "7jqwAXc8Y5ro1rqnZWETfKhiocrNvNeSNYfVVcMcAu8y": 1795593716,
-  "8xd1KeGMPEhn3oSnKa4K4NzNXDqxkGfGs2sQzxfvbry2": 1795593716,
-  "9zwkt6JJHeFH5aNaoBB63G56DerZ1tkFNjP6MQqH7V3q": 1795593716,
-  "3MfqAfv2CDqSzpeDvEbkwsh9CLecidfhY71ZJJ2x9jH9": 1795593716,
-  "4gZsgNsSWnx2sXKzuzfedBaVqmTdfXbdVtEcQupxVLbR": 1795593716,
-  "4HzfGoUjjWG8epbaQthgPkD8Gp7ew1hUjfQx4ZZzfQrZ": 1795593716,
-  "7kv7y1o8QwG75ix2iLg2WeapJs3JkZRgqbtfypeWHkEM": 1795593716,
-  "B2oQ2kbLyqAdmjjPcLxeAmfVxMPJVQYJKov6YVPjmxLS": 1795593716,
-  "WDM3MamnVQfw4v7hXAjqPyaTRZTnV8uaAxmq9PG1eHH": 1795593716,
-  "Ef4XTqJdKj1U1ZYf6yEJVVTSUGrnGzgmS51rfssSh9vT": 1795593716,
-  "DYAtcv7yjesfoQ7PHtEyEyMzLA5PkU3D8peeN6begamT": 1795593716,
-  "3oM3PQJf6yQtRwCgrP3qhHTVx4RHkpjXiXqdZqprzuoK": 1795593716,
-  "23rEwdwwstsgCxCpmp7DPZH5BWtWFHu8trNFBpjM9r54": 1795593716,
-  "9U2e631sNirL3cDdBNxLfM5uehJFpVCxh22VEuenwMke": 1795593716,
-  "FXw1op3SFtAaXYYMptMLeZJbNxU8xmHxDVP3D8QLe22A": 1795593716,
-  "HQPgZSK5YjbfJtTsvwLYPmWMJzuiJW2Njkx5hL7rHisa": 1795593716,
-  "DPG64o1tKWpZEzp4GQG1xyjDoLcMdNK6qKhnE57Nu6qr": 1795593716,
-  "GPou27A9vCpT5LWqqYXdHi79Hb66U6pcazNjzDPhZNaD": 1795593716,
-  "Heu7LQmbeDQpwtaA71oyanxpHiEZdBFy2o5HeXB78USg": 1795593716,
-  "EHFGKqDc9sbgpFaP3TakY3iYHdB45YZAW331TmaxySZE": 1795593716,
-  "AD5WPVD1Rod1nvVM9Brs2zugpqouGrzZi9cKWjmmkRDw": 1795593716,
-  "7t8RVcLNfdXAaFNa1Vd1TMicD9EQhjhAW2rWmUuesHJ7": 1795593716,
-  "Fod45Dk4SueWzDc9LwbU5Y2tKjCpyBQsratG78UWf1g6": 1795593716,
-  "HHbdF1j4fV8oeeXyPxh7UjcjuNK32iGaZKAt75RcK8Zq": 1795593716,
-  "4votypUfDDp6AYAygGGeMmTnpZnt1hFuCUqqJdQFewiv": 1795593716,
-  "G83gkgR9tEV1AqsA7dD8rkwkApX9jcccUQSLpr395dpX": 1795593716,
-  "9YtEGt9WeK84AbFbFc3UaDywMY6UyDENvhBHNzs5Mn2F": 1795593716,
-  "8e43wJQHh5C5HFfs56EjPtQ7hUjdCzzk6E2eixMhcUTg": 1795593716,
-  "9FBak6kSP4vBk7GB791M9aob2EpiC2yKUW14XFMRKTHS": 1795593716,
-  "AUYebJeLDN3RM4EYbBiQZK5gnhajpwDg6hfUTxyPQDNJ": 1795593716,
-  "A7kEbwL2wuRBWq3gXSCa3uu1ocdyCqcTPn2aGUDodCbx": 1795593716,
-  "BKW56jVnajoXrXbHFeEkx1N7UYtbssaTCbKVaDEuSfPN": 1795593716,
-  "GJrLU74CwBar8fTiWwvr8Di8h6C2fFcHPeRJEZbnR1Ga": 1795593716,
-  "3xUqdtkQYBfzttX28PXyaXub7LHxPu5Wtrthdz49cBi6": 1795593716,
-  "AEaRmLnDfrBkCGHcvWNm28kvVZDbeWdhNghmyvFo8UxV": 1795593716,
-  "CDJp31ZJ3doyBKPTVzY31qFZcdrEVZaemEMLftkbygzt": 1795593716,
-  "47rBVWyfKZKEsJFQpheAVP5ustBLALQAFEPPAN4XqqMb": 1795593716,
-  "2LP5juf2sdNL6gu3aLdmKxBXreSEtJ1M8oBjqH26prDS": 1795593716,
-  "9Psme544W84rNQ9TAaaWa1ozZ5cU27BvQJrGN56qt366": 1795593716,
-  "4mweZb4MNnw29j2sTL1ac9nUPDb6KpKpQpN6hWM6AMBM": 1795593716,
-  "FVJqEs8FzBiJocLbARECKMJjxGxaq41pqNi9YsP5XtUL": 1795593716,
-  "8SD6NBsruCazCHqf3iHXPZYegUSGjdYAoEXRvTRDEXsr": 1795593716,
-  "E8ytbx5uQpdxtbWHiMhHkvR6Tg2TsBzfSU4pAGF59oFt": 1795593716,
-  "5wUhhtyXwaiPUTuuutAP2AC4M6gZSpTRzYpdGzAASTY9": 1795593716,
-  "B4NircpwLygVx8idk19tYjWZtp3vhagWiHbmgaor8wSZ": 1795593716,
-  "381wBh84AQY1cU12xJn7fPfqMGRbVktC3hD2j9BmRzfn": 1795593716,
-  "6srLoQqVeK9CRQNGbGZNw7ZGufXVKn6ZQproqwy9sMud": 1795593716,
-  "dMwBh64VgfhrPzVM1fJg5WyC6Uc5szcnYcm7rR3LTnJ": 1795593716,
-  "3Pchb3D3vLr33s58RNjuTEtLpuPHJFSzLMwPG3d6YNPd": 1795593716,
-  "4MSkAQmY6TaEaUWsuUzJYwLTdtpH7VGxqEbsCwmcYP8K": 1795593716,
-  "7aiuNer5qMa7zHazzizfGtSzVs6hJcpMrzMiFUVpvcXf": 1795593716,
-  "9UPQn37u153ym1313uyLFSs2qtocbuUtSx8EGzGZGRD": 1795593716,
-  "mLkzMJXpb1Jcr4wYrjc7UMDc388gPtUcRhs9PbiBYQN": 1795593716,
-  "HbX7aDyRFMmXrpCT4PezPPkLawifEJLG81xd24zSyqMc": 1795593716,
-  "61VTbvS2x3Z19vif83bTGBuU5DN325gm84VE44h9bV3h": 1795593716,
-  "BLTvTKCeDNTW4g8kTdrQZdLS8GJTBcJjUEmtpcxpnAkH": 1795593716,
-  "FrYpmjypA4qTU7hCrGbLFdkvWwmFbeh3SxeiJB9vBDhF": 1795593716,
-  "Hh2YwvPxVAck9nJbgTKqsr4uKrZL7XCXhpsChxthH6mU": 1795593716,
-  "HEyzwjuc75ph5bzPMTeBDro67JAMSBqZspXfWXvsvyHM": 1795593716,
-  "3etTuiXKt82cBmTT7fxccYpJ3oEotHoSDeJPqPC1wdmD": 1795593716,
-  "93Vbdm4F73DPfiREzaknh6jv3whsEP6kUV9X7Jj9XHXP": 1795593716,
-  "61JFZ99TDf6WexHVnVk8XdzQEvYmJQGKRpCKHVMTRHEn": 1795593716,
-  "Fpo6osUCBpL4zFNsPbVrA6cxNjAiC7wLQVGx7BXMCpUk": 1795593716,
-  "DQVfac9iED1zdzCETR1scEguhFCJciSrHwRK3VKcyw92": 1795593716,
-  "xsppsKLcdHtzbR1r2rGovgvQwka5s4Z94oZpPSAfwgd": 1795593716,
-  "65MZjcUWs5X2Nb7hrUUpVxuuk5tUGZg8qzMBpbmEddgn": 1795593716,
-  "HF4PX6q3fLrDZGpFFVcuuFDCbNzUi7CZQumWxnUQdrk3": 1795593811,
-  "6Kyseq68VrJHzfKCcf6QdxrqTKR9Kc1s1zLKbu1167DT": 1795593811,
-  "GsFVudoBjkg5obnuTf9VXBCkZCroXmNK9jYDZoREdwMU": 1795593811,
-  "EXDhdqUhcsvGbcoMvJfzhJ5NXQehr2nqtBnedqrzdNYC": 1795593811,
-  "C6QzKH2B32V2obU3RbsTudihgwPpJDXL3VrZkWLWZ2PW": 1795593811,
-  "BbnhwPdKo9sKnFx7UvqYfoZmEU5XiFdwKvbw3HRtFxy4": 1795593811,
-  "F7fqe4yXs22KwQ9jsUT5XsgvKARs6TbxbgzQaQXtKaVJ": 1795593811,
-  "BJMFqKxpy3AcarPTn68yLbwkuHRm3sXXtTcXHxDEVE1V": 1795593811,
-  "9hrc7pbyyZRFbKsABGXDcZBrt5UctN7WKRA9zHck3cYt": 1795593811,
-  "7MefSP5M3MJF4Ro8SSi2bB421gkhz1J3rhYrkgBCjX1L": 1795593811,
-  "9NM4Hhv1ExKxQnXuXfbn6UX2fVbSu4NxfvNyrTEQQ11D": 1795593811,
-  "3172wbjySqMxMK2pvtuQkRULbGBPdbvgi5FpFuC8goGG": 1795593811,
-  "BPBuE9rqht7WB16KG1zhdVyjWUbg1wSvmag441tfMAjx": 1795593811,
-  "4hnxbP2tX6zBNJTqBTtq4bJfhQyH9HHYMawfU3oo85E8": 1795593811,
-  "NZaQGN3qP14rWqefx7fK74b9ow9vg29pY1umiHipZrW": 1795593811,
-  "HJ3RH2PMvAsoZm8A4htNKmPvFaA2Gga3VH3C8BzpTjaT": 1795593811,
-  "AE1Myjz4q8dKooHKzjcpRDGFgAeuUV4F4kS67aJrZLCq": 1795593811,
-  "8GnGnDA6kHqcMnz1FLzzrKy5Ddzug15CDP7erksBcJkh": 1795593811,
-  "H9bPr1utHnxqsrrhotLJE2FghvCWEJq5sjJ9Bfiu3GtD": 1795593811,
-  "2b47UqEkNnLQEsDay88Nmth6FbMPzfXbhoM3BYoWpNAH": 1795593811,
-  "CaDZaSTa44WJKRkr8FySwVYqJj5J2mvKKAtmCNKpedpv": 1795593811,
-  "EUTGNs7ucQULxmbk2m1FviKHr7FPtQwYE6i3ccSQcjz": 1795593811,
-  "8stub9XPxNsiFYX1wL5hJCvUiWrGNE6dey5cgsUzyu83": 1795593902,
-  "Ew3voY5jxqd3sMmP5zamNdnP7bUvTcN4Z3EZgBdgSxZe": 1795593902,
-  "D22tM8CGUcBgNHTLXskENxMkarq2Lhd3vkccGuXSxDtb": 1795593902,
-  "C5r1zDyBSwEJ2q4ycmZU16UkZb44rsn1wa8TwiBoacNj": 1795593902,
-  "E62GaH1o6dCG6g732gyFAAUtV77JWpieuNwWq2QH24Eg": 1795593902,
-  "7VqdFDYn8dyN26QqXraLXHcAFiPbmHQsgyPVuBwsYyfH": 1795593902,
-  "BqrykzCS1ihQdnCxw6y8jvMS8iiiXQMYh72cUd8xkGmk": 1795593902,
-  "FG7ZDMuquJ5rwPgLX65DNDxdgcRa4goVNxvdG7T3tXpU": 1795593902,
-  "CpPimwrXsmca8hJPKWWqAMSWRs4fVCC9JanBNhwRohPT": 1795593902,
-  "FsFbbptag1NhYcUWBq7TrfrDHgXgHiVkkC9HTqtmNfJ4": 1795593902,
-  "2CeQNrtWq18dUX3GXtb1z3uwn5Uu52eRH7c3EWwMHNKA": 1795593902,
-  "5DtJ22gmjWKUgmKvPQgT2uFqjtwSVNjR8N95eqYxk7jP": 1795593902,
-  "75DGkYAWDdvS5bpoXfqU69jQWDF5xrZfT6q34zn1bEHF": 1795593902,
-  "87CpedUkPipZTULeR6M21SdFiTmau3kcsJvE2wCR9A3m": 1795593902,
-  "8K3BCCRPSaeAkCRwW4iAtLCPZ5AomuR32WY9LvRMSK4z": 1795593902,
-  "Cv9RNMNyeGvh2B1GWNm3sJad69pH2prSq3JKnc7xA34V": 1795593902,
-  "H9JUZQjeidYTqGGxcnWA3h2tk58iWLzy56GGS1yDNptc": 1795593902,
-  "9uvhTqVxY8EPADa7dQudhqSf7f3mJ4JoKHt1z9upKDjm": 1795593902,
-  "7U9t3ahfZgyFyk1fkwSyr18s8FWQLL3XtvRhqe6fNpHt": 1795593902,
-  "3JoPvqzi6eP87LQhTGTReJ9QgeZv1mNmg6aequS4g5WD": 1795593902,
-  "E7dkLqqYmyK6EE8snM12DBqiVf4JDKgmWZQVfPVzLrNz": 1795593902,
-  "C9QdeuCUp7AfzBAdy94MD8Unvw8G94Vpx2fNm87axqM9": 1795593902,
-  "4aXN5tFnd26wAofQTFwVPkUqCUNHJB1ZFT5RCanA83dG": 1795593902,
-  "9MHoaKr2svxrP9iFMUVbTiCAXGUwHq9jjaeAsvfrd1Eo": 1795593902,
-  "F1zVoMpbZ4wzoTm6uet3BEu8dL4XUE7gu8RLbgga6FVy": 1795593902,
-  "5MqFYaMsQprsQVCt3ksSK2LkH7c8FxFEgYFn9PkYJsww": 1795593902,
-  "9Afe4iX4mZvEXGac9GzzMZHDqT2nQApj3BibfYCjnJVB": 1795593902,
-  "E5PpNz3jMYWvLE3kxDwbAM9oVy5jn5E9FYoNByt4vLhx": 1795593902,
-  "7QGVEuuF84xrbrMA3vKw3kpf7gvQ45rGNYAWaRAVqGBa": 1795593902,
-  "85a9HgyfKX9qThtH1E34fMosBmegbS3TJDF98jkNPsjF": 1795593902,
-  "BVsJbeYjyXRanbvcvVmRrr6ZFWojmA5YFeS2ACbQmsCM": 1795593902,
-  "7iGRuY4Vat6ps5Ff11QaUJN2aF6Guq9HpXhseqxNsFZj": 1795593902,
-  "3KQaD89wDFn9nNTQCidtbUMBMpU3F8rwCuM3WPqiH3iY": 1795593902,
-  "23xUD9XJTVMUEToAzCLT6dNDL1GfAexpcmNHvAfUhbCf": 1795593902,
-  "HMRmPKkStNHa1XiDqzA4AU96E7M9nFNjQ87wca4N74WW": 1795593902,
-  "pDxjA8HN5ZHr5VUgELz9TWtFKohHsWDNCb56NwqrHor": 1795593986,
-  "GxknDLnsGRRGDEBUqRr1mjeiFNbHWz2eaw2S8y4paAU1": 1795593986,
-  "4CYfRZ8W2MukbRFqZkHZaXNDUKGw1M2Ca8ZvS7MpWqdT": 1795593986,
-  "8ayHKhNjYUvbxTj4Voh7q1od5SSJH3hfo8ecbv4zAzLS": 1795593986,
-  "Ggj8Eog4h5etRWQoVbfiSRnRQvoL69NB52o9rrM5ycXu": 1795593986,
-  "HdCCd5QZWQ367hJfDYh7yn6QgxB4geAWJBxkUBNePae": 1795594169,
-  "D3WpTAYAgjBpdjDtUfjZVM5HepwfRyMR5kf9frPag4bk": 1795594169,
-  "DD7jD9sEhQzx9dHRLWbXAbfRtGwK4v8w2J626psQBFx4": 1795594169,
-  "Jf8wL8z4oDEQbvTQxDf4HU6ygBost2VNsw8buviwYfc": 1795594169,
-  "FWt8fDe66pk7WunXivzo6muD754kTGfCRyumk6bcMweJ": 1795594169,
-  "A5fPjLBxJ1e7o4sTxc3yxmgP6QdbAjtqGmtEuBnwCw4G": 1795594169,
-  "HgDChV2mL4bthrEhD3MdWHMjod9DzGCZNQX8KyEWYihV": 1795594169,
-  "9UHshz5Fph9NvZzgbA2dV1ncinN1noDiNSekniNd5ZZn": 1795594169,
-  "4sHjGzuvrHzAr74dFgtKxLAns45E4vfTmNGYqeFgDHSx": 1795594169,
-  "BXF9ZibCc1djNzh37aHupPXG51xAnqQMx51i5HA3dCpE": 1795594169,
-  "4vby81a28h3AaqHcJBMjyNJY56yRVpn2QtUnFY1wmwiY": 1795594169,
-  "G8ykEnnA4P8MPY2EMEXXpPzMX4jgXrrmHZ8LTTU6QdoK": 1795594169,
-  "9yjfeBZeZSyEwx9Vmk5TfVPSm2U4AjHL5GTXiZPEtyH7": 1795594169,
-  "6EKGfgpdFyTzM4t7LZ2simcuBcLnuPNiYh2oAGsrY1Ny": 1795594169,
-  "Atxs4yV2WBjvp36uPyZXahddWWZb2iVWsnPZSGqwxuim": 1795594169,
-  "F3pY7rDU8Gj97esUpw3cAt1EHiFf916SSFyMXVq8rsXN": 1795594169,
-  "G6JUndEmRJ2mrNF61AFSJNhP3sGu6ms6YTmu79bHFFQB": 1795594169,
-  "2KKcbg1UG9iXjLKYFHJcVe5TdH7Be1NhdVLv2HoaNdx2": 1795594169,
-  "HpMs4GHF3HnA3Zh3LWhZQdCU7B5pq74dD6wWBU2LXgnp": 1795594169,
-  "GX4bW5Rr3tFz93CVnNKaim1Poenxa8kTD4PVEY9b3Kau": 1795594169,
-  "4Noy8AHKbf9xxyANwYLsT4s96qyKPqcCn8nrmNDqt2aU": 1795594169,
-  "Fx14Tx7cJWEvoPnzWtHe9XjaRMGFQtysnWvn7ATPVDqv": 1795594169,
-  "8owUWA7jRyGNiEz4iT4NJAFXsiS9FGNxHtf8xp6Bbwvk": 1795594169,
-  "85nDKHk6J8KhpvE2sZcBLkbxrg41W77mY7MeiTbDpdSE": 1795594169,
-  "5rcX9ysivG7ieecrRFDMwQbcq2bwNkv8T6BPPjYgFmgr": 1795594169,
-  "9iTG2qWhVwGNe9Wm1qqvdriXJqLGDLNcAiMEJVHy9M87": 1795594169,
-  "GJNabLhArDEJnDM9x526V2JfPWZrqP9ufZFFhZt9Xst7": 1795594169,
   "DxqkekyvGazQ6u1c34vUDveaWiQvJbqNiEbUKGRXq51G": 1795594260,
   "54KCd9p47ApddZvMoNZFcRFhiuMkp2rwmAQiw1rZdgxP": 1795594260,
   "8CYgC39f9VfHpLTtfnfAiN55byRSBDbxuCHfvyP1ZNXJ": 1795594260,
@@ -2067,107 +1907,185 @@
   "CyrXSn2L2Q2c3gND8dJq6xyVira9dxAVwkmAdnRoxEC5": 1795600747,
   "3e8kLxxXzuscH8HZtgizztBAM9A2QSDiEwTVwa7tqdxY": 1795600747,
   "8QrV331ipBdo7Rb2ws8h7i7F5hh5NuVRwaqJKtkY8wrS": 1795600747,
-  "Bv6o9bbEhJLtf2gDFwmPnt7Bjqx4AkVN1KWJPKttz6Dc": 1795600747
+  "Bv6o9bbEhJLtf2gDFwmPnt7Bjqx4AkVN1KWJPKttz6Dc": 1795600747,
+  "FGu3jBwqvmyjBuHPShf9897YXP6y3DWkUaeQ2RLPh3uL": 1795600836,
+  "36TEn9T8CJacZFom28UjHVTRonfB1UXa9tqWMbuETZR4": 1795600836,
+  "EvfyyATrEz8R1tFXGPJowgezhJcS46DRSS9XFQ8WjjXp": 1795600836,
+  "2MyNTbbLUL4mvKVb1sxyH9cGcxgJN89swHmFDUiSVyzh": 1795600836,
+  "E9Myyhwhw7rdaP3soeLQVHaZ6PAtk4yZoidVPqLyJaRF": 1795600836,
+  "FfuUKHJwc1LEfJ1fmqWCNj7QgfThwPfWWqgLpxLs8Xx1": 1795600836,
+  "jtcKnj2F3tyA9Y9N4g8SZpwF5xbzzvgrPzJURpzqX42": 1795600836,
+  "6HwmFSzw6QCTrWumY5KuybBcUeHyPaiSE7cAB2UhtRMh": 1795600836,
+  "A7HaXJnpimgzELJjLKHK73BbaC6igG5n7jnTPvJzcNxE": 1795600836,
+  "4z7xjGyJsrCM45hT7BuimEA6disVr9wCFeQBNmCHJuD7": 1795600836,
+  "D2BD7NqxdoBZnYUm9NDYCdAa7eLAyQtS3QqJtZnwrw2t": 1795600836,
+  "BjvAMPicnvJCZU7TVfoPJpKBu4vY5xH514SSRjFw3Q2J": 1795600836,
+  "22dnKCpN3Ctzdi9pWuP3R4aWvK2HAhRDLZtBizwYLhNA": 1795600836,
+  "ALAc1sMv26i4jMYqotyFiJJ8yycdWehvzasZqPcnrt5p": 1795600836,
+  "2pkfdtFqBteoMZ5Xadm1XxQ6cvR3SzNwGREmYvuXdJF6": 1795600836,
+  "BtqJPVtDVhLug3cMDcV82PYjcyiKCsRQWWkDqkH5omSd": 1795600836,
+  "ZeoBug8KaLrBW9aux2pmaVVHXMHxYvaqBZ8sSmMfxJA": 1795600836,
+  "GuymEsJTokqRD8uQJvM1QV8UafmuYLbUvZyc6x3szGvv": 1795600836,
+  "6vTCZzLFeb7mxytetbU7gppAzV4cFNjSZJ2Eprkxb9ei": 1795600836,
+  "FZ66kgVfFXDGaES98Ni2sVyTGueh1UpUHDaj6w5Dj327": 1795600836,
+  "Cwhu5dFTQBAFtDCQ3BoEZNcrbGjeFTBSogMkoUq8ganE": 1795600836,
+  "GEnnDFcEo6RiFjGdodenuhnM5TqjuB7eyZpVYndqBJuV": 1795600836,
+  "5hdTFDqwYuMch2BTyBbuZDnT8daGRDSaKhzDcnkcByAJ": 1795600836,
+  "G8F5UDSUa9424hoMpvV6rPRgWkweq1N2wZXSGVTeTUY2": 1795600836,
+  "z5jMqHb9q44qJLfZcoWrDE5BapkjeeP9rCm49ndJRF3": 1795600836,
+  "448Bq9k9tmE63bbcJXUokZcwz6d1Jbv6JWBARMzKUchm": 1795600935,
+  "839G2BMQ9AJ8q6NAxVbt4PVJitZcV7qfHiUENcA1gyJC": 1795600935,
+  "2i9LPQEDPMBiELrwWKkvFE9GZJadJokJGbsLCMtV26or": 1795600935,
+  "56mK7sEDMSVpgJKa5xaMne8kEDDwNqKXouzvTXWh6Cy8": 1795600935,
+  "ETS4fJFdzB5pzaBD7ExhE54ieTP1H6xRu4qEzgd2kq7v": 1795600935,
+  "B1zZLVeGCExuk4Rshqcwta4uyQLGYg8heAweDg8QKjFg": 1795600935,
+  "J69iphSXYC1wF5sejWYwwoeFiHo6zTwgrC2MuaFAgKXn": 1795600935,
+  "54wgPVk6Mkcj578JiwCwxEZdRw3QVMBtbqqFH4EHnyNn": 1795600935,
+  "3cSK8BHQqUq4CvvzTWggC79mMFkoDpe6wjxc2nRSgfZH": 1795600935,
+  "6q2zqqQP2xZL2J6Kqm3a2Hjm1nrHTJkYeAJyyPxHeGUn": 1795600935,
+  "7afHM7iWXJcZayvpVoAcWM45Erkk3S625C9eHni9LxJf": 1795600935,
+  "9hpuQwUDT1697x4iigzoeuNsmcmv7HDL9SJcGiPetGrn": 1795600935,
+  "EMTH8Rzhu1cfxQVnLbb9dQxSsJMpAEBXVGgwyRSES2dR": 1795600935,
+  "88xxAUX9CqJGfPFb1w8zWX7HQeo2FzMzdgfYFL4rgFF6": 1795600935,
+  "7ruzcTRcPuuUdJEVMDnqWkPyu7kViebqBgXePxJ7aXah": 1795600935,
+  "98dBJEqjzAVUoMjvEJhSj7PcFfY6K3966DiggB5P7hri": 1795600935,
+  "B5BaG7tzzxbUSWTVDWaQJeD9FZQT6seaWYgiuh2hV6EA": 1795600935,
+  "22XGLCFbTASyxXvP4ANgxHRBzPDrmkoipQNXEids3CLV": 1795600935,
+  "9dWYZ83cjg98tDaJQqysxgRKYPug38qCcJh7Zn2pnwqY": 1795600935,
+  "CDBKmcEsdzzSMGFPBj1JRt4RgFovJJRRgWH7dzxMdNgy": 1795600935,
+  "HkQYATG5FA4yutHXWZBiBHUAJqvboeJJayvdKcySpxeU": 1795600935,
+  "8sPXJM6Z4E9jhXCErB4SNFyNDQyQPCRTdm1uYQ6VrKGu": 1795600935,
+  "AedpN7WqAE3t41jv5HSyLkf4P5AbFTAwcETfjmZGp6nU": 1795600935,
+  "FiiEzZgU23EwbXNBieBmpY6Zx22rL3jfM3WwphUaSAQz": 1795600935,
+  "ByEt8sjjJfMsEK8gAbSs7eB9Tm9bChe4zCLUwuqNNfJf": 1795600935,
+  "DwKwW9fmyuAeFuqQVWE8euX5WUJMGo2umyxVgV3ZBWJb": 1795600935,
+  "cYovYXw68qTALQqQRdrFT6VbCrdPmbDihzAFavpoZCi": 1795600935,
+  "CdLPYQ3yJSsAHDYoJrAc8ht5Wvm4RZYAdfM4CAA6NFsY": 1795600935,
+  "oUUU4CEQYLFxHtFwXd2ACJH4emsQpk5iYZ3PxuL6mRM": 1795600935,
+  "7q2baJcwpWpLxphMGSZpZaCs9roAnHMyRSvZiBbeX7w1": 1795600935,
+  "BKWEAxqE2p4VKgeyuyXGAP96PkmQf8gKLA38ZHEsspuY": 1795600935,
+  "6oHhQYRHLhsVzfEziwXNNNgjHEMcA6eqSwC9mjR8dfAP": 1795600935,
+  "4RG6g8iiAdkoKAsCRFFkvRkTWS2uBXYsi8GPBa9wPnBu": 1795600935,
+  "Eip7y2zBXiZqS1tec3BqW4dbZ57gAKMWDdvTMmp7MbY3": 1795600935,
+  "9HzUsouFsueodsaJVQP4gwEkEEL5iJiLVAp5tKydiyyC": 1795600935,
+  "2HX5wmzsPniwTB9g7BehbsSYKfZqv9k3ifktVqe5nkEH": 1795600935,
+  "F9AToocWZ6y3AahaPeuGhfRaZGhsDzNsAAibrNN7i6bD": 1795601019,
+  "3VRtwgR8h1pmnyFUwbwUZJAF8S8nbgQnKqX38xoBjfgm": 1795601019,
+  "9BSnvqXnrPb3KbXKwSGphb6KG8YQta1WgwDGDTphextY": 1795601019,
+  "AhDdtQM4WcHHnMGdPZFFJ2etXfcXu7PFx6sHcw6ECozw": 1795601019,
+  "8TLC87k8nhCGZidHb4Q5oGrTLCfHjMs2F9vG2gDksJLM": 1795601019,
+  "EtqbikLTkFg7bzjY2NKgEJY4XmEzWZ5dsPRK3YmpVGv6": 1795601019,
+  "B8qWjjqoS9v7vHsH1DssdDg7V3oi6XsCKirqFJgQYAqk": 1795601019,
+  "HMwBxcfHHJ7E4VbSfgy1W3t5aYqko81WXfEVmk7esC2Q": 1795601019,
+  "7AfwcZBER6yTRNSnjpAWSak3cJgQAhF92FrCAtN7xQXg": 1795601019,
+  "vANC2V86Jhk5eU7aDWEJjXZSwbg8fqmKYeL7YCWyBNB": 1795601019,
+  "5GWgx3RFq1rS2uHeymwVUv4JbbiMcSgXVuFy1s4vkMed": 1795601019,
+  "DFjh32Qz678WdoDKzFBJvRVyDaccBktaZUtmhHJYyxgz": 1795601019,
+  "EsA7suhERsEtjn7LJCkdCipsvWRj8g3yUkz3x5mLrj2i": 1795601019,
+  "DN2WhUr8ppeiWkrhyg1GHwEu6mhd9AW4XNAruziZpXfc": 1795601019,
+  "3nZ9fWW6bbCKV1JkqjW1yrW3sCnXPkxRn63C9epbbt7V": 1795601019,
+  "F8gbXSc617TGcxjoqd55fbJdGeXiW7T9Q2Y7WrJFH9Q3": 1795601019,
+  "2a7ySR4sgtcjphe8ypWRfoZ1rFkf1pfLjvhFoRgCvagG": 1795601019,
+  "Hc9MYiXpAbLDj5vDkLSV75iq2867aFNnEajUqscMsoHf": 1795601019,
+  "CLwRAAwTc1SfxLLabbbQ18sJG5J8ZQ3NqQYS4LHnxmsK": 1795601019,
+  "H96UYyRHq9yDftmyQ9cVMFNrJqUtaaeWJiTYa8so7qJA": 1795601019,
+  "5Jh6rUSCDtSqWyCxf5ftwVVWKbyhXLNvV1SX3g6strY6": 1795601019,
+  "Bt9HVgxU7XRKUivnPooucddksTMvmcVZF5cM5Rh5b2nR": 1795601019,
+  "6p1Spt4QoPakadZFz3k4CvbAiwWe6tRGWSruUHtyBTwA": 1795601019,
+  "GVm6gMPMTnT2ndsrE6Yu92zLCPjcoEFj5UewA7JPrjwA": 1795601019,
+  "EZ3pm2BJW7V49PjoGDLdTT9vaE2EWpckWfu7m6q5MAqD": 1795601019,
+  "aKWqBdTivtxBG2SQ38P2QjHdq7StBenvDcLBMZjyGak": 1795601019,
+  "C8NAQ1LpUQK5SaWKSHhgg3Va2PoevXEVcnCCZ8odoJs6": 1795601019,
+  "7VPkkD5kVDM4ro1Y25eUnkAt34U1YoamskAEpQjQxgpA": 1795601019,
+  "7rtHp2vWNCZ1b6AXUH9dkFLHjwFpqJ5myhABEQZD9ZLR": 1795601019,
+  "5oqSUG5fTHehkkMY6xD9aB66ht1xiY8ZWhUXxkZBzwSw": 1795601019,
+  "91dwjrtdw55A1fbm7RCqDJSWBhJMdGqAG8D1eoxTFrGj": 1795601019,
+  "4tmxDQicqS1ErhcxPov9Vy1mP3dkQYPztGxQcyESuTyS": 1795601019,
+  "DKe9P3Aa23wfWoUUCXfFtZG2y23i7yUxqYEa6VaGKBEL": 1795601019,
+  "EfrJJSjbcnQmyWj1RNgMAebqKqrCsdmuaDqRahj3EoGr": 1795601019,
+  "3vL1d8SzBK3C3APh2p5usMMmRSyJpQxtWTMa1VaGTzQq": 1795601019,
+  "GjeY9b7uhWbaTN6AQnnd4MusXF3dvXcJh3NQi15C4Gnz": 1795601128,
+  "DX77yTh2xAvEcqiAfZCMDfNt71SseE3HwGw6VnT9Wpiw": 1795601128,
+  "8m9DtAGycRTZv3FnNzJPU9Lpsb8PeWEhTaG19VyNykE": 1795601128,
+  "GNePoTQVAHj2tvRS8JFh2cjyc8rWCtQvBYxpbP78T8hg": 1795601128,
+  "H2t3gZ1W6i9Yvprwn5mTLZPbgvwP73xvJbJgdSYkvjep": 1795601128,
+  "D4S6muurmePC5oMYDqLbPQhdMiiefKoCMMbWBghUhr3y": 1795601128,
+  "93MzmWt5SXff7dacwrsNhw7epSjcxVZ5Zqx49f9SmDiN": 1795601128,
+  "H1MAqCfLLT94BKdw6Gns1faiavmqvDsXaBDiKhG4ez4V": 1795601128,
+  "35xUkVsLMMn8nmdPDX6LKWi86qimRuhoaUURsy8GUzyK": 1795601128,
+  "93Wp8nFrknssqvfi8fJYm6Thi4QzWtSyqyuYnLzC6TTr": 1795601128,
+  "DcwasLnBAEro43HXH11hcSRwTuANZ7xGy4SiFtjnxxah": 1795601128,
+  "GG7CRBAz8RtcCRrUJLfCFpX67ayVE4Lk5uRWsbNfrALB": 1795601128,
+  "Fk9A6zt7CmNiqjpQwkSwthGN6L5NUvAWKpL5Nh4ouMor": 1795601128,
+  "4UfBqdbPRTBPTeUGZfGpQhkmvZTrwDyKD8km47bRr88G": 1795601128,
+  "HyjECZY2g6qSauWMFPomSB8KyBVGLhk9WAGH2EVhtGrS": 1795601128,
+  "AbMoZySUVsT2cLvUWQh5gqHUhs5wyFh1pYPriy61XPW": 1795601128,
+  "GZJaxbDbxk2oWMZUAT7aYca5AgFse9WaRByAjBxEuqQP": 1795601128,
+  "34BXQSMGt1q4JVqJTNHqNCWNctiPzfWMUss84K6ALsn3": 1795601128,
+  "C9Afm8hEYApdU4DZw4xgHiK395GGhH35Ry9ZDuw52zpZ": 1795601128,
+  "96DRJYHWRgtJ4BGpeChUNb4VHDD8pj2feQbSwzAmCTVD": 1795601128,
+  "EAt7bbJfmeFChamoiwqBwekbzUnDLQhxeNfmkukMRnRH": 1795601128,
+  "78L3rbDnJwF5SFJic77n2yqy8hsk3qfjof8knVkGdc5e": 1795601128,
+  "838DH8XkVLNLmZovtApyPuY4WnsznQV35TUgt1GPkcY3": 1795601128,
+  "HFGJe1yXzmpKQTX2ob337SR7dmR8sB1KpRmsMC7G9Lz7": 1795601128,
+  "2ZZJ6UnUZkdvcUhU3XNH1Vp1y2Jtja1BBJ4khYiRapzB": 1795601128,
+  "7tbuNhrTo6cKZoTTG2Yrjs9oyZ7SETWPyJ38HGCuzy6f": 1795601128,
+  "8ZHt3Y6iYm39Rb1dZEieivpJEvta2i7fV2H8RFveQgFq": 1795601128,
+  "ASszEXsbijgTVJm7zLExh1T3PtmS7KEpSqDsdCyqcNax": 1795601128,
+  "esgdkWyeWFuzB9AxaHXNRbLEV8i4awebzSrcbZ3m4xG": 1795601128,
+  "2TbCvWWw6EixVmLzLoz2i3bpmyyTJTA2syEuRZT4K6nT": 1795601128,
+  "HYnuYABqkqetqHBEvFbiSiLLfFVNLFmmCkrtuiSnc1JD": 1795601128,
+  "3mS2JzL5mcNWw2738Cp8rJeHoskNxGyfffFX2WGsxw25": 1795601128,
+  "2mmWnrRAuog9wD48roZc3YAnRPKyHg4SKQxP8evqynUZ": 1795601128,
+  "Amff5qd2wJAb9RFagDVeZEVRKB9pZ51ZXMfoEc3uDxaV": 1795601128,
+  "Batr5JzybeeKyFBWXdRc5QLYYCoCcYBui9gGnYkz7h3B": 1795601128,
+  "CU3Wn2HHafT6DX6xsdqVAtXtvLFcpWwbimhTkgq6BEqV": 1795601128,
+  "4ztp3TfaA6REUtzpr8QQHVU2yihjRyPpQRWhvr96TW7A": 1795601128,
+  "6uKFMGBwWsagwdJqTKNnxEeGekSvpPEhuH5Cz3woacFV": 1795601128,
+  "9ejjRxvcWodQy3fsEi1gH2VePq3mPr2KYrEqUmw3FMuN": 1795601219,
+  "949H4s75WjyXzJWNd5yoyXjn4tPzGthbG3mAC5NvKPAZ": 1795601219,
+  "CDkAHdsCHDinX1G9KPLqRwnrSY4GkzX3ZdWG4tXn1Ktm": 1795601219,
+  "2Na9SuAdawzKbjaDy3YbQXWEpRpbBpM2R8DjWXAmE8qw": 1795601219,
+  "Bxhbto1kHhcUSYdVfqKx1AtujviwY3UKKPVTt1cBfWyN": 1795601219,
+  "BC9zAQst5N7VgbfzewgsDZTHjh63sYksmDPwaj6DWeBP": 1795601219,
+  "ENQFeRNu9EnrTHA3QUxcJxNeNc3kKbmGfpTSdfCVYyRw": 1795601219,
+  "HTt4KfaSoZvKuRnZNbcxFbPBZzfyZdGaW2Rd3oTAUw4U": 1795601219,
+  "6pmvcCTVvy5iLvWzxoWAYkad5dajkwMKWeGYC1UbJ8zP": 1795601219,
+  "AJigQi9CoYz1aZLvqkQawxbVxAK6ZJeMS725JsYQGiHe": 1795601219,
+  "CXZNHxiBSAfLMeNpf5pruawCE4nDNWtRDSsUmwtbSt9d": 1795601219,
+  "AAuLGB8RAkvdbWc9K9J5bchBz3mBMBbUAKa4gk85a9Hc": 1795601219,
+  "ERdWsf5CDBe6FnY34FQGTBckaYhbjjCRfGH1XqiFpDNM": 1795601219,
+  "2p4vVx7yA9EMzXzq2a88SANWzzbJm8ugwzuTg3mbTUQ9": 1795601310,
+  "ADmdyDb7aTB25DNdUXYTb9gJaSee96kfjsC4kn4HijvR": 1795601310,
+  "C5Q8XXVVG3knbcuW34inWgLA9qYg6ybabZGgNf8wWiVR": 1795601310,
+  "9TjjRfXdqKSDoUb9ye8WYLSuFgnkQ52ecE675RMeGQjA": 1795601310,
+  "4mFaZujG3cxQ1boMKhJLNkAmtYJD2KqVamHDVAFkQSw7": 1795601310,
+  "B22PVeCAC6p6jSvVTf7Fp2UpmDBwqMPYPdirmKDxAHHc": 1795601310,
+  "Gd7HJx5DPrQpeMjXSueZhSDAndo9CQ6JZwq1XhZ93bx8": 1795601310,
+  "Cvr3AD7KLurrSm5CwzjKjmRXCTxoS6qiousV2aZHRiBT": 1795601310,
+  "BR4DCRTdBMBTzsAxbCw6vNK1iBn7Suaip5WrG9oQet9K": 1795601310,
+  "FaFdfWTN2B7XATtaxh5YwCAJfzuDzGWfumYLNN6aCfb6": 1795601310,
+  "CKft4rqMfVMGNSchKc8M8brcv9PvhfrQL7vCnBaNVEMu": 1795601310,
+  "FmaiLvDLonjb9U4fTcNHHsWaz8ktA24m4KFP81tQFgDX": 1795601310,
+  "4dhDVxn5ojKjF7F6FuoQmiF6jmUbHT1ZtB6fSXdXtd37": 1795601310,
+  "62yuRjiQmAG1KxGCfkNideMUiBc5cP9Qr7REgo8rjUKQ": 1795601310,
+  "Bgr5Ygw58Sd2byJD4v7uixTF1p377ssWVeriyFJrfXTK": 1795601310,
+  "5Ega3wNzxGEs4PEtpQN2gTyjHBvBJ71hfkHZPPPmZo2i": 1795601310,
+  "GV3gFFWLfGRCEiwAMDYhEzAMjHrbgGLWUi5jGENhid3x": 1795601310,
+  "FN3f5PAcYjL95MoDq2MtwztRE2MBQmHhm5LNdPJ9JxiG": 1795601310,
+  "Hc6QN8MnMJLaypMm4JDoUc7eYcmv2QbgQEWvyxQgC2EA": 1795601310,
+  "Fpnr4pW42X3NMBjV32n8W9snHu6Rc2XSbEoSESxt5Mxv": 1795601409,
+  "DS87iNptYpAk8c3cAjFV48QiVaravWH4HnCGMPM5knmV": 1795601409,
+  "C6YTpM4RWugfrFZjnQR7eBYaipBpaWt8KxgJ66R9wNc7": 1795601409,
+  "iottJ9iW9JBpnEjRrAjJiovZ9ACULKzjgJQaWaWSF61": 1795601409,
+  "3K8REz2SqKTC9YH9XgnicnwTcE4NjCxomsggD5Gj6vLD": 1795601409,
+  "8hYnptS6NcQvogjUEySJMhuCpBzqPCfeoiyLGxJjC1di": 1795601409,
+  "3AeUXY4ubRQ7ARrZ3rKu9jRoFEigGhKa7hT9gkpQUc4Q": 1795601409,
+  "6fxYvvkZZPGe4Tgn7ihtfHxmXeUvrRxox2oeSFE7Zi8": 1795601409,
+  "9D5UbWhLU3MpWQ9CT2UkPyMLqTSm9J8VhMuVJKitSkCG": 1795601409,
+  "ACGWHdJU1o5LtLHg3HZrnNHdZcxVDbEc8YRnefagWiW9": 1795601409
  },
  "open": {
-  "2nBNhMVDD2c6nt1jfQM2YViFxULRdECE8emqEA9VLUqB": {
-   "name": "GTA$ / SOL",
-   "entry_ts": 1795596704,
-   "entry": 1.36623593304581e-05,
-   "qty": 7246186.226363915,
-   "spot": 1.350686521203626e-05,
-   "liq": 17199.1027,
-   "selected": false,
-   "group": "mom",
-   "start": 1795596720,
-   "end": 1795600320,
-   "r_honey": 0.6086150900517702,
-   "p_honey": 0.01
-  },
-  "Evf3v1uqTwxkJsexKNDq5RdFpr75zgdtA9gQErjQD9xy": {
-   "name": "SNIBBU / SOL",
-   "entry_ts": 1795596803,
-   "entry": 1.0915267762407829e-05,
-   "qty": 9069864.537904961,
-   "spot": 1.0778372221678941e-05,
-   "liq": 15589.388,
-   "selected": false,
-   "group": "mom",
-   "start": 1795596840,
-   "end": 1795600440,
-   "r_honey": 0.5740600524485096,
-   "p_honey": 0.01
-  },
-  "8C3NDt1GmwXWU5AvGmqTYvMdqNwBhFwowSg4JqpNtYqu": {
-   "name": "PUMP / SOL",
-   "entry_ts": 1795596803,
-   "entry": 8.471163523649598e-06,
-   "qty": 11686706.285814704,
-   "spot": 7.973053728034022e-06,
-   "liq": 6280.071,
-   "selected": false,
-   "group": "control",
-   "start": 1795596840,
-   "end": 1795600440,
-   "r_honey": 0.8753690415617374,
-   "p_honey": 0.03
-  },
-  "D4UKy7S7Eq9pX8kctUUtgvjFiXkVnw5ZVnmUR3q68AX4": {
-   "name": "DONJENSEN / SOL",
-   "entry_ts": 1795596887,
-   "entry": 2.6321170549664954e-05,
-   "qty": 3761230.9001683127,
-   "spot": 2.6200707180169617e-05,
-   "liq": 43064.8756,
-   "selected": false,
-   "group": "mom",
-   "start": 1795596900,
-   "end": 1795600500,
-   "r_honey": 0.8639463469122247,
-   "p_honey": 0.01
-  },
-  "43FPgqTev7vz5NA7HwzbVkj4wbuZYRdXUwZdw5txwvbX": {
-   "name": "HELIORA / SOL",
-   "entry_ts": 1795597068,
-   "entry": 0.00012994508989710277,
-   "qty": 761860.2601944661,
-   "spot": 0.00012888426659281492,
-   "liq": 24055.924,
-   "selected": false,
-   "group": "mom",
-   "start": 1795597080,
-   "end": 1795600680,
-   "r_honey": 0.04661238141615698,
-   "p_honey": 0.01
-  },
-  "A51t2fwQqbT7E3RpbMikv5RyvD55WVdbTrwuEVMYycsz": {
-   "name": "ROBIN / SOL",
-   "entry_ts": 1795597068,
-   "entry": 5.2277517343750936e-05,
-   "qty": 1893739.5084970328,
-   "spot": 5.0339273817572234e-05,
-   "liq": 5142.3756,
-   "selected": false,
-   "group": "mom",
-   "start": 1795597080,
-   "end": 1795600680,
-   "r_honey": 0.9230218461459052,
-   "p_honey": 0.01
-  },
-  "CsfzhiX8w1YPXioLR62mXQq3AWsBYXqRaW8UDnwzdMHA": {
-   "name": "JaoJiu / SOL",
-   "entry_ts": 1795597257,
-   "entry": 4.899441762497227e-07,
-   "qty": 202063836.65542352,
-   "spot": 4.888134034990895e-07,
-   "liq": 85591.9581,
-   "selected": false,
-   "group": "mom",
-   "start": 1795597260,
-   "end": 1795600860,
-   "r_honey": 0.5367809918885288,
-   "p_honey": 0.01
-  },
   "BH5hDoMZQraNrAm3DxJ8Fcg6Cz3WFag8NgpRcuqfp3SP": {
    "name": "JaoJiu / SOL",
    "entry_ts": 1795597348,
@@ -2615,218 +2533,42 @@
    "end": 1795604280,
    "r_honey": 0.8574497160448173,
    "p_honey": 0.03
-  }
- },
- "watch": {
-  "448Bq9k9tmE63bbcJXUokZcwz6d1Jbv6JWBARMzKUchm": {
-   "name": "EUER / USDT",
-   "created": 1795600018.0,
-   "price": 1.161605255957646,
-   "liq": 5100.00531167032
-  },
-  "z5jMqHb9q44qJLfZcoWrDE5BapkjeeP9rCm49ndJRF3": {
-   "name": "MooSom / SOL",
-   "created": 1795600017.0,
-   "price": 2.0201331805770073e-06,
-   "liq": null
   },
   "G8F5UDSUa9424hoMpvV6rPRgWkweq1N2wZXSGVTeTUY2": {
    "name": "JUGGERNAUT / SOL",
-   "created": 1795599984.0,
-   "price": 2.7280972690250925e-05,
-   "liq": 27180.2708
-  },
-  "FGu3jBwqvmyjBuHPShf9897YXP6y3DWkUaeQ2RLPh3uL": {
-   "name": "IPO / PUMP",
-   "created": 1795599893.0,
-   "price": 6.304564002832443e-06,
-   "liq": 4398.6431
-  },
-  "36TEn9T8CJacZFom28UjHVTRonfB1UXa9tqWMbuETZR4": {
-   "name": "NorthXTrav / SOL",
-   "created": 1795599875.0,
-   "price": 1.2916027116504832e-05,
-   "liq": 4053.8805
-  },
-  "EvfyyATrEz8R1tFXGPJowgezhJcS46DRSS9XFQ8WjjXp": {
-   "name": "EIGEN / TTWO",
-   "created": 1795599875.0,
-   "price": 9.80462034078393e-06,
-   "liq": 6058.842
-  },
-  "F9AToocWZ6y3AahaPeuGhfRaZGhsDzNsAAibrNN7i6bD": {
-   "name": "Poopcoin / SOL",
-   "created": 1795600079.0,
-   "price": 2.3582022220862885e-06,
-   "liq": null
-  },
-  "3VRtwgR8h1pmnyFUwbwUZJAF8S8nbgQnKqX38xoBjfgm": {
-   "name": "$BWIZ / SOL",
-   "created": 1795600072.0,
-   "price": 2.020468137752333e-06,
-   "liq": null
-  },
-  "9BSnvqXnrPb3KbXKwSGphb6KG8YQta1WgwDGDTphextY": {
-   "name": "GORP / SOL",
-   "created": 1795600064.0,
-   "price": 1.574839176609873e-05,
-   "liq": 29293.7988326277
-  },
-  "AhDdtQM4WcHHnMGdPZFFJ2etXfcXu7PFx6sHcw6ECozw": {
-   "name": "SOLCHAN / SOL",
-   "created": 1795600060.0,
-   "price": 3.092533994273449e-05,
-   "liq": 10800.6149
-  },
-  "8TLC87k8nhCGZidHb4Q5oGrTLCfHjMs2F9vG2gDksJLM": {
-   "name": "POOK / SOL",
-   "created": 1795600048.0,
-   "price": 3.233782103381609e-05,
-   "liq": 32130.3271
-  },
-  "EtqbikLTkFg7bzjY2NKgEJY4XmEzWZ5dsPRK3YmpVGv6": {
-   "name": "SOLCHAN / SOL",
-   "created": 1795600113.0,
-   "price": 3.90954644693902e-05,
-   "liq": null
-  },
-  "B8qWjjqoS9v7vHsH1DssdDg7V3oi6XsCKirqFJgQYAqk": {
-   "name": "SOLCHAN / SOL",
-   "created": 1795600113.0,
-   "price": 3.84830737916642e-05,
-   "liq": null
-  },
-  "HMwBxcfHHJ7E4VbSfgy1W3t5aYqko81WXfEVmk7esC2Q": {
-   "name": "SOLCHAN / SOL",
-   "created": 1795600113.0,
-   "price": 3.043604873964508e-11,
-   "liq": null
-  },
-  "7AfwcZBER6yTRNSnjpAWSak3cJgQAhF92FrCAtN7xQXg": {
-   "name": "Huang / SOL",
-   "created": 1795600087.0,
-   "price": 1.4534839827160777e-05,
-   "liq": 27335.4029
-  },
-  "vANC2V86Jhk5eU7aDWEJjXZSwbg8fqmKYeL7YCWyBNB": {
-   "name": "SOLCHAN / SOL",
-   "created": 1795600087.0,
-   "price": 2.8880192911882606e-05,
-   "liq": 12554.7318
-  },
-  "9ejjRxvcWodQy3fsEi1gH2VePq3mPr2KYrEqUmw3FMuN": {
-   "name": "HELIORA / SOL",
-   "created": 1795600234.0,
-   "price": 1.5439831956478436e-05,
-   "liq": 26875.5665
-  },
-  "GjeY9b7uhWbaTN6AQnnd4MusXF3dvXcJh3NQi15C4Gnz": {
-   "name": "Huang / SOL",
-   "created": 1795600210.0,
-   "price": 1.4451238035884748e-05,
-   "liq": 27541.9875
-  },
-  "DX77yTh2xAvEcqiAfZCMDfNt71SseE3HwGw6VnT9Wpiw": {
-   "name": "SI / SOL",
-   "created": 1795600207.0,
-   "price": 2.7235241768426174e-05,
-   "liq": 25746.6383
-  },
-  "8m9DtAGycRTZv3FnNzJPU9Lpsb8PeWEhTaG19VyNykE": {
-   "name": "$Queen / SOL",
-   "created": 1795600196.0,
-   "price": 1.5857782851491956e-06,
-   "liq": 4574.3582
-  },
-  "GNePoTQVAHj2tvRS8JFh2cjyc8rWCtQvBYxpbP78T8hg": {
-   "name": "4CHAN / SOL",
-   "created": 1795600190.0,
-   "price": 1.065794739171244e-05,
-   "liq": 10627.4477
-  },
-  "3vL1d8SzBK3C3APh2p5usMMmRSyJpQxtWTMa1VaGTzQq": {
-   "name": "$Queen / SOL",
-   "created": 1795600154.0,
-   "price": 7.539398305366434e-06,
-   "liq": 4842.7609
+   "entry_ts": 1795600836,
+   "entry": 2.7511513600684607e-05,
+   "qty": 3598493.3957809014,
+   "spot": 2.7312919100941326e-05,
+   "liq": 27231.1569,
+   "selected": false,
+   "group": "control",
+   "start": 1795600860,
+   "end": 1795604460,
+   "r_honey": 0.9761791811993189,
+   "p_honey": 0.03
   },
   "EfrJJSjbcnQmyWj1RNgMAebqKqrCsdmuaDqRahj3EoGr": {
    "name": "EIGEN / SOL",
-   "created": 1795600146.0,
-   "price": 1.459590718957211e-05,
-   "liq": 28114.3918
-  },
-  "DKe9P3Aa23wfWoUUCXfFtZG2y23i7yUxqYEa6VaGKBEL": {
-   "name": "SOLCHAN / SOL",
-   "created": 1795600145.0,
-   "price": 7.296552708657712e-05,
-   "liq": 18576.0824
-  },
-  "949H4s75WjyXzJWNd5yoyXjn4tPzGthbG3mAC5NvKPAZ": {
-   "name": "Zfire / SOL",
-   "created": 1795600279.0,
-   "price": 0.021212919853083,
-   "liq": 83061.4951
-  },
-  "2p4vVx7yA9EMzXzq2a88SANWzzbJm8ugwzuTg3mbTUQ9": {
-   "name": "JOE / PUMP",
-   "created": 1795600325.0,
-   "price": 7.9323124112632e-06,
-   "liq": 4788.40736135111
-  },
-  "ADmdyDb7aTB25DNdUXYTb9gJaSee96kfjsC4kn4HijvR": {
-   "name": "Mirumi / SOL",
-   "created": 1795600323.0,
-   "price": 7.247160143563394e-06,
-   "liq": 12849.4365
-  },
-  "C5Q8XXVVG3knbcuW34inWgLA9qYg6ybabZGgNf8wWiVR": {
-   "name": "ATX / SOL",
-   "created": 1795600404.0,
-   "price": 1.409046225750238e-05,
-   "liq": 28096.6326
-  },
-  "9TjjRfXdqKSDoUb9ye8WYLSuFgnkQ52ecE675RMeGQjA": {
-   "name": "SOLCHAN / SOL",
-   "created": 1795600395.0,
-   "price": 6.380007299660722e-05,
-   "liq": 16060.644
-  },
-  "4mFaZujG3cxQ1boMKhJLNkAmtYJD2KqVamHDVAFkQSw7": {
-   "name": "PUMP / SOL",
-   "created": 1795600384.0,
-   "price": 6.929445687312696e-06,
-   "liq": 5489.1821
-  },
-  "B22PVeCAC6p6jSvVTf7Fp2UpmDBwqMPYPdirmKDxAHHc": {
-   "name": "lptp / SOL",
-   "created": 1795600380.0,
-   "price": 5.690725249178164e-06,
-   "liq": 4457.831
-  },
+   "entry_ts": 1795601019,
+   "entry": 1.606172530684838e-05,
+   "qty": 6163721.400327305,
+   "spot": 1.5954454363582647e-05,
+   "liq": 29448.6267,
+   "selected": false,
+   "group": "control",
+   "start": 1795601040,
+   "end": 1795604640,
+   "r_honey": 0.43752118605405155,
+   "p_honey": 0.03
+  }
+ },
+ "watch": {
   "BGu79LxJgL5NWXtm9CpqXajnEboNjPLieeKvn2eKWULA": {
    "name": "Huang / SOL",
    "created": 1795600514.0,
    "price": 1.4201962411175339e-05,
    "liq": 27135.1091
-  },
-  "Fpnr4pW42X3NMBjV32n8W9snHu6Rc2XSbEoSESxt5Mxv": {
-   "name": "JaoJiu / SOL",
-   "created": 1795600484.0,
-   "price": 2.621377782687717e-05,
-   "liq": 10335.3628
-  },
-  "Hc6QN8MnMJLaypMm4JDoUc7eYcmv2QbgQEWvyxQgC2EA": {
-   "name": "RUGG / SOL",
-   "created": 1795600468.0,
-   "price": 1.3989067105687341e-05,
-   "liq": 13996.7158
-  },
-  "FN3f5PAcYjL95MoDq2MtwztRE2MBQmHhm5LNdPJ9JxiG": {
-   "name": "SOLCHAN / SOL",
-   "created": 1795600439.0,
-   "price": 6.476428782538537e-05,
-   "liq": 18644.5503
   },
   "2iTs6bfPRoz2cBjqWzk1hXHFaEpD2sq35LkTkdF11rpu": {
    "name": "GTA / SOL",
@@ -2869,45 +2611,285 @@
    "created": 1795600603.0,
    "price": 1.643947923949217e-05,
    "liq": 30021.4698
+  },
+  "28X12yRL9y5eQ34gWa9XRNxN2Jzfr7EFpq4w9uAyLxDa": {
+   "name": "Pegaso / SOL",
+   "created": 1795600790.0,
+   "price": 1.9167036302808173e-06,
+   "liq": null
+  },
+  "5MMV5fS7mD8amocbf7fFez5GkCntf2NAxguyQWhDG8ig": {
+   "name": "SOLCHAN / SOL",
+   "created": 1795600785.0,
+   "price": 5.727857908665587e-05,
+   "liq": 98737.2387847246
+  },
+  "Gz9sbAd1jieYABfKjFDvWp1nAETciFtTDYaUmsrxYXj4": {
+   "name": "POOK / SOL",
+   "created": 1795600775.0,
+   "price": 3.247283866372091e-05,
+   "liq": 32307.6173
+  },
+  "BPzQusxMd2epXKgPZRbWpPeR5VFoAVbT8wihtUQcCSdF": {
+   "name": "W / SOL",
+   "created": 1795600766.0,
+   "price": 4.791794463838866e-06,
+   "liq": 4244.4912
+  },
+  "5UCEkAFi83iw78StqUr4whDFdzbGCJYvfJwMPF7dzDKt": {
+   "name": "$Queen / SOL",
+   "created": 1795600743.0,
+   "price": 1.2188527133223925e-05,
+   "liq": 8192.6133
+  },
+  "3VVXUdVHW7LBctHSFAhMuZad7mvRDT8pgyrxwCYx8qHv": {
+   "name": "GORP / SOL",
+   "created": 1795600905.0,
+   "price": 1.57620777923355e-05,
+   "liq": 29303.9129
+  },
+  "CRdTqioiFRgNuZzUZEkMMRMFKGQ7mmzg39AeCogJHdtE": {
+   "name": "\u9752\u9b3c / SOL",
+   "created": 1795600879.0,
+   "price": 6.080722756383852e-06,
+   "liq": 4157.2629
+  },
+  "6qxxu3X5JqnfnFpFg9cUyHWMAVDDdw6czQk67SEy6Z9v": {
+   "name": "LUMINA / SOL",
+   "created": 1795600810.0,
+   "price": 9.597683289244983e-06,
+   "liq": 6432.2731
+  },
+  "HM3iDn4gkWmNXZ8RpLVVipdMVoEKEJ2thPCh2MRSH8Qn": {
+   "name": "Icevlt / SOL",
+   "created": 1795600809.0,
+   "price": 0.023237102728722,
+   "liq": 85899.9032
+  },
+  "5yachN3cfkw5JDQYJHJfLYWRhvZ71JYvoHpDufrQyoR7": {
+   "name": "BRAINROT / SOL",
+   "created": 1795600809.0,
+   "price": 6.1937930916358265e-06,
+   "liq": 7282.2859
+  },
+  "AyLgqwUW3TRZebj1zZTgEwhaN1PwPfDysu4NSr1Sjo8Y": {
+   "name": "SLOTBOUND / SOL",
+   "created": 1795600957.0,
+   "price": 3.8971189209781025e-05,
+   "liq": 13818.2033010058
+  },
+  "3UDHvz45EDse1himtPGCuM6fTDqH2Yjij3qe5PKCbp7Y": {
+   "name": "$Queen / SOL",
+   "created": 1795600951.0,
+   "price": 1.313149884239722e-06,
+   "liq": 5311.00866897451
+  },
+  "4uiBZom3dLXEuXz2JUsbXc8YWcKiQMQgi5Dcu5zgWGKw": {
+   "name": "SLOTBOUND / SOL",
+   "created": 1795600942.0,
+   "price": 4.1392208657472884e-05,
+   "liq": 14089.9523
+  },
+  "BUL5a9S9ZPApsWHMUvMx2kbbFm7d4yLdPTcjZTgemZcC": {
+   "name": "JENSEN / SOL",
+   "created": 1795600941.0,
+   "price": 1.4486278218102463e-05,
+   "liq": 27918.9399
+  },
+  "G7RiQDRQbxZxd7A8rQS46XkS4eTMQerFoLdXhJWz7swz": {
+   "name": "OKSG / USDT",
+   "created": 1795600971.0,
+   "price": 0.99604475852952,
+   "liq": 204532.693
+  },
+  "AvHpuwcdM7U9d1CKWayR1cbEcaASoxCcRHSkvf9yZYmx": {
+   "name": "JENSEN / SOL",
+   "created": 1795601101.0,
+   "price": 1.3606599679425832e-05,
+   "liq": 13565.7779509056
+  },
+  "9XDPutuxTEYrWNbffDoMPVg6DxMPkehd3PA71MSWQHVd": {
+   "name": "JaoJiu / SOL",
+   "created": 1795601074.0,
+   "price": 4.476728916591244e-07,
+   "liq": 85098.9364
+  },
+  "2z6daPHUzMrCovusP3WTa74WBeRQEaG79kVFuwQBUdru": {
+   "name": "Slotbound / SOL",
+   "created": 1795601069.0,
+   "price": 1.5225255569551752e-05,
+   "liq": 30230.0442
+  },
+  "6nPXuavczX5AULariRGwobX5NCYWM7r4jRTG9BZ9BcVR": {
+   "name": "SpaceX / SOL",
+   "created": 1795601043.0,
+   "price": 3.762711450097903e-05,
+   "liq": 12503.9767
+  },
+  "8EYJQMaJauNW3vWVvm5cGo8cPkPfY2dpJ5mbGxcxEENB": {
+   "name": "PUMP / SOL",
+   "created": 1795601008.0,
+   "price": 6.4423773457678004e-06,
+   "liq": 4766.7087
+  },
+  "5kKRUYDQcVQdzk5UCgzbrTU8ooHMLB7N2fWHm97gAU5H": {
+   "name": "JaoJiu / SOL",
+   "created": 1795600977.0,
+   "price": 3.999881887858736e-07,
+   "liq": 70886.6836
+  },
+  "B4u1HpcucSLv8i7bGy5wWQTmPRLDqXZBKcAEwV4ccBEC": {
+   "name": "DOGE PAID / SOL",
+   "created": 1795601022.0,
+   "price": 5.228432425257524e-06,
+   "liq": 4129.154
+  },
+  "5s3dW4GFUgZHfqcCASj49mEkx6HSGorEBHaucu9kzHrR": {
+   "name": "\u82f1\u4f1f\u8fbe / SOL",
+   "created": 1795601017.0,
+   "price": 1.3055963097290777e-05,
+   "liq": 25713.6353
+  },
+  "14HvioHRPQBRK5PXUDZivcNdChST6EioRTrQjBAJFu9v": {
+   "name": "DICE / SOL",
+   "created": 1795601204.0,
+   "price": 6.3475572113735e-07,
+   "liq": null
+  },
+  "749tEW69MBccvkjsMMFbb5aN1VCh4wJHUnooMdkGR2Xz": {
+   "name": "TOLL / SOL",
+   "created": 1795601200.0,
+   "price": 9.193591299228663e-06,
+   "liq": null
+  },
+  "2sccj28Rxr8U4rHwxE98ns8kDvS3fgTMACua5i7Mi7ha": {
+   "name": "PAYSLIP / SOL",
+   "created": 1795601199.0,
+   "price": 4.037793970732979e-06,
+   "liq": null
+  },
+  "9bJKAF3EeyehNLkHuyqGsRXJFHiMZgDxY5aBfyasvssv": {
+   "name": "chill / SOL",
+   "created": 1795601197.0,
+   "price": 2.0688632951341714e-06,
+   "liq": null
+  },
+  "5D7vciTcVduGpKmFj33PzWUnb5iwHUYg3uoehovPQvuQ": {
+   "name": "JaoJiu / SOL",
+   "created": 1795601196.0,
+   "price": 5.2567527567330865e-08,
+   "liq": null
+  },
+  "6fawFvwMtkSZwcPdRE1EnK8DtV2UhnMk7n4hn1s1YFZY": {
+   "name": "BPCATE / SOL",
+   "created": 1795601193.0,
+   "price": 1.1657973816715756e-06,
+   "liq": null
+  },
+  "BkaT7yFhpFtZ6cmWRLLvkN6uUUEfcnQTimvkD8b1f7ih": {
+   "name": "SOOTS / SOL",
+   "created": 1795601190.0,
+   "price": 7.061148943854117e-07,
+   "liq": null
+  },
+  "4iXiZfdLUfvzyzJ7VkLEspUMeRCWWZyskqQGSiSw3c3s": {
+   "name": "$Queen / SOL",
+   "created": 1795601189.0,
+   "price": 5.509129141605994e-07,
+   "liq": null
+  },
+  "5zKG4yzhuaqoGMEvvnBjkn2V9MsTt8V9urxvNPk1kyBW": {
+   "name": "SKYNET / SOL",
+   "created": 1795601181.0,
+   "price": 1.0829925264179895e-07,
+   "liq": null
+  },
+  "DgufZB5V9VsnaAdHoZydpdGbTrr7t7JZJrQKJJ4LEG6D": {
+   "name": "LaMisery / SOL",
+   "created": 1795601179.0,
+   "price": 1.296457392792844e-06,
+   "liq": null
+  },
+  "CiPWWLwRcUvBaA5reEaVhS2tN5gdKfo9i9f3A8hU2squ": {
+   "name": "JaoJiu / SOL",
+   "created": 1795601272.0,
+   "price": 1.4556161432837206e-06,
+   "liq": null
+  },
+  "J2bDVgTsdX1jxMgRN7TbYzZL6e2QuaYV8rSF3UhzYeqH": {
+   "name": "$Queen / SOL",
+   "created": 1795601268.0,
+   "price": 8.314549548225189e-06,
+   "liq": null
+  },
+  "2FJfAqeSrZGNHAE49mZdFFTWcazRyAo35eAm5XcGTMwg": {
+   "name": "RICH$ / SOL",
+   "created": 1795601261.0,
+   "price": 2.147804133310018e-06,
+   "liq": null
+  },
+  "WLt6tuaXoggwZSsDceiMy5HpULrK5pHEvJ4JH9NzeSz": {
+   "name": "$CCOW / SOL",
+   "created": 1795601259.0,
+   "price": 2.678563414885765e-06,
+   "liq": null
+  },
+  "E3tV3ew2qZiNksUCbQX9VH14pxsdVycYYP15svcac1rj": {
+   "name": "PISTE / SOL",
+   "created": 1795601258.0,
+   "price": 2.9469838166198634e-06,
+   "liq": null
+  },
+  "ANis3XZY1vuh7UVXFf4PeDDp83DnUjfaaQmcMsUJXnnf": {
+   "name": "TOLL / SOL",
+   "created": 1795601257.0,
+   "price": 5.832710132266512e-07,
+   "liq": null
+  },
+  "6u7vcFP2eGCBUcYYMTMnhkmjcNtJSKk35bfTGqvZoAyS": {
+   "name": "BPCATE / SOL",
+   "created": 1795601251.0,
+   "price": 6.022382514895192e-06,
+   "liq": null
+  },
+  "CzEth3jJPGW2qabg8dCsGRPRyophyjEETLqm4kfTLz4p": {
+   "name": "EVIL / SOL",
+   "created": 1795601243.0,
+   "price": 3.1732661902282336e-06,
+   "liq": null
+  },
+  "4JX5wrPTRMYqrmrzQk885KgFD94HsfMZseez9hu76YNh": {
+   "name": "FHC / SOL",
+   "created": 1795601241.0,
+   "price": 2.3576630976792744e-06,
+   "liq": null
+  },
+  "H8Eq8MteG1x52QPdNcEvZtV3Ahnt3y6bcExr5PQcZod7": {
+   "name": "4CHAN / SOL",
+   "created": 1795601232.0,
+   "price": 1.0825626121753288e-05,
+   "liq": null
+  },
+  "97TK63PBcxf7P3HyNULtL2BcSuzvDrH9U8HaYJYPHHGo": {
+   "name": "BossJensen / SOL",
+   "created": 1795601231.0,
+   "price": 8.178135539305419e-05,
+   "liq": 156049.419675863
+  },
+  "6wG2mBqScJqHxFshJEB2vua13yRMri5MEsrPJh8srthX": {
+   "name": "Nightwatch / NVDAx",
+   "created": 1795601217.0,
+   "price": 3.0739276542690957e-06,
+   "liq": null
+  },
+  "EHnmZapfSibFzXkhypY6sG7Q4RmReSGMB6MMvRRRicoH": {
+   "name": "Nightwatch / NVDAx",
+   "created": 1795601216.0,
+   "price": 7.491240102980145e-06,
+   "liq": 4804.7091
   }
  },
  "proven_watch": {
-  "xWJvB9AhXgZ34Q1mnNcvQ78CFcyXxvYrfACtaHghNqs": {
-   "name": "GORP / SOL",
-   "created": 1795593651.0,
-   "price": 1.6061865318943704e-05,
-   "liq": 29514.3799059759
-  },
-  "7jjUQ4BoSHXaUtFEt39RZbRmapnMwhUpdyQgEMbmzMPx": {
-   "name": "404GIRL / SOL",
-   "created": 1795593648.0,
-   "price": 3.260674791368984e-05,
-   "liq": 32435.3882119628
-  },
-  "3E1ReGLqwDtH1U5oxLB4zqYdLhHjMv9WV7emCdkwPnKp": {
-   "name": "4CHAN / SOL",
-   "created": 1795593639.0,
-   "price": 1.4417528776090274e-05,
-   "liq": 26496.134160391
-  },
-  "GnuPHnMCUNpCBoox7oeWnuFUxGgRGxFPzkRPGQwWX27P": {
-   "name": "404GIRL / SOL",
-   "created": 1795593626.0,
-   "price": 6.146823790435728e-10,
-   "liq": 19569.4326
-  },
-  "Fpqu78b2VjZgx9dh5M1uuqZkyXjZitEqrZxjHX8AnGfH": {
-   "name": "JENSEN / SOL",
-   "created": 1795593841.0,
-   "price": 1.4792818179389733e-05,
-   "liq": 28628.5122
-  },
-  "EiG5ZDECzsWDDGtFoprpnKoaAUCcn2eUnhuz56kr89ry": {
-   "name": "\u5c0f\u4eba\u7269 / SOL",
-   "created": 1795593904.0,
-   "price": 1.7339881968544304e-05,
-   "liq": 17339.8817155876
-  },
   "Ckxa4jgLjeNEigWCgDRWr6cyd32QLLJrbtD2Lwkw8G2o": {
    "name": "PORTAL / SOL",
    "created": 1795594215.0,
@@ -2925,12 +2907,6 @@
    "created": 1795594142.0,
    "price": 2.7401412779106337e-05,
    "liq": 27341.0758939276
-  },
-  "D9prV3MSmhUSiTsFzcqqS6YYy1Yz3T2Wqn1yy25oV7gM": {
-   "name": "Tcelsh / SOL",
-   "created": 1795594137.0,
-   "price": 0.04413957032393835,
-   "liq": 80182.7405
   },
   "H2kzC2F6wy169TTfMaNHcPVfjw1Ybna5TrFzPRKPPPmK": {
    "name": "404GIRL / SOL",
@@ -3231,6 +3207,36 @@
    "created": 1795596545.0,
    "price": 1.8953402224835314e-05,
    "liq": 36123.955
+  },
+  "3VVXUdVHW7LBctHSFAhMuZad7mvRDT8pgyrxwCYx8qHv": {
+   "name": "GORP / SOL",
+   "created": 1795600905.0,
+   "price": 1.57620777923355e-05,
+   "liq": 29303.9129
+  },
+  "BUL5a9S9ZPApsWHMUvMx2kbbFm7d4yLdPTcjZTgemZcC": {
+   "name": "JENSEN / SOL",
+   "created": 1795600941.0,
+   "price": 1.4486278218102463e-05,
+   "liq": 27918.9399
+  },
+  "9XDPutuxTEYrWNbffDoMPVg6DxMPkehd3PA71MSWQHVd": {
+   "name": "JaoJiu / SOL",
+   "created": 1795601074.0,
+   "price": 4.476728916591244e-07,
+   "liq": 85098.9364
+  },
+  "5s3dW4GFUgZHfqcCASj49mEkx6HSGorEBHaucu9kzHrR": {
+   "name": "\u82f1\u4f1f\u8fbe / SOL",
+   "created": 1795601017.0,
+   "price": 1.3055963097290777e-05,
+   "liq": 25713.6353
+  },
+  "97TK63PBcxf7P3HyNULtL2BcSuzvDrH9U8HaYJYPHHGo": {
+   "name": "BossJensen / SOL",
+   "created": 1795601231.0,
+   "price": 8.178135539305419e-05,
+   "liq": 156049.419675863
   }
  }
 }
