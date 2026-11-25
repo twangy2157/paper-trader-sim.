@@ -18639,3 +18639,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-25T11:52:41Z,EXIT,DohUccnh55enLCU4prPVQDWivp6AhxUDSR7EQEuXcQnG,ZELENSKYY / SOL,0,9.00079088838e-05,100.0,timeout,-4.92,-4.92,611.97,exit_bar=2026-11-25T11:49:00Z,mom
 2026-11-25T11:56:31Z,EXIT,8pcArSvz3GgXx4Rb7QxxDYZ4xrs7Ee5nvnxoqZbBp2Ld,JORDAN / SOL,0,9.24409201049e-06,100.0,timeout,-12.09,-12.09,611.97,exit_bar=2026-11-25T11:55:00Z,control
 2026-11-25T11:59:44Z,FAILED,826VaipMnhRe7MD9AoXEFNtsjw8LMsC7kpT1M9ytWdpq,Pompom / SOL,0,5.23772466348e-07,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",mom
+2026-11-25T12:10:59Z,EXIT,67hEFXw3XTtywDajW6XQzPXmVhxSDMXsuXRtmDDKZ9yo,$SLJK / SOL,0,6.47225236333e-06,100.0,timeout,-10.08,-10.08,611.97,exit_bar=2026-11-25T12:07:00Z,control
