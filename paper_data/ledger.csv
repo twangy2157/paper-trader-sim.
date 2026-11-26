@@ -18831,3 +18831,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T08:53:01Z,ENTRY,G14WH4fKL326XW1y4GyELRWbsLFiRpLbUmB3v7HzqaEH,GTA$ / SOL,0,1.14260489221e-05,100.0,research_failed,,,611.97,score=0.00 momentum=88%,mom
 2026-11-26T08:54:24Z,ENTRY,Fr1Y7KTRo5FjAxXcwgpVPj81DUYchBu3YhxKYqsYSxjy,SPCXHolder / SOL,0,0.000450138561804,100.0,research_failed,,,611.97,score=0.00 momentum=145%,mom
 2026-11-26T08:55:48Z,FAILED,89coDbaiWRnJoSHr49A2zVNRGQH5Tag5GosbKCzGQmuu,牛来 / SOL,0,4.18831794436e-07,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
+2026-11-26T08:57:32Z,ENTRY,GMf3kkN6DnHyTo1wRwAb5X8CY2inb8bDcaD9ZZFtUaDG,CiCi / SOL,0,1.85665932885e-05,100.0,research_failed,,,611.97,score=0.00 momentum=28%,mom
+2026-11-26T08:57:32Z,ENTRY,4iJK7reuLCgkbKWPcAVP1WzWNgCiG39wvhrBMCbjhTP5,OKJP / USDT,0,1.02783247917,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T08:59:03Z,EXIT,C6Z5K622gfegmV7JbB4YtkojnXv3Wov1WnfseXUSFut9,Cornell / SOL,0,1.18950086273e-05,100.0,timeout,-8.92,-8.92,611.97,exit_bar=2026-11-26T08:57:00Z,control
+2026-11-26T09:00:26Z,FAILED,7SkTZMsbwKWMum6Egt7Lj1vM17vrKCJJpWhXYZwHzeHj,HIJACK / SOL,0,9.17283827964e-06,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
+2026-11-26T09:01:57Z,EXIT,6zzZrwKbzqUU29zYxbvTMy6JDvPLTXs9z3vUr8VNMDCQ,100X / SOL,0,0.000223115352792,100.0,timeout,-3.18,-3.18,611.97,exit_bar=2026-11-26T09:00:00Z,control
+2026-11-26T09:01:57Z,ENTRY,GUeHLkhS6GzCBUpGNFjsUReCbf4tYMHCHZgmUMZbSpPp,xmascoin / SOL,0,2.87582120675e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=2%,control
+2026-11-26T09:04:59Z,ENTRY,Ak4dsjwEyo3famnS8wb5xqGWncpP6J3iXR5i3oDPz5KL,Elonmas / SOL,0,1.17694795917e-05,100.0,research_failed,,,611.97,score=0.00 momentum=43%,mom
+2026-11-26T09:06:30Z,EXIT,Epsgm4YFqhdvjrWTM6HDtD34WLK9qDSw45shtGGQuUE7,TEST / SOL,0,0.000207232515872,100.0,timeout,-3.18,-3.18,611.97,exit_bar=2026-11-26T09:05:00Z,control
