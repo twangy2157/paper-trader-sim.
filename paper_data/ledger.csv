@@ -18802,3 +18802,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T08:10:28Z,EXIT,FEbM8PgN3z2s4fJm6usUegwfD4Yj2Duyyvbksh5Akvty,TURKEY / SOL,0,1.24878047923e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-26T04:04:00Z,mom
 2026-11-26T08:11:59Z,EXIT,Ge8g3TVqUYLGQcKfr5fnq7qaWoEGHLdxTzdwbS2w5aEm,Zero / SOL,0,1.94568005844e-05,100.0,sl,-100.02,-100.02,611.97,exit_bar=2026-11-26T03:59:00Z,mom
 2026-11-26T08:13:30Z,ENTRY,3pQCaNS7Vh9TzYeqfGMkABmHf34ieEDFSi9MkfZNCqq7,DARKCAT / SOL,0,1.32856468905e-05,100.0,research_failed,,,611.97,score=0.00 momentum=74%,mom
+2026-11-26T08:15:06Z,ENTRY,6PNMB6PZ4g3dPReyHpiuuLdBwfEZYAb2ckNJzwLR8tLz,$BWIZ / SOL,0,9.61547334209e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T08:19:24Z,ENTRY,AsEawSkFCBqBXHQxwsGd2Rsp58RnWMwQuJRYPs6HFVdE,JIMMY / SOL,0,0.000102478097466,100.0,control_no_momentum,,,611.97,score=0.00 momentum=1%,control
+2026-11-26T08:20:48Z,ENTRY,BL15DqndsRkuKrRweXnLd6RonKHhPYR6AKBPWC1gXJD9,ACE / SOL,0,2.29272218577e-05,100.0,research_failed,,,611.97,score=0.00 momentum=52%,mom
+2026-11-26T08:20:48Z,ENTRY,DxpBxXyWGhkED1dc2WtUR5XEtq4gFYb98brq9yNJnUic,DARKPOOL / SOL,0,2.97922250702e-05,100.0,research_failed,,,611.97,score=0.00 momentum=56%,mom
+2026-11-26T08:22:26Z,FAILED,9FLJwzZ3GcJAvbCEtAji3ShN97pSRBKBSQKEFx6jtRQn,DARKPOOL / SOL,0,2.66733417866e-05,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
