@@ -43264,3 +43264,8 @@ JDCn8RDLTG1TdmcC2jUFNFro3TXHrR3HewF59rEKRyFm,mom,0,no_stop_tp100,rug,-100.02
 2uP1TcoeUTerSr2Qc3gg3HSe4ZZsAdaqseUGVok5baKW,control,0,sl30_tp50,rug,-100.02
 2uP1TcoeUTerSr2Qc3gg3HSe4ZZsAdaqseUGVok5baKW,control,0,sl50_tp50,rug,-100.02
 2uP1TcoeUTerSr2Qc3gg3HSe4ZZsAdaqseUGVok5baKW,control,0,no_stop_tp100,rug,-100.02
+H4eCXaDwV4raMKgeQW4sjQy53Ni3aNinUJ66YxkaFJgv,control,0,base_sl30_tp100,timeout,-6.31
+H4eCXaDwV4raMKgeQW4sjQy53Ni3aNinUJ66YxkaFJgv,control,0,wide_sl50_tp100,timeout,-6.31
+H4eCXaDwV4raMKgeQW4sjQy53Ni3aNinUJ66YxkaFJgv,control,0,sl30_tp50,timeout,-6.31
+H4eCXaDwV4raMKgeQW4sjQy53Ni3aNinUJ66YxkaFJgv,control,0,sl50_tp50,timeout,-6.31
+H4eCXaDwV4raMKgeQW4sjQy53Ni3aNinUJ66YxkaFJgv,control,0,no_stop_tp100,timeout,-6.31
