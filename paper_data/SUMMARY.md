@@ -2,14 +2,14 @@
 
 SIMULATION ONLY. No real trades.
 
-Updated 2026-11-26T02:47:36Z. Bankroll cash (research-selected trades): 611.9691884226207. Open positions: 13. Pools on watchlist: 49.
+Updated 2026-11-26T02:58:00Z. Bankroll cash (research-selected trades): 611.9691884226207. Open positions: 10. Pools on watchlist: 43.
 
 | group | n | win | avg | CI | P&L $ |
 |---|---|---|---|---|---|
 | research-picked | 23 | 35% | -16.7% | -44 to 11 | -388 |
 | momentum, not picked | 3808 | 12% | -65.6% | -68 to -64 | -250253 |
 | all momentum | 3831 | 12% | -65.3% | -67 to -64 | -250641 |
-| control | 4584 | 6% | -19.4% | -20 to -18 | -89325 |
+| control | 4588 | 6% | -19.4% | -20 to -18 | -89440 |
 | dip buy | 47 | 28% | -12.8% | -30 to 4 | -606 |
 | proven pools | 135 | 33% | -31.2% | -40 to -23 | -4223 |
 
@@ -17,23 +17,23 @@ What-if exit rules on the SAME trades. Cells: avg return (trades, win rate).
 
 | exit rule | momentum | control | dip | proven |
 |---|---|---|---|---|
-| base_sl30_tp100 | -65% (3810, 12%) | -19% (4584, 6%) | -13% (47, 28%) | -31% (135, 33%) |
-| wide_sl50_tp100 | -65% (3810, 13%) | -20% (4584, 6%) | -13% (47, 32%) | -32% (135, 33%) |
-| sl30_tp50 | -67% (3810, 14%) | -19% (4584, 7%) | -17% (47, 34%) | -31% (135, 33%) |
-| sl50_tp50 | -67% (3810, 15%) | -20% (4584, 8%) | -18% (47, 38%) | -32% (135, 33%) |
-| no_stop_tp100 | -65% (3810, 14%) | -20% (4584, 7%) | -12% (47, 32%) | -33% (135, 33%) |
+| base_sl30_tp100 | -65% (3810, 12%) | -19% (4588, 6%) | -13% (47, 28%) | -31% (135, 33%) |
+| wide_sl50_tp100 | -65% (3810, 13%) | -20% (4588, 6%) | -13% (47, 32%) | -32% (135, 33%) |
+| sl30_tp50 | -67% (3810, 14%) | -19% (4588, 7%) | -17% (47, 34%) | -31% (135, 33%) |
+| sl50_tp50 | -67% (3810, 15%) | -20% (4588, 8%) | -18% (47, 38%) | -32% (135, 33%) |
+| no_stop_tp100 | -65% (3810, 14%) | -20% (4588, 7%) | -12% (47, 32%) | -33% (135, 33%) |
 
 Verdict: NOT ENOUGH DATA (need 30+ closed filter=1 trades and a CI above zero before believing anything).
 
-Pools seen: 123291. Outcomes:
+Pools seen: 123333. Outcomes:
 
-- missed_window: 79585
-- low_liquidity: 21104
-- proven_liquidity_gone: 10582
+- missed_window: 79611
+- low_liquidity: 21112
+- proven_liquidity_gone: 10586
 - no_momentum: 4639
-- research_failed: 3810
+- research_failed: 3811
 - simulated failed buy: 1567
-- proven_low_volume: 1564
+- proven_low_volume: 1567
 - proven_price_collapsed_or_parabolic: 168
 - proven: 135
 - proven_no_uptrend: 67
