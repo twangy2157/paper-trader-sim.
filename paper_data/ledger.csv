@@ -18712,3 +18712,6 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T01:31:32Z,ENTRY,3doZG35Cv6zfqkwZ5kzbTepGxBrvc1ZnY65Ba5vZTKaT,MGOAT / SOL,0,8.85978204693e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
 2026-11-26T01:31:32Z,ENTRY,D282HAkvTFi7Q3MByk8BdSwKyRkFqfnoFzMwYJJycaHm,Zero / SOL,0,0.000178948730188,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
 2026-11-26T01:31:32Z,ENTRY,2AvtKJgYqfWfu6yyrEzYhnxbcAPisL7HLjLPSypo4BE9,WORTHY / SOL,0,2.9602852978e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T01:35:10Z,EXIT,AsQdbBygQwvvRnS1ZN4uZFxXu13VMzZmbuF2QigQ4vk1,Solace / SOL,0,4.94373114918e-05,100.0,sl,-43.88,-43.88,611.97,exit_bar=2026-11-26T00:33:00Z,mom
+2026-11-26T01:40:56Z,EXIT,9KX1gqrQwYYRHedocUaMbYFHjSEnGVFTVihNP5G3V5Ym,Sloth / SOL,0,2.94807843558e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-26T01:36:00Z,mom
+2026-11-26T01:42:30Z,EXIT,EphFKjXtqMuJaomA2N5pTHPqaxizLYJGww4i7ii8XkBi,RASMR / SOL,0,9.53610796747e-06,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-26T01:36:00Z,mom
