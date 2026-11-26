@@ -19016,3 +19016,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T13:05:03Z,ENTRY,3wz88yfXeaaKdDQDnYu823AXcuvK7axML9oBpcE8Fxzd,Riku / SOL,0,5.48793094063e-05,100.0,research_failed,,,611.97,score=0.00 momentum=114%,mom
 2026-11-26T13:06:27Z,ENTRY,Er9r89QF7LtrahfT48e4kfes1MBTZZ5i61pLkApwefwV,Elonmas / SOL,0,9.63311338463e-06,100.0,research_failed,,,611.97,score=0.00 momentum=87%,mom
 2026-11-26T13:09:28Z,EXIT,B1kPyzadywmK1pEJBMWezX5bj3TGSksNh5vgwd9cgRVf,konnichiwa / SOL,0,2.91261452435e-05,100.0,rug,-4.54,-4.54,611.97,exit_bar=2026-11-26T13:08:00Z,control
+2026-11-26T13:12:29Z,EXIT,Bz4pqCVX82Pcrz4fy9GamJfXZwnpVDPA2yb5cPXyWN5D,Optimus / SOL,0,6.99174608876e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-26T13:11:00Z,mom
+2026-11-26T13:15:23Z,EXIT,59p97qJzkbmgnZc5fEGroYmetvjCZdXGYXtMrhNAxBRd,Pinky / SOL,0,4.75326572291e-07,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-26T13:14:00Z,control
+2026-11-26T13:16:47Z,ENTRY,2hpRAcaVhocY7xr1oed1v9xgNjJCmfkttQnQo8QQABXY,Pair / SOL,0,5.45257879429e-07,100.0,research_failed,,,611.97,score=0.00 momentum=11%,mom
+2026-11-26T13:19:42Z,ENTRY,nhkeW8DF5qaBJ5dSvz6kjcyWjXjLM6i8FdoVYMjbZKm,悟空 / SOL,0,3.01017610058e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-0%,control
