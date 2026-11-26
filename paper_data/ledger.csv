@@ -19056,3 +19056,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T21:57:28Z,ENTRY,2CEtiBtPLDLz3B9qpZGkZcfUmffGj4TNAmUuEsSksv9F,Demonpc / SOL,0,0.133046818384,100.0,research_failed,,,611.47,score=0.00 momentum=39%,mom
 2026-11-26T21:58:59Z,FAILED,2Yw3vQkVsmCPqhtf8KQ393onHzt11jGHcGNk1r7tpg3q,LMAO / SOL,0,7.92830077233e-06,0,tx_failed,-0.5,,611.47,"buy reverted, tip lost",control
 2026-11-26T21:58:59Z,ENTRY,1btmJ1HjhnfBb4GWj2C3VewLgcr4KJxsZ99LcaDkq9F,NVIDIA / SOL,0,1.91256344206e-05,100.0,control_no_momentum,,,611.47,score=0.00 momentum=3%,control
+2026-11-26T22:00:36Z,FAILED,4eiycmzQT7L1C5LsCpGovSB48TyAmbjvroBNRqQ5XovY,DICE / SOL,0,2.51495453033e-05,0,tx_failed,-0.5,,611.47,"buy reverted, tip lost",mom
+2026-11-26T22:00:36Z,FAILED,FcrF4K5q6UEdHbVH4Vjz3eXRUyFKZ5mqahrZCfAxsbTA,WIZARDCAT / SOL,0,2.88357854018e-05,0,tx_failed,-0.5,,611.47,"buy reverted, tip lost",control
+2026-11-26T22:02:14Z,FAILED,9xJSoSZYQyQpzH2dJdYHBj7MHMXBsQGdvpVxKsgS2ocn,MONTRA / SOL,0,4.20801937672e-07,0,tx_failed,-0.5,,611.47,"buy reverted, tip lost",control
+2026-11-26T22:06:40Z,ENTRY,EjPWkmZpQ7J348W65abF9WwUoA3TTYwTvKtBzZWP3Yjd,GKOL / SOL,0,2.73894057184e-05,100.0,control_no_momentum,,,611.47,score=0.00 momentum=-16%,control
+2026-11-26T22:08:18Z,ENTRY,ABgGT1qobLXuLytqPvtCtntxkJoduSJ25qbTSt3Toyce,DERP / SOL,0,1.63230214136e-05,100.0,control_no_momentum,,,611.47,score=0.00 momentum=0%,control
+2026-11-26T22:09:42Z,ENTRY,9VfSXnUNZR7514f6vEwSMJ3CbwgnAxSi3NmPga7EeATM,HOLD / SOL,0,2.28439423744e-05,100.0,research_failed,,,611.47,score=0.00 momentum=123%,mom
