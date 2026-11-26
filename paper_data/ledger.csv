@@ -18970,3 +18970,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T11:52:25Z,ENTRY,Ga7Cto9Yp4VaiFJpLcjnZmu7SaMNPMU9rpXXPqXZYHP8,DK / SOL,0,7.98894662483e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-0%,control
 2026-11-26T11:53:48Z,ENTRY,CgDvM3v8kzRGyNPVuY6Wxwo5i4e1zys4iwUoBWAe8kw7,Maru / SOL,0,3.66501572126e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-32%,control
 2026-11-26T11:55:26Z,EXIT,Avbm7znheCZGvC6zHpPeJA1H4RfdRnSEkfLfLrmvx3PY,konnichiwa / SOL,0,2.8467130754e-05,100.0,rug,-7.14,-7.14,611.97,exit_bar=2026-11-26T11:53:00Z,control
+2026-11-26T11:58:26Z,ENTRY,r3nxVn5TdEtjV1yutjVjKK5kNsmGHX3FBXWGEHQWR5X,OKKX / USDC,0,1.04673563205,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T11:58:26Z,ENTRY,DDiQRVtRcmcv7mh1EZ8So5H5iMGQy3Jzt5siWRS1MeQJ,KTA / SOL,0,2.06958524529e-05,100.0,research_failed,,,611.97,score=0.00 momentum=77%,mom
+2026-11-26T12:01:28Z,ENTRY,FCFz81udntajJFxvUF9mrZxeEUqBcjCpEep9u56y9DPa,Trump / SOL,0,8.0906563929e-06,100.0,research_failed,,,611.97,score=0.00 momentum=17%,mom
+2026-11-26T12:03:00Z,EXIT,9s6Y6eoC9QfZKqsbDjPZyZNubq5mo7g1fVkHnq6o1Ubr,Elonmas / USDC,0,0.00352962211585,100.0,timeout,-5.81,-5.81,611.97,exit_bar=2026-11-26T12:01:00Z,control
+2026-11-26T12:04:24Z,EXIT,9bdFb6JyfPuDuu2LfYmsL4kcVtLQSRxNz68A7NC2bCY5,RSA / SOL,0,1.41955288709e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-26T12:01:00Z,mom
