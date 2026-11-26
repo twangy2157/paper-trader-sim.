@@ -18821,3 +18821,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T08:43:43Z,ENTRY,9KtEcUuWPJxa9gj2FR9AVZeHCvrTLYShYFFE45BqYHEJ,BLKDSK / USDC,0,7.2849454723e-06,100.0,research_failed,,,611.97,score=0.00 momentum=20%,mom
 2026-11-26T08:43:43Z,ENTRY,2tY73bHw6MRt91sujAbptcQkrquZgPjNGMVwZ8MUwx5D,DERP / SOL,0,1.04687726296e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
 2026-11-26T08:45:21Z,ENTRY,8ZJsQY6BxySrErcK3EtueKEy2BQPVahj4hu4uyZmh4R2,那只柯基 / SOL,0,2.14265252075e-05,100.0,research_failed,,,611.97,score=0.00 momentum=13%,mom
+2026-11-26T08:46:50Z,ENTRY,6p2KQK4NJHLuyKmPSqhVEXMsBHdBuAU4YtnJZ53qt7R6,TRUMP2028 / SOL,0,1.24452909256e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T08:46:50Z,ENTRY,GksQj4RiYZ6CbiKvd4hZCgFgvbohtfUiyAG478qKfquJ,Sol / SOL,0,7.36853509083e-05,100.0,research_failed,,,611.97,score=0.00 momentum=16%,mom
+2026-11-26T08:46:50Z,ENTRY,41ayoVKoWezwiyxJvgS28JWN1ePxmW1Es7djfJYMw74o,BASKET / SOL,0,3.60891624006e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-4%,control
+2026-11-26T08:48:28Z,ENTRY,6PHjgH4Db2pnwdfZAToCL5MePBDw8qZcoT5aNiJMUJHP,$MAFIA / SOL,0,8.543888514e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T08:49:59Z,FAILED,BJKMaXAqcf6CNrBMbGNeun71ajXqfXYK63tRDNsrMoHb,CiCi / SOL,0,3.58551524485e-05,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",mom
+2026-11-26T08:49:59Z,ENTRY,9djYtyCFQ4UimKp9ZaD2e54zyo25xqYR5QdXUVA5vpko,那只柯基 / SOL,0,3.36607847968e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=4%,control
+2026-11-26T08:51:30Z,ENTRY,3ZVuBV8gWpUFghhD5vcqTxLnFeC5Eey7ShgQPfPj17Qo,Sol / SOL,0,3.58801764606e-05,100.0,research_failed,,,611.97,score=0.00 momentum=427%,mom
+2026-11-26T08:53:01Z,ENTRY,G14WH4fKL326XW1y4GyELRWbsLFiRpLbUmB3v7HzqaEH,GTA$ / SOL,0,1.14260489221e-05,100.0,research_failed,,,611.97,score=0.00 momentum=88%,mom
+2026-11-26T08:54:24Z,ENTRY,Fr1Y7KTRo5FjAxXcwgpVPj81DUYchBu3YhxKYqsYSxjy,SPCXHolder / SOL,0,0.000450138561804,100.0,research_failed,,,611.97,score=0.00 momentum=145%,mom
+2026-11-26T08:55:48Z,FAILED,89coDbaiWRnJoSHr49A2zVNRGQH5Tag5GosbKCzGQmuu,牛来 / SOL,0,4.18831794436e-07,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
