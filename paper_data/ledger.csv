@@ -18778,3 +18778,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T02:51:27Z,EXIT,2AvtKJgYqfWfu6yyrEzYhnxbcAPisL7HLjLPSypo4BE9,WORTHY / SOL,0,2.93476366117e-05,100.0,timeout,-4.66,-4.66,611.97,exit_bar=2026-11-26T02:32:00Z,control
 2026-11-26T02:52:58Z,ENTRY,68CafpF42ib6UFYrRqLLGBVu5mM8gjv74Ck8bLw4H3rR,STUDS / SOL,0,0.000182782331439,100.0,research_failed,,,611.97,score=0.00 momentum=192%,mom
 2026-11-26T02:54:29Z,EXIT,75AxaacbyrRYF4GZgytpDjUndrzGCXhyy94SYghm4aeP,INUFINITY / SOL,0,4.60382949953e-06,100.0,rug,-100.17,-100.17,611.97,exit_bar=2026-11-26T02:04:00Z,control
+2026-11-26T02:58:54Z,ENTRY,C3KncsPVLmcqT9djHoKVsh8ydnq8Muf968dXrhydk9cz,GODF / SOL,0,2.09404795653e-05,100.0,research_failed,,,611.97,score=0.00 momentum=26%,mom
+2026-11-26T03:00:26Z,EXIT,9dziBF3sHryKRzMhhhyRsdMem8jJ8agEHZ4G2HVNcaAp,COIN / SOL,0,2.07803799654e-05,100.0,timeout,-5.41,-5.41,611.97,exit_bar=2026-11-26T02:59:00Z,control
+2026-11-26T03:01:57Z,ENTRY,C2NVR8AqxeKmNjjhKq6Wrwvi78qvTpiMX8AajkBCa5Nm,FOLIO / SOL,0,1.17241210799e-05,100.0,research_failed,,,611.97,score=0.00 momentum=66%,mom
+2026-11-26T03:03:28Z,ENTRY,FEbM8PgN3z2s4fJm6usUegwfD4Yj2Duyyvbksh5Akvty,TURKEY / SOL,0,1.18555680487e-05,100.0,research_failed,,,611.97,score=0.00 momentum=88%,mom
