@@ -19069,3 +19069,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T22:17:30Z,ENTRY,Bzk55y4jBiQvxjv9wmoGWfuztyFveagT3hWogqrPFw6u,STUFFININU / USDC,0,5.22863924772e-06,100.0,control_no_momentum,,,611.47,score=0.00 momentum=0%,control
 2026-11-26T22:20:32Z,FAILED,HJgsX7JyCnLd58xytfHG86xDsfYFozoQFsPqbE4AAdTc,HOLD / SOL,0,9.68271197144e-06,0,tx_failed,-0.5,,611.47,"buy reverted, tip lost",control
 2026-11-26T22:20:32Z,ENTRY,8JF7er5ZsHJnRSMfEfFPEEXvFRMf67Q9iBPF2CYSir4s,babyX1 / SOL,0,2.00359652452e-05,100.0,control_no_momentum,,,611.47,score=0.00 momentum=5%,control
+2026-11-26T22:22:09Z,ENTRY,CEPYz7xgYq3cjTr898VHDsZJrnbf5YVQZmjZqx857dV4,BANK / SOL,0,1.02157546223e-05,100.0,research_failed,,,611.47,score=0.00 momentum=31%,mom
+2026-11-26T22:23:33Z,ENTRY,ExaNV7NBFXBEht22nahtRvYikmz5xNSW2TMC5QvkhZSM,babyX / SOL,0,2.50011607973e-05,100.0,research_failed,,,611.47,score=0.00 momentum=37%,mom
+2026-11-26T22:25:11Z,EXIT,9DdQTdDcZYP5TUHPMcVBwA6F4n88PauD65XgmsuA9P9o,4PUMP / SOL,0,1.37055524607e-05,100.0,rug,-100.02,-100.02,611.47,exit_bar=2026-11-26T22:23:00Z,mom
+2026-11-26T22:26:28Z,ENTRY,Zsg5nDh1K8mAqejHonfULViBpvcHAuizCW8wLrmTFU2,SpaceXCoin / SOL,0,1.42868815274e-05,100.0,control_no_momentum,,,611.47,score=0.00 momentum=-21%,control
+2026-11-26T22:27:59Z,EXIT,8B4KGLqfYg9rJZ3JuV4BBRfphg3kKhFXYwh9uxkw4eWA,PAPER / SOL,0,0.0437898727378,100.0,timeout,-2.92,-2.92,611.47,exit_bar=2026-11-26T22:26:00Z,control
+2026-11-26T22:29:30Z,ENTRY,8efvwCwrAN7ttDwTR1RE9PQ4bivkkbSGXodC2TZw1kRR,Alwin / SOL,0,1.31382404754e-05,100.0,research_failed,,,611.47,score=0.00 momentum=56%,mom
