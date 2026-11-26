@@ -18667,3 +18667,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T00:37:21Z,ENTRY,EzJgcdPdhDAgXRgAo4A2uvDvixAZzqZSEsedCyyyfP4f,DKH / USDT,0,1.03910572324,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
 2026-11-26T00:38:45Z,ENTRY,GtRw7PNgUTzRND84sYH1p5fYQyLdubFNoQERgWJT3FYy,att / SOL,0,1.93828932115e-05,100.0,research_failed,,,611.97,score=0.00 momentum=163%,mom
 2026-11-26T00:38:45Z,ENTRY,HEprnevZeZqj8rZaqYTiAQVpW6gigBBhFrKHMxPmQnu8,PUMP / SOL,0,1.72560605266e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-0%,control
+2026-11-26T00:40:28Z,ENTRY,BYmSH61zsvtMYtsavcrpsPgdrVxkDY9x6fX2USYkPS5Q,CBUCKS / SOL,0,0.000328221666167,100.0,control_no_momentum,,,611.97,score=0.00 momentum=7%,control
+2026-11-26T00:40:28Z,ENTRY,HM6rwiF2rBuSyA29LKyrwMSUKrfgBzVWZCVBJkyQEZ1,SOLACE / SOL,0,8.34417922816e-05,100.0,research_failed,,,611.97,score=0.00 momentum=115%,mom
+2026-11-26T00:41:59Z,ENTRY,AyAhqB7yW6FDeY75uVoYedqDRqfNaapCefnVavx7TTgp,BPCATE / SOL,0,1.32801004715e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T00:43:30Z,ENTRY,2r2uoXRXVvHLAwmcZFrqCUSiomYLMotZUaoa1dPZRd8T,PVE / SOL,0,9.37753036712e-06,100.0,research_failed,,,611.97,score=0.00 momentum=65%,mom
+2026-11-26T00:45:08Z,ENTRY,3aVk45UMB8KktmAPPFeLegtqzoSzJuDJ9jyan1yE8SkA,NIVIDIA / SOL,0,2.0761271365e-05,100.0,research_failed,,,611.97,score=0.00 momentum=48%,mom
+2026-11-26T00:45:08Z,FAILED,GWnhRT9DpKvRyLVxEWaKoe9bAkTErEjpTShHybUS1QFh,NOTF / USDC,0,0.00265390674278,0,tx_failed,-0.5,,611.97,"buy reverted, tip lost",control
+2026-11-26T00:46:32Z,ENTRY,6qNH3kBCgTbQARS8y9pCmMAH15fGJ4dhe4wqoS3MTzk5,RASMR / SOL,0,0.000113572209014,100.0,research_failed,,,611.97,score=0.00 momentum=187%,mom
+2026-11-26T00:48:02Z,ENTRY,HTm7CzgAYv3TX1qssmQXGEHTrA49rSEt7yhxeMUKHcYj,RASMR / SOL,0,8.64977334808e-05,100.0,research_failed,,,611.97,score=0.00 momentum=63%,mom
+2026-11-26T00:49:26Z,ENTRY,9x7u675aCvkzMS4A7amGoHdfeuowXcNRzBquPkTyroiX,PS5 / SOL,0,4.05944270946e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-0%,control
+2026-11-26T00:49:26Z,ENTRY,DaXCrH2Dhqntu5tuC3Du18P1D4ieiNiSt6S5hXdkcCe1,URANUS / SOL,0,2.24277081794e-07,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-55%,control
