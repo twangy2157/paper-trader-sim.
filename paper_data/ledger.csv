@@ -18961,3 +18961,12 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T11:41:43Z,ENTRY,EcZPfdQtgSx1jyhnz7rCq43HCPehpTtLGFmSWvdcgcDi,LENDR / SOL,0,4.68340234584e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-70%,control
 2026-11-26T11:41:43Z,ENTRY,8AXCjqn6i1DRH24tb5vXb24GCXgmSZkhtgnCNm2drJRx,4CHAN / SOL,0,2.37935221691e-05,100.0,research_failed,,,611.97,score=0.00 momentum=60%,mom
 2026-11-26T11:44:45Z,ENTRY,FDpebG7MMVh5yCziPCr96p4DhWVvH7QupV91799eiMbg,NUBU / SOL,0,3.27635745568e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-5%,control
+2026-11-26T11:46:28Z,ENTRY,3mKUhQJ979KCqb4ACA5feqtQN8B7nokLMuKg3y6sYppj,ASCEND / SOL,0,7.76278137267e-06,100.0,research_failed,,,611.97,score=0.00 momentum=13%,mom
+2026-11-26T11:47:59Z,ENTRY,Gf7ochZuRbBo2MMgydubunBDzomaVriUbuvRRUq8EZbD,Maru / SOL,0,7.90878050308e-05,100.0,research_failed,,,611.97,score=0.00 momentum=36%,mom
+2026-11-26T11:47:59Z,ENTRY,54PkuYh4uibka94erofnrbTSPkVGs39DEihHF8nDLED3,prty / USDC,0,7.54848666416e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T11:47:59Z,ENTRY,41Ah9SMXjPXSoMDzTJUZqvaXKmSrbr3kWSheNUzeyyHt,SAGEMAN / SOL,0,2.0576140366e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-18%,control
+2026-11-26T11:49:30Z,EXIT,AWgWWMMBxv8PGDBSU6mYDxsYkypVztDnC8LPehB6Kq6m,Ascend / SOL,0,2.31829025747e-05,100.0,timeout,-6.08,-6.08,611.97,exit_bar=2026-11-26T11:48:00Z,control
+2026-11-26T11:51:01Z,EXIT,CmZz4tzA2JD9sno32Y4HN5fd52ssuyaV1Mo5BQB1Q5YE,Employims / SOL,0,1.74138428655e-05,100.0,rug,-100.02,-100.02,611.97,exit_bar=2026-11-26T11:50:00Z,mom
+2026-11-26T11:52:25Z,ENTRY,Ga7Cto9Yp4VaiFJpLcjnZmu7SaMNPMU9rpXXPqXZYHP8,DK / SOL,0,7.98894662483e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-0%,control
+2026-11-26T11:53:48Z,ENTRY,CgDvM3v8kzRGyNPVuY6Wxwo5i4e1zys4iwUoBWAe8kw7,Maru / SOL,0,3.66501572126e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=-32%,control
+2026-11-26T11:55:26Z,EXIT,Avbm7znheCZGvC6zHpPeJA1H4RfdRnSEkfLfLrmvx3PY,konnichiwa / SOL,0,2.8467130754e-05,100.0,rug,-7.14,-7.14,611.97,exit_bar=2026-11-26T11:53:00Z,control
