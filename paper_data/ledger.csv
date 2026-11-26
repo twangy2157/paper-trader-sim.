@@ -18931,3 +18931,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-26T10:56:33Z,EXIT,G7fDRyiCtVQgbeKyZ7ab4PjmXpSeYGUTRQsbnDZLuaZX,CI / SOL,0,1.50237918922e-05,100.0,rug,-73.92,-73.92,611.97,exit_bar=2026-11-26T10:02:00Z,mom
 2026-11-26T11:00:58Z,ENTRY,9s6Y6eoC9QfZKqsbDjPZyZNubq5mo7g1fVkHnq6o1Ubr,Elonmas / USDC,0,0.00357513532256,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
 2026-11-26T11:00:58Z,ENTRY,9bdFb6JyfPuDuu2LfYmsL4kcVtLQSRxNz68A7NC2bCY5,RSA / SOL,0,1.44666005518e-05,100.0,research_failed,,,611.97,score=0.00 momentum=68%,mom
+2026-11-26T11:05:29Z,ENTRY,HQfXLPiqTuHcaNEMvmmXRH68wjxJb24ZUkKb5CXuxmma,FHC / SOL,0,1.49134741677e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T11:09:48Z,ENTRY,matUY8D5rKWnN5LAgWYcBRW6vBnQxFX2hRdunM1ZYBY,BPCATE / SOL,0,6.79969009877e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
+2026-11-26T11:09:48Z,ENTRY,6GbozaYcYLjwN4XpoCY3uwJmYs2FQoZ9rsTaneqRRRfp,BP / SOL,0,0.000385892602474,100.0,research_failed,,,611.97,score=0.00 momentum=282%,mom
+2026-11-26T11:11:27Z,EXIT,JEGoWFErEVykrvdyS5M4ZxSTPfFzH6HQYWZmMmGxNj2f,Carl / SOL,0,1.54620723907e-05,100.0,timeout,-4.28,-4.28,611.97,exit_bar=2026-11-26T11:09:00Z,control
+2026-11-26T11:12:58Z,ENTRY,GP4jYKrVZiwSUffLjSvb7QsieHcE8SuDe3BG68Z2Mj8R,TEXEL / SOL,0,1.83730421321e-05,100.0,control_no_momentum,,,611.97,score=0.00 momentum=8%,control
+2026-11-26T11:12:58Z,ENTRY,H1KFfMsF8VfiVYhH4oKUEx37yAWj2ZfiGgzwLv6hJ9ae,$SIESTA / SOL,0,9.22910149668e-06,100.0,control_no_momentum,,,611.97,score=0.00 momentum=0%,control
