@@ -19438,3 +19438,13 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T11:31:08Z,ENTRY,DVYBBQcUhybVoEZ93Jnei9jQ2bWAHneHE2YNA6VtWvsz,Datacat / SOL,0,7.00010159863e-06,100.0,research_failed,,,513.2,score=0.00 momentum=22%,mom
 2026-11-27T11:32:32Z,ENTRY,J1JYCFwNuosDAyt8gjCpvNj4q5KBGjPQbmXPFgbeEKoW,VAULT / SOL,0,2.00082502033e-05,100.0,research_failed,,,513.2,score=0.00 momentum=130%,mom
 2026-11-27T11:34:03Z,EXIT,GphnfT4M18f2FYjwd7i64wG8Zk4k5ZQemd6CGiSeC23z,PM / USDC,0,7.67367366122e-06,100.0,timeout,-9.03,-9.03,513.2,exit_bar=2026-11-27T11:33:00Z,control
+2026-11-27T11:35:32Z,ENTRY,6VvDD87fGZfFLFuDVXqg4xdf8zSzte6FDioTiqUN7eYy,FIRESALE / SOL,0,1.47583606711e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T11:37:03Z,ENTRY,Bm1h8JQ1PRTLck4TQgeb4TdMsKLGdTHYNi3nRLYnspdH,USFF / USDC,0,8.03025403503e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T11:38:26Z,ENTRY,DqstT7byXieX1RaRqtNdumduLvKMLs3nsuZQrDxhWhrk,SALE / SOL,0,1.04928898535e-05,100.0,research_failed,,,513.2,score=0.00 momentum=15%,mom
+2026-11-27T11:39:57Z,ENTRY,3gNssJA9Na6qiQ8PxiNMSs4jyMBphPPckH7q2BFNxN6p,Jensen / SOL,0,1.78395107139e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=10%,control
+2026-11-27T11:39:57Z,ENTRY,4vrnQQ5BSd2aK13iekaecPySLpMyHkoWSk1VSAouud4Y,REFUEL / SOL,0,4.0031717118e-05,100.0,research_failed,,,513.2,score=0.00 momentum=83%,mom
+2026-11-27T11:41:28Z,EXIT,Dj5Kf9NJFotCfbgcJtV8eudUwHhGC5mvFWLxNjr3KCiq,SCRVAN / SOL,0,6.89844626556e-06,100.0,timeout,-9.96,-9.96,513.2,exit_bar=2026-11-27T11:40:00Z,control
+2026-11-27T11:41:28Z,ENTRY,4B6K64F5QY5UZskBsajJBtX5AjFAeyKCtBqnbs6Zkfij,GTA6 / SOL,0,2.09951785592e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=5%,control
+2026-11-27T11:42:59Z,EXIT,SMQPc54a58dywK85uMgZhBAWyAD6qmavxQBSQwrNE1V,$PILLY / SOL,0,6.83879681737e-06,100.0,timeout,-9.85,-9.85,513.2,exit_bar=2026-11-27T11:40:00Z,control
+2026-11-27T11:44:31Z,EXIT,GFNikfmHor9gj6cmw76SWEqNLCWYZXBZ6HQctSFbdRor,SCRVAN / SOL,0,8.71349850347e-06,100.0,timeout,-9.01,-9.01,513.2,exit_bar=2026-11-27T11:40:00Z,control
+2026-11-27T11:44:31Z,ENTRY,7tM9LFixvmkqmiaw9P2X841tb97EJcrjpQRA84pdgrq,$MFRG / SOL,0,3.1191541704e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
