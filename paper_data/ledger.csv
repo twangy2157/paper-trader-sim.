@@ -19499,3 +19499,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T12:53:59Z,EXIT,Ek3vx8NZmCFNoynxt5Jat4wutoZ56GkFH9N9y2to6dNN,POBBY / SOL,0,3.01114643404e-05,100.0,timeout,-4.33,-4.33,513.2,exit_bar=2026-11-27T12:48:00Z,control
 2026-11-27T12:55:30Z,EXIT,2GdrTo9dSmy4DxwMWX9ew1VNeggjw1j5RNdfeAdZAjX4,CAT / SOL,0,6.99109690804e-06,100.0,timeout,-9.62,-9.62,513.2,exit_bar=2026-11-27T12:54:00Z,mom
 2026-11-27T12:58:32Z,EXIT,DW3fMs5wxvRXZhDqeGM8afKuug7rfEdipu1wce9ew8XZ,Gold / SOL,0,2.21069038351e-05,100.0,tp,92.2,92.2,513.2,exit_bar=2026-11-27T12:39:00Z,mom
+2026-11-27T13:01:32Z,ENTRY,BrznERYX8dNwqeTKnVVCPvzy5Cma8WrfkhzCyqB9iFcB,TagCat / SOL,0,2.38846424625e-05,100.0,research_failed,,,513.2,score=0.00 momentum=49%,mom
+2026-11-27T13:04:27Z,FAILED,AgsgqQvYQqrYeCggvEqYU3aHLVCxoMR8Y2hVG3eZon11,RHINODINOS / SOL,0,5.45715802806e-07,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",mom
+2026-11-27T13:05:57Z,EXIT,7Ri3hqmUEBHhte5yAeVVk1gjFMSJJozH41bQSRkMv1sp,MCH / SOL,0,9.97909416007e-06,100.0,timeout,-7.68,-7.68,513.2,exit_bar=2026-11-27T13:04:00Z,control
+2026-11-27T13:07:28Z,ENTRY,Bdui8nJVHuQkEU9dPnmXLQexNVoUyieSzhXM9aVRNVWp,RHINODINOS / SOL,0,4.92693148559e-07,100.0,research_failed,,,513.2,score=0.00 momentum=15%,mom
