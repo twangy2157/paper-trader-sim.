@@ -19310,3 +19310,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T08:52:28Z,FAILED,FaoCiXhFQu5Nd1hLVn2Hk56TM6QcyH48NqWWp2kmcusn,OTC / SOL,0,0.000531442743202,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",mom
 2026-11-27T08:53:59Z,ENTRY,B4qeE22GoxwqnFpKo62Lha1SPXqftxMz64ETxfzcxSJX,URSD / USDT,0,1.00816892338,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
 2026-11-27T08:55:30Z,ENTRY,DLsukZipr79BXuQtW8vtu3MznCSJvxfUxhxEPHQuRPjf,BNB͏ / SOL,0,2.67097974995e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-0%,control
+2026-11-27T08:58:37Z,ENTRY,8fKXmrTM3zwPVDFAisKbz94kF8e7M6HNLa54g4vYBKrG,ひな / SOL,0,1.96698430785e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-3%,control
+2026-11-27T09:00:15Z,ENTRY,F74hnZ8pHiYGrvD5Z71bUTpe5TfgDxaRRSnYEE4LjWqK,foot pill / SOL,0,3.11241358872e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T09:01:39Z,EXIT,DXBb3iQmG99vH6rYpsdLJwXKAsRQUyeUZo1ArtrZgbQw,WIENER / SOL,0,4.42398893307e-05,100.0,tp,-100.01,-100.01,513.2,exit_bar=2026-11-27T08:36:00Z,mom
+2026-11-27T09:01:39Z,ENTRY,CQNy8Uhw4LHJWBfKppEfF1V5wpqHGWCs5Xr7t9DwJzWL,牛蛙 / SOL,0,5.61275679081e-07,100.0,research_failed,,,513.2,score=0.00 momentum=19%,mom
+2026-11-27T09:03:17Z,ENTRY,APxAXvLf3JHK6xK1HETZMahKzC3RhWP21wwnwLyK3KB3,Greencat / SOL,0,2.32680804925e-05,100.0,research_failed,,,513.2,score=0.00 momentum=38%,mom
+2026-11-27T09:04:41Z,EXIT,2yaNdhLCJgiMmx1xM7mNRew2udUVFb5uraRJv32xniYt,Paul / SOL,0,7.34390997778e-06,100.0,timeout,-9.28,-9.28,513.2,exit_bar=2026-11-27T09:03:00Z,control
+2026-11-27T09:04:41Z,ENTRY,7SZVhMDDrijCFqCjZSHgWZYgu6xSrvQy13DUGS3C9vCU,GLITCH / SOL,0,3.5045386999e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-23%,control
+2026-11-27T09:06:19Z,ENTRY,6zj4GrHnkiPagD49dhiHLf9b39VgGzMu3cN3N2A8j7tN,BSC / SOL,0,0.00013506161785,100.0,research_failed,,,513.2,score=0.00 momentum=144%,mom
