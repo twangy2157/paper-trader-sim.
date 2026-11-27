@@ -19318,3 +19318,16 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T09:04:41Z,EXIT,2yaNdhLCJgiMmx1xM7mNRew2udUVFb5uraRJv32xniYt,Paul / SOL,0,7.34390997778e-06,100.0,timeout,-9.28,-9.28,513.2,exit_bar=2026-11-27T09:03:00Z,control
 2026-11-27T09:04:41Z,ENTRY,7SZVhMDDrijCFqCjZSHgWZYgu6xSrvQy13DUGS3C9vCU,GLITCH / SOL,0,3.5045386999e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-23%,control
 2026-11-27T09:06:19Z,ENTRY,6zj4GrHnkiPagD49dhiHLf9b39VgGzMu3cN3N2A8j7tN,BSC / SOL,0,0.00013506161785,100.0,research_failed,,,513.2,score=0.00 momentum=144%,mom
+2026-11-27T09:07:49Z,ENTRY,7MBnVaRNA2GJezBzwaDSAfLPC6y1rMUWqkWrhjcTvviF,$PILLY / SOL,0,1.87612054189e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-0%,control
+2026-11-27T09:07:49Z,ENTRY,5FfTHseJoKH65SVERV8uGGUB99bxrTGVfNj92qMQ5Xv1,牛蛙 / SOL,0,1.62314343418e-05,100.0,research_failed,,,513.2,score=0.00 momentum=73%,mom
+2026-11-27T09:07:49Z,ENTRY,59j3rtMDQEbM8U7h7RK3oDp6rjQJBETowmbb2yqEXDop,pear / SOL,0,6.1436757487e-05,100.0,research_failed,,,513.2,score=0.00 momentum=356%,mom
+2026-11-27T09:09:27Z,ENTRY,5qxNxeez3zaiWX9PzmkXu1nyebpyZjaQZRzHaWBXpGy6,Snowball / SOL,0,7.54575913794e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=1%,control
+2026-11-27T09:09:27Z,ENTRY,5ES3dSJ3HuAPkaGu5o7xCv7tv4guGZHULK3xDiNMwpBX,GTAVI / SOL,0,1.33849081525e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-0%,control
+2026-11-27T09:10:58Z,EXIT,617YQfEJuUojxLSCE8Zy3F3hSr4gw6wbYnbSHfuHsV9V,Kibo / SOL,0,2.02530404714e-05,100.0,tp,91.65,91.65,513.2,exit_bar=2026-11-27T08:46:00Z,mom
+2026-11-27T09:12:28Z,EXIT,7mSqsdpAqGewJHcQJ185w2Fs8MfYNL7odyR6hdGhp8ow,Rat / SOL,0,1.99650059641e-05,100.0,timeout,-5.48,-5.48,513.2,exit_bar=2026-11-27T09:09:00Z,control
+2026-11-27T09:12:28Z,FAILED,2f1DDnL4o8zs7pCPRF2i45FojnFtPc6Med7Y5c5HdPAY,morning / SOL,0,1.63354415689e-05,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",control
+2026-11-27T09:13:59Z,ENTRY,4XK7i1VAGAjCabbjxTWzHoxSFNs3VJyEbi1ckeJB6sXz,HOPE / SOL,0,3.12549339701e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=3%,control
+2026-11-27T09:13:59Z,ENTRY,DmJub5YPoz4nNaxY6mYt9WfkA7i8Aeg5DkBASdLLVXik,MP4 / SOL,0,1.63174124168e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=8%,control
+2026-11-27T09:15:30Z,ENTRY,4Y8rx74ZaG4cfDgkhAxjM2JG6JwveSxcTfhb16e919iV,SPACEXCOIN / SOL,0,1.09882802617e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T09:15:30Z,ENTRY,BQQYjobLxnSJL8u28BNw3UFiRMMmZgE2eVaeVyUhXx1j,Ringball / SOL,0,2.63324612817e-05,100.0,research_failed,,,513.2,score=0.00 momentum=13%,mom
+2026-11-27T09:15:30Z,ENTRY,3t1wJd66Hc4LLYW814uwqkwNw74h1zrA6G6FLoqAUYQ5,Kibo / SOL,0,3.03985022664e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
