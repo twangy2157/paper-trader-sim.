@@ -19565,3 +19565,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T22:01:59Z,ENTRY,474f1h3frspe3NCeZTNtyK35ExJhPYvxASHqjRzKkFjR,NOVA / hSOL,0,8.35484710417e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-1%,control
 2026-11-27T22:03:30Z,ENTRY,BPS2K5TUtkLaVtPAu2u3D7zaFysVkeECMnqFWu8Qx6gC,BLR / SOL,0,3.66318198368e-05,100.0,research_failed,,,513.2,score=0.00 momentum=345%,mom
 2026-11-27T22:03:30Z,ENTRY,9xeM9HaH5wKTJ3oTFYhtWkkmy44JdXYZZAvTvr9Scg2K,CCAT / hSOL,0,8.27073712721e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-21%,control
+2026-11-27T22:05:14Z,ENTRY,57JPMuqjuUyExrWXV3YQweL7nGE5bX8FHt8hhxCWAGAL,JIMMY / SOL,0,1.80024281324e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T22:06:38Z,ENTRY,5gmrLgmmEQtc3jWALG2UfVAxzP7pRTaYYXKpnio7jkum,JIMMY / SOL,0,2.27133689839e-05,100.0,research_failed,,,513.2,score=0.00 momentum=24%,mom
+2026-11-27T22:08:17Z,EXIT,6cFYfBgo9V2cW4KgRkARaFKuZ2iL94CqhsHjZGmXFHvc,pruple / SOL,0,8.34101267315e-06,100.0,timeout,-11.18,-11.18,513.2,exit_bar=2026-11-27T22:07:00Z,control
+2026-11-27T22:14:21Z,EXIT,9vY1QxDtbCXcTtdaMqSw1tEYjYfEzDMyxAFezngpGA8r,MoonBoy / SOL,0,4.57088742397e-05,100.0,tp,-100.01,-100.01,513.2,exit_bar=2026-11-27T21:53:00Z,mom
