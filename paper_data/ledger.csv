@@ -19239,3 +19239,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T02:30:30Z,ENTRY,2LZArLRKGpP9RJbLg94JVHNJ5c5miPbSzAxnSA2YgBZL,BEERMONEY / SOL,0,8.08576775034e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
 2026-11-27T02:32:08Z,ENTRY,2Hx6mVHRY9EXK2ZJ4e51ESxH9Zq1c3T4Vet631K6bsYE,Thanksgivi / SOL,0,6.87617994067e-05,100.0,research_failed,,,513.2,score=0.00 momentum=15%,mom
 2026-11-27T02:33:32Z,ENTRY,ECV1MugB77vvwYpAkQBgB6jYNnVwiQzD6WDx17ywFXN6,CINU / SOL,0,3.28395856934e-05,100.0,research_failed,,,513.2,score=0.00 momentum=78%,mom
+2026-11-27T02:36:33Z,FAILED,6fiBfNceq65mNbWBMa4NykxeAFXeQZmMP6NVudgW529s,DEXDATA / SOL,0,2.42339583962e-05,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",mom
+2026-11-27T02:38:11Z,ENTRY,H23F2B6ddLgLAd9hfkWBhSk5eUM1UbN4W9dwbcq6esrt,trench / SOL,0,7.47964256689e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T02:39:28Z,EXIT,CmjSXJLDj52X9upj4YUJZRTg6aPLZSRmscxiwhwerScC,DANVENNAS / SOL,0,1.47137338091e-05,100.0,timeout,-7.28,-7.28,513.2,exit_bar=2026-11-27T02:38:00Z,control
+2026-11-27T02:39:28Z,ENTRY,4PCqxuVBiJkmDpcoxyawXPoZoSVWzp2Yhw4iNm8Fx8Ux,XAU / USDT,0,1.02751306582,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T02:40:59Z,ENTRY,5maR4Q92HK9uMu1zw4KXLNDgQ9cpHpAzSoLaPZAEHt8x,Thanksgiving / SOL,0,1.93944483357e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=5%,control
+2026-11-27T02:40:59Z,ENTRY,4Z1UDiY18a78gmXRZ3n4jZ6NThhDKKcUso4kvEButfyM,WORM / SOL,0,2.72887295206e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T02:42:30Z,ENTRY,2JU9B9Pqt8Jfs6PtHYcCevxavRE43GRPqbhB6T4Zox3g,PYM / SOL,0,0.000386148471551,100.0,research_failed,,,513.2,score=0.00 momentum=172%,mom
+2026-11-27T02:45:33Z,ENTRY,94vaKCg9VejsedqwbqUgsYtbEz2EczGVTyhqUVZRjGoj,Datacat / SOL,0,1.3737679431e-05,100.0,research_failed,,,513.2,score=0.00 momentum=96%,mom
