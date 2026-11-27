@@ -19302,3 +19302,11 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T08:40:23Z,ENTRY,eYgtRtpsQQF5FZnpLWhk7KoQC1E1DEvCpTetwZsiHLC,30X / SOL,0,6.75030198677e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
 2026-11-27T08:41:47Z,ENTRY,4GcjAJn5oD4DZbEKY7s3vdJkYPNXBeNeWcB9uZVtCeHf,CHRISTMAS / SOL,0,1.13913023567e-05,100.0,research_failed,,,513.2,score=0.00 momentum=30%,mom
 2026-11-27T08:44:41Z,ENTRY,AZwKJZDrresZ1emR6MtxpCfprYSyNS1dwbtAEBxSpXP3,Kai / SOL,0,6.78858321501e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-1%,control
+2026-11-27T08:46:25Z,ENTRY,5vvPj7DQjUvAy59T7CkyPmc7Xa7spVuXetwNQzn5TkSG,NOTHING / SOL,0,2.97023089546e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T08:47:56Z,ENTRY,5uUFFFvYSYJR1GQHFwXhQ589Vs8Qo5ryzshY5B9NYZds,DOOB / SOL,0,3.37071774529e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T08:47:56Z,ENTRY,GtYds5MyMYrd1eQyqb5mKTKvNTRLHsyrANUUJGizVTV5,CHRISTMAS / SOL,0,2.19524792385e-05,100.0,research_failed,,,513.2,score=0.00 momentum=59%,mom
+2026-11-27T08:49:27Z,ENTRY,FAm3M66bRgbndaofnB7FNSNwqvBVn7bEixCvLp5ru8M4,Greencat / SOL,0,1.79353132305e-05,100.0,research_failed,,,513.2,score=0.00 momentum=18%,mom
+2026-11-27T08:49:27Z,ENTRY,ED8uU92t6NogZ48MSUB9D3HV78QrUSmSBGqWVRSGuTYJ,CN / SOL,0,6.96121543211e-05,100.0,research_failed,,,513.2,score=0.00 momentum=39%,mom
+2026-11-27T08:52:28Z,FAILED,FaoCiXhFQu5Nd1hLVn2Hk56TM6QcyH48NqWWp2kmcusn,OTC / SOL,0,0.000531442743202,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",mom
+2026-11-27T08:53:59Z,ENTRY,B4qeE22GoxwqnFpKo62Lha1SPXqftxMz64ETxfzcxSJX,URSD / USDT,0,1.00816892338,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T08:55:30Z,ENTRY,DLsukZipr79BXuQtW8vtu3MznCSJvxfUxhxEPHQuRPjf,BNB͏ / SOL,0,2.67097974995e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-0%,control
