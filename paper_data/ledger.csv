@@ -19559,3 +19559,9 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T21:49:44Z,ENTRY,EDHTdtTmmULFwu8aaLobU14oJrSYu8Mb9pKrWrbWSs5N,Anthropic / SOL,0,2.15670678299e-05,100.0,research_failed,,,513.2,score=0.00 momentum=40%,mom
 2026-11-27T21:51:23Z,ENTRY,5U7RXZ5vRdQa1ZWPnexDH5oJnajQf8tpy7rJmPAMKJ4i,$AURA / SOL,0,7.69608497384e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
 2026-11-27T21:52:47Z,FAILED,FR27zxs3S5pa2cf7h3mK3QRWVTiLzyHadRPvmuxGLHjW,Rockstar / SOL,0,7.31290895308e-05,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",mom
+2026-11-27T21:55:47Z,ENTRY,HPg94jeVUDxkzoCULT6RB4NUxYauAoMDnk2YKCCbCnG,baboonmayhem / SOL,0,7.42193341395e-05,100.0,research_failed,,,513.2,score=0.00 momentum=47%,mom
+2026-11-27T21:55:47Z,ENTRY,2xKaFDtKRx8EnJZkxFvNmXq3mm1WqNtVZUaWs5NFRzsz,CONCERNING / SOL,0,7.99807841688e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T21:57:26Z,FAILED,E2thakCHLHAGAK1tyaz37SPp76vo564T7Kc7P64vx8yG,BINU / hSOL,0,9.59441451588e-06,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",mom
+2026-11-27T22:01:59Z,ENTRY,474f1h3frspe3NCeZTNtyK35ExJhPYvxASHqjRzKkFjR,NOVA / hSOL,0,8.35484710417e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-1%,control
+2026-11-27T22:03:30Z,ENTRY,BPS2K5TUtkLaVtPAu2u3D7zaFysVkeECMnqFWu8Qx6gC,BLR / SOL,0,3.66318198368e-05,100.0,research_failed,,,513.2,score=0.00 momentum=345%,mom
+2026-11-27T22:03:30Z,ENTRY,9xeM9HaH5wKTJ3oTFYhtWkkmy44JdXYZZAvTvr9Scg2K,CCAT / hSOL,0,8.27073712721e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-21%,control
