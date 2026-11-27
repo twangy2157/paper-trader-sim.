@@ -19143,3 +19143,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T00:04:58Z,ENTRY,Eqnyrn5cNTK5y3teZTstoTZtsWXoQArg4bm34x3CPpCM,FF / SOL,0,5.13597796975e-05,100.0,research_failed,,,513.2,score=0.00 momentum=181%,mom
 2026-11-27T00:06:29Z,EXIT,GwD99fJzfcnKC41KdwEEoE4cVwG5thiVKvJseFPdcZNE,LaMisery / SOL,0,1.08401537145e-05,100.0,timeout,-9.27,-9.27,513.2,exit_bar=2026-11-27T00:04:00Z,control
 2026-11-27T00:06:29Z,ENTRY,7ih7AMS2HsZEXwWW3EH12N2ksAJeMCL3MXsDv8FnseJF,duk / SOL,0,2.88600281343e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-27T00:09:30Z,ENTRY,E7q17XEBCiNeBdx4TqUbAgx9VBxQwmJAiYxwDWZux35t,Axiom / SOL,0,2.53864120092e-05,100.0,research_failed,,,513.2,score=0.00 momentum=32%,mom
+2026-11-27T00:12:32Z,EXIT,33nYbovYs53mG9Eu5y81Kz5Mri2wqs7N8vCAMK8Yke31,Hoppy / SOL,0,5.70571977173e-05,100.0,rug,-100.02,-100.02,513.2,exit_bar=2026-11-27T00:11:00Z,mom
+2026-11-27T00:14:03Z,ENTRY,E1k8GjXqro1X73oaJXxX1GvL5NzKET6sVNMuQHSnZeEn,BASKET / SOL,0,5.09264280634e-05,100.0,research_failed,,,513.2,score=0.00 momentum=42%,mom
+2026-11-27T00:15:27Z,EXIT,2VFGzaJznodDZEbo6MzDkku5x3Kr4cW6PiwJfHzv7rcA,Snowball / SOL,0,2.7364791951e-05,100.0,tp,-100.01,-100.01,513.2,exit_bar=2026-11-26T23:31:00Z,mom
