@@ -19623,3 +19623,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-27T23:58:08Z,ENTRY,GKbx9A5MmESp88bytxgGobp9iVzscMZQFRYkM3BRYqrD,MoonBoy / SOL,0,2.15766136701e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=7%,control
 2026-11-28T00:06:59Z,ENTRY,7rDWnyrWdbgw5znD5fzMNDJFpyvqysrWwWkAJgG9wntJ,CATE / SOL,0,1.09821238038e-05,100.0,research_failed,,,513.2,score=0.00 momentum=67%,mom
 2026-11-28T00:08:31Z,ENTRY,EkK2CRbartr9j2wEdvUtdssCAg5VDyDnm41iub2gdxti,PAIRBALL / SOL,0,1.4683529491e-05,100.0,research_failed,,,513.2,score=0.00 momentum=97%,mom
+2026-11-28T00:13:17Z,EXIT,9fZxfrUNPfS3C3WqV7LyNY36iMitrxsyhVG9x2n1HTWu,BABYCATE / SOL,0,6.19190536657e-06,100.0,timeout,-9.12,-9.12,513.2,exit_bar=2026-11-28T00:11:00Z,control
+2026-11-28T00:16:20Z,ENTRY,DfE2UQ9k9a2ueuX9jAfYwNjkEBf7fU21k1iwHZX5PN9Q,Kibo / SOL,0,7.45726356537e-06,100.0,research_failed,,,513.2,score=0.00 momentum=154%,mom
+2026-11-28T00:19:23Z,ENTRY,4xHHTRK3kpHW7B81J1hNdJ4M1Dj912iQVYmkYfHpUXGw,Anthropic / SOL,0,2.29938558402e-05,100.0,research_failed,,,513.2,score=0.00 momentum=51%,mom
+2026-11-28T00:20:47Z,ENTRY,HaowHiin1q3NHJjwwxhsX6KWPJnk368ku8DizDwz8d1c,SPACEXLIFE / SOL,0,2.23534364362e-05,100.0,research_failed,,,513.2,score=0.00 momentum=50%,mom
+2026-11-28T00:22:19Z,ENTRY,E8zjYMwwybpKuDjHya9hmC5fv8VJiyLbQ1yFHHJJKfNe,CHAROC / SOL,0,8.80441363187e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
