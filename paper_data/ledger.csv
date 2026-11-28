@@ -19834,3 +19834,10 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-28T10:11:39Z,ENTRY,HhHccs3a7CU3aRYhebzL29MVzkzLVBjv1cpmiaTuyynC,COMM / SOL,0,2.23158877098e-05,100.0,research_failed,,,513.2,score=0.00 momentum=45%,mom
 2026-11-28T10:11:39Z,ENTRY,8VKox4YQt1sEcxdBY9vRcxw2bSmWGwv7SFoNMvw4ZDNi,CPU / SOL,0,5.77322247952e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
 2026-11-28T10:13:17Z,EXIT,BAh4dq4TJXFLWk3tCzy7yniTg4yq7t7KBKKHJvWhQpvV,COMM / SOL,0,2.03322890989e-05,100.0,rug,-100.02,-100.02,513.2,exit_bar=2026-11-28T10:12:00Z,mom
+2026-11-28T10:14:38Z,ENTRY,UU9w42ydRVmpsAqoNmNHa8oPDoaJ8x3VPJgLHjzArKC,SMOOTH / SOL,0,1.08468635217e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-68%,control
+2026-11-28T10:14:38Z,ENTRY,2iF4KEjGuU6H3pQ42KYtPjgvf38krjN3TQPcAQBp9Ygt,MoonBoy / SOL,0,4.34843272498e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=7%,control
+2026-11-28T10:16:16Z,EXIT,ESpaN6QWvzx517LxdemdmFRMXEmXQGUkZxzL2Bi9jc2f,BASKET / SOL,0,4.99687589009e-05,100.0,rug,-100.02,-100.02,513.2,exit_bar=2026-11-28T10:15:00Z,control
+2026-11-28T10:17:32Z,FAILED,51hVCNHodJsXvrzR2Mitig93xEeLrDFm9dwbqpZKreK3,VIP / SOL,0,2.11048583458e-05,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",control
+2026-11-28T10:19:03Z,EXIT,HyEka1rCALzW3rdmJPfzn4aorqzwbMAereAiG6ReAe3T,LMAO / SOL,0,1.13849283107e-05,100.0,timeout,-7.24,-7.24,513.2,exit_bar=2026-11-28T10:17:00Z,control
+2026-11-28T10:23:27Z,ENTRY,7PY2JY37pNwwM9jXdYpA68SkPRViZdj7dyjW4RcFeTah,Zhaki / SOL,0,5.19738676143e-05,100.0,research_failed,,,513.2,score=0.00 momentum=59%,mom
+2026-11-28T10:23:27Z,FAILED,ARMqz5KMqEcJV18c8JCjVmWVkBTrrpNLiuAchKwAaRiH,Mojave / SOL,0,3.59290961474e-05,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",control
