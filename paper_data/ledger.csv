@@ -19951,3 +19951,4 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-28T12:57:59Z,EXIT,CG7LMjxL1jVhSK2HFUuWunArCWiX5nSkaMiVsnncyDnf,OKOWARE / SOL,0,2.60951082622e-05,100.0,sl,-33.87,-33.87,512.7,exit_bar=2026-11-28T11:55:00Z,mom
 2026-11-28T12:59:30Z,ENTRY,47f5HzxcAzmTUULHpTFsPhCio2C8uruajVREctgr7zbj,XCAT / SPCX,0,1.03734794808e-05,100.0,control_no_momentum,,,512.7,score=0.00 momentum=-43%,control
 2026-11-28T13:01:08Z,EXIT,49YUjLdUtFc57RVfPDjMbjAex9h7t7HCD2Wq2G7HXyrf,OKOWARE / SOL,0,6.45998587675e-05,100.0,sl,-100.02,-100.02,512.7,exit_bar=2026-11-28T12:00:00Z,mom
+2026-11-28T13:02:37Z,ENTRY,4WVNWupN99GJTZ4mtaR9NxCk39U3zQbPJQsUShL8qSGq,CLOVE / SOL,0,1.70943543249e-05,100.0,control_no_momentum,,,512.7,score=0.00 momentum=0%,control
