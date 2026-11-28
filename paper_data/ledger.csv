@@ -19756,3 +19756,7 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-28T08:22:13Z,FAILED,4ZCZX37wbUHczxKpg2k7hxRSteNdNmeKznN6ivmn5Xgh,ab0ard / SOL,0,2.51589683155e-05,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",mom
 2026-11-28T08:23:37Z,ENTRY,8TdhgcAfc4C7bNeFCmisGA15zo93h4Ypi3Ltuv4jTQyA,Fumo / SOL,0,4.19502446142e-05,100.0,research_failed,,,513.2,score=0.00 momentum=144%,mom
 2026-11-28T08:26:38Z,ENTRY,CqDqshB1bpGadHQYdz7xFTmf7Ft9pBZEk6WKiwd9BR4q,PEPE / SOL,0,6.44519791215e-05,100.0,research_failed,,,513.2,score=0.00 momentum=76%,mom
+2026-11-28T08:28:21Z,ENTRY,8vMwtbYmCFefeq6KQqhn6rP7EXbKu5bfVNeCGMytcxUB,ARTISAN / SOL,0,5.85787068048e-05,100.0,research_failed,,,513.2,score=0.00 momentum=15%,mom
+2026-11-28T08:29:45Z,EXIT,DdEoTneDqfujMXSZUrTVdDGQfFzgQyXLmYPMv91xcRJ3,USD1 / SOL,0,0.000159811497471,100.0,rug,13.88,13.88,513.2,exit_bar=2026-11-28T08:28:00Z,mom
+2026-11-28T08:32:46Z,ENTRY,9Hbm6pJwgF9ggiE9fHPUzXHqffqCHevztktDmN3KfQ6v,GTA / SOL,0,1.09404346813e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
+2026-11-28T08:35:32Z,ENTRY,E3p9k2cdgjPNG9gVu6B7RuMzjdsGF2trhcs5k5FZP1wD,拖鞋小咪 / SOL,0,0.000220934126662,100.0,research_failed,,,513.2,score=0.00 momentum=192%,mom
