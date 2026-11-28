@@ -19704,3 +19704,8 @@ ts,event,pool,name,filter,price,size_usd,reason,pnl_usd,ret_pct,cash_after,note,
 2026-11-28T02:25:30Z,FAILED,89ZMozSKAxDsjAcjqTZWVTt6YVXWFnAPokBBmmGFTWs6,STELLAR / USDC,0,0.126107490994,0,tx_failed,-0.5,,513.2,"buy reverted, tip lost",control
 2026-11-28T02:28:32Z,ENTRY,486AP8y3yHXuLUnKanFWuwYX9pjhuML9yYBQya5Agnbe,KAI / SOL,0,2.69879768605e-05,100.0,control_no_momentum,,,513.2,score=0.00 momentum=-3%,control
 2026-11-28T02:30:04Z,EXIT,3J9rZWv3s3MZKVD1syG71TG3e8pYaJYpNfkceQnVFRBQ,Snowball / SOL,0,8.12812297313e-08,100.0,rug,-100.72,-100.72,513.2,exit_bar=2026-11-28T01:32:00Z,mom
+2026-11-28T02:31:34Z,ENTRY,qbc6XnpKNN4Mhwct9bwwZnayof7weK6WQJ5AzzjJzLA,Liberty / SOL,0,5.42258900996e-05,100.0,research_failed,,,513.2,score=0.00 momentum=233%,mom
+2026-11-28T02:33:12Z,ENTRY,98vFiWGGJ5RqZEBbEr3oV4qW786Nk24DpKbfF9bcNDm6,Maebashi / SOL,0,2.59580890067e-05,100.0,research_failed,,,513.2,score=0.00 momentum=54%,mom
+2026-11-28T02:34:37Z,ENTRY,EJyHGuob3vJsocrRH7vnA9xJhFKYERGDS5hP85eYHrVy,MANDY / SOL,0,5.11192699851e-07,100.0,control_no_momentum,,,513.2,score=0.00 momentum=7%,control
+2026-11-28T02:36:15Z,EXIT,3gcxSPLoFFu3zqGfbaW62ykuQjA7WoawbpivAqMzh5x2,CHOMPHU / SOL,0,5.97353073888e-06,100.0,sl,-46.18,-46.18,513.2,exit_bar=2026-11-28T01:35:00Z,control
+2026-11-28T02:37:39Z,ENTRY,7pGAHEox4NQgp5NRezXoxVe1LtDTCWRhXPqvZsDnou6S,sol / SOL,0,6.94631833293e-06,100.0,control_no_momentum,,,513.2,score=0.00 momentum=0%,control
